@@ -3,9 +3,12 @@ import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
-<header>
+<header class="header-nav">
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<a href="/" class="brand-logo">
+			<span class="logo-mark">PM</span>
+			<span class="logo-text">{SITE_TITLE}</span>
+		</a>
 		<div class="internal-links">
 			<HeaderLink href="/">Accueil</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
@@ -13,38 +16,70 @@ import HeaderLink from './HeaderLink.astro';
 		</div>
 	</nav>
 </header>
+
 <style>
-	header {
-		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
-	}
-	h2 {
-		margin: 0;
-		font-size: 1.2em;
-	}
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
-		color: var(--black);
+	.header-nav {
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		background: rgba(255, 255, 255, 0.88);
+		backdrop-filter: blur(12px);
+		-webkit-backdrop-filter: blur(12px);
+		border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+		padding: 0.6em 1.5em;
 	}
 	nav {
+		max-width: 900px;
+		margin: 0 auto;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		max-width: 960px;
-		margin: 0 auto;
 	}
-	nav a {
-		padding: 1em 0.75em;
-		color: var(--black);
-		border-bottom: 4px solid transparent;
+	.brand-logo {
+		display: flex;
+		align-items: center;
+		gap: 0.6em;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 1.15rem;
+		color: var(--text-main);
+	}
+	.logo-mark {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 34px;
+		height: 34px;
+		border-radius: 8px;
+		background: var(--accent);
+		color: #ffffff;
+		font-size: 0.85rem;
+		font-weight: 800;
+		letter-spacing: -0.05em;
+	}
+	.logo-text {
+		letter-spacing: -0.02em;
+	}
+	.internal-links {
+		display: flex;
+		gap: 0.5em;
+	}
+	.internal-links :global(a) {
+		padding: 0.5em 0.85em;
+		font-size: 0.95rem;
+		font-weight: 500;
+		color: var(--text-muted);
+		border-radius: 8px;
+		transition: all 0.15s ease;
 		text-decoration: none;
 	}
-	nav a.active {
-		text-decoration: none;
-		border-bottom-color: var(--accent);
+	.internal-links :global(a:hover) {
+		color: var(--text-main);
+		background: var(--bg-alt);
+	}
+	.internal-links :global(a.active) {
+		color: var(--accent);
 		font-weight: 600;
+		background: var(--accent-subtle);
 	}
 </style>
