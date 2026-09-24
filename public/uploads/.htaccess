@@ -1,0 +1,6 @@
+# o2s WpTiger Begin - Dont edit - Ne pas modifier - phpInUploadsDir
+ErrorDocument 403 "403 - Execution de PHP interdit dans le repertoire d'upload"
+<Files *.php>
+    Deny from all
+</Files>
+# o2s WpTiger End - Dont edit - Ne pas modifier - phpInUploadsDir
