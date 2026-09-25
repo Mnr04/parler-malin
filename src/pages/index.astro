@@ -7,332 +7,248 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const PAGES_EXCLUES = [
-	'home',
-	'a-propos',
-	'conditions-generales-dutilisation',
-	'mentions-legales',
-	'plan-du-site',
-	'politique-de-confidentialite-rgpd',
-	'politique-de-cookies-ue',
+    'home',
+    'a-propos',
+    'conditions-generales-dutilisation',
+    'mentions-legales',
+    'plan-du-site',
+    'politique-de-confidentialite-rgpd',
+    'politique-de-cookies-ue',
 ];
 
 const posts = (await getCollection('blog'))
-	.filter((post) => !PAGES_EXCLUES.includes(post.id))
-	.sort((a, b) => {
-		const dateA = new Date(a.data.pubDate || a.data.date || 0).valueOf();
-		const dateB = new Date(b.data.pubDate || b.data.date || 0).valueOf();
-		return dateB - dateA;
-	})
-	.slice(0, 3);
+    .filter((post) => !PAGES_EXCLUES.includes(post.id))
+    .sort((a, b) => {
+        const dateA = new Date(a.data.pubDate || a.data.date || 0).valueOf();
+        const dateB = new Date(b.data.pubDate || b.data.date || 0).valueOf();
+        return dateB - dateA;
+    })
+    .slice(0, 3);
 
 const etapes = [
-	{
-		num: '01',
-		title: 'Estimer son niveau',
-		desc: "Les prompts à copier-coller pour transformer ChatGPT en test interactif (QCM, compréhension et oral) afin d'évaluer votre niveau réel.",
-		link: '/test-niveau-anglais-chatgpt/',
-	},
-	{
-		num: '02',
-		title: 'Créer un plan d’étude',
-		desc: "Le prompt exact pour structurer votre apprentissage et générer un planning sur mesure avec l'IA.",
-		link: '/routine-anglais-chatgpt/',
-	},
-	{
-		num: '03',
-		title: 'Vocabulaire & Grammaire',
-		desc: "Générez des exercices de vocabulaire et de grammaire contextualisés selon vos centres d'intérêt.",
-		link: '/apprendre-vocabulaire-anglais-chatgpt/',
-	},
-	{
-		num: '04',
-		title: 'Corriger sa prononciation',
-		desc: "Découvrez les coachs vocaux IA capables d'analyser et corriger votre accent en temps réel.",
-		link: '/ia-prononciation-anglais/',
-	},
-	{
-		num: '05',
-		title: 'Converser en vocal',
-		desc: "Mises en situation et roleplay guidés pour dialoguer à l'oral avec une IA bienveillante.",
-		link: '/reussir-conversation-en-anglais-avec-ia/',
-	},
-	{
-		num: '06',
-		title: 'Valider dans le monde réel',
-		desc: "Surmonter l'anxiété de prise de parole et passer de l'entraînement IA aux échanges natifs.",
-		link: '/pratiquer-anglais-natifs/',
-	},
+    {
+        num: '01',
+        title: 'Estimer son niveau',
+        desc: "Les prompts à copier-coller pour transformer ChatGPT en test interactif (QCM, compréhension et oral) afin d'évaluer votre niveau réel.",
+        link: '/test-niveau-anglais-chatgpt/',
+    },
+    {
+        num: '02',
+        title: 'Créer un plan d’étude',
+        desc: "Le prompt exact pour structurer votre apprentissage et générer un planning sur mesure avec l'IA.",
+        link: '/routine-anglais-chatgpt/',
+    },
+    {
+        num: '03',
+        title: 'Vocabulaire & Grammaire',
+        desc: "Générez des exercices de vocabulaire et de grammaire contextualisés selon vos centres d'intérêt.",
+        link: '/apprendre-vocabulaire-anglais-chatgpt/',
+    },
+    {
+        num: '04',
+        title: 'Corriger sa prononciation',
+        desc: "Découvrez les coachs vocaux IA capables d'analyser et corriger votre accent en temps réel.",
+        link: '/ia-prononciation-anglais/',
+    },
+    {
+        num: '05',
+        title: 'Converser en vocal',
+        desc: "Mises en situation et roleplay guidés pour dialoguer à l'oral avec une IA bienveillante.",
+        link: '/reussir-conversation-en-anglais-avec-ia/',
+    },
+    {
+        num: '06',
+        title: 'Valider dans le monde réel',
+        desc: "Surmonter l'anxiété de prise de parole et passer de l'entraînement IA aux échanges natifs.",
+        link: '/pratiquer-anglais-natifs/',
+    },
 ];
 ---
 
 <!doctype html>
-<html lang="fr">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<style>
-			main {
-				max-width: 860px;
-				margin: auto;
-				padding: 2.5rem 1.5rem 5rem;
-			}
+<html lang="fr" class="scroll-smooth">
+    <head>
+        <BaseHead title={`Apprendre l'Anglais avec l'IA | ${SITE_TITLE}`} description="La méthode anti-scolaire pour parler anglais couramment. Découvrez les meilleurs prompts, outils IA et applications pour pratiquer au quotidien." />
+        
+        <!-- Script JSON-LD pour la FAQ (SEO/GEO) -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [{
+            "@type": "Question",
+            "name": "Peut-on vraiment apprendre l'anglais seul avec ChatGPT ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. ChatGPT agit comme un tuteur particulier disponible 24h/24. Il peut générer des exercices sur-mesure, simuler des conversations et corriger vos erreurs instantanément."
+            }
+          }, {
+            "@type": "Question",
+            "name": "L'IA peut-elle corriger mon accent en anglais ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Absolument. De nouvelles applications basées sur l'IA analysent votre fréquence vocale et vous indiquent exactement où placer votre langue ou vos lèvres pour améliorer votre prononciation."
+            }
+          }, {
+            "@type": "Question",
+            "name": "Est-ce mieux qu'un professeur particulier d'anglais ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "C'est complémentaire. L'IA lève la barrière de la timidité et coûte infiniment moins cher, ce qui permet de pratiquer tous les jours. C'est l'outil parfait pour se débloquer avant de parler avec des natifs."
+            }
+          }]
+        }
+        </script>
 
-			/* Hero */
-			.hero {
-				text-align: center;
-				padding: 3.5rem 0 3rem;
-			}
-			.badge {
-				display: inline-flex;
-				align-items: center;
-				padding: 0.35rem 0.9rem;
-				border-radius: 9999px;
-				background-color: var(--accent-subtle);
-				color: var(--accent);
-				font-size: 0.85rem;
-				font-weight: 600;
-				margin-bottom: 1.5rem;
-				border: 1px solid var(--accent-border);
-			}
-			.hero h1 {
-				font-size: clamp(2.2rem, 5vw, 3.2rem);
-				line-height: 1.15;
-				margin-bottom: 1rem;
-				color: var(--text-main);
-			}
-			.hero p {
-				font-size: 1.2rem;
-				color: var(--text-muted);
-				max-width: 620px;
-				margin: 0 auto 2.2rem;
-				line-height: 1.6;
-			}
-			.btn-cta {
-				display: inline-flex;
-				align-items: center;
-				gap: 0.5rem;
-				background: var(--accent);
-				color: #fff;
-				padding: 0.85rem 1.8rem;
-				border-radius: 10px;
-				font-weight: 600;
-				font-size: 1rem;
-				text-decoration: none;
-				box-shadow: 0 4px 14px 0 rgba(37, 99, 235, 0.35);
-				transition: all 0.2s ease;
-			}
-			.btn-cta:hover {
-				background: var(--accent-hover);
-				transform: translateY(-1px);
-				box-shadow: 0 6px 20px 0 rgba(37, 99, 235, 0.45);
-				color: #fff;
-			}
+        <style>
+            :root {
+                --bg-main: #f8fafc;
+                --text-main: #0f172a;
+                --text-muted: #475569;
+                --accent: #2563eb;
+                --accent-hover: #1d4ed8;
+            }
+            body { background: var(--bg-main); color: var(--text-main); font-family: system-ui, sans-serif; margin: 0; }
+            main { max-width: 1000px; margin: auto; padding: 2.5rem 1.5rem 5rem; }
+            
+            /* Typography & Layout */
+            h2 { font-size: 2rem; color: var(--text-main); font-weight: 800; margin-bottom: 0.5rem; }
+            .subtitle { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2.5rem; }
+            
+            /* Hero Section */
+            .hero { text-align: center; padding: 5rem 0 4rem; }
+            .hero h1 { font-size: clamp(2.5rem, 5vw, 4rem); font-weight: 900; line-height: 1.1; margin-bottom: 1.5rem; color: #1e293b; }
+            .hero h1 span { color: var(--accent); }
+            .hero p { font-size: 1.25rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 2.5rem; line-height: 1.6; }
+            .hero-ctas { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+            .btn-primary { background: var(--accent); color: white; padding: 1rem 2rem; border-radius: 99px; font-weight: bold; text-decoration: none; transition: 0.2s; box-shadow: 0 10px 15px -3px rgba(37,99,235,0.3); }
+            .btn-primary:hover { transform: translateY(-2px); background: var(--accent-hover); }
+            .btn-secondary { background: white; color: var(--text-main); border: 2px solid #e2e8f0; padding: 1rem 2rem; border-radius: 99px; font-weight: bold; text-decoration: none; transition: 0.2s; }
+            .btn-secondary:hover { border-color: var(--text-muted); }
 
-			/* Section Guide */
-			.section-header {
-				text-align: center;
-				margin: 4.5rem 0 2.5rem;
-			}
-			.section-header h2 {
-				margin: 0 0 0.5rem;
-			}
-			.section-header p {
-				color: var(--text-muted);
-				margin: 0;
-			}
-			.steps-grid {
-				display: grid;
-				grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-				gap: 1.25rem;
-			}
-			.step-card {
-				background: #ffffff;
-				border: 1px solid var(--border-color);
-				border-radius: 12px;
-				padding: 1.5rem;
-				display: flex;
-				flex-direction: column;
-				justify-content: space-between;
-				transition: all 0.2s ease;
-				box-shadow: var(--shadow-sm);
-			}
-			.step-card:hover {
-				border-color: #cbd5e1;
-				transform: translateY(-2px);
-				box-shadow: var(--shadow-md);
-			}
-			.step-num {
-				font-size: 0.8rem;
-				font-weight: 700;
-				color: var(--accent);
-				background: var(--accent-subtle);
-				padding: 0.2rem 0.6rem;
-				border-radius: 6px;
-				display: inline-block;
-				margin-bottom: 0.75rem;
-			}
-			.step-card h3 {
-				margin: 0 0 0.6rem;
-				font-size: 1.2rem;
-				color: var(--text-main);
-			}
-			.step-card p {
-				font-size: 0.92rem;
-				color: var(--text-muted);
-				line-height: 1.55;
-				margin: 0 0 1.25rem;
-			}
-			.step-link {
-				font-size: 0.9rem;
-				font-weight: 600;
-				color: var(--accent);
-				text-decoration: none;
-				display: inline-flex;
-				align-items: center;
-				gap: 0.3rem;
-			}
-			.step-link:hover {
-				color: var(--accent-hover);
-				gap: 0.5rem;
-			}
+            /* CRO Tools Block */
+            .cro-tools { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; padding: 2rem; text-align: center; margin: 0 auto 4rem; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
+            .cro-tools p { font-weight: 700; color: var(--text-muted); margin-bottom: 1.5rem; font-size: 1.1rem; }
+            .tools-grid { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; }
+            .tool-card { display: flex; align-items: center; gap: 0.75rem; padding: 0.75rem 1.5rem; background: #f1f5f9; border-radius: 0.75rem; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid transparent; transition: 0.2s; }
+            .tool-card:hover { border-color: var(--accent); background: #eff6ff; }
 
-			/* Citation Auteur */
-			.quote-wrapper {
-				margin: 4.5rem 0;
-				background: var(--bg-alt);
-				border: 1px solid var(--border-color);
-				border-radius: 16px;
-				padding: 2rem 2.2rem;
-				position: relative;
-			}
-			.quote-text {
-				font-size: 1.05rem;
-				line-height: 1.7;
-				color: #334155;
-				font-style: italic;
-				margin: 0 0 1.2rem;
-			}
-			.author-meta {
-				display: flex;
-				align-items: center;
-				gap: 0.75rem;
-			}
-			.author-name {
-				font-weight: 700;
-				font-size: 0.95rem;
-				color: var(--text-main);
-			}
-			.author-title {
-				font-size: 0.85rem;
-				color: var(--text-muted);
-			}
+            /* Steps Grid */
+            .steps-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 5rem; }
+            .step-card { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; padding: 2rem; transition: 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+            .step-card:hover { border-color: var(--accent); transform: translateY(-3px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+            .step-num { font-size: 0.85rem; font-weight: 800; color: var(--accent); background: #eff6ff; padding: 0.25rem 0.75rem; border-radius: 99px; display: inline-block; margin-bottom: 1rem; }
+            .step-card h3 { margin: 0 0 0.75rem; font-size: 1.25rem; font-weight: 700; }
+            .step-card p { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.6; }
+            .step-link { font-weight: 700; color: var(--accent); text-decoration: none; display: flex; align-items: center; gap: 0.5rem; }
+            .step-link:hover { text-decoration: underline; }
 
-			/* Liste articles récents */
-			.recent-posts {
-				list-style: none;
-				padding: 0;
-				margin: 1.5rem 0 0;
-				display: flex;
-				flex-direction: column;
-				gap: 0.85rem;
-			}
-			.post-card-link {
-				display: flex;
-				justify-content: space-between;
-				align-items: center;
-				padding: 1.2rem 1.4rem;
-				background: #ffffff;
-				border: 1px solid var(--border-color);
-				border-radius: 10px;
-				text-decoration: none;
-				transition: all 0.2s ease;
-			}
-			.post-card-link:hover {
-				border-color: var(--accent);
-				background: var(--bg-alt);
-				transform: translateX(3px);
-			}
-			.post-card-title {
-				font-weight: 600;
-				font-size: 1.02rem;
-				color: var(--text-main);
-			}
-			.post-card-date {
-				font-size: 0.85rem;
-				color: var(--text-light);
-				white-space: nowrap;
-				margin-left: 1.5rem;
-			}
-		</style>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<section class="hero">
-				<h1>Comment améliorer son anglais avec l'IA&nbsp;?</h1>
-				<p>
-					Utilisez l'Intelligence Artificielle pour pratiquer au quotidien, briser votre plafond de verre et progresser en toute autonomie.
-				</p>
-				<a href="#guide" class="btn-cta">
-					Découvrir le guide
-					<span>&darr;</span>
-				</a>
-			</section>
+            /* EEAT Section */
+            .eeat-section { background: #1e293b; border-radius: 1.5rem; padding: 3rem; color: white; display: flex; gap: 2rem; align-items: center; margin-bottom: 5rem; flex-wrap: wrap; }
+            .eeat-avatar { width: 120px; height: 120px; border-radius: 50%; background: #334155; border: 4px solid #475569; flex-shrink: 0; }
+            .eeat-content { flex: 1; min-width: 300px; }
+            .eeat-content blockquote { font-size: 1.2rem; font-style: italic; line-height: 1.6; margin: 0 0 1rem; color: #f8fafc; }
+            .eeat-content p { font-weight: 700; color: #94a3b8; margin: 0; font-size: 1rem; }
 
-			<section id="guide">
-				<div class="section-header">
-					<h2>Progresser avec l'IA : La méthode</h2>
-					<p>Un parcours concret en six étapes pour passer de la théorie à l'oral.</p>
-				</div>
-				<div class="steps-grid">
-					{
-						etapes.map((etape) => (
-							<div class="step-card">
-								<div>
-									<span class="step-num">{etape.num}</span>
-									<h3>{etape.title}</h3>
-									<p>{etape.desc}</p>
-								</div>
-								<a href={etape.link} class="step-link">Consulter le tutoriel &rarr;</a>
-							</div>
-						))
-					}
-				</div>
-			</section>
+            /* Blog Section */
+            .blog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+            .post-card { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; overflow: hidden; text-decoration: none; color: inherit; transition: 0.2s; display: flex; flex-direction: column; }
+            .post-card:hover { border-color: var(--accent); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+            .post-image { height: 160px; background: #e2e8f0; width: 100%; object-fit: cover; }
+            .post-content { padding: 1.5rem; flex-grow: 1; display: flex; flex-direction: column; }
+            .post-title { font-weight: 700; font-size: 1.1rem; margin: 0 0 0.5rem; }
+            .post-date { font-size: 0.85rem; color: var(--text-muted); margin-top: auto; }
+        </style>
+    </head>
+    <body>
+        <Header />
+        <main>
+            <!-- 1. HERO HEADER (SEO/CRO) -->
+            <section class="hero">
+                <h1>Apprendre l'Anglais avec l'IA :<br><span>La méthode pour (enfin) parler</span></h1>
+                <p>
+                    Oubliez les listes de verbes irréguliers. Découvrez comment utiliser l'Intelligence Artificielle pour pratiquer l'oral au quotidien, briser votre plafond de verre et progresser en toute autonomie.
+                </p>
+                <div class="hero-ctas">
+                    <a href="#guide" class="btn-primary">Découvrir la méthode</a>
+                    <a href="#outils" class="btn-secondary">Voir ma stack d'outils</a>
+                </div>
+            </section>
 
-			<section class="quote-wrapper">
-				<p class="quote-text">
-					« Je ne suis pas professeur d'anglais. Je suis un apprenant qui explore le potentiel de l'IA pour débloquer la pratique orale. Ce site est mon carnet de bord. Je teste les outils, j'éprouve les méthodes, et je vous partage ici la structure exacte qui me permet d'avancer. »
-				</p>
-				<div class="author-meta">
-					<div>
-						<div class="author-name">Jean</div>
-						<div class="author-title">Co-créateur de Parler Malin</div>
-					</div>
-				</div>
-			</section>
+            <!-- 2. BLOC OUTIL -->
+			<section id="outils" class="cro-tools scroll-smooth">
+    			<p>🚀 Les 2 outils indispensables que j'utilise au quotidien :</p>
+    			<div class="tools-grid">
+        			<a href="/outils/loora/" class="tool-card">
+            	<span>📱 Loora (Coach Vocal IA)</span>
+        			</a>
+        			<a href="/outils/chatgpt/" class="tool-card">
+            			<span>🤖 ChatGPT (Tuteur sur-mesure)</span>
+        				</a>
+    					</div>
+				</section>
 
-			<section>
-				<div class="section-header" style="text-align: left; margin-bottom: 1.2rem;">
-					<h2>Derniers Articles</h2>
-				</div>
-				<ul class="recent-posts">
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/${post.id}/`} class="post-card-link">
-									<span class="post-card-title">{post.data.title}</span>
-									<span class="post-card-date">
-										{(post.data.pubDate || post.data.date) && (
-											<FormattedDate date={post.data.pubDate || post.data.date} />
-										)}
-									</span>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-		</main>
-		<Footer />
-	</body>
+            <!-- 3. LA ROADMAP -->
+            <section id="guide" class="scroll-smooth">
+                <div style="text-align: center; margin-bottom: 3rem;">
+                    <h2>La méthode étape par étape</h2>
+                    <p class="subtitle">Un parcours concret pour passer de la théorie scolaire à la pratique orale.</p>
+                </div>
+                <div class="steps-grid">
+                    {
+                        etapes.map((etape) => (
+                            <div class="step-card">
+                                <span class="step-num">Étape {etape.num}</span>
+                                <h3>{etape.title}</h3>
+                                <p>{etape.desc}</p>
+                                <a href={etape.link} class="step-link">Voir le tutoriel &rarr;</a>
+                            </div>
+                        ))
+                    }
+                </div>
+            </section>
+
+            <!-- 4. E-E-A-T (L'AUTORITÉ ET LA CONFIANCE) -->
+            <section class="eeat-section">
+                <!-- Remplacer le src par ton image de profil ou avatar -->
+                <div class="eeat-content">
+                    <blockquote>
+                        « Voici la structure exacte qui m'a permis de passer d'un anglais scolaire rouillé à des conversations fluides en 6 mois. Je teste les IA, j'éprouve les méthodes, et je vous partage ici ce qui fonctionne vraiment. »
+                    </blockquote>
+                    <p>— Jean, Co-créateur de Parler Malin</p>
+                </div>
+            </section>
+
+            <!-- 5. ARTICLES (RETENTION VISUELLE) -->
+            <section>
+                <h2>Le Carnet de Bord</h2>
+                <p class="subtitle">Derniers tests, prompts et stratégies d'apprentissage.</p>
+                
+                <div class="blog-grid">
+                    {
+                        posts.map((post) => (
+                            <a href={`/${post.id}/`} class="post-card">
+                                {post.data.heroImage && (
+                                    <img 
+                                        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any).src}
+                                        alt="" 
+                                        class="post-image" 
+                                    />
+                                )}
+                                <div class="post-content">
+                                    <h3 class="post-title">{post.data.title}</h3>
+                                    <span class="post-date">
+                                        {(post.data.pubDate || post.data.date) && (
+                                            <FormattedDate date={post.data.pubDate || post.data.date} />
+                                        )}
+                                    </span>
+                                </div>
+                            </a>
+                        ))
+                    }
+                </div>
+            </section>
+        </main>
+        <Footer />
+    </body>
 </html>
