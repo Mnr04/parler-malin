@@ -28,36 +28,42 @@ const posts = (await getCollection('blog'))
 const etapes = [
     {
         num: '01',
+        tag: 'DIAGNOSTIC',
         title: 'Estimer son niveau',
-        desc: "Les prompts à copier-coller pour transformer ChatGPT en test interactif (QCM, compréhension et oral) afin d'évaluer votre niveau réel.",
+        desc: "Les prompts à copier-coller pour transformer ChatGPT en test interactif (QCM, compréhension et oral) afin d'évaluer votre niveau.",
         link: '/test-niveau-anglais-chatgpt/',
     },
     {
         num: '02',
+        tag: 'CADRAGE',
         title: 'Créer un plan d’étude',
         desc: "Le prompt exact pour structurer votre apprentissage et générer un planning sur mesure avec l'IA.",
         link: '/routine-anglais-chatgpt/',
     },
     {
         num: '03',
+        tag: 'FONDATIONS',
         title: 'Vocabulaire & Grammaire',
         desc: "Générez des exercices de vocabulaire et de grammaire contextualisés selon vos centres d'intérêt.",
         link: '/apprendre-vocabulaire-anglais-chatgpt/',
     },
     {
         num: '04',
+        tag: 'TECHNIQUE',
         title: 'Corriger sa prononciation',
         desc: "Découvrez les coachs vocaux IA capables d'analyser et corriger votre accent en temps réel.",
         link: '/ia-prononciation-anglais/',
     },
     {
         num: '05',
+        tag: 'PRATIQUE',
         title: 'Converser en vocal',
         desc: "Mises en situation et roleplay guidés pour dialoguer à l'oral avec une IA bienveillante.",
         link: '/reussir-conversation-en-anglais-avec-ia/',
     },
     {
         num: '06',
+        tag: 'APPLICATION',
         title: 'Valider dans le monde réel',
         desc: "Surmonter l'anxiété de prise de parole et passer de l'entraînement IA aux échanges natifs.",
         link: '/pratiquer-anglais-natifs/',
@@ -102,127 +108,595 @@ const etapes = [
 
         <style>
             :root {
-                --bg-main: #f8fafc;
+                --bg: #f8fafc;
+                --surface: #ffffff;
+                --surface-subtle: #f1f5f9;
+                --border: #e2e8f0;
+                --border-strong: #cbd5e1;
                 --text-main: #0f172a;
                 --text-muted: #475569;
-                --accent: #2563eb;
-                --accent-hover: #1d4ed8;
+                --text-faint: #64748b;
+                
+                /* Accents couleurs */
+                --primary: #4f46e5;
+                --primary-hover: #4338ca;
+                --primary-subtle: #eef2ff;
+                --primary-border: #c7d2fe;
+                
+                --radius-lg: 16px;
+                --radius-md: 10px;
+                --radius-sm: 6px;
             }
-            body { background: var(--bg-main); color: var(--text-main); font-family: system-ui, sans-serif; margin: 0; }
-            main { max-width: 1000px; margin: auto; padding: 2.5rem 1.5rem 5rem; }
-            
-            /* Typography & Layout */
-            h2 { font-size: 2rem; color: var(--text-main); font-weight: 800; margin-bottom: 0.5rem; }
-            .subtitle { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2.5rem; }
-            
-            /* Hero Section */
-            .hero { text-align: center; padding: 5rem 0 4rem; }
-            .hero h1 { font-size: clamp(2.5rem, 5vw, 4rem); font-weight: 900; line-height: 1.1; margin-bottom: 1.5rem; color: #1e293b; }
-            .hero h1 span { color: var(--accent); }
-            .hero p { font-size: 1.25rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 2.5rem; line-height: 1.6; }
-            .hero-ctas { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
-            .btn-primary { background: var(--accent); color: white; padding: 1rem 2rem; border-radius: 99px; font-weight: bold; text-decoration: none; transition: 0.2s; box-shadow: 0 10px 15px -3px rgba(37,99,235,0.3); }
-            .btn-primary:hover { transform: translateY(-2px); background: var(--accent-hover); }
-            .btn-secondary { background: white; color: var(--text-main); border: 2px solid #e2e8f0; padding: 1rem 2rem; border-radius: 99px; font-weight: bold; text-decoration: none; transition: 0.2s; }
-            .btn-secondary:hover { border-color: var(--text-muted); }
 
-            /* CRO Tools Block */
-            .cro-tools { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; padding: 2rem; text-align: center; margin: 0 auto 4rem; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
-            .cro-tools p { font-weight: 700; color: var(--text-muted); margin-bottom: 1.5rem; font-size: 1.1rem; }
-            .tools-grid { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; }
-            .tool-card { display: flex; align-items: center; gap: 0.75rem; padding: 0.75rem 1.5rem; background: #f1f5f9; border-radius: 0.75rem; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid transparent; transition: 0.2s; }
-            .tool-card:hover { border-color: var(--accent); background: #eff6ff; }
+            body {
+                background-color: var(--bg);
+                background-image: radial-gradient(rgba(79, 70, 229, 0.06) 1px, transparent 1px);
+                background-size: 24px 24px;
+                color: var(--text-main);
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+                margin: 0;
+                -webkit-font-smoothing: antialiased;
+            }
 
-            /* Steps Grid */
-            .steps-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 5rem; }
-            .step-card { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; padding: 2rem; transition: 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
-            .step-card:hover { border-color: var(--accent); transform: translateY(-3px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
-            .step-num { font-size: 0.85rem; font-weight: 800; color: var(--accent); background: #eff6ff; padding: 0.25rem 0.75rem; border-radius: 99px; display: inline-block; margin-bottom: 1rem; }
-            .step-card h3 { margin: 0 0 0.75rem; font-size: 1.25rem; font-weight: 700; }
-            .step-card p { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.6; }
-            .step-link { font-weight: 700; color: var(--accent); text-decoration: none; display: flex; align-items: center; gap: 0.5rem; }
-            .step-link:hover { text-decoration: underline; }
+            main {
+                max-width: 1060px;
+                margin: auto;
+                padding: 2.5rem 1.5rem 6rem;
+            }
 
-            /* EEAT Section */
-            .eeat-section { background: #1e293b; border-radius: 1.5rem; padding: 3rem; color: white; display: flex; gap: 2rem; align-items: center; margin-bottom: 5rem; flex-wrap: wrap; }
-            .eeat-avatar { width: 120px; height: 120px; border-radius: 50%; background: #334155; border: 4px solid #475569; flex-shrink: 0; }
-            .eeat-content { flex: 1; min-width: 300px; }
-            .eeat-content blockquote { font-size: 1.2rem; font-style: italic; line-height: 1.6; margin: 0 0 1rem; color: #f8fafc; }
-            .eeat-content p { font-weight: 700; color: #94a3b8; margin: 0; font-size: 1rem; }
+            /* --- Tags techniques --- */
+            .section-tag {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.45rem;
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.72rem;
+                font-weight: 700;
+                letter-spacing: 0.12em;
+                text-transform: uppercase;
+                color: var(--primary);
+                background: var(--primary-subtle);
+                border: 1px solid var(--primary-border);
+                padding: 0.3rem 0.75rem;
+                border-radius: var(--radius-sm);
+                margin-bottom: 0.85rem;
+            }
 
-            /* Blog Section */
-            .blog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
-            .post-card { background: white; border: 1px solid #e2e8f0; border-radius: 1rem; overflow: hidden; text-decoration: none; color: inherit; transition: 0.2s; display: flex; flex-direction: column; }
-            .post-card:hover { border-color: var(--accent); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
-            .post-image { height: 160px; background: #e2e8f0; width: 100%; object-fit: cover; }
-            .post-content { padding: 1.5rem; flex-grow: 1; display: flex; flex-direction: column; }
-            .post-title { font-weight: 700; font-size: 1.1rem; margin: 0 0 0.5rem; }
-            .post-date { font-size: 0.85rem; color: var(--text-muted); margin-top: auto; }
+            .section-tag .dot {
+                width: 7px;
+                height: 7px;
+                border-radius: 50%;
+                background: #10b981;
+                box-shadow: 0 0 8px rgba(16, 185, 129, 0.6);
+            }
+
+            h2 {
+                font-size: 1.85rem;
+                font-weight: 800;
+                letter-spacing: -0.03em;
+                color: var(--text-main);
+                margin: 0 0 0.4rem;
+            }
+
+            .subtitle {
+                font-size: 1rem;
+                color: var(--text-muted);
+                margin: 0 0 2.5rem;
+            }
+
+            /* --- Hero Section --- */
+            .hero {
+                text-align: center;
+                padding: 5rem 1rem 3.5rem;
+                max-width: 840px;
+                margin: 0 auto;
+            }
+
+            .hero h1 {
+                font-size: clamp(2.3rem, 5vw, 3.8rem);
+                font-weight: 900;
+                line-height: 1.1;
+                letter-spacing: -0.04em;
+                margin: 1.25rem 0;
+                color: var(--text-main);
+            }
+
+            .hero h1 .highlight {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #06b6d4 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+
+            .hero p {
+                font-size: 1.15rem;
+                color: var(--text-muted);
+                line-height: 1.65;
+                margin: 0 auto 2.25rem;
+                max-width: 640px;
+            }
+
+            .hero-ctas {
+                display: flex;
+                gap: 0.85rem;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+
+            .btn-primary {
+                background: linear-gradient(135deg, #4f46e5, #4338ca);
+                color: #fff;
+                padding: 0.9rem 1.85rem;
+                border-radius: 999px;
+                font-size: 0.95rem;
+                font-weight: 600;
+                text-decoration: none;
+                transition: transform 0.15s ease, box-shadow 0.15s ease;
+                box-shadow: 0 4px 14px rgba(79, 70, 229, 0.35);
+            }
+
+            .btn-primary:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 6px 20px rgba(79, 70, 229, 0.45);
+            }
+
+            .btn-secondary {
+                background: var(--surface);
+                color: var(--text-main);
+                border: 1px solid var(--border-strong);
+                padding: 0.9rem 1.85rem;
+                border-radius: 999px;
+                font-size: 0.95rem;
+                font-weight: 600;
+                text-decoration: none;
+                transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+            }
+
+            .btn-secondary:hover {
+                background: var(--primary-subtle);
+                border-color: var(--primary);
+                color: var(--primary);
+            }
+
+            /* --- Bloc Outils --- */
+            .stack-wrapper {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                padding: 1.25rem 1.75rem;
+                margin: 0 auto 5rem;
+                max-width: 780px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 1.5rem;
+                flex-wrap: wrap;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+            }
+
+            .stack-info {
+                font-size: 0.92rem;
+                font-weight: 700;
+                color: var(--text-main);
+            }
+
+            .stack-pills {
+                display: flex;
+                gap: 0.75rem;
+                flex-wrap: wrap;
+            }
+
+            .stack-card {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.65rem;
+                background: #ffffff;
+                border: 1px solid var(--border);
+                border-radius: var(--radius-sm);
+                padding: 0.55rem 0.95rem;
+                font-size: 0.88rem;
+                font-weight: 700;
+                color: var(--text-main);
+                text-decoration: none;
+                transition: all 0.15s ease;
+            }
+
+            .stack-card:hover {
+                border-color: var(--primary);
+                background: var(--primary-subtle);
+                transform: translateY(-2px);
+            }
+
+            .badge-loora {
+                font-size: 0.68rem;
+                font-weight: 700;
+                letter-spacing: 0.05em;
+                text-transform: uppercase;
+                color: #7c3aed;
+                background: #f5f3ff;
+                border: 1px solid #ddd6fe;
+                padding: 0.15rem 0.45rem;
+                border-radius: 4px;
+            }
+
+            .badge-chatgpt {
+                font-size: 0.68rem;
+                font-weight: 700;
+                letter-spacing: 0.05em;
+                text-transform: uppercase;
+                color: #059669;
+                background: #ecfdf5;
+                border: 1px solid #a7f3d0;
+                padding: 0.15rem 0.45rem;
+                border-radius: 4px;
+            }
+
+            /* --- Grille Roadmap --- */
+            .roadmap-section {
+                margin-bottom: 5.5rem;
+            }
+
+            .steps-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+                gap: 1.25rem;
+            }
+
+            .step-card {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                padding: 1.75rem;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                position: relative;
+                transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+            }
+
+            .step-card:hover {
+                border-color: var(--primary-border);
+                transform: translateY(-3px);
+                box-shadow: 0 12px 28px rgba(79, 70, 229, 0.06);
+            }
+
+            .step-meta {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 1rem;
+            }
+
+            .step-num {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.85rem;
+                font-weight: 800;
+                color: var(--primary);
+            }
+
+            .step-tag {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.68rem;
+                font-weight: 700;
+                letter-spacing: 0.08em;
+                color: #6366f1;
+                background: #eef2ff;
+                border: 1px solid #e0e7ff;
+                padding: 0.2rem 0.5rem;
+                border-radius: 4px;
+            }
+
+            .step-card h3 {
+                font-size: 1.2rem;
+                font-weight: 700;
+                letter-spacing: -0.02em;
+                margin: 0 0 0.65rem;
+                color: var(--text-main);
+            }
+
+            .step-card p {
+                font-size: 0.92rem;
+                color: var(--text-muted);
+                line-height: 1.6;
+                margin: 0 0 1.5rem;
+            }
+
+            .step-link {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.35rem;
+                font-size: 0.88rem;
+                font-weight: 700;
+                color: var(--primary);
+                text-decoration: none;
+                margin-top: auto;
+            }
+
+            .step-link:hover {
+                text-decoration: underline;
+                text-underline-offset: 3px;
+            }
+
+            /* --- Carnet E-E-A-T --- */
+            .logbook-card {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                padding: 2.25rem 2.5rem;
+                margin-bottom: 5.5rem;
+                position: relative;
+                overflow: hidden;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+            }
+
+            .logbook-card::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 4px;
+                height: 100%;
+                background: linear-gradient(to bottom, #4f46e5, #06b6d4);
+            }
+
+            .logbook-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                gap: 1rem;
+                border-bottom: 1px solid var(--border);
+                padding-bottom: 1.25rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .logbook-title {
+                font-size: 1.4rem;
+                font-weight: 800;
+                letter-spacing: -0.02em;
+                margin: 0;
+                color: var(--text-main);
+            }
+
+            .logbook-entry {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.75rem;
+                color: var(--primary);
+                font-weight: 700;
+            }
+
+            .logbook-body {
+                font-size: 1rem;
+                color: var(--text-muted);
+                line-height: 1.7;
+                max-width: 800px;
+            }
+
+            .logbook-body p {
+                margin: 0 0 1rem;
+            }
+
+            .logbook-body p:last-child {
+                margin-bottom: 1.5rem;
+            }
+
+            .logbook-footer {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                gap: 1rem;
+                padding-top: 1.25rem;
+                border-top: 1px dashed var(--border);
+            }
+
+            .author-badge {
+                display: flex;
+                align-items: center;
+                gap: 0.75rem;
+            }
+
+            .author-avatar-placeholder {
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                background: linear-gradient(135deg, #4f46e5, #7c3aed);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-weight: 800;
+                font-size: 0.9rem;
+                color: #ffffff;
+                box-shadow: 0 2px 8px rgba(79, 70, 229, 0.35);
+            }
+
+            .author-info-name {
+                font-size: 0.9rem;
+                font-weight: 700;
+                color: var(--text-main);
+                margin: 0;
+            }
+
+            .author-info-role {
+                font-size: 0.75rem;
+                color: var(--text-faint);
+                margin: 0;
+            }
+
+            .link-subtle {
+                font-size: 0.88rem;
+                font-weight: 700;
+                color: var(--primary);
+                text-decoration: none;
+                border-bottom: 1.5px solid var(--primary-border);
+                padding-bottom: 2px;
+                transition: border-color 0.15s ease;
+            }
+
+            .link-subtle:hover {
+                border-color: var(--primary);
+            }
+
+            /* --- Blog --- */
+            .blog-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+                gap: 1.5rem;
+            }
+
+            .post-card {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                overflow: hidden;
+                text-decoration: none;
+                color: inherit;
+                display: flex;
+                flex-direction: column;
+                transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+            }
+
+            .post-card:hover {
+                border-color: var(--primary-border);
+                transform: translateY(-3px);
+                box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05);
+            }
+
+            .post-image {
+                height: 180px;
+                width: 100%;
+                object-fit: cover;
+                background: var(--surface-subtle);
+                border-bottom: 1px solid var(--border);
+            }
+
+            .post-content {
+                padding: 1.5rem;
+                flex-grow: 1;
+                display: flex;
+                flex-direction: column;
+            }
+
+            .post-title {
+                font-size: 1.05rem;
+                font-weight: 700;
+                line-height: 1.35;
+                margin: 0 0 0.85rem;
+                color: var(--text-main);
+            }
+
+            .post-card:hover .post-title {
+                color: var(--primary);
+            }
+
+            .post-date {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.75rem;
+                color: var(--text-faint);
+                margin-top: auto;
+            }
+
+            @media (max-width: 640px) {
+                .logbook-card {
+                    padding: 1.5rem;
+                }
+                .stack-wrapper {
+                    flex-direction: column;
+                    align-items: stretch;
+                }
+            }
         </style>
     </head>
     <body>
         <Header />
         <main>
-            <!-- 1. HERO HEADER (SEO/CRO) -->
+            <!-- 1. HERO HEADER -->
             <section class="hero">
-                <h1>Apprendre l'Anglais avec l'IA :<br><span>La méthode pour (enfin) parler</span></h1>
+                <h1>Apprendre l'Anglais avec l'IA :<br><span class="highlight">La méthode pour progresser</span></h1>
                 <p>
-                    Oubliez les listes de verbes irréguliers. Découvrez comment utiliser l'Intelligence Artificielle pour pratiquer l'oral au quotidien, briser votre plafond de verre et progresser en toute autonomie.
+                    Oubliez les listes de verbes et les exercices abstraits. Découvrez les stratégies concrètes pour exploiter l'intelligence artificielle en autonomie.
                 </p>
                 <div class="hero-ctas">
-                    <a href="#guide" class="btn-primary">Découvrir la méthode</a>
-                    <a href="#outils" class="btn-secondary">Voir ma stack d'outils</a>
+                    <a href="#guide" class="btn-primary">Consulter la roadmap</a>
+                    <a href="#outils" class="btn-secondary">Matériel & outils testés</a>
                 </div>
             </section>
 
-            <!-- 2. BLOC OUTIL -->
-			<section id="outils" class="cro-tools scroll-smooth">
-    			<p>🚀 Les 2 outils indispensables que j'utilise au quotidien :</p>
-    			<div class="tools-grid">
-        			<a href="/outils/loora/" class="tool-card">
-            	<span>📱 Loora (Coach Vocal IA)</span>
-        			</a>
-        			<a href="/outils/chatgpt/" class="tool-card">
-            			<span>🤖 ChatGPT (Tuteur sur-mesure)</span>
-        				</a>
-    					</div>
-				</section>
+            <!-- 2. BLOC OUTILS  -->
+            <section id="outils" class="stack-wrapper">
+                <div class="stack-info">
+                    <span>Outils que je recommande :</span>
+                </div>
+                <div class="stack-pills">
+                    <a href="/outils/loora/" class="stack-card">
+                        <span>Loora</span>
+                        <span class="badge-loora">Oral IA</span>
+                    </a>
+                    <a href="/outils/chatgpt/" class="stack-card">
+                        <span>ChatGPT</span>
+                        <span class="badge-chatgpt">Tuteur</span>
+                    </a>
+                </div>
+            </section>
 
-            <!-- 3. LA ROADMAP -->
-            <section id="guide" class="scroll-smooth">
-                <div style="text-align: center; margin-bottom: 3rem;">
-                    <h2>La méthode étape par étape</h2>
-                    <p class="subtitle">Un parcours concret pour passer de la théorie scolaire à la pratique orale.</p>
+            <!-- 3. ROADMAP TECHNIQUE -->
+            <section id="guide" class="roadmap-section">
+                <div style="text-align: center; margin-bottom: 2.75rem;">
+                    <div class="section-tag">PROTOCOLE EN 6 ÉTAPES</div>
+                    <h2>La structure d'apprentissage</h2>
+                    <p class="subtitle">Une feuille de route logique, de l'évaluation initiale aux discussions réelles.</p>
                 </div>
                 <div class="steps-grid">
                     {
                         etapes.map((etape) => (
                             <div class="step-card">
-                                <span class="step-num">Étape {etape.num}</span>
-                                <h3>{etape.title}</h3>
-                                <p>{etape.desc}</p>
-                                <a href={etape.link} class="step-link">Voir le tutoriel &rarr;</a>
+                                <div>
+                                    <div class="step-meta">
+                                        <span class="step-num">{etape.num}</span>
+                                        <span class="step-tag">{etape.tag}</span>
+                                    </div>
+                                    <h3>{etape.title}</h3>
+                                    <p>{etape.desc}</p>
+                                </div>
+                                <a href={etape.link} class="step-link">Consulter le protocole &rarr;</a>
                             </div>
                         ))
                     }
                 </div>
             </section>
 
-            <!-- 4. E-E-A-T (L'AUTORITÉ ET LA CONFIANCE) -->
-            <section class="eeat-section">
-                <!-- Remplacer le src par ton image de profil ou avatar -->
-                <div class="eeat-content">
-                    <blockquote>
-                        « Voici la structure exacte qui m'a permis de passer d'un anglais scolaire rouillé à des conversations fluides en 6 mois. Je teste les IA, j'éprouve les méthodes, et je vous partage ici ce qui fonctionne vraiment. »
-                    </blockquote>
-                    <p>— Jean, Co-créateur de Parler Malin</p>
+            <!-- 4. CARNET DE BORD / E-E-A-T -->
+            <section class="logbook-card">
+                <div class="logbook-header">
+                    <h2 class="logbook-title">L'approche éditoriale</h2>
+                </div>
+                <div class="logbook-body">
+                    <p>
+                        Je m'intéresse de près à l'intelligence artificielle et à la façon dont elle peut servir de levier concret d'apprentissage. J'ai testé différentes méthodes pour vérifier ce que ces outils permettent réellement de débloquer en anglais, loin des promesses marketing habituelles.
+                    </p>
+                    <p>
+                        Ce site est tenu comme un carnet de bord d'expérimentations : aucun résultat miracle n'est garanti. L'objectif est simplement de partager des configurations de prompts, des analyses d'applications et un cadre structuré pour progresser de manière autonome et régulière.
+                    </p>
+                </div>
+                <div class="logbook-footer">
+                    <div class="author-badge">
+                        <div class="author-avatar-placeholder">J</div>
+                        <div>
+                            <p class="author-info-name">Jérémy de Parler Malin</p>
+                            <p class="author-info-role">Créateur du site</p>
+                        </div>
+                    </div>
+                    <a href="/a-propos/" class="link-subtle">En Savoir plus &rarr;</a>
                 </div>
             </section>
 
-            <!-- 5. ARTICLES (RETENTION VISUELLE) -->
+            <!-- 5. DERNIÈRES ENTRÉES DU BLOG -->
             <section>
-                <h2>Le Carnet de Bord</h2>
-                <p class="subtitle">Derniers tests, prompts et stratégies d'apprentissage.</p>
+                <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem;">
+                    <div>
+                        <div class="section-tag">Blog</div>
+                        <h2>Nos derniers articles</h2>
+                    </div>
+                </div>
                 
                 <div class="blog-grid">
                     {
@@ -230,7 +704,7 @@ const etapes = [
                             <a href={`/${post.id}/`} class="post-card">
                                 {post.data.heroImage && (
                                     <img 
-                                        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any).src}
+                                        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any)?.src}
                                         alt="" 
                                         class="post-image" 
                                     />
