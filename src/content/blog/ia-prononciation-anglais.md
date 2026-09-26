@@ -22,7 +22,7 @@ heroImageAlt: "Corriger son accent anglais avec l'intelligence artificielle et L
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
-<span><time datetime="2026-07-16">16 juillet 2026</time></span>
+<span><time datetime="2026-07-16">03 aout 2026</time></span>
 <span class="dot">•</span>
 <span>Temps de lecture : 5 min</span>
 <span class="dot">•</span>
