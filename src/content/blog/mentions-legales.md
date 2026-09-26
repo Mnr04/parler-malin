@@ -18,14 +18,11 @@ Contact : contact@parlermalin.fr
 ## **2\. Hébergement**
 
 Le site est hébergé par :
+Hébergeur : Cloudflare France SAS
+Adresse : 6 place de la Madeleine, 75008 Paris, France
+Téléphone : +33 1 73 01 52 44
 
-Hébergeur : o2switch
-
-Adresse : Chem. des Pardiaux, 63000 Clermont-Ferrand, France
-
-Téléphone : 04 44 44 60 40
-
-Site Web : [https://www.o2switch.fr](https://www.o2switch.fr)
+Site Web : [https://www.cloudflare.com](https://www.cloudflare.com)
 
 ## **3\. Propriété intellectuelle & Transparence IA**
 
