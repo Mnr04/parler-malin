@@ -1,0 +1,71 @@
+---
+// Composant du bandeau de cookies
+---
+
+<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-50 p-4 md:p-6 bg-gray-100/95 backdrop-blur-md border-t border-gray-300 shadow-2xl transition-transform duration-300 translate-y-full hidden text-gray-900">
+  <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
+    <div class="text-sm leading-relaxed">
+      <p class="font-bold text-gray-900 mb-1">Gestion de la confidentialité & des cookies</p>
+      Ce site utilise des cookies de mesure d'audience (Google Analytics) soumis à votre consentement préalable. Aucun traceur n'est déposé par défaut. 
+      <a href="/blog/politique-de-confidentialite-rgpd" class="text-blue-600 font-medium hover:underline ml-1">En savoir plus</a>
+    </div>
+    <div class="flex items-center gap-3 shrink-0">
+      <button id="cookie-decline" class="px-5 py-2.5 text-sm font-medium text-gray-700 bg-gray-200 hover:bg-gray-300 rounded-xl transition">
+        Refuser
+      </button>
+      <button id="cookie-accept" class="px-5 py-2.5 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition shadow-md">
+        Tout accepter
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // @ts-nocheck
+  function loadGA() {
+    if (window.gaLoaded) return;
+    window.gaLoaded = true;
+
+    var script1 = document.createElement('script');
+    script1.async = true;
+    script1.src = 'https://www.googletagmanager.com/gtag/js?id=G-MP11486214';
+    document.head.appendChild(script1);
+
+    var script2 = document.createElement('script');
+    script2.innerHTML = `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MP11486214');
+    `;
+    document.head.appendChild(script2);
+  }
+
+  window.addEventListener('DOMContentLoaded', function() {
+    const banner = document.getElementById('cookie-banner');
+    const acceptBtn = document.getElementById('cookie-accept');
+    const declineBtn = document.getElementById('cookie-decline');
+
+    const consent = localStorage.getItem('cookie_consent');
+
+    if (!consent) {
+      banner.classList.remove('hidden');
+      setTimeout(() => banner.classList.remove('translate-y-full'), 100);
+    } else if (consent === 'accepted') {
+      loadGA();
+    }
+
+    acceptBtn.addEventListener('click', function() {
+      localStorage.setItem('cookie_consent', 'accepted');
+      banner.classList.add('translate-y-full');
+      setTimeout(() => banner.classList.add('hidden'), 300);
+      loadGA();
+    });
+
+    declineBtn.addEventListener('click', function() {
+      localStorage.setItem('cookie_consent', 'declined');
+      banner.classList.add('translate-y-full');
+      setTimeout(() => banner.classList.add('hidden'), 300);
+    });
+  });
+</script>
