@@ -235,7 +235,7 @@ Changer d'interlocuteur à chaque session oblige à refaire les mêmes présenta
           "name": "Quel est le tarif moyen d'une leçon d'anglais sur italki ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pour un tuteur communautaire axé sur la conversation informelle, les prix se situent entre 6 € et 12 € de l'heure. Pour un professeur certifié préparant un examen spécifique, comptez entre 15 € et 25 € de l'heure."
+            "text": "Pour un tuteur communautaire axé sur la conversation courante, les tarifs oscillent généralement entre 6 € et 12 € de l'heure. Si tu optes pour un professeur certifié préparant un examen ciblé (comme l'IELTS ou le TOEIC), compte plutôt entre 15 € et 25 € de l'heure."
           }
         },
         {
@@ -243,7 +243,7 @@ Changer d'interlocuteur à chaque session oblige à refaire les mêmes présenta
           "name": "Comment bien préparer sa première session d'échange ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Prépare deux ou trois phrases pour te présenter simplement et envoie un court message au tuteur avant le cours pour lui indiquer ton niveau estimé et ton objectif d'aisance."
+            "text": "Prépare deux ou trois phrases pour te présenter simplement et envoie un court message au tuteur avant l'heure du cours pour lui préciser ton niveau indicatif (ex: B1) ainsi que ton objectif principal (parler avec plus de fluidité sans chercher tes mots)."
           }
         },
         {
@@ -251,7 +251,7 @@ Changer d'interlocuteur à chaque session oblige à refaire les mêmes présenta
           "name": "italki est-il accessible si on a un niveau grand débutant ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui. De nombreux tuteurs accompagnent des débutants complets. Tu peux filtrer les profils pour choisir un tuteur natif bilingue qui maîtrise également les bases du français."
+            "text": "Oui. De nombreux tuteurs sont habitués à accompagner des débutants. Tu peux affiner les filtres de recherche pour choisir un locuteur natif anglophone qui comprend ou parle également le français pour te sécuriser lors des premiers échanges."
           }
         },
         {

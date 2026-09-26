@@ -284,7 +284,7 @@ function copyPrompt(id, btn) {
           "name": "Le résultat obtenu avec ChatGPT peut-il remplacer le TOEIC sur un CV ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non. Les recruteurs et les écoles exigent des certifications validées par un organisme accrédité. L'IA sert à préparer l'examen pour sécuriser le meilleur score possible, pas à remplacer le diplôme officiel."
+            "text": "Non. Les recruteurs, les grandes écoles et les consulats exigent des certifications validées par un organisme accrédité (ETS, Cambridge, British Council). L'IA sert à préparer l'examen pour sécuriser le meilleur score possible, pas à remplacer le diplôme officiel."
           }
         },
         {
@@ -292,7 +292,7 @@ function copyPrompt(id, btn) {
           "name": "Quelle certification viser après avoir fait son diagnostic ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le TOEIC et le Linguaskill pour l'entreprise en France, le TOEFL et l'IELTS pour les études ou l'international, et les diplômes de Cambridge pour une validation valable à vie."
+            "text": "Tout dépend de ton objectif : le TOEIC et le Linguaskill dominent le monde de l'entreprise en France. Le TOEFL et l'IELTS sont privilégiés pour étudier à l'étranger ou émigrer. Les diplômes de Cambridge (B2 First, C1 Advanced) ont l'avantage d'être valables à vie."
           }
         },
         {
@@ -300,7 +300,7 @@ function copyPrompt(id, btn) {
           "name": "Combien de temps s'entraîner avec l'IA avant de s'inscrire ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Il n'y a pas de délai fixe : tout dépend du niveau de départ et du rythme personnel. L'intérêt de l'IA est d'avancer sans pression de calendrier pour consolider ses réflexes sur ses points de blocage avant de réserver sa session d'examen."
+            "text": "Il n'y a pas de délai fixe ni de calendrier magique : tout dépend de ton niveau de départ, de ton aisance et de ton rythme d'apprentissage. L'intérêt de l'IA est justement de travailler sans pression de calendrier, en ciblant directement tes points de blocage pour consolider tes réflexes avant de réserver ta date d'examen."
           }
         }
       ]

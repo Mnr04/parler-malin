@@ -1,150 +1,833 @@
 ---
-title: "Compréhension orale en anglais : le guide pour débloquer ton oreille grâce à l'IA"
-date: 2026-08-18
+title: "Compréhension Orale Anglais : 3 Étapes pour Progresser"
+description: "Les natifs parlent trop vite ? Débloque ta compréhension orale en anglais grâce à la puissance de l'IA et à l'écoute active. Découvre la méthode pas à pas !"
+pubDate: 2026-08-18
+author: "Jérémy de Parler Malin"
 categories: 
   - "apprendre-langlais"
+heroImage: "/uploads/2026/08/comprehension-orale-anglais-application-ia-scaled.avif"
+heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'écoute active"
 ---
 
-# Compréhension orale en anglais : le guide pour débloquer ton oreille grâce à l'IA
+<!-- Fil d'Ariane SEO -->
+<nav class="breadcrumb" aria-label="Fil d'Ariane">
+<a href="/">Accueil</a>
+<span class="sep">/</span>
+<a href="/blog/">Blog</a>
+<span class="sep">/</span>
+<span class="current">Compréhension orale</span>
+</nav>
 
-Tu écoutes un natif et ses phrases ressemblent à un flot de sons indéchiffrables ? Cette frustration est normale : l'écoute passive ne suffit pas pour progresser. Découvre comment allier la méthode YouTube et l'intelligence artificielle pour enfin débloquer ta compréhension orale en anglais.
+<h1 class="page-title">Compréhension Orale Anglais : 3 Étapes pour Progresser</h1>
 
-## En Bref : Ce qu'il faut retenir
+<!-- Méta-barre E-E-A-T -->
+<div class="article-meta-bar">
+<span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+<span class="dot">•</span>
+<span><time datetime="2026-08-18">18 août 2026</time></span>
+<span class="dot">•</span>
+<span>Temps de lecture : 5 min</span>
+<span class="dot">•</span>
+</div>
 
-- **L'obstacle :** L'anglais parlé est trop rapide à cause du _connected speech_.
-- **Le piège :** L'écoute passive (films sous-titrés en français) ne forme pas l'oreille.
-- **La méthode :** Utiliser l'actualité puis les TED Talks sur YouTube à vitesse réduite (0,75x).
-- **L'accélérateur IA :** Pratiquer l'écoute active et la conversation avec l'application Loora.
-- **La validation :** Tester sa compréhension en conditions réelles avec des natifs sur italki.
+<!-- 1. Bandeau Transparence concis -->
+<div class="transparency-banner">
+<span class="transparency-icon">🛡️</span>
+<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés (comme Loora et italki), sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+</div>
 
-Transparence : Cet article contient des liens d'affiliation. Si vous utilisez nos liens ou codes promo (comme pour Loora ou italki), nous touchons une petite commission sans aucun surcoût pour vous. Cela nous aide à maintenir ce guide gratuit.
+<!-- 2. Bloc En Bref GEO -->
+<div class="geo-box">
+<div class="geo-header">
+<span class="geo-tag">EN BREF</span>
+</div>
+<ul class="geo-list">
+<li><strong>Le blocage :</strong> Les anglophones ne parlent pas forcément trop vite : ils lient les mots entre eux (<em>connected speech</em>), ce qui donne l'impression d'un seul son continu.</li>
+<li><strong>Le piège :</strong> Regarder des séries avec les sous-titres en français ne fait pas travailler l'oreille : tes yeux lisent au lieu d'écouter.</li>
+<li><strong>Le plan d'action :</strong> S'entraîner gratuitement sur YouTube en passant du visuel à l'audio pur, puis tester sa compréhension en direct avec l'IA et de vrais natifs.</li>
+</ul>
+<div class="geo-cta-wrap">
+<a href="#methode-youtube" class="btn-atf-action">Découvrir la méthode YouTube progressive ↓</a>
+</div>
+</div>
 
-Afficher le sommaire
+<!-- 3. Sommaire interactif rabattable -->
+<details class="toc-card" open>
+<summary class="toc-title">
+<span>Sommaire du guide</span>
+<span class="toc-toggle-icon">▾</span>
+</summary>
+<ol class="toc-list">
+<li><a href="#incomprehensible">Pourquoi l'anglais parlé te semble incompréhensible</a></li>
+<li><a href="#limites">Le piège des sous-titres français</a></li>
+<li><a href="#methode-youtube">La méthode progressive sur YouTube (100 % gratuit)</a></li>
+<li><a href="#loora-ia">Créer une vraie boucle d'écoute avec l'IA (Loora)</a></li>
+<li><a href="#italki-natifs">Le crash-test final avec des natifs (italki)</a></li>
+<li><a href="#faq">Foire aux questions (FAQ)</a></li>
+</ol>
+</details>
 
-- [1\. Pourquoi l'anglais natif te semble incompréhensible](#incomprehensible)
-- [2\. Les limites de l'écoute passive](#limites)
-- [3\. La méthode YouTube : du visuel à l'audio](#methode-youtube)
-- [4\. Loora : ton tuteur IA pour un entraînement interactif](#loora-ia)
-- [5\. Tester sa compréhension avec des natifs](#italki-natifs)
-- [6\. Conclusion](#conclusion)
-- [7\. Foire Aux Questions (FAQ)](#faq)
+---
 
-## Pourquoi l'anglais natif te semble incompréhensible
+<h2 id="incomprehensible">1. Pourquoi l'anglais parlé te semble incompréhensible</h2>
 
-L'anglais parlé t'échappe car les natifs utilisent le _connected speech_ (la liaison systématique des mots). Ton cerveau tente de traduire chaque mot isolé au lieu d'assimiler le rythme global de la phrase.
+Quand tu écoutes un anglophone, tu as souvent l'impression qu'il parle sans s'arrêter. En réalité, ce n'est pas un problème de vocabulaire : c'est une question de mécanique sonore.
 
-Ce qui se passe en réalité :
+Dans la vraie vie, les natifs utilisent le **_connected speech_** :
+* **Ils collent les mots :** La fin d'un mot se rattache au début du suivant (*« What do you want? »* devient phonétiquement *« Whaddya want? »*).
+* **Ils avalent des syllabes :** Certains sons faibles disparaissent pour aller plus vite.
+* **Ils contractent tout :** Les pronoms et les verbes fusionnent constamment.
 
-- Les anglophones avalent certaines syllabes.
-- Ils contractent systématiquement les verbes.
-- Ils fusionnent les sons adjacents.
+Résultat : une phrase de 5 mots est perçue par ton cerveau comme un seul mot géant. Si tu essaies de traduire chaque mot individuellement dans ta tête, tu perds immédiatement le fil.
 
-Le résultat : Une phrase de cinq mots sonne comme un seul mot très long. C'est tout à fait normal de bloquer au début. La solution consiste à arrêter de chercher à comprendre chaque terme individuellement pour se concentrer sur l'intonation et le sens général.
+<div class="tip-box">
+<strong>Le réflexe simple :</strong> Arrête de chercher à comprendre chaque mot. Écoute les **mots accentués avec force** (les verbes d'action, les noms) : ils portent 80&nbsp;% du sens de la phrase.
+</div>
 
-**Erreur à éviter :** Essayer de traduire mentalement en français pendant que ton interlocuteur parle. Cela crée un décalage et te fait perdre le fil de la conversation.
+---
 
-## Les limites de l'écoute passive pour la compréhension orale
+<h2 id="limites">2. Le piège des sous-titres français</h2>
 
-L'écoute passive te donne l'illusion de comprendre. En réalité, regarder Netflix sous-titré en français n'entraîne pas ton oreille : face à un vrai natif, tu risques de perdre tous tes moyens.
+Regarder des séries avec les sous-titres en français donne l'impression de progresser, mais **ton oreille ne travaille pas**.
 
-Pourquoi l'écoute passive est inefficace :
+C'est un réflexe automatique du cerveau :
+1. Lire du français demande beaucoup moins d'effort que de décoder des sons en anglais.
+2. Tes yeux lisent la phrase une demi-seconde avant que l'acteur ne la prononce.
+3. Tu fais un simple exercice de lecture rapide, sans entraîner ton écoute.
 
-- Le cerveau est naturellement paresseux et choisit toujours la facilité de la lecture, un frein classique quand on cherche à améliorer son vocabulaire actif.
-- L'analyse auditive est coupée au profit du visuel.
-- L'exercice devient purement de la lecture, sans aucun travail de l'oreille.
+Pour forcer ton oreille à faire le travail, la règle est simple : **retire le français de tes écrans**. Mets l'audio en anglais avec les sous-titres en anglais (VOST), puis enlève les sous-titres dès que tu te sens à l'aise.
 
-**Astuce de pro :** Désactive définitivement les sous-titres français sur tes écrans. Passe immédiatement à l'audio anglais avec sous-titres anglais.
+---
 
-## La méthode YouTube : du support visuel à la compréhension pure
+<h2 id="methode-youtube">3. La méthode progressive sur YouTube (100 % gratuit)</h2>
 
-La meilleure stratégie gratuite consiste à utiliser YouTube avec les sous-titres anglais réglés à une vitesse de 0,75x. Le secret est de commencer par des formats très visuels avant de passer à l'audio pur.
+Pour éduquer ton oreille sans dépenser un euro, YouTube est l'outil idéal. Le secret est d'y aller par étapes, du visuel vers l'audio pur.
 
-### 1\. Commencer par les chaînes d'infos (Support visuel fort)
+### Étape 1 : Les chaînes d'information (L'image t'aide à comprendre)
+Commence par regarder des chaînes d'actualité comme <a href="https://www.youtube.com/@BBCNews" target="_blank" rel="noopener noreferrer">BBC News</a>.
+* Les journalistes articulent très bien et parlent à un rythme régulier.
+* L'image montre exactement ce qui est raconté (s'ils parlent d'un train, on voit un train).
+* Ton cerveau associe les sons aux images sans avoir besoin de dictionnaire.
 
-- Regarde des chaînes d'actualités mondiales comme [BBC News](https://www.youtube.com/@BBCNews).
-- Les images illustrent parfaitement les propos des journalistes.
-- Si le sujet est une inondation, l'image montre de l'eau.
-- Cet appui visuel aide ton cerveau à faire le lien et facilite considérablement l'exercice.
+### Étape 2 : Les conférences (Ton oreille fait tout le travail)
+Une fois habitué, passe à des formats comme les <a href="https://www.youtube.com/watch?v=5MgBikgcWnY" target="_blank" rel="noopener noreferrer">conférences TED Talks</a>.
+* L'orateur est seul sur scène : l'image ne donne plus d'indices.
+* Tu dois te concentrer uniquement sur sa voix et ses intonations.
 
-### 2\. Passer aux TED Talks pour l'immersion (Support visuel faible)
+<div class="tip-box">
+<strong>L'astuce pratique :</strong> Si le débit est trop rapide au début, clique sur la roue crantée de YouTube et règle la vitesse sur **0,75x**. Cela te donne le temps de bien distinguer chaque mot tout en conservant le rythme naturel de la phrase.
+</div>
 
-- Une fois à l'aise, visionne des [conférences TED Talks (exemple très inspirant)](https://www.youtube.com/watch?v=5MgBikgcWnY).
-- Les sujets sont conceptuels et l'image n'aide plus la compréhension.
-- L'orateur partage des idées complexes, forçant ton oreille à faire tout le travail d'analyse.
-- C'est l'entraînement parfait pour forcer l'écoute active.
+---
 
-## Loora : ton tuteur IA pour un entraînement interactif
+<h2 id="loora-ia">4. Créer une vraie boucle d'écoute avec l'IA (Loora)</h2>
 
-Loora est une intelligence artificielle qui simule un tuteur conversationnel patient, obligeant l'utilisateur à écouter attentivement pour pouvoir répondre et faire avancer l'échange.
+La méthode YouTube gratuite est parfaite pour poser les bases, mais elle a une limite : **tu restes passif derrière ton écran**. Si ton esprit décroche pendant 10 secondes, la vidéo continue sans que tu aies besoin de réagir.
 
-Les bénéfices de l'IA pour l'écoute :
+Pour savoir si tu as réellement compris, il faut une situation où **tu es obligé de répondre**.
 
-- Création d'une véritable boucle d'écoute active (tu dois comprendre pour répondre).
-- Adaptation instantanée du discours à ton niveau d'anglais.
-- Exposition à de multiples accents sans la pression du jugement humain.
-- Répétition infinie des phrases complexes sans fatigue.
+C'est là qu'une application de conversation comme **Loora AI** devient utile au quotidien :
+* **Une vraie boucle d'écoute active :** Pour répondre à l'IA et faire avancer la discussion, tu dois d'abord comprendre ce qu'elle vient de te dire.
+* **Zéro gêne :** Tu peux lui faire répéter une phrase trois fois d'affilée sans craindre de déranger un interlocuteur.
+* **Un niveau adapté :** L'IA simplifie son vocabulaire si elle voit que tu hésites.
 
-**Astuce de pro :** Réécoute chaque réponse de l'IA plusieurs fois pour bien saisir les détails de prononciation, une excellente habitude pour [réussir tes conversations en anglais avec l'IA](https://parlermalin.fr/reussir-conversation-en-anglais-avec-ia) en parallèle.
+C'est un excellent pont pour passer de l'écoute passive à la prise de parole sans pression.
 
-**🎯 Profite de -10% sur ton abonnement Loora**
+<!-- Carte Outil CRO Loora AI -->
+<div class="tool-callout-card">
+<div class="tool-callout-content">
+<div class="tool-tag-row">
+<span class="tool-pill">COACH VOCAL IA</span>
+<span class="tool-feature">Écoute active interactive</span>
+</div>
+<h4>Loora AI : Entraîne ton oreille à réagir en direct (avec -10 %)</h4>
+<p>Dialogue chaque jour avec une IA vocale qui adapte son débit à ton niveau pour forcer ton écoute. Profite de <strong>10&nbsp;% de réduction</strong> avec notre code exclusif :</p>
+<div class="promo-box">
+<span class="promo-label">Code promo :</span>
+<code id="promo-code" class="promo-code">PARLERMALIN10</code>
+<button class="btn-copy-code" onclick="copyPromoCode(this, 'promo-code')">Copier le code</button>
+</div>
+</div>
+<div class="tool-callout-action">
+<a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta">
+<span>Activer mon offre Loora (-10%)</span>
+<span class="btn-arrow">&rarr;</span>
+</a>
+<a href="/prix-loora-ai/" class="tool-sublink">Voir le détail des tarifs &nearr;</a>
+</div>
+</div>
 
-Utilise notre code exclusif pour obtenir **10% de réduction immédiate** sur l'application et transforme ta compréhension orale dès aujourd'hui.
+---
 
-parlermalin10 Copier le code
+<h2 id="italki-natifs">5. Le crash-test final avec des natifs (italki)</h2>
 
-  
-[👉 Activer mes -10% sur Loora](https://www.loora.com/lp/ai-english-tutor/?via=jeremy)
+L'intelligence artificielle a une voix très claire. Mais dans la vraie vie, les humains hésitent, utilisent des expressions familières et ont des accents très variés.
 
-## Passer au niveau supérieur : tester sa compréhension avec des natifs
+La dernière étape consiste donc à confronter ton oreille à de **vrais locuteurs anglophones**.
 
-La validation ultime consiste à échanger avec un professeur humain sur la plateforme italki. C'est l'étape indispensable pour [pratiquer l'anglais avec des natifs](https://parlermalin.fr/pratiquer-anglais-natifs) et t'habituer à l'imprévisibilité d'une véritable discussion spontanée.
+La plateforme **italki** permet de réserver des discussions informelles à l'heure avec des tuteurs du monde entier (dès 6&nbsp;€ à 10&nbsp;€/h), sans aucun abonnement obligatoire. C'est le meilleur moyen de valider que ton oreille comprend l'anglais spontané de la vraie vie.
 
-La différence entre l'IA et la réalité :
+<!-- Carte Outil CRO italki -->
+<div class="tool-callout-card">
+<div class="tool-callout-content">
+<div class="tool-tag-row">
+<span class="tool-pill tool-pill-highlight">🎁 10 $ OFFERTS</span>
+<span class="tool-pill">IMMERSION HUMAINE</span>
+<span class="tool-feature">À la carte • Dès 6 €/h</span>
+</div>
+<h4>italki : Teste ton oreille face à de vrais locuteurs anglophones</h4>
+<p>Choisis ton tuteur en fonction de son accent (américain, britannique, australien...). Réserve à la leçon sans abonnement et profite de <strong>10&nbsp;$ de crédits offerts</strong> via ce lien.</p>
+</div>
+<div class="tool-callout-action">
+<a href="https://www.italki.com/affshare?ref=af32623863" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta btn-tool-highlight">
+<span>Profiter de mes 10 $ offerts</span>
+<span class="btn-arrow">&rarr;</span>
+</a>
+<a href="/avis-italki/" class="tool-sublink">Lire mon avis complet sur italki &nearr;</a>
+<span class="tool-reassurance">Sans abonnement</span>
+</div>
+</div>
 
-- Un vrai natif bafouille, hésite et utilise de l'argot.
-- Les conversations comportent des bruits de fond, des interruptions et des silences.
-- Le rythme naturel exige une adaptation et une concentration supérieures.
+---
 
-**Astuce de pro :** Demande à ton professeur italki de parler à sa vitesse normale dès le début, sans jamais ralentir pour toi.
+<h2 id="faq">Foire aux questions</h2>
 
-**🎯 Pratique réelle et spontanée**
+<details class="faq-card">
+<summary class="faq-title">Comment améliorer sa compréhension orale en anglais rapidement ?</summary>
+<div class="faq-body">
+<p>Passe tes vidéos en VO avec sous-titres anglais, ralentis légèrement la vitesse à 0,75x sur les passages compliqués et pratique des échanges interactifs (avec une IA vocale ou un tuteur) où tu es obligé de répondre.</p>
+</div>
+</details>
 
-Passe à l'action et mets ton oreille à l'épreuve face à un vrai locuteur anglophone.
+<details class="faq-card">
+<summary class="faq-title">Regarder des séries aide-t-il vraiment à comprendre l'anglais ?</summary>
+<div class="faq-body">
+<p>Pas si tu laisses les sous-titres en français, car ton cerveau lit sans écouter. Active impérativement les sous-titres en anglais, puis coupe-les totalement sur les épisodes que tu connais déjà.</p>
+</div>
+</details>
 
-[👉 Réservez votre premier cours sur italki (10$ offerts)](https://www.italki.com/affshare?ref=af32623863)
+<details class="faq-card">
+<summary class="faq-title">Pourquoi les anglophones donnent-ils l'impression de manger leurs mots ?</summary>
+<div class="faq-body">
+<p>C'est l'effet du connected speech : les fins de mots fusionnent avec les voyelles suivantes et certaines syllabes sont raccourcies pour garder un rythme fluide.</p>
+</div>
+</details>
 
-## Conclusion
+<details class="faq-card">
+<summary class="faq-title">Combien de temps par jour faut-il pour voir des progrès ?</summary>
+<div class="faq-body">
+<p>15 à 20 minutes d'écoute active chaque jour (une vidéo analysée ou une conversation courte) sont bien plus efficaces qu'une session passive de deux heures le week-end.</p>
+</div>
+</details>
 
-En résumé, débloquer ta compréhension orale en anglais exige d'abandonner l'illusion de l'écoute passive. En combinant la méthode YouTube, un entraînement interactif avec une IA comme Loora, et des mises en pratique avec des natifs, ton oreille s'adaptera naturellement aux rythmes anglophones.
+---
 
-Pour aller plus loin dans ton apprentissage, n'hésite pas à consulter notre [dossier complet pour maîtriser l'anglais](https://parlermalin.fr/home).
+<!-- Disclaimer IA -->
+<div class="disclaimer-callout">
+<span class="disclaimer-badge">Conseil d'apprentissage</span>
+<p>Entraîner son oreille demande un peu de régularité. Ne panique pas si tu ne comprends pas tout au mot à mot : l'important au début, c'est de saisir l'idée générale de la phrase.</p>
+</div>
 
-## FAQ : Vos questions fréquentes
+<!-- Navigation CRO Rebond Guide -->
+<div class="next-step-card">
+<span class="next-label">MÉTHODE COMPLÈTE</span>
+<h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
+<p>Découvre l'intégralité des 7 étapes pour progresser en anglais de manière fluide, depuis le diagnostic de ton niveau jusqu'aux conversations avec des locuteurs natifs.</p>
+<a href="/#guide" class="btn-next">Suivre la méthode pour progresser en anglais avec l'IA &rarr;</a>
+</div>
 
-Comment améliorer sa compréhension orale en anglais rapidement ?
+<!-- Toast flottant -->
+<div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
-Pratique l'écoute active quotidiennement avec des vidéos YouTube ciblées et l'application IA Loora. Cesse de traduire chaque mot mentalement et concentre-toi systématiquement sur le rythme global de la phrase.
+<script is:inline>
+function copyPromoCode(btn, elementId) {
+    const codeEl = document.getElementById(elementId);
+    if (!codeEl) return;
+    const text = codeEl.innerText.trim();
+    navigator.clipboard.writeText(text).then(() => {
+        const originalText = btn.innerText;
+        btn.innerText = "Copié !";
+        btn.classList.add("copied");
 
-Regarder des séries Netflix aide-t-il à comprendre l'anglais ?
+        const toast = document.getElementById("copy-toast");
+        if (toast) {
+            toast.innerText = "Code promo copié !";
+            toast.classList.add("show");
+            setTimeout(() => {
+                toast.classList.remove("show");
+            }, 2500);
+        }
 
-Non, si tu utilises des sous-titres en français. L'écoute passive ne fait pas progresser la compréhension auditive car le cerveau privilégie la lecture. Passe impérativement aux sous-titres en anglais.
+        setTimeout(() => {
+            btn.innerText = originalText;
+            btn.classList.remove("copied");
+        }, 2000);
+    }).catch(err => {
+        console.error("Erreur lors de la copie du code : ", err);
+    });
+}
+</script>
 
-Quelle est la meilleure IA pour la compréhension orale en anglais ?
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Compréhension Orale Anglais : 3 Étapes pour Progresser",
+      "description": "Les natifs parlent trop vite ? Débloque ta compréhension orale en anglais grâce à la puissance de l'IA et à l'écoute active. Découvre la méthode pas à pas !",
+      "author": {
+        "@type": "Person",
+        "name": "Jérémy de Parler Malin",
+        "url": "https://parlermalin.fr/a-propos/"
+      },
+      "datePublished": "2026-08-18",
+      "dateModified": "2026-08-18",
+      "image": "https://parlermalin.fr/uploads/2026/08/comprehension-orale-anglais-application-ia-scaled.avif",
+      "inLanguage": "fr-FR",
+      "mainEntityOfPage": "https://parlermalin.fr/comprehension-orale-anglais/"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Comment améliorer sa compréhension orale en anglais rapidement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Passe tes vidéos en VO avec sous-titres anglais, ralentis légèrement la vitesse à 0,75x sur les passages compliqués et pratique des échanges interactifs (avec une IA vocale ou un tuteur) où tu es obligé de répondre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Regarder des séries aide-t-il vraiment à comprendre l'anglais ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pas si tu laisses les sous-titres en français, car ton cerveau lit sans écouter. Active impérativement les sous-titres en anglais, puis coupe-les totalement sur les épisodes que tu connais déjà."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pourquoi les anglophones donnent-ils l'impression de manger leurs mots ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est l'effet du connected speech : les fins de mots fusionnent avec les voyelles suivantes et certaines syllabes sont raccourcies pour garder un rythme fluide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps par jour faut-il pour voir des progrès ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "15 à 20 minutes d'écoute active chaque jour (une vidéo analysée ou une conversation courte) sont bien plus efficaces qu'une session passive de deux heures le week-end."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
-Loora est idéale car elle simule des dialogues réalistes avec un tuteur virtuel. Contrairement à une simple vidéo, tu dois obligatoirement écouter et analyser son message pour pouvoir continuer la conversation.
+<style>
+    /* Titre & Fil d'Ariane */
+    .breadcrumb {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.78rem;
+        color: #64748b;
+        margin-bottom: 0.85rem;
+    }
+    .breadcrumb a {
+        color: #475569;
+        text-decoration: none;
+    }
+    .breadcrumb a:hover {
+        color: #1a56db;
+    }
+    .breadcrumb .sep {
+        margin: 0 0.35rem;
+        color: #cbd5e1;
+    }
+    .breadcrumb .current {
+        color: #0f172a;
+        font-weight: 600;
+    }
+    .page-title {
+        font-size: clamp(1.85rem, 3.5vw, 2.35rem);
+        font-weight: 800;
+        line-height: 1.2;
+        letter-spacing: -0.03em;
+        color: #0f172a;
+        margin: 0.5rem 0 0.85rem 0;
+    }
+    .article-meta-bar {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        font-size: 0.82rem;
+        color: #64748b;
+        margin-bottom: 1.25rem;
+        flex-wrap: wrap;
+    }
+    .article-meta-bar a {
+        color: #0f172a;
+        text-decoration: none;
+    }
+    .article-meta-bar .dot {
+        color: #cbd5e1;
+    }
+    .meta-badge {
+        background: #f1f5f9;
+        color: #475569;
+        font-family: ui-monospace, monospace;
+        font-size: 0.72rem;
+        padding: 0.15rem 0.5rem;
+        border-radius: 4px;
+        font-weight: 600;
+    }
 
-Faut-il ralentir la vitesse des vidéos YouTube en anglais ?
+    /* 1. Bandeau Transparence concis */
+    .transparency-banner {
+        display: flex;
+        align-items: center;
+        gap: 0.65rem;
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-left: 3px solid #3b82f6;
+        border-radius: 6px;
+        padding: 0.6rem 0.95rem;
+        margin-bottom: 1.5rem;
+        font-size: 0.82rem;
+        color: #475569;
+    }
+    .transparency-banner p {
+        margin: 0;
+        line-height: 1.45;
+    }
+    .transparency-icon {
+        font-size: 1rem;
+        line-height: 1;
+        flex-shrink: 0;
+    }
+    .transparency-banner a {
+        color: #1a56db;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
 
-Oui, réduire la vitesse de lecture à 0,75x t'aide grandement à identifier les mots fusionnés par le _connected speech_. Repasse à la vitesse normale dès que ton oreille s'est habituée aux intonations.
+    /* 2. Bloc En Bref GEO */
+    .geo-box {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 1.4rem 1.5rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
+    }
+    .geo-header {
+        margin-bottom: 0.9rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid #f1f5f9;
+        font-family: ui-monospace, monospace;
+        font-size: 0.74rem;
+    }
+    .geo-tag {
+        font-weight: 700;
+        color: #1a56db;
+        letter-spacing: 0.04em;
+    }
+    .geo-list {
+        margin: 0 0 1.25rem 0;
+        padding-left: 1.2rem;
+        color: #334155;
+        font-size: 0.94rem;
+        line-height: 1.6;
+    }
+    .geo-list li {
+        margin-bottom: 0.6rem;
+    }
+    .geo-list li:last-child {
+        margin-bottom: 0;
+    }
+    .geo-cta-wrap {
+        padding-top: 0.85rem;
+        border-top: 1px solid #f1f5f9;
+    }
+    .btn-atf-action {
+        display: inline-flex;
+        align-items: center;
+        background: #1a56db !important;
+        color: #ffffff !important;
+        font-weight: 600;
+        font-size: 0.86rem;
+        padding: 0.6rem 1.15rem;
+        border-radius: 6px;
+        text-decoration: none !important;
+        transition: background-color 0.15s ease;
+    }
+    .btn-atf-action:hover {
+        background: #1e429f !important;
+    }
 
-[Retour à l'accueil
+    /* 3. Sommaire interactif rabattable */
+    .toc-card {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        margin-bottom: 2.25rem;
+        overflow: hidden;
+    }
+    .toc-title {
+        padding: 0.8rem 1.1rem;
+        font-family: ui-monospace, SFMono-Regular, monospace;
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: #0f172a;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        user-select: none;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .toc-title::-webkit-details-marker {
+        display: none;
+    }
+    .toc-toggle-icon {
+        font-size: 0.95rem;
+        color: #64748b;
+        transition: transform 0.2s ease;
+    }
+    .toc-card[open] .toc-toggle-icon {
+        transform: rotate(180deg);
+        color: #1a56db;
+    }
+    .toc-list {
+        margin: 0;
+        padding: 0.6rem 1.1rem 1rem 2.2rem;
+        border-top: 1px solid #e2e8f0;
+        font-size: 0.88rem;
+        color: #475569;
+        line-height: 1.65;
+    }
+    .toc-list li {
+        margin-bottom: 0.35rem;
+    }
+    .toc-list a {
+        color: #1e293b;
+        text-decoration: none;
+    }
+    .toc-list a:hover {
+        color: #1a56db;
+        text-decoration: underline;
+    }
 
-### Guide complet pour progresser en anglais
+    /* Cartes Outils CRO */
+    .tool-callout-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1.5rem;
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 1.35rem 1.4rem;
+        margin: 1.75rem 0 2rem 0;
+        box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
+    }
+    .tool-tag-row {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        margin-bottom: 0.5rem;
+        flex-wrap: wrap;
+    }
+    .tool-pill {
+        font-family: ui-monospace, monospace;
+        font-size: 0.68rem;
+        font-weight: 700;
+        color: #1a56db;
+        background: #ebf5ff;
+        padding: 0.15rem 0.5rem;
+        border-radius: 4px;
+        letter-spacing: 0.04em;
+    }
+    .tool-pill-highlight {
+        background: #fef3c7 !important;
+        color: #92400e !important;
+        border: 1px solid #fde68a;
+        font-weight: 800 !important;
+    }
+    .tool-feature {
+        font-family: ui-monospace, monospace;
+        font-size: 0.72rem;
+        color: #64748b;
+    }
+    .tool-callout-content h4 {
+        margin: 0 0 0.35rem 0;
+        font-size: 0.98rem;
+        font-weight: 700;
+        color: #0f172a;
+    }
+    .tool-callout-content p {
+        margin: 0 0 0.85rem 0;
+        font-size: 0.88rem;
+        color: #475569;
+        line-height: 1.5;
+    }
 
-Découvre toutes nos méthodes, outils et astuces pour améliorer ton apprentissage.
+    /* Boîte Promo Code */
+    .promo-box {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        background: #f1f5f9;
+        border: 1px dashed #cbd5e1;
+        padding: 0.35rem 0.65rem;
+        border-radius: 6px;
+        font-size: 0.8rem;
+    }
+    .promo-label {
+        color: #475569;
+        font-weight: 600;
+    }
+    .promo-code {
+        font-family: ui-monospace, SFMono-Regular, monospace;
+        font-weight: 800;
+        color: #0f172a;
+        background: #ffffff;
+        padding: 0.15rem 0.4rem;
+        border-radius: 4px;
+        border: 1px solid #e2e8f0;
+    }
+    .btn-copy-code {
+        background: #0f172a;
+        color: #ffffff;
+        border: none;
+        border-radius: 4px;
+        padding: 0.2rem 0.5rem;
+        font-size: 0.72rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.15s ease;
+    }
+    .btn-copy-code:hover {
+        background: #1e293b;
+    }
+    .btn-copy-code.copied {
+        background: #059669;
+    }
 
-](https://parlermalin.fr/home)
+    .tool-callout-action {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.4rem;
+        flex-shrink: 0;
+    }
+    .btn-tool-cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        white-space: nowrap;
+        background: #1a56db !important;
+        color: #ffffff !important;
+        font-weight: 600;
+        font-size: 0.84rem;
+        padding: 0.65rem 1.15rem;
+        border-radius: 7px;
+        text-decoration: none !important;
+        transition: background-color 0.15s ease;
+    }
+    .btn-tool-cta:hover {
+        background: #1e429f !important;
+    }
+    .tool-sublink {
+        font-size: 0.76rem;
+        color: #1a56db;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+    .tool-reassurance {
+        font-size: 0.72rem;
+        color: #64748b;
+        font-weight: 500;
+    }
 
-<script>window.copyPromo = function(btn, elementId) { var textToCopy = document.getElementById(elementId).innerText; var textArea = document.createElement("textarea"); textArea.value = textToCopy; textArea.style.position = "fixed"; textArea.style.left = "-999999px"; textArea.style.top = "-999999px"; document.body.appendChild(textArea); textArea.focus(); textArea.select(); try { document.execCommand('copy'); var originalText = btn.innerText; btn.innerText = 'Copié ! ✓'; btn.style.backgroundColor = 'var(--success-color)'; btn.style.borderColor = 'var(--success-color)'; setTimeout(function() { btn.innerText = originalText; btn.style.backgroundColor = ''; btn.style.borderColor = ''; }, 2500); } catch (err) { console.error('Erreur lors de la copie : ', err); btn.innerText = 'Erreur'; } document.body.removeChild(textArea); };</script>
+    /* Encarts & Callouts */
+    .tip-box {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-left: 3px solid #1a56db;
+        border-radius: 8px;
+        padding: 1rem 1.25rem;
+        font-size: 0.9rem;
+        color: #475569;
+        margin: 1.5rem 0;
+    }
+    .tip-box a {
+        color: #1a56db;
+        text-decoration: underline;
+        font-weight: 600;
+    }
 
-<script type="application/ld+json">{ "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type": "Question", "name": "Comment améliorer sa compréhension orale en anglais rapidement ?", "acceptedAnswer": { "@type": "Answer", "text": "Pratique l'écoute active quotidiennement avec des vidéos YouTube ciblées et l'application IA Loora. Cesse de traduire chaque mot mentalement et concentre-toi systématiquement sur le rythme global de la phrase." } }, { "@type": "Question", "name": "Regarder des séries Netflix aide-t-il à comprendre l'anglais ?", "acceptedAnswer": { "@type": "Answer", "text": "Non, si tu utilises des sous-titres en français. L'écoute passive ne fait pas progresser la compréhension auditive car le cerveau privilégie la lecture. Passe impérativement aux sous-titres en anglais." } }, { "@type": "Question", "name": "Quelle est la meilleure IA pour la compréhension orale en anglais ?", "acceptedAnswer": { "@type": "Answer", "text": "Loora est idéale car elle simule des dialogues réalistes avec un tuteur virtuel. Contrairement à une simple vidéo, tu dois obligatoirement écouter et analyser son message pour pouvoir continuer la conversation." } }, { "@type": "Question", "name": "Faut-il ralentir la vitesse des vidéos YouTube en anglais ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, réduire la vitesse de lecture à 0,75x t'aide grandement à identifier les mots fusionnés par le connected speech. Repasse à la vitesse normale dès que ton oreille s'est habituée aux intonations." } }] }</script>
+    /* FAQ */
+    .faq-card {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        margin-bottom: 0.65rem;
+        overflow: hidden;
+        transition: border-color 0.15s ease;
+    }
+    .faq-card[open] {
+        border-color: #cbd5e1;
+    }
+    .faq-title {
+        padding: 0.9rem 1.15rem;
+        font-weight: 700;
+        font-size: 0.95rem;
+        color: #0f172a;
+        cursor: pointer;
+        user-select: none;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .faq-title::-webkit-details-marker {
+        display: none;
+    }
+    .faq-title::after {
+        content: "+";
+        font-size: 1.2rem;
+        font-weight: 400;
+        color: #64748b;
+    }
+    .faq-card[open] .faq-title::after {
+        content: "−";
+        color: #1a56db;
+    }
+    .faq-body {
+        padding: 0 1.15rem 1.15rem;
+        color: #475569;
+        font-size: 0.92rem;
+        line-height: 1.6;
+    }
+    .faq-body p {
+        margin: 0;
+    }
+
+    /* Disclaimer IA */
+    .disclaimer-callout {
+        background: #fafafc;
+        border: 1px solid #e2e8f0;
+        border-left: 3px solid #64748b;
+        border-radius: 6px;
+        padding: 0.85rem 1.1rem;
+        margin: 2.5rem 0 1.5rem 0;
+    }
+    .disclaimer-badge {
+        font-family: ui-monospace, SFMono-Regular, monospace;
+        font-size: 0.68rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #475569;
+        letter-spacing: 0.05em;
+        display: block;
+        margin-bottom: 0.25rem;
+    }
+    .disclaimer-callout p {
+        margin: 0;
+        font-size: 0.86rem;
+        color: #64748b;
+        line-height: 1.5;
+    }
+
+    /* Rebond Guide */
+    .next-step-card {
+        background: #ffffff;
+        border: 1px solid #e2e4e9;
+        border-radius: 10px;
+        padding: 1.5rem;
+        margin-top: 2rem;
+    }
+    .next-label {
+        font-family: ui-monospace, monospace;
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: #1a56db;
+        letter-spacing: 0.05em;
+    }
+    .next-step-card h3 {
+        margin: 0.4rem 0;
+        font-size: 1.2rem;
+        color: #0f172a;
+    }
+    .next-step-card p {
+        color: #475569;
+        font-size: 0.92rem;
+        margin: 0 0 1.2rem;
+    }
+    .btn-next,
+    .btn-next:visited {
+        display: inline-block;
+        background: #1a56db !important;
+        color: #ffffff !important;
+        font-weight: 600;
+        font-size: 0.88rem;
+        padding: 0.6rem 1.15rem;
+        border-radius: 6px;
+        text-decoration: none !important;
+        transition: background-color 0.15s ease;
+    }
+    .btn-next:hover,
+    .btn-next:focus {
+        background: #1e429f !important;
+        color: #ffffff !important;
+        text-decoration: none !important;
+    }
+
+    /* Toast */
+    .copy-toast {
+        position: fixed;
+        bottom: 2rem;
+        right: 2rem;
+        background: #0f172a;
+        color: #ffffff;
+        border: 1px solid #334155;
+        padding: 0.75rem 1.2rem;
+        border-radius: 8px;
+        font-size: 0.88rem;
+        font-weight: 600;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(12px);
+        transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+        z-index: 9999;
+    }
+    .copy-toast.show {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
+    @media (max-width: 640px) {
+        .tool-callout-card {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .tool-callout-action {
+            width: 100%;
+        }
+        .btn-tool-cta {
+            width: 100%;
+            justify-content: center;
+        }
+        .btn-atf-action {
+            width: 100%;
+            justify-content: center;
+        }
+    }
+</style>

@@ -225,7 +225,7 @@ En revanche, Loora permet de réaliser **une leçon d'essai complète 100 % grat
 <span class="next-label">MÉTHODE COMPLÈTE</span>
 <h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
 <p>Découvre l'intégralité des 7 étapes pour progresser en anglais de manière fluide, depuis le diagnostic de ton niveau jusqu'aux conversations avec des locuteurs natifs.</p>
-<a href="/#guide" class="btn-next">Découvrir la méthode en 7 étapes &rarr;</a>
+<a href="/#guide" class="btn-next">Améliorer son anglais avec l'IA : la méthode en 7 étapes &rarr;</a>
 </div>
 
 <!-- Toast flottant -->
@@ -310,7 +310,7 @@ function copyPromoHero(btn, elementId) {
           "name": "Quel est le prix exact de Loora AI en euros ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Loora facture en USD (19,99 $/mois sans engagement ou 119,99 $/an). Selon le taux de change, le forfait annuel revient généralement entre 9 € et 10 € par mois."
+            "text": "Loora facture en dollars américains (19,99 $/mois sans engagement ou 119,99 $/an). Selon le cours moyen du dollar, l'abonnement annuel revient généralement entre 9 € et 10 € par mois."
           }
         },
         {
@@ -318,7 +318,7 @@ function copyPromoHero(btn, elementId) {
           "name": "Comment résilier son abonnement Loora ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La résiliation s'effectue directement depuis les réglages des abonnements de votre smartphone (App Store sur iOS ou Google Play sur Android)."
+            "text": "La résiliation s'effectue en quelques secondes depuis les réglages de ton smartphone (rubrique « Abonnements » de ton compte Apple ID sur iPhone, ou « Abonnements » sur le Google Play Store pour Android). Tu conserves l'accès Premium jusqu'à la fin de la période déjà réglée."
           }
         },
         {
@@ -326,7 +326,7 @@ function copyPromoHero(btn, elementId) {
           "name": "Le code promo PARLERMALIN10 est-il cumulable avec d'autres remises ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, le code promo s'applique en supplément sur la formule annuelle, qui intègre déjà une réduction par rapport au forfait mensuel."
+            "text": "Oui. Le code promo s'applique en supplément sur la formule annuelle, qui intègre déjà une réduction tarifaire par rapport au paiement au mois le mois."
           }
         },
         {
@@ -334,7 +334,7 @@ function copyPromoHero(btn, elementId) {
           "name": "Doit-on payer des frais de transaction bancaire internationale ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Comme la facturation se fait en USD, certaines banques traditionnelles prélèvent des frais de change. Les cartes sans frais (Boursorama, Revolut, N26) n'appliquent aucun surcoût."
+            "text": "Comme la facturation se fait en USD, certaines banques traditionnelles facturent de légers frais de change (souvent entre 1 % et 2 %). Si tu utilises une carte sans frais de conversion (Boursorama, Fortuneo, Revolut, N26), tu ne paies aucun frais supplémentaire."
           }
         }
       ]
@@ -342,7 +342,6 @@ function copyPromoHero(btn, elementId) {
   ]
 }
 </script>
-
 <style>
     /* Titre & Fil d'Ariane */
     .breadcrumb {

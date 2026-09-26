@@ -124,7 +124,7 @@ Contrairement aux IA polyvalentes, **Loora AI** a été développée exclusiveme
 
 ### Pourquoi Loora est plus directe pour l'oral ?
 * **Zéro perte de temps :** Pas besoin d'inventer un contexte ou de taper un prompt complexe. Tu sélectionnes une mise en situation (voyage, entretien d'embauche, discussion informelle) et la conversation démarre.
-* **Correction phonétique en direct :** L'algorithme repère précisément les erreurs d'articulation typiques des francophones (sons courts/longs, « TH », accent tonique) et te fait répéter avec bienveillance.
+* **Correction phonétique :** L'algorithme repère précisément les erreurs d'articulation typiques des francophones (sons courts/longs, « TH », accent tonique) et te fait répéter avec bienveillance.
 * **Environnement 100 % anglophone :** Tu es immédiatement plongé en immersion, ce qui force ton cerveau à réagir sans réflexe de traduction.
 
 <div class="tip-box">
@@ -161,7 +161,7 @@ Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, m
 <div class="tool-callout-content">
 <div class="tool-tag-row">
 <span class="tool-pill">COACH VOCAL IA</span>
-<span class="tool-feature">Correction phonétique en direct</span>
+<span class="tool-feature">Correction phonétique</span>
 </div>
 <h4>Loora AI : Ton tuteur vocal de poche (avec -10 %)</h4>
 <p>Pour t'entraîner chaque jour sans perdre de temps à configurer des prompts, Loora adapte ses retours à ton niveau. Profite de <strong>10&nbsp;% de réduction</strong> sur ton abonnement avec le code exclusif ci-dessous :</p>
@@ -226,7 +226,7 @@ Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, m
 <span class="next-label">MÉTHODE COMPLÈTE</span>
 <h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
 <p>Découvre l'intégralité des 7 étapes : de l'évaluation initiale jusqu'aux simulations d'échanges avec des natifs, pour progresser sans perdre de temps.</p>
-<a href="/#guide" class="btn-next">Découvrir le guide en 7 étapes &rarr;</a>
+<a href="/#guide" class="btn-next">Améliorer son anglais avec l'IA : la méthode étape par étape &rarr;</a>
 </div>
 
 <!-- Toast flottant -->
@@ -287,7 +287,7 @@ function copyPromoCode(btn, elementId) {
           "name": "Faut-il absolument choisir entre ChatGPT et Loora AI ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non, les deux outils sont complémentaires. Utilisez ChatGPT pour comprendre la grammaire et bâtir son vocabulaire, puis Loora pour pratiquer la conversation spontanée à voix haute."
+            "text": "Non, les deux outils sont complémentaires. La stratégie la plus efficace consiste à utiliser ChatGPT gratuitement pour comprendre la grammaire et bâtir son vocabulaire écrit, puis d'utiliser Loora pour pratiquer la conversation spontanée à voix haute sans friction technique."
           }
         },
         {
@@ -295,7 +295,7 @@ function copyPromoCode(btn, elementId) {
           "name": "Quelle est la meilleure IA pour débloquer son expression orale ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Loora AI est nettement plus pratique pour l'oral au quotidien grâce à son environnement 100 % vocal et sa reconnaissance phonétique ciblée sans réglage préalable."
+            "text": "Loora AI est nettement plus pratique pour l'oral au quotidien. Conçue dès le départ pour la conversation audio, elle intègre une reconnaissance phonétique ciblée et ne nécessite aucun réglage de prompt préalable."
           }
         },
         {
@@ -303,7 +303,7 @@ function copyPromoCode(btn, elementId) {
           "name": "Le mode vocal gratuit de ChatGPT permet-il de corriger son accent ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "C'est faisable avec des consignes précises, mais plus chronophage. Par défaut, ChatGPT se concentre sur le sens des phrases plutôt que sur la justesse de l'articulation."
+            "text": "C'est possible, mais cela réclame des consignes détaillées : par défaut, ChatGPT cherche surtout à comprendre le sens général de tes phrases et reste très tolérant sur les erreurs d'élocution. Il faut explicitement lui demander d'interrompre l'échange pour corriger chaque son."
           }
         },
         {
@@ -311,7 +311,7 @@ function copyPromoCode(btn, elementId) {
           "name": "Quel niveau d'anglais faut-il pour utiliser ces applications ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "ChatGPT s'adresse à tous les niveaux grâce aux explications en français. Loora convient idéalement dès le niveau A2/B1 pour s'entraîner en immersion anglophone complète."
+            "text": "ChatGPT convient à tous les profils, du grand débutant à l'avancé, grâce aux explications en français. Loora AI s'adresse principalement aux faux-débutants, intermédiaires et avancés (niveaux A2 à C1) capables de prononcer quelques phrases simples en immersion 100 % anglophone."
           }
         }
       ]
@@ -319,7 +319,6 @@ function copyPromoCode(btn, elementId) {
   ]
 }
 </script>
-
 <style>
     /* Titre & Fil d'Ariane */
     .breadcrumb {

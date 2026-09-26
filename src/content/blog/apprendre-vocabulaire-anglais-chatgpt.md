@@ -293,7 +293,7 @@ function copyPrompt(id, btn) {
           "name": "Comment utiliser ChatGPT pour progresser en grammaire anglaise ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Demande-lui d'expliquer une règle précise sans jargon théorique, puis sollicite un quiz interactif de 5 phrases à trous pour vérifier ta compréhension."
+            "text": "Demande-lui d'expliquer une règle précise (comme la nuance entre le Past Simple et le Present Perfect) en lui interdisant le jargon théorique, puis demande-lui un quiz interactif de 5 phrases à trous pour vérifier ta compréhension."
           }
         },
         {
@@ -301,7 +301,7 @@ function copyPrompt(id, btn) {
           "name": "ChatGPT peut-il remplacer une application de flashcards comme MosaLingua ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non. ChatGPT est parfait pour générer du contenu sur-mesure, mais il ne possède pas d'algorithme de répétition espacée (SRS) pour planifier les révisions à intervalles réguliers."
+            "text": "Non. ChatGPT est parfait pour générer du contenu et décortiquer les subtilités d'un mot, mais il ne possède pas d'algorithme natif pour planifier tes révisions à J+3, J+7 ou J+30. Les deux outils s'associent idéalement."
           }
         },
         {
@@ -309,7 +309,7 @@ function copyPrompt(id, btn) {
           "name": "Pourquoi faut-il impérativement indiquer son niveau à l'IA ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Préciser ton niveau CECRL permet à ChatGPT de calibrer la complexité des mots choisis et la longueur des phrases d'exemple pour correspondre exactement à tes compétences actuelles."
+            "text": "Si tu ne précises pas ton niveau, ChatGPT utilise par défaut un vocabulaire générique. En lui indiquant que tu es niveau A2 ou B2, il sélectionne des tournures calibrées pour ta zone proximale de progression, sans te noyer ni t'ennuyer."
           }
         }
       ]

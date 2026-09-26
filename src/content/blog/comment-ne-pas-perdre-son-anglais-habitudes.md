@@ -230,7 +230,6 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
 <a href="/" class="btn-sub">Retourner à l'accueil de Parler Malin</a>
 </div>
 </div>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -257,7 +256,7 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
           "name": "En combien de temps perd-on son anglais si on arrête de pratiquer ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Comme pour toute compétence, une langue ne disparaît pas d'un coup mais rouille progressivement sans pratique. La compréhension passive résiste généralement plus longtemps, tandis que la spontanéité et les réflexes oraux s'émoussent en premier."
+            "text": "Comme pour n'importe quelle compétence (un sport ou un instrument de musique), une langue ne s'efface pas du jour au lendemain, mais elle rouille progressivement si on ne la pratique plus. Il n'y a pas de durée fixe : la compréhension passive résiste généralement plus longtemps, tandis que les réflexes oraux et la spontanéité sont les premiers à s'estomper. Conserver un contact régulier, même très court, reste le moyen le plus simple d'éviter d'avoir à repartir de zéro."
           }
         },
         {
@@ -265,7 +264,7 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
           "name": "Faut-il continuer à utiliser ChatGPT une fois le niveau B2 atteint ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, mais l'usage évolue : utilise-le comme un partenaire de débat pour challenger tes arguments, relire des écrits professionnels ou découvrir des tournures plus idiomatiques."
+            "text": "Oui, mais l'usage évolue : au lieu de lui demander des règles de grammaire élémentaires, utilise-le comme un partenaire de débat pour challenger tes arguments, relire un écrit professionnel ou te suggérer des expressions plus idiomatiques."
           }
         },
         {
@@ -273,7 +272,7 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
           "name": "Comment connaître son vrai niveau d'anglais et savoir si on atteint le niveau C1 ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Le seul moyen fiable pour mesurer son niveau réel reste de passer une certification officielle (IELTS, Cambridge, TOEFL, TOEIC). Ces examens standardisés évaluent rigoureusement l'expression et la compréhension selon le cadre CECRL."
+            "text": "Le niveau C1 correspond à une réelle aisance spontanée au quotidien, mais pour obtenir une mesure objective, le seul moyen fiable reste de passer un test ou une certification officielle (comme l'IELTS, le Cambridge C1 Advanced, le TOEFL ou le TOEIC). Ces examens évaluent rigoureusement les quatre compétences (compréhension et expression, à l'oral comme à l'écrit) selon le cadre européen (CECRL) et permettent de certifier ton niveau pour un projet professionnel ou universitaire."
           }
         },
         {
@@ -281,7 +280,7 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
           "name": "L'immersion passive suffit-elle pour maintenir son niveau oral ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non. Écouter des podcasts nourrit la compréhension, mais ne mobilise pas les muscles de la mâchoire ni la spontanéité d'élocution. Un minimum de pratique active reste indispensable."
+            "text": "Non. Écouter des podcasts et regarder des séries nourrit ta compréhension, mais ne mobilise pas les muscles de ta bouche ni les réflexes de formulation spontanée. Un minimum de pratique active (parler à voix haute ou échanger avec un tuteur) reste indispensable."
           }
         }
       ]
@@ -289,7 +288,6 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
   ]
 }
 </script>
-
 <style>
     /* Titre & Fil d'Ariane */
     .breadcrumb {

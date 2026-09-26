@@ -295,7 +295,7 @@ function copyPrompt(id, btn) {
           "name": "Faut-il un abonnement payant ChatGPT Plus pour ce planning ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non. La version gratuite standard de ChatGPT traite parfaitement ce prompt d'organisation horaire et génère le tableau sans aucune limitation."
+            "text": "Non. La version gratuite standard (GPT-4o mini) traite parfaitement ce prompt d'organisation horaire et génère le tableau sans aucune limitation."
           }
         },
         {
@@ -303,7 +303,7 @@ function copyPrompt(id, btn) {
           "name": "Peut-on utiliser ce prompt avec Claude ou Gemini ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui. Le prompt repose sur des consignes de rôle et de contraintes logiques universelles qui fonctionnent parfaitement sur Google Gemini ou Anthropic Claude."
+            "text": "Oui. Le prompt repose sur des consignes de rôle et des contraintes logiques universelles. Il s'exécute avec la même efficacité sur Google Gemini ou Anthropic Claude."
           }
         },
         {

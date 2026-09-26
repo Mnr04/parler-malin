@@ -324,7 +324,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
 <span class="next-label">REBOND MÉTHODE</span>
 <h3>Tu hésites entre Preply et d'autres solutions ?</h3>
 <p>Compare cette approche avec notre méthode pas à pas pour combiner l'entraînement gratuit sur l'IA et les sessions orales avec des natifs.</p>
-<a href="/pratiquer-anglais-natifs/" class="btn-next">Voir l'étape 06 du guide complet &rarr;</a>
+<a href="/pratiquer-anglais-natifs/" class="btn-next">Combiner l'IA et les tuteurs natifs : la méthode pas à pas &rarr;</a>
 </div>
 
 <script type="application/ld+json">
@@ -376,7 +376,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
           "name": "Preply est-il un service fiable pour apprendre l'anglais ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui. Preply s'appuie sur des avis vérifiés laissés par des étudiants ayant réellement payé leurs cours. De plus, la plateforme bloque les fonds jusqu'à ce que la leçon soit confirmée par l'élève."
+            "text": "Oui. Preply s'appuie sur des avis vérifiés laissés par des étudiants ayant réellement payé leurs cours. De plus, la plateforme bloque les fonds jusqu'à ce que la leçon soit confirmée par l'élève, ce qui protège contre les annulations abusives."
           }
         },
         {
@@ -392,7 +392,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
           "name": "Que se passe-t-il si la 1ère leçon d'essai ne me convient pas ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Preply propose une garantie de remplacement : si le courant ne passe pas avec le professeur choisi lors de la première leçon, la plateforme t'offre un cours gratuit avec un autre tuteur ou un remboursement intégral."
+            "text": "Preply propose une garantie de remplacement : si le courant ne passe pas avec le professeur choisi lors de la première leçon, la plateforme t'offre un cours gratuit avec un autre tuteur de ton choix, ou un remboursement intégral."
           }
         },
         {
@@ -400,7 +400,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
           "name": "Peut-on annuler un cours réservé sans frais ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, à condition d'annuler au moins 12 heures avant l'heure prévue. Passé ce délai, la séance est facturée pour dédommager le tuteur."
+            "text": "Oui, à condition d'annuler au moins 12 heures avant l'heure prévue du cours. Passé ce délai de 12 heures, la séance est facturée pour dédommager le professeur qui a bloqué son créneau."
           }
         }
       ]

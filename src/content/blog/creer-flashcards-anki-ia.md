@@ -250,7 +250,7 @@ La création de flashcards n'est qu'un maillon de ton apprentissage. Pour progre
 <span class="next-label">RETOURNER À L'ÉTAPE 03</span>
 <h3>Apprendre le vocabulaire et la grammaire avec ChatGPT</h3>
 <p>Découvre les prompts pour apprendre des mots en contexte et lancer des quiz interactifs tour par tour avec l'IA.</p>
-<a href="/apprendre-vocabulaire-anglais-chatgpt/" class="btn-next">Voir le guide du vocabulaire &rarr;</a>
+<a href="/apprendre-vocabulaire-anglais-chatgpt/" class="btn-next">Comment apprendre le vocabulaire et la grammaire avec ChatGPT &rarr;</a>
 </div>
 
 <!-- Toast flottant -->
@@ -311,7 +311,7 @@ function copyPrompt(id, btn) {
           "name": "Comment importer une liste de vocabulaire dans Anki avec l'IA ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Demande à ChatGPT de générer tes données séparées par une tabulation dans un bloc de code brut. Enregistre ce texte en UTF-8 dans un fichier .txt ou .csv, puis importe-le dans Anki en associant les colonnes au Recto et au Verso."
+            "text": "Demande à ChatGPT de générer tes paires de mots séparées par une tabulation dans un bloc de code brut. Copie le bloc, colle-le dans un éditeur de texte enregistré au format .txt ou .csv avec l'encodage UTF-8. Ouvre Anki, clique sur Importer, sélectionne ton fichier et vérifie que la colonne 1 alimente le Recto et la colonne 2 le Verso."
           }
         },
         {
@@ -319,7 +319,7 @@ function copyPrompt(id, btn) {
           "name": "Pourquoi mes accents s'affichent-ils mal sur mes cartes Anki ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ce bug est lié à l'encodage par défaut (ANSI). Pour le corriger, ouvre ton fichier texte, choisis « Enregistrer sous » et force la sélection de l'encodage UTF-8."
+            "text": "Ce problème survient quand le fichier a été enregistré avec l'encodage par défaut de Windows (ANSI). Pour le résoudre, ouvre ton fichier dans le Bloc-notes, fais « Enregistrer sous » et choisis impérativement l'encodage UTF-8 dans le menu déroulant en bas."
           }
         },
         {
@@ -327,7 +327,7 @@ function copyPrompt(id, btn) {
           "name": "Quel est le meilleur séparateur pour un deck Anki ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La tabulation est le séparateur le plus fiable, car elle n'apparaît presque jamais dans une phrase d'exemple, évitant ainsi de décaler les colonnes lors de l'import."
+            "text": "La tabulation est le séparateur le plus sûr, car elle n'apparaît quasiment jamais au milieu d'une phrase d'exemple. La virgule (format CSV standard) risque de couper tes phrases en morceaux si tes exemples contiennent déjà des virgules."
           }
         },
         {
@@ -335,7 +335,7 @@ function copyPrompt(id, btn) {
           "name": "Anki est-il totalement gratuit ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui sur Windows, Mac, Linux, AnkiWeb et Android. Seule la version iOS (iPhone/iPad) est payante pour financer le développement de la plateforme open source."
+            "text": "Oui sur ordinateur (Windows, Mac, Linux), sur le web (AnkiWeb) et sur Android (via l'application AnkiDroid). Seule la version iOS (iPhone et iPad) est payante pour financer le développement continu du projet open source."
           }
         }
       ]

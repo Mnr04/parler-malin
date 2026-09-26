@@ -152,7 +152,7 @@ Pas de prompt à taper ni de contexte à inventer : tu choisis un sujet du quoti
 <div class="tool-callout-content">
 <div class="tool-tag-row">
 <span class="tool-pill">COACH VOCAL CLÉ EN MAIN</span>
-<span class="tool-feature">Correction phonétique en direct</span>
+<span class="tool-feature">Correction phonétique</span>
 </div>
 <h4>Loora AI : L'accélérateur pour débloquer l'oral sans friction</h4>
 <p>Pour t'entraîner chaque jour sans perdre de temps en configuration, Loora ajuste les dialogues à ton rythme et souligne les sons à corriger. Bénéficie de <strong>10&nbsp;% de réduction</strong> avec le code partenaire ci-dessous&nbsp;:</p>
