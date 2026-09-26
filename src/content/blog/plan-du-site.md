@@ -29,7 +29,6 @@ date: 2026-06-13
 <a href="/mentions-legales/" class="page-link-card"><span>⚖️ Mentions Légales</span> &rarr;</a>
 <a href="/conditions-generales-dutilisation/" class="page-link-card"><span>📜 CGU</span> &rarr;</a>
 <a href="/politique-de-confidentialite-rgpd/" class="page-link-card"><span>🔒 Politique de Confidentialité (RGPD)</span> &rarr;</a>
-<a href="/politique-de-cookies-ue/" class="page-link-card"><span>🍪 Politique de cookies UE</span> &rarr;</a>
 </div>
 
 ---
@@ -76,7 +75,7 @@ date: 2026-06-13
 <h4>7 Prompts ChatGPT pour Apprendre le Vocabulaire Anglais (Argot, Émotions, Métier…)</h4>
 <span>Consulter &rarr;</span>
 </a>
-<a href="/peur-parler-anglais-entretien-embauche/" class="blog-article-card">
+<a href="/peur-parler-anglais-entretien-embauche-ia/" class="blog-article-card">
 <h4>Peur de parler anglais en entretien d'embauche ? Hackez votre préparation avec l'IA</h4>
 <span>Consulter &rarr;</span>
 </a>
@@ -88,7 +87,7 @@ date: 2026-06-13
 <h4>Comment Maîtriser la Conjugaison Anglaise avec ChatGPT</h4>
 <span>Consulter &rarr;</span>
 </a>
-<a href="/prompt-chatgpt-voyage-anglais/" class="blog-article-card">
+<a href="/prompt-chatgpt-anglais-voyage/" class="blog-article-card">
 <h4>Préparer son Voyage en Anglais : Simulateur de conversation</h4>
 <span>Consulter &rarr;</span>
 </a>

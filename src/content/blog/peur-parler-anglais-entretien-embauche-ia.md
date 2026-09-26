@@ -310,7 +310,7 @@ function copyPromoCode(btn, elementId) {
       "dateModified": "2026-07-24",
       "image": "https://parlermalin.fr/uploads/2026/07/peur-parler-anglais-entretien-embauche-chatgpt-scaled.avif",
       "inLanguage": "fr-FR",
-      "mainEntityOfPage": "https://parlermalin.fr/peur-parler-anglais-entretien-embauche/"
+      "mainEntityOfPage": "https://parlermalin.fr/peur-parler-anglais-entretien-embauche-ia/"
     },
     {
       "@type": "FAQPage",

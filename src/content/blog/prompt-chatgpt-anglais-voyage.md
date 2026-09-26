@@ -259,7 +259,7 @@ function copyPrompt(id, btn) {
       "dateModified": "2026-08-03",
       "image": "https://parlermalin.fr/uploads/2026/07/prompt-chatgpt-voyage-anglais-scaled.avif",
       "inLanguage": "fr-FR",
-      "mainEntityOfPage": "https://parlermalin.fr/prompt-chatgpt-voyage-anglais/"
+      "mainEntityOfPage": "https://parlermalin.fr/prompt-chatgpt-anglais-voyage/"
     },
     {
       "@type": "FAQPage",
