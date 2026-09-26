@@ -12,11 +12,14 @@ interface Props {
     image?: ImageMetadata;
 }
 
+const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : 'https://parlermalin.fr';
 let currentPath = Astro.url.pathname;
+
+if (!currentPath.startsWith('/')) currentPath = '/' + currentPath;
 if (currentPath !== '/' && !currentPath.endsWith('/')) {
     currentPath += '/';
 }
-const canonicalURL = new URL(currentPath, Astro.site);
+const canonicalURL = new URL(currentPath, siteUrl);
 
 const { title, description, image = FallbackImage } = Astro.props;
 ---
@@ -35,7 +38,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta name="generator" content={Astro.generator} />
 
 <!-- Canonical URL -->
-<link rel="canonical" href={canonicalURL} />
+<link rel="canonical" href={canonicalURL.href} />
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
