@@ -4,6 +4,10 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://parlermalin.fr',
-	integrations: [mdx(), sitemap()],
+    site: 'https://parlermalin.fr',
+    trailingSlash: 'always',
+    build: {
+        format: 'directory',
+    },
+    integrations: [mdx(), sitemap()],
 });
