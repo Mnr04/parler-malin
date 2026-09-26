@@ -1,24 +1,134 @@
 ---
-// Composant du bandeau de cookies
+// Composant du bandeau de cookies (CSS intégré, sans dépendance externe)
 ---
 
-<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 z-50 p-4 md:p-6 bg-gray-100/95 backdrop-blur-md border-t border-gray-300 shadow-2xl transition-transform duration-300 translate-y-full hidden text-gray-900">
-  <div class="max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
-    <div class="text-sm leading-relaxed">
-      <p class="font-bold text-gray-900 mb-1">Gestion de la confidentialité & des cookies</p>
-      Ce site utilise des cookies de mesure d'audience (Google Analytics) soumis à votre consentement préalable. Aucun traceur n'est déposé par défaut. 
-      <a href="/blog/politique-de-confidentialite-rgpd" class="text-blue-600 font-medium hover:underline ml-1">En savoir plus</a>
+<div id="cookie-banner" class="cookie-banner hidden translate-y-full">
+  <div class="cookie-container">
+    <div class="cookie-text">
+      <p class="cookie-title">Gestion de la confidentialité & des cookies</p>
+      <p class="cookie-desc">
+        Ce site utilise des cookies de mesure d'audience (Google Analytics) soumis à votre consentement préalable. Aucun traceur n'est déposé par défaut. 
+        <a href="/blog/politique-de-confidentialite-rgpd" class="cookie-link">En savoir plus</a>
+      </p>
     </div>
-    <div class="flex items-center gap-3 shrink-0">
-      <button id="cookie-decline" class="px-5 py-2.5 text-sm font-medium text-gray-700 bg-gray-200 hover:bg-gray-300 rounded-xl transition">
+    <div class="cookie-actions">
+      <button id="cookie-decline" class="btn btn-decline">
         Refuser
       </button>
-      <button id="cookie-accept" class="px-5 py-2.5 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition shadow-md">
+      <button id="cookie-accept" class="btn btn-accept">
         Tout accepter
       </button>
     </div>
   </div>
 </div>
+
+<style>
+  .cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    padding: 1rem 1.5rem;
+    background-color: rgba(243, 244, 246, 0.95);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-top: 1px solid #d1d5db;
+    box-shadow: 0 -10px 25px -5px rgba(0, 0, 0, 0.1), 0 -8px 10px -6px rgba(0, 0, 0, 0.1);
+    color: #111827;
+    font-family: inherit;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .cookie-banner.translate-y-full {
+    transform: translateY(100%);
+  }
+
+  .cookie-banner.hidden {
+    display: none;
+  }
+
+  .cookie-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    text-align: center;
+  }
+
+  @media (min-width: 768px) {
+    .cookie-container {
+      flex-direction: row;
+      text-align: left;
+    }
+  }
+
+  .cookie-text {
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+
+  .cookie-title {
+    font-weight: 700;
+    color: #111827;
+    margin: 0 0 0.25rem 0;
+  }
+
+  .cookie-desc {
+    margin: 0;
+    color: #374151;
+  }
+
+  .cookie-link {
+    color: #2563eb;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 0.25rem;
+  }
+
+  .cookie-link:hover {
+    text-decoration: underline;
+  }
+
+  .cookie-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .btn {
+    padding: 0.625rem 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-radius: 0.75rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s, box-shadow 0.2s;
+  }
+
+  .btn-decline {
+    background-color: #e5e7eb;
+    color: #374151;
+  }
+
+  .btn-decline:hover {
+    background-color: #d1d5db;
+  }
+
+  .btn-accept {
+    background-color: #2563eb;
+    color: #ffffff;
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.25);
+  }
+
+  .btn-accept:hover {
+    background-color: #1d4ed8;
+  }
+</style>
 
 <script>
   // @ts-nocheck
@@ -50,19 +160,19 @@
 
     if (!consent) {
       banner.classList.remove('hidden');
-      setTimeout(() => banner.classList.remove('translate-y-full'), 100);
+      setTimeout(() => banner.classList.remove('translate-y-full'), 50);
     } else if (consent === 'accepted') {
       loadGA();
     }
 
-    acceptBtn.addEventListener('click', function() {
+    acceptBtn?.addEventListener('click', function() {
       localStorage.setItem('cookie_consent', 'accepted');
       banner.classList.add('translate-y-full');
       setTimeout(() => banner.classList.add('hidden'), 300);
       loadGA();
     });
 
-    declineBtn.addEventListener('click', function() {
+    declineBtn?.addEventListener('click', function() {
       localStorage.setItem('cookie_consent', 'declined');
       banner.classList.add('translate-y-full');
       setTimeout(() => banner.classList.add('hidden'), 300);
