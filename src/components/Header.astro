@@ -4,82 +4,206 @@ import HeaderLink from './HeaderLink.astro';
 ---
 
 <header class="header-nav">
-	<nav>
-		<a href="/" class="brand-logo">
-			<span class="logo-mark">PM</span>
-			<span class="logo-text">{SITE_TITLE}</span>
-		</a>
-		<div class="internal-links">
-			<HeaderLink href="/">Accueil</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/a-propos/">À propos</HeaderLink>
-		</div>
-	</nav>
+    <nav>
+        <a href="/" class="brand-logo">
+            <span class="logo-mark">PM</span>
+            <span class="logo-text">{SITE_TITLE}</span>
+        </a>
+
+        <!-- Bouton Burger (mobile uniquement) -->
+        <button id="menu-toggle" class="burger-btn" aria-label="Ouvrir le menu" aria-expanded="false">
+            <span class="burger-bar"></span>
+            <span class="burger-bar"></span>
+            <span class="burger-bar"></span>
+        </button>
+
+        <!-- Liens de navigation -->
+        <div id="nav-links" class="internal-links">
+            <HeaderLink href="/">Accueil</HeaderLink>
+            <HeaderLink href="/blog">Blog</HeaderLink>
+            <HeaderLink href="/a-propos/">À propos</HeaderLink>
+        </div>
+    </nav>
 </header>
 
 <style>
-	.header-nav {
-		position: sticky;
-		top: 0;
-		z-index: 100;
-		background: rgba(255, 255, 255, 0.88);
-		backdrop-filter: blur(12px);
-		-webkit-backdrop-filter: blur(12px);
-		border-bottom: 1px solid rgba(226, 232, 240, 0.8);
-		padding: 0.6em 1.5em;
-	}
-	nav {
-		max-width: 900px;
-		margin: 0 auto;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-	}
-	.brand-logo {
-		display: flex;
-		align-items: center;
-		gap: 0.6em;
-		text-decoration: none;
-		font-weight: 700;
-		font-size: 1.15rem;
-		color: var(--text-main);
-	}
-	.logo-mark {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		width: 34px;
-		height: 34px;
-		border-radius: 8px;
-		background: var(--accent);
-		color: #ffffff;
-		font-size: 0.85rem;
-		font-weight: 800;
-		letter-spacing: -0.05em;
-	}
-	.logo-text {
-		letter-spacing: -0.02em;
-	}
-	.internal-links {
-		display: flex;
-		gap: 0.5em;
-	}
-	.internal-links :global(a) {
-		padding: 0.5em 0.85em;
-		font-size: 0.95rem;
-		font-weight: 500;
-		color: var(--text-muted);
-		border-radius: 8px;
-		transition: all 0.15s ease;
-		text-decoration: none;
-	}
-	.internal-links :global(a:hover) {
-		color: var(--text-main);
-		background: var(--bg-alt);
-	}
-	.internal-links :global(a.active) {
-		color: var(--accent);
-		font-weight: 600;
-		background: var(--accent-subtle);
-	}
+    .header-nav {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: rgba(255, 255, 255, 0.92);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+        padding: 0.75rem 1.5rem;
+    }
+
+    nav {
+        max-width: 900px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .brand-logo {
+        display: flex;
+        align-items: center;
+        gap: 0.6em;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 1.15rem;
+        color: var(--text-main);
+    }
+
+    .logo-mark {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 34px;
+        height: 34px;
+        border-radius: 8px;
+        background: var(--primary, #4f46e5);
+        color: #ffffff;
+        font-size: 0.85rem;
+        font-weight: 800;
+        letter-spacing: -0.05em;
+    }
+
+    .logo-text {
+        letter-spacing: -0.02em;
+    }
+
+    /* Liens Desktop */
+    .internal-links {
+        display: flex;
+        gap: 0.5em;
+        align-items: center;
+    }
+
+    .internal-links :global(a) {
+        padding: 0.5em 0.85em;
+        font-size: 0.95rem;
+        font-weight: 500;
+        color: var(--text-muted);
+        border-radius: 8px;
+        transition: all 0.15s ease;
+        text-decoration: none;
+    }
+
+    .internal-links :global(a:hover) {
+        color: var(--text-main);
+        background: var(--primary-subtle, #eef2ff);
+    }
+
+    .internal-links :global(a.active) {
+        color: var(--primary, #4f46e5);
+        font-weight: 700;
+        background: var(--primary-subtle, #eef2ff);
+    }
+
+    /* Bouton burger */
+    .burger-btn {
+        display: none;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 24px;
+        height: 18px;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        z-index: 101;
+    }
+
+    .burger-bar {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background-color: var(--text-main);
+        border-radius: 2px;
+        transition: transform 0.25s ease, opacity 0.25s ease;
+    }
+
+    /* Animation du burger en croix */
+    .burger-btn.is-active .burger-bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .burger-btn.is-active .burger-bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .burger-btn.is-active .burger-bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    /* Adaptation Mobile (< 768px) */
+    @media (max-width: 768px) {
+        .burger-btn {
+            display: flex;
+        }
+
+        .internal-links {
+            position: absolute;
+            top: calc(100% + 0.75rem);
+            left: -1.5rem;
+            right: -1.5rem;
+            background: rgba(255, 255, 255, 0.98);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border-bottom: 1px solid rgba(226, 232, 240, 0.9);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
+            flex-direction: column;
+            align-items: stretch;
+            padding: 1rem 1.5rem;
+            gap: 0.5rem;
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(-8px);
+            transition: opacity 0.2s ease, transform 0.2s ease;
+        }
+
+        .internal-links.is-open {
+            opacity: 1;
+            pointer-events: auto;
+            transform: translateY(0);
+        }
+
+        .internal-links :global(a) {
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            width: 100%;
+            box-sizing: border-box;
+        }
+    }
 </style>
+
+<script>
+    function setupMobileMenu() {
+        const toggleBtn = document.getElementById('menu-toggle');
+        const navLinks = document.getElementById('nav-links');
+
+        if (!toggleBtn || !navLinks) return;
+
+        toggleBtn.addEventListener('click', () => {
+            const isOpen = navLinks.classList.toggle('is-open');
+            toggleBtn.classList.toggle('is-active', isOpen);
+            toggleBtn.setAttribute('aria-expanded', String(isOpen));
+        });
+
+        // Fermer le menu au clic sur un lien
+        navLinks.querySelectorAll('a').forEach((link) => {
+            link.addEventListener('click', () => {
+                navLinks.classList.remove('is-open');
+                toggleBtn.classList.remove('is-active');
+                toggleBtn.setAttribute('aria-expanded', 'false');
+            });
+        });
+    }
+
+    // Compatible avec les chargements classiques et View Transitions d'Astro
+    document.addEventListener('DOMContentLoaded', setupMobileMenu);
+    document.addEventListener('astro:page-load', setupMobileMenu);
+</script>

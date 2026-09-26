@@ -75,7 +75,7 @@ const etapes = [
 <!doctype html>
 <html lang="fr" class="scroll-smooth">
     <head>
-        <BaseHead title={`Apprendre l'Anglais avec l'IA | ${SITE_TITLE}`} description="La méthode anti-scolaire pour parler anglais couramment. Découvrez les meilleurs prompts, outils IA et applications pour pratiquer au quotidien." />
+        <BaseHead title={`Apprendre l'Anglais avec l'IA | ${SITE_TITLE}`} description="La méthode pour progresser en anglais. Découvrez les meilleurs prompts, outils IA et applications pour pratiquer au quotidien." />
         
         <!-- Script JSON-LD pour la FAQ (SEO/GEO) -->
         <script type="application/ld+json">
@@ -111,7 +111,7 @@ const etapes = [
             :root {
                 --bg: #f8fafc;
                 --surface: #ffffff;
-                --surface-subtle: #f1f5f9;
+                --surface-subtle: #f8fafc;
                 --border: #e2e8f0;
                 --border-strong: #cbd5e1;
                 --text-main: #0f172a;
@@ -233,6 +233,9 @@ const etapes = [
                 text-decoration: none;
                 transition: transform 0.15s ease, box-shadow 0.15s ease;
                 box-shadow: 0 4px 14px rgba(79, 70, 229, 0.35);
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
             }
 
             .btn-primary:hover {
@@ -417,7 +420,7 @@ const etapes = [
                 text-underline-offset: 3px;
             }
 
-            /* --- Carnet E-E-A-T --- */
+            /* --- Carnet E-E-A-T & Points Clés Développés --- */
             .logbook-card {
                 background: var(--surface);
                 border: 1px solid var(--border);
@@ -440,11 +443,6 @@ const etapes = [
             }
 
             .logbook-header {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                flex-wrap: wrap;
-                gap: 1rem;
                 border-bottom: 1px solid var(--border);
                 padding-bottom: 1.25rem;
                 margin-bottom: 1.5rem;
@@ -458,26 +456,58 @@ const etapes = [
                 color: var(--text-main);
             }
 
-            .logbook-entry {
-                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-                font-size: 0.75rem;
-                color: var(--primary);
-                font-weight: 700;
-            }
-
-            .logbook-body {
+            .logbook-intro {
                 font-size: 1rem;
                 color: var(--text-muted);
-                line-height: 1.7;
-                max-width: 800px;
+                line-height: 1.6;
+                margin: 0 0 1.5rem 0;
             }
 
-            .logbook-body p {
-                margin: 0 0 1rem;
+            .editorial-features {
+                display: flex;
+                flex-direction: column;
+                gap: 0.85rem;
+                margin-bottom: 2rem;
             }
 
-            .logbook-body p:last-child {
-                margin-bottom: 1.5rem;
+            .feature-item {
+                display: flex;
+                align-items: flex-start;
+                gap: 0.85rem;
+                padding: 0.9rem 1.1rem;
+                background: var(--surface-subtle);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-md);
+                transition: border-color 0.15s ease, background 0.15s ease;
+            }
+
+            .feature-item:hover {
+                background: #ffffff;
+                border-color: var(--primary-border);
+            }
+
+            .feature-icon-badge {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 22px;
+                height: 22px;
+                border-radius: 50%;
+                background: var(--primary-subtle);
+                color: var(--primary);
+                flex-shrink: 0;
+                margin-top: 1px;
+            }
+
+            .feature-text {
+                font-size: 0.92rem;
+                line-height: 1.5;
+                color: var(--text-muted);
+            }
+
+            .feature-text strong {
+                color: var(--text-main);
+                font-weight: 700;
             }
 
             .logbook-footer {
@@ -596,9 +626,71 @@ const etapes = [
                 margin-top: auto;
             }
 
+            /* --- CTA Final Pro & Épuré --- */
+            .final-cta-card {
+                margin-top: 5.5rem;
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: 24px;
+                padding: 4rem 2rem;
+                box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.04), 0 20px 40px -15px rgba(79, 70, 229, 0.07);
+                position: relative;
+                overflow: hidden;
+            }
+
+            .final-cta-card::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: 5px;
+                background: linear-gradient(90deg, #4f46e5, #7c3aed, #06b6d4);
+            }
+
+            .final-cta-content {
+                max-width: 620px;
+                margin: 0 auto;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .final-cta-content h2 {
+                font-size: clamp(1.8rem, 3.8vw, 2.3rem);
+                font-weight: 800;
+                letter-spacing: -0.03em;
+                margin: 0.75rem 0 0.85rem;
+                color: var(--text-main);
+            }
+
+            .final-cta-content p {
+                font-size: 1.05rem;
+                color: var(--text-muted);
+                line-height: 1.6;
+                margin: 0 0 2rem;
+            }
+
+            .btn-large {
+                padding: 1rem 2.25rem;
+                font-size: 1rem;
+                gap: 0.6rem;
+            }
+
+            .final-cta-microcopy {
+                font-size: 0.8rem;
+                color: var(--text-faint);
+                margin-top: 1.25rem;
+                font-weight: 500;
+            }
+
             @media (max-width: 640px) {
                 .logbook-card {
                     padding: 1.5rem;
+                }
+                .final-cta-card {
+                    padding: 2.75rem 1.25rem;
                 }
                 .stack-wrapper {
                     flex-direction: column;
@@ -618,7 +710,6 @@ const etapes = [
                 </p>
                 <div class="hero-ctas">
                     <a href="#guide" class="btn-primary">Consulter la roadmap</a>
-                    <a href="#outils" class="btn-secondary">Matériel & outils testés</a>
                 </div>
             </section>
 
@@ -664,19 +755,51 @@ const etapes = [
                 </div>
             </section>
 
-            <!-- 4. CARNET DE BORD / E-E-A-T -->
+            <!-- 4. CARNET DE BORD / E-E-A-T (AÉRÉ & STRUCTURÉ) -->
             <section class="logbook-card">
                 <div class="logbook-header">
                     <h2 class="logbook-title">L'approche éditoriale</h2>
                 </div>
-                <div class="logbook-body">
-                    <p>
-                        Je m'intéresse de près à l'intelligence artificielle et à la façon dont elle peut servir de levier concret d'apprentissage. J'ai testé différentes méthodes pour vérifier si c'est outils peuvent aider à progresser.
-                    </p>
-                    <p>
-                        Ce site est tenu comme un carnet de bord d'expérimentations : aucun résultat miracle n'est garanti. L'objectif est simplement de partager des configurations de prompts, des analyses d'applications et un cadre structuré pour progresser de manière autonome et régulière.
-                    </p>
+                
+                <p class="logbook-intro">
+                    Ce site est tenu comme un carnet de bord d'expérimentations concrètes : pas de méthodes miracles, uniquement des tests pratiques basés sur l'IA.
+                </p>
+
+                <div class="editorial-features">
+                    <div class="feature-item">
+                        <div class="feature-icon-badge">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                        </div>
+                        <div class="feature-text">
+                            <strong>Tests sur le terrain :</strong> retours d'expérience honnêtes sur les outils et applications d'apprentissage.
+                        </div>
+                    </div>
+
+                    <div class="feature-item">
+                        <div class="feature-icon-badge">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                        </div>
+                        <div class="feature-text">
+                            <strong>Prompts opérationnels :</strong> des modèles prêts à copier-coller pour transformer ChatGPT en coach d'anglais.
+                        </div>
+                    </div>
+
+                    <div class="feature-item">
+                        <div class="feature-icon-badge">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                        </div>
+                        <div class="feature-text">
+                            <strong>Pratique en autonomie :</strong> un cadre structuré pour s'entraîner quotidiennement sans dépendre d'un cours magistral.
+                        </div>
+                    </div>
                 </div>
+
                 <div class="logbook-footer">
                     <div class="author-badge">
                         <div class="author-avatar-placeholder">J</div>
@@ -685,7 +808,7 @@ const etapes = [
                             <p class="author-info-role">Créateur du site</p>
                         </div>
                     </div>
-                    <a href="/a-propos/" class="link-subtle">En Savoir plus &rarr;</a>
+                    <a href="/a-propos/" class="link-subtle">En savoir plus &rarr;</a>
                 </div>
             </section>
 
@@ -720,6 +843,30 @@ const etapes = [
                             </a>
                         ))
                     }
+                </div>
+            </section>
+
+            <!-- 6. CTA FINAL : TEST DE NIVEAU (CENTRÉ ET ENCADRÉ) -->
+            <section class="final-cta-card">
+                <div class="final-cta-content">
+                    <div class="section-tag">
+                        <span class="dot"></span>
+                        <span>Étape 01 &bull; Diagnostic</span>
+                    </div>
+                    <h2>Par où commencer votre entraînement ?</h2>
+                    <p>
+                        Évaluez votre niveau actuel à l'écrit et à l'oral rapidement grâce à notre système interactif de prompts ChatGPT.
+                    </p>
+                    <a href="/test-niveau-anglais-chatgpt/" class="btn-primary btn-large">
+                        <span>Estimer son niveau avec l'IA</span>
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </a>
+                    <span class="final-cta-microcopy">
+                        ✓ Gratuit &bull; Sans inscription
+                    </span>
                 </div>
             </section>
         </main>
