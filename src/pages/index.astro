@@ -82,28 +82,48 @@ const etapes = [
         {
           "@context": "https://schema.org",
           "@type": "FAQPage",
-          "mainEntity": [{
-            "@type": "Question",
-            "name": "Peut-on vraiment apprendre l'anglais seul avec ChatGPT ?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Oui. ChatGPT agit comme un tuteur particulier disponible 24h/24. Il peut générer des exercices sur-mesure, simuler des conversations et corriger vos erreurs instantanément."
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Est-il vraiment possible d'apprendre l'anglais de zéro avec l'IA ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolument, mais l'IA n'est qu'un outil : c'est votre régularité qui fera la différence. ChatGPT agit comme un tuteur personnel disponible 24h/24. Il permet de créer un environnement d'immersion totale (vocabulaire sur-mesure selon vos passions, corrections instantanées, jeux de rôle) directement depuis chez vous. Le but est de remplacer l'apprentissage passif par une pratique active dès le premier jour."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Comment pratiquer l'oral et l'accent si je suis seul(e) devant mon écran ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "C'est la plus grande révolution apportée par l'intelligence artificielle. Avec le mode vocal de ChatGPT ou des applications spécialisées comme Loora, vous pouvez converser naturellement à voix haute. L'IA écoute, comprend et répond de manière fluide. L'immense avantage ? Vous pratiquez sans la pression ni le jugement d'un interlocuteur humain, ce qui débloque la timidité."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Faut-il payer la version Premium de ChatGPT (Plus) pour utiliser vos méthodes ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Non. La majorité de nos prompts et protocoles d'apprentissage sont parfaitement opérationnels avec la version gratuite de ChatGPT. La version payante offre un mode vocal plus fluide et une mémoire contextuelle plus profonde, mais n'est en aucun cas un prérequis pour démarrer votre routine, évaluer votre niveau ou générer vos exercices."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pourquoi l'ensemble des guides et prompts du site sont-ils 100% gratuits ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Notre objectif est de rendre l'apprentissage moderne accessible à tous. Le site se rémunère de manière transparente via l'affiliation : si vous découvrez et décidez de vous abonner à une application éducative premium via l'un de nos liens (après avoir lu nos tests), nous touchons une commission, sans le moindre surcoût pour vous. Ce modèle permet de financer le temps passé à tester les outils et à maintenir la totalité de nos ressources éditoriales gratuites."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Combien de temps par jour dois-je y consacrer ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont  plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées."
+              }
             }
-          }, {
-            "@type": "Question",
-            "name": "L'IA peut-elle corriger mon accent en anglais ?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Absolument. De nouvelles applications basées sur l'IA analysent votre fréquence vocale et vous indiquent exactement où placer votre langue ou vos lèvres pour améliorer votre prononciation."
-            }
-          }, {
-            "@type": "Question",
-            "name": "Est-ce mieux qu'un professeur particulier d'anglais ?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "C'est complémentaire. L'IA lève la barrière de la timidité et coûte infiniment moins cher, ce qui permet de pratiquer tous les jours. C'est l'outil parfait pour se débloquer avant de parler avec des natifs."
-            }
-          }]
+          ]
         }
         </script>
 
@@ -420,7 +440,7 @@ const etapes = [
                 text-underline-offset: 3px;
             }
 
-            /* --- Carnet E-E-A-T & Points Clés Développés --- */
+            /* --- Carnet E-E-A-T --- */
             .logbook-card {
                 background: var(--surface);
                 border: 1px solid var(--border);
@@ -565,6 +585,78 @@ const etapes = [
 
             .link-subtle:hover {
                 border-color: var(--primary);
+            }
+
+            /* --- Section FAQ --- */
+            .faq-section {
+                margin-bottom: 5.5rem;
+            }
+            
+            .faq-container {
+                max-width: 800px;
+                margin: 0 auto;
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .faq-item {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-md);
+                overflow: hidden;
+                transition: border-color 0.2s ease, box-shadow 0.2s ease;
+            }
+
+            .faq-item:hover {
+                border-color: var(--primary-border);
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+            }
+
+            .faq-item summary {
+                padding: 1.25rem 1.5rem;
+                font-size: 1.05rem;
+                font-weight: 700;
+                color: var(--text-main);
+                cursor: pointer;
+                list-style: none;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                transition: color 0.2s ease;
+            }
+            
+            .faq-item summary:hover {
+                color: var(--primary);
+            }
+
+            /* Masquer la flèche par défaut du summary */
+            .faq-item summary::-webkit-details-marker {
+                display: none;
+            }
+
+            .faq-item summary::after {
+                content: "+";
+                font-size: 1.5rem;
+                font-weight: 400;
+                color: var(--primary);
+                line-height: 1;
+                transition: transform 0.3s ease;
+            }
+
+            .faq-item[open] summary::after {
+                transform: rotate(45deg);
+            }
+
+            .faq-item[open] summary {
+                border-bottom: 1px solid var(--surface-subtle);
+            }
+
+            .faq-answer {
+                padding: 1.25rem 1.5rem;
+                font-size: 0.95rem;
+                color: var(--text-muted);
+                line-height: 1.6;
             }
 
             /* --- Blog --- */
@@ -719,15 +811,15 @@ const etapes = [
                     <span>Outils que je recommande :</span>
                 </div>
                 <div class="stack-pills">
-    <a href="/loora-app-avis/" class="stack-card">
-        <span>Loora</span>
-        <span class="badge-loora">Oral IA</span>
-    </a>
-    <a href="#" class="stack-card" title="Article en préparation">
-        <span>ChatGPT</span>
-        <span class="badge-chatgpt">Tuteur</span>
-    </a>
-</div>
+                    <a href="/loora-app-avis/" class="stack-card">
+                        <span>Loora</span>
+                        <span class="badge-loora">Oral IA</span>
+                    </a>
+                    <a href="#" class="stack-card" title="Article en préparation">
+                        <span>ChatGPT</span>
+                        <span class="badge-chatgpt">Tuteur</span>
+                    </a>
+                </div>
             </section>
 
             <!-- 3. ROADMAP TECHNIQUE -->
@@ -812,7 +904,52 @@ const etapes = [
                 </div>
             </section>
 
-            <!-- 5. DERNIÈRES ENTRÉES DU BLOG -->
+            <!-- 5. SECTION FAQ -->
+            <section class="faq-section">
+                <div style="text-align: center; margin-bottom: 2.75rem;">
+                    <h2>Questions Fréquentes</h2>
+                    <p class="subtitle">Tout ce qu'il faut savoir sur l'apprentissage avec l'IA.</p>
+                </div>
+                
+                <div class="faq-container">
+                    <details class="faq-item">
+                        <summary>Est-il vraiment possible d'apprendre l'anglais de zéro avec l'IA ?</summary>
+                        <div class="faq-answer">
+                            Absolument, mais l'IA n'est qu'un outil : c'est votre régularité qui fera la différence. ChatGPT agit comme un tuteur personnel disponible 24h/24. Il permet de créer un environnement d'immersion totale (vocabulaire sur-mesure selon vos passions, corrections instantanées, jeux de rôle) directement depuis chez vous. Le but est de remplacer l'apprentissage passif par une pratique active dès le premier jour.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Comment pratiquer l'oral et l'accent si je suis seul(e) devant mon écran ?</summary>
+                        <div class="faq-answer">
+                            C'est la plus grande révolution apportée par l'intelligence artificielle. Avec le mode vocal de ChatGPT ou des applications spécialisées comme Loora, vous pouvez converser naturellement à voix haute. L'IA écoute, comprend et répond de manière fluide. L'immense avantage ? Vous pratiquez sans la pression ni le jugement d'un interlocuteur humain, ce qui débloque la timidité.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Faut-il payer la version Premium de ChatGPT (Plus) pour utiliser vos méthodes ?</summary>
+                        <div class="faq-answer">
+                            Non. La majorité de nos prompts et protocoles d'apprentissage sont parfaitement opérationnels avec la version gratuite de ChatGPT. La version payante offre un mode vocal plus fluide et une mémoire contextuelle plus profonde, mais n'est en aucun cas un prérequis pour démarrer votre routine, évaluer votre niveau ou générer vos exercices.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Pourquoi l'ensemble des guides et prompts du site sont-ils 100% gratuits ?</summary>
+                        <div class="faq-answer">
+                            Notre objectif est de rendre l'apprentissage moderne accessible à tous. Le site se rémunère de manière transparente via l'affiliation : si vous découvrez et décidez de vous abonner à une application éducative premium via l'un de nos liens (après avoir lu nos tests), nous touchons une commission, sans le moindre surcoût pour vous. Ce modèle permet de financer le temps passé à tester les outils et à maintenir la totalité de nos ressources éditoriales gratuites.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Combien de temps par jour dois-je y consacrer ?</summary>
+                        <div class="faq-answer">
+                            L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont  plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées.
+                        </div>
+                    </details>
+                </div>
+            </section>
+
+            <!-- 6. DERNIÈRES ENTRÉES DU BLOG -->
             <section>
                 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem;">
                     <div>
@@ -846,7 +983,7 @@ const etapes = [
                 </div>
             </section>
 
-            <!-- 6. CTA FINAL : TEST DE NIVEAU (CENTRÉ ET ENCADRÉ) -->
+            <!-- 7. CTA FINAL : TEST DE NIVEAU (CENTRÉ ET ENCADRÉ) -->
             <section class="final-cta-card">
                 <div class="final-cta-content">
                     <div class="section-tag">
