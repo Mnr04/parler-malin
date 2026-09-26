@@ -1,0 +1,39 @@
+# Flux RSS WordPress vers Astro
+/feed/               /rss.xml    301
+/feed                /rss.xml    301
+
+# Nettoyage des anciennes archives de catégories et tags WordPress
+/category/*          /blog       301
+/tag/*               /blog       301
+/author/*            /blog       301
+
+# Ancienne page d'accueil WP si appelée avec un slash spécifique
+/home/               /           301
+/home                /           301
+
+# Redirections issues du .htaccess
+/code-promo-loora-ai/                         /prix-loora-ai/                              301
+/code-promo-loora-ai                          /prix-loora-ai/                              301
+/mon-avis-sur-italki-pour-apprendre-langlais/ /avis-italki/                                301
+/mon-avis-sur-italki-pour-apprendre-langlais  /avis-italki/                                301
+
+# Redirections issues de RankMath
+/prompt-chatgpt-conjugaison-anglaise/         /chatgpt-conjugaison-anglaise/               301
+/prompt-chatgpt-conjugaison-anglaise          /chatgpt-conjugaison-anglaise/               301
+/avis-loora-ai-lapplication/                  /loora-app-avis/                             301
+/avis-loora-ai-lapplication                   /loora-app-avis/                             301
+/parler-anglais-avec-une-ia/                  /reussir-conversation-en-anglais-avec-ia/    301
+/parler-anglais-avec-une-ia                   /reussir-conversation-en-anglais-avec-ia/    301
+/ia-pour-corriger-sa-prononciation-en-anglais/ /ia-prononciation-anglais/                  301
+/ia-pour-corriger-sa-prononciation-en-anglais  /ia-prononciation-anglais/                  301
+/pratiquer-anglais-avec-des-natifs-2/         /pratiquer-anglais-natifs/                   301
+/pratiquer-anglais-avec-des-natifs-2          /pratiquer-anglais-natifs/                   301
+
+# Nettoyage technique WordPress (Flux RSS & archives)
+/feed/                                        /rss.xml                                     301
+/feed                                         /rss.xml                                     301
+/category/*                                   /blog                                        301
+/tag/*                                        /blog                                        301
+/author/*                                     /blog                                        301
+/home/                                        /                                            301
+/home                                         /                                            301
