@@ -278,8 +278,8 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <h3>Loora : Un abonnement logiciel illimité</h3>
 <p>Loora facture un accès illimité sous forme d'abonnement. Les prix sont affichés en dollars américains (USD) :</p>
 <ul>
-<li><strong>Abonnement mensuel :</strong> 19,99&nbsp;$ par mois (soit environ 19&nbsp;€ à 21&nbsp;€ TTC selon le taux de change).</li>
-<li><strong>Abonnement annuel :</strong> 119,99&nbsp;$ l'année (soit environ 10&nbsp;€ à 12&nbsp;€ TTC par mois).</li>
+<li><strong>Abonnement mensuel :</strong> 25,99&nbsp;€ par mois</li>
+<li><strong>Abonnement annuel :</strong> 119,99&nbsp;€ l'année (soit environ 10&nbsp;€ par mois).</li>
 <li><strong>Avec notre code <code>PARLERMALIN10</code> :</strong> Tu économises 10&nbsp;% supplémentaires sur l'ensemble de ces forfaits.</li>
 </ul>
 <p><em>Point de vigilance :</em> Si ta banque applique des commissions sur les paiements en devises étrangères, règle de préférence avec une carte sans frais de change.</p>

@@ -114,30 +114,30 @@ Voici le comparatif complet des 3 formules officielles, avec et sans le code de 
 <tr>
 <td><strong>Mensuel</strong></td>
 <td>Sans engagement (résiliable à tout moment)</td>
-<td>19,99 $ / mois</td>
-<td><strong>17,99 $</strong> le 1er mois</td>
-<td>17,99 $ / mois</td>
+<td>25,99 $ / mois</td>
+<td><strong>23,39 $</strong> le 1er mois</td>
+<td>23,39 $ / mois</td>
 </tr>
 <tr>
 <td><strong>3 Mois</strong></td>
 <td>Facturé en 1 fois (tous les 3 mois)</td>
 <td>44,99 $</td>
 <td><strong>40,49 $</strong></td>
-<td>~13,49 $ / mois</td>
+<td>~13,50 $ / mois</td>
 </tr>
 <tr class="highlight-row">
 <td><strong>Annuel</strong> 🏆</td>
 <td>Facturé en 1 fois (engagement 12 mois)</td>
 <td>119,99 $</td>
 <td><strong>107,99 $</strong></td>
-<td><strong>~8,99 $ / mois</strong></td>
+<td><strong>~9,00 $ / mois</strong></td>
 </tr>
 </tbody>
 </table>
 </div>
 <p class="micro-disclaimer"><em>Les tarifs et promos sont fixés par Loora et peuvent changer sans préavis. Nous ne sommes pas responsables en cas d'écart : vérifie toujours le prix final sur leur site avant de payer.</em></p>
 <div class="tip-box">
-<strong>Notre recommandation :</strong> Si tu souhaites tester l'application sur un mois complet, prends la formule **Mensuelle**. Si ton objectif est de réellement débloquer ton oral et d'installer une routine sur la durée, l'abonnement **Annuel** divise le coût par deux et offre le meilleur retour sur investissement.
+<strong>Notre recommandation :</strong> Si tu souhaites tester l'application sur un mois complet, prends la formule <strong>Mensuelle</strong>. Si ton objectif est de réellement débloquer ton oral et d'installer une routine sur la durée, l'abonnement <strong>Annuel</strong> divise le coût par deux et offre le meilleur retour sur investissement.
 </div>
 
 ---

@@ -214,23 +214,23 @@ Voici le récapitulatif complet des formules avec l'application de la remise :
 <tr>
 <td><strong>Mensuel</strong></td>
 <td>Sans engagement (résiliable à tout moment)</td>
-<td>19,99 $ / mois</td>
-<td><strong>17,99 $</strong></td>
-<td>17,99 $ / mois</td>
+<td>25,99 $ / mois</td>
+<td><strong>23,39 $</strong></td>
+<td>23,39 $ / mois</td>
 </tr>
 <tr>
 <td><strong>3 Mois</strong></td>
 <td>Paiement trimestriel</td>
-<td>44,99 $</td>
-<td><strong>40,49 $</strong></td>
-<td>~13,49 $ / mois</td>
+<td>59,99 $</td>
+<td><strong>53,99 $</strong></td>
+<td>~18,00 $ / mois</td>
 </tr>
 <tr class="highlight-row">
 <td><strong>Annuel</strong> 🏆</td>
 <td>Engagement 12 mois (-49 % de base)</td>
 <td>119,99 $</td>
 <td><strong>107,99 $</strong></td>
-<td><strong>~8,99 $ / mois</strong></td>
+<td><strong>~9,00 $ / mois</strong></td>
 </tr>
 </tbody>
 </table>
