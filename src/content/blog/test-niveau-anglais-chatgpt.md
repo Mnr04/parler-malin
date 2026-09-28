@@ -36,7 +36,6 @@ heroImageAlt: "Diagnostic de niveau d'anglais sur ChatGPT avant un examen offici
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
-<span class="geo-meta">CECRL (A1 à C2)</span>
 </div>
 <ul class="geo-list">
 <li><strong>Le piège :</strong> Passer une certification sans entraînement préalable et découvrir ses points de blocage le jour J.</li>
