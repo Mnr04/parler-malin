@@ -33,8 +33,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Test indépendant financé par des liens affiliés. En passant par nos liens, tu bénéficies d'une réduction de 50&nbsp;% sur ta 1ère leçon sans aucun surcoût. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
@@ -135,21 +134,39 @@ Le processus se déroule en 4 étapes simples et rapides :
 Dès ton arrivée, un questionnaire rapide évalue ton niveau estimé et ta motivation (préparation d'un examen, voyage, anglais professionnel, simple envie de converser).
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/08/evaluation-niveau-langue-avis-preply.avif" alt="Évaluation du niveau de langue sur Preply" width="600" height="340" loading="lazy" />
-<figcaption>Questionnaire de ciblage initial sur l'application Preply.</figcaption>
+<img 
+  src="/uploads/2026/08/evaluation-niveau-langue-avis-preply.avif" 
+  alt="Évaluation du niveau de langue sur Preply" 
+  width="400" 
+  height="227" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Questionnaire de ciblage initial sur l'application Preply.</figcaption>
 </figure>
 
 ### 2. Le tri des profils par accent et tarif
 Chaque tuteur dispose d'une vidéo de 60 secondes. C'est l'élément déterminant : **prends toujours le temps d'écouter la voix du professeur** pour t'assurer que son accent (américain, britannique, australien...) correspond exactement à ce que tu souhaites travailler.
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/08/filtres-recherche-tuteur-avis-preply.avif" alt="Filtres de recherche de tuteurs sur Preply" width="600" height="340" loading="lazy" />
-<figcaption>Filtres de recherche par budget, disponibilité et pays d'origine.</figcaption>
+<img 
+  src="/uploads/2026/08/filtres-recherche-tuteur-avis-preply.avif" 
+  alt="Filtres de recherche de tuteurs sur Preply" 
+  width="400" 
+  height="227" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Filtres de recherche par budget, disponibilité et pays d'origine.</figcaption>
 </figure>
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/08/profil-professeur-anglais-avis-preply.avif" alt="Profil d'un professeur d'anglais sur Preply" width="600" height="420" loading="lazy" />
-<figcaption>Fiche détaillée avec vidéo de présentation, notes et avis des élèves.</figcaption>
+<img 
+  src="/uploads/2026/08/profil-professeur-anglais-avis-preply.avif" 
+  alt="Profil d'un professeur d'anglais sur Preply" 
+  width="400" 
+  height="280" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Fiche détaillée avec vidéo de présentation, notes et avis des élèves.</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -160,8 +177,14 @@ Chaque tuteur dispose d'une vidéo de 60 secondes. C'est l'élément déterminan
 Plus besoin d'échanger 10 emails pour convenir d'une date : le planning du tuteur s'affiche avec tes propres fuseaux horaires. Tu cliques sur le créneau de ton choix et ta leçon est calée.
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/09/calendrier-reservation-cours-avis-preply.avif" alt="Calendrier de réservation de cours sur Preply" width="600" height="340" loading="lazy" />
-<figcaption>Réservation instantanée synchronisée sur ton fuseau horaire.</figcaption>
+<img 
+  src="/uploads/2026/09/calendrier-reservation-cours-avis-preply.avif" 
+  alt="Calendrier de réservation de cours sur Preply" 
+  width="400" 
+  height="227" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Réservation instantanée synchronisée sur ton fuseau horaire.</figcaption>
 </figure>
 
 ---
@@ -171,8 +194,14 @@ Plus besoin d'échanger 10 emails pour convenir d'une date : le planning du tute
 Sur Preply, les professeurs fixent eux-mêmes leurs tarifs. On trouve des cours à partir de **3 $ à 5 $ de l'heure**, même si la moyenne pour un échange de qualité se situe généralement entre **10 $ et 20 $**.
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/08/selection-budget-cours-avis-preply.avif" alt="Sélection du budget pour les cours sur Preply" width="600" height="320" loading="lazy" />
-<figcaption>Curseur de filtrage par tranche de prix horaire.</figcaption>
+<img 
+  src="/uploads/2026/08/selection-budget-cours-avis-preply.avif" 
+  alt="Sélection du budget pour les cours sur Preply" 
+  width="400" 
+  height="213" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Curseur de filtrage par tranche de prix horaire.</figcaption>
 </figure>
 
 <div class="table-container">
@@ -225,8 +254,14 @@ Preply intègre sa propre plateforme de cours directement dans le navigateur ou 
 Sur l'App Store, Preply affiche une note impressionnante de **4,8/5** basée sur plusieurs dizaines de milliers d'avis.
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/08/commentaires-etudiants-avis-preply.avif" alt="Commentaires et avis des étudiants sur l'application Preply" width="600" height="380" loading="lazy" />
-<figcaption>Avis d'élèves soulignant la flexibilité et les progrès constatés à l'oral.</figcaption>
+<img 
+  src="/uploads/2026/08/commentaires-etudiants-avis-preply.avif" 
+  alt="Commentaires et avis des étudiants sur l'application Preply" 
+  width="400" 
+  height="253" 
+  loading="lazy" 
+  style="max-width: 400px; height: auto;" 
+/><figcaption>Avis d'élèves soulignant la flexibilité et les progrès constatés à l'oral.</figcaption>
 </figure>
 
 Les retours mettent particulièrement en avant :
@@ -256,7 +291,7 @@ Preply répond parfaitement à des objectifs concrets où l'intelligence artific
 <h3>Preply (Professeur) ou Loora (IA) ?</h3>
 <p>Si tu hésites entre ces deux approches, découvre notre grand comparatif pour choisir la méthode la plus adaptée à ton budget et à tes objectifs.</p>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-<p class="btn-next">Lire le comparatif Loora AI vs Preply (Bientot disponible) &rarr;</p>
+<a href="/preply-ou-loora/" class="btn-next">Lire le comparatif Loora AI vs Preply &rarr;</a>
 <a href="/prix-loora-ai/" class="btn-next" style="background: #10b981 !important;">Voir les tarifs Loora (-10%) &rarr;</a>
 </div>
 </div>

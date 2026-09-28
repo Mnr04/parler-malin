@@ -33,7 +33,7 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Test indépendant financé par des liens partenaires. En utilisant notre code promo exclusif, tu profites de 10&nbsp;% de réduction immédiate sans aucun surcoût. <a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- 2. Bloc En Bref GEO -->

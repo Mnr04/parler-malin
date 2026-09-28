@@ -3,6 +3,8 @@ title: "Comment Ne Pas Perdre son Anglais : 3 Habitudes à Intégrer"
 description: "Tu as atteint un bon niveau en anglais ? Ne laisse pas tes acquis rouiller. Découvre 3 habitudes simples pour maintenir ton anglais en pilote automatique."
 pubDate: 2026-07-16
 author: "Jérémy de Parler Malin"
+categories: 
+  - "methode"
 heroImage: "/uploads/2026/07/ne-pas-perdre-son-anglais-pilote-automatique-scaled.avif"
 heroImageAlt: "Maintenir son niveau d'anglais au quotidien sans effort"
 ---
@@ -22,10 +24,11 @@ heroImageAlt: "Maintenir son niveau d'anglais au quotidien sans effort"
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
-<span><time datetime="2026-07-16">16 aout 2026</time></span>
+<span><time datetime="2026-07-16">16 juillet 2026</time></span>
 <span class="dot">•</span>
 <span>Temps de lecture : 6 min</span>
 <span class="dot">•</span>
+<span class="meta-badge">ÉTAPE 07</span>
 </div>
 
 <!-- 1. Bandeau Transparence concis -->
@@ -37,7 +40,8 @@ heroImageAlt: "Maintenir son niveau d'anglais au quotidien sans effort"
 <!-- 2. Bloc En Bref (Optimisé GEO & Lecture Rapide) -->
 <div class="geo-box">
 <div class="geo-header">
-<span class="geo-tag">EN BREF</span>
+<span class="geo-tag">EN BREF : LA MÉTHODE D'ENTRETIEN</span>
+<span class="geo-meta">Mise à jour : Septembre 2026</span>
 </div>
 <ul class="geo-list">
 <li><strong>Le défi :</strong> Sans pratique régulière, les automatismes oraux et le vocabulaire actif s'étiolent rapidement, même après des mois d'efforts.</li>
@@ -68,12 +72,14 @@ heroImageAlt: "Maintenir son niveau d'anglais au quotidien sans effort"
 
 <h2 id="plateau">1. Le syndrome du plateau : pourquoi tu as l'impression de stagner</h2>
 
-Le plateau intermédiaire désigne cette sensation de surplace souvent ressentie autour du niveau B1 ou B2. À ce stade, chaque nouvelle notion assimilée ne produit plus l'effet spectaculaire des premiers jours :
+<p>Le plateau intermédiaire désigne cette sensation de surplace souvent ressentie autour du niveau B1 ou B2. À ce stade, chaque nouvelle notion assimilée ne produit plus l'effet spectaculaire des premiers jours :</p>
 
-* **Au début (progression visible) :** Les 500 premiers mots appris couvrent les situations d'urgence. Le bond en avant est flagrant.
-* **Sur le plateau (progression invisible) :** Tu apprends des nuances, des synonymes précis ou des tournures idiomatiques. L'impact paraît minime, alors que ton cerveau affine sa maîtrise en profondeur.
+<ul>
+<li><strong>Au début (progression visible) :</strong> Les 500 premiers mots appris couvrent les situations d'urgence. Le bond en avant est flagrant.</li>
+<li><strong>Sur le plateau (progression invisible) :</strong> Tu apprends des nuances, des synonymes précis ou des tournures idiomatiques. L'impact paraît minime, alors que ton cerveau affine sa maîtrise en profondeur.</li>
+</ul>
 
-Pour dépasser cette phase, il ne s'agit plus d'étudier la grammaire de façon scolaire, mais de **vivre tes centres d'intérêt en anglais** : finances, sport, cuisine, entrepreneuriat ou cinéma.
+<p>Pour dépasser cette phase, il ne s'agit plus d'étudier la grammaire de façon scolaire, mais de <strong>vivre tes centres d'intérêt en anglais</strong> : finances, sport, cuisine, entrepreneuriat ou cinéma.</p>
 
 <div class="tip-box">
 <strong>Le réflexe clé :</strong> Arrête de chercher à traduire le français dans ta tête. Intègre l'anglais comme un moyen d'information naturel plutôt que comme une matière à réviser.
@@ -83,13 +89,15 @@ Pour dépasser cette phase, il ne s'agit plus d'étudier la grammaire de façon 
 
 <h2 id="diete">2. La diète médiatique : basculer son écosystème en anglais</h2>
 
-La diète médiatique consiste à substituer tes divertissements francophones par leurs équivalents en anglais. Tu ne consacres pas de temps supplémentaire à la langue : tu déplaces simplement ton attention.
+<p>La diète médiatique consiste à substituer tes divertissements francophones par leurs équivalents en anglais. Tu ne consacres pas de temps supplémentaire à la langue : tu déplaces simplement ton attention.</p>
 
-Voici 3 leviers faciles à actionner dès aujourd'hui :
+<p>Voici 3 leviers faciles à actionner dès aujourd'hui :</p>
 
-* **Plateformes vidéo :** Règle l'interface de YouTube en anglais et abonne-toi à des créateurs anglophones traitant de tes passions.
-* **Appareils électroniques :** Passe ton smartphone, ton système d'exploitation d'ordinateur et le guidage vocal de ton GPS en anglais.
-* **Streaming :** Regarde tes séries et documentaires en version originale (VO), d'abord avec sous-titres anglais, puis sans aucun sous-titre dès que tu te sens prêt.
+<ul>
+<li><strong>Plateformes vidéo :</strong> Règle l'interface de YouTube en anglais et abonne-toi à des créateurs anglophones traitant de tes passions.</li>
+<li><strong>Appareils électroniques :</strong> Passe ton smartphone, ton système d'exploitation d'ordinateur et le guidage vocal de ton GPS en anglais.</li>
+<li><strong>Streaming :</strong> Regarde tes séries et documentaires en version originale (VO), d'abord avec sous-titres anglais, puis sans aucun sous-titre dès que tu te sens prêt.</li>
+</ul>
 
 <div class="warning-callout">
 <strong>Attention au piège de la passivité :</strong> Regarder des séries crée une bonne oreille, mais ne muscle pas ta capacité à formuler des phrases en direct. L'immersion passive doit toujours être complétée par un minimum de pratique active.
@@ -99,9 +107,9 @@ Voici 3 leviers faciles à actionner dès aujourd'hui :
 
 <h2 id="filet-securite">3. Le filet de sécurité : tes 3 outils d'entretien continu</h2>
 
-C'est comme l'entretien physique : pour garder la ligne, nul besoin de préparer un marathon chaque semaine. Dix à quinze minutes de stimulation régulière suffisent pour que ton anglais ne rouille jamais.
+<p>C'est comme l'entretien physique : pour garder la ligne, nul besoin de préparer un marathon chaque semaine. Dix à quinze minutes de stimulation régulière suffisent pour que ton anglais ne rouille jamais.</p>
 
-Voici la combinaison idéale en 3 briques :
+<p>Voici la combinaison idéale en 3 briques :</p>
 
 <!-- Carte Gymglish -->
 <div class="tool-callout-card">
@@ -121,7 +129,7 @@ Voici la combinaison idéale en 3 briques :
 </div>
 </div>
 
-<!-- Carte Loora -->
+<!-- Carte Loora avec Code Promo intégré -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -133,11 +141,14 @@ Voici la combinaison idéale en 3 briques :
 </div>
 <div class="tool-callout-action">
 <a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta">
-<span>Essayer Loora avec -10%</span>
+<span>Essayer Loora avec -10 %</span>
 <span class="btn-arrow">&rarr;</span>
 </a>
+<div class="mini-promo-row">
+<code id="code-loora-habitudes" class="mini-code">PARLERMALIN10</code>
+<button type="button" class="btn-mini-copy" onclick="copyPromoCode(this, 'code-loora-habitudes')">Copier</button>
+</div>
 <a href="/loora-app-avis/" class="tool-sublink">Lire mon avis complet sur Loora &nearr;</a>
-<span class="tool-reassurance">Code PARLERMALIN10</span>
 </div>
 </div>
 
@@ -153,7 +164,7 @@ Voici la combinaison idéale en 3 briques :
 <p>Pour ne jamais perdre l'aisance humaine, réserve une séance informelle toutes les deux semaines avec un tuteur communautaire. Profite de <strong>10&nbsp;€ offerts</strong> via ce lien.</p>
 </div>
 <div class="tool-callout-action">
-<a href="https://www.italki.com/affshare?ref=af32623863" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta btn-tool-highlight">
+<a href="https://www.italki.com/affshare?ref=af32623863" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta">
 <span>Profiter de mes 10 € offerts</span>
 <span class="btn-arrow">&rarr;</span>
 </a>
@@ -166,24 +177,28 @@ Voici la combinaison idéale en 3 briques :
 
 <h2 id="habitudes">4. Deux habitudes invisibles : monologue intérieur et shadowing</h2>
 
-Ces deux techniques ne demandent aucune heure bloquée dans ton agenda. Elles se greffent directement sur tes temps morts du quotidien.
+<p>Ces deux techniques ne demandent aucune heure bloquée dans ton agenda. Elles se greffent directement sur tes temps morts du quotidien.</p>
 
-### Habitude 1 : Le monologue intérieur
+<h3>Habitude 1 : Le monologue intérieur</h3>
 
-L'exercice consiste à commenter mentalement (ou à voix basse) ce que tu es en train de faire :
-* *« I'm making a coffee right now, but I forgot to buy milk yesterday... »*
-* *« This meeting is running late, I need to check my train schedule. »*
+<p>L'exercice consiste à commenter mentalement (ou à voix basse) ce que tu es en train de faire :</p>
+<ul>
+<li><em>« I'm making a coffee right now, but I forgot to buy milk yesterday... »</em></li>
+<li><em>« This meeting is running late, I need to check my train schedule. »</em></li>
+</ul>
 
-Le but n'est pas de faire des phrases élaborées, mais d'**identifier immédiatement tes trous de mémoire**. Si tu bloques sur un mot comme « passoire » ou « embouteillage », note-le sur ton téléphone et vérifie-le plus tard sur ton application de vocabulaire.
+<p>Le but n'est pas de faire des phrases élaborées, mais d'<strong>identifier immédiatement tes trous de mémoire</strong>. Si tu bloques sur un mot comme « passoire » ou « embouteillage », note-le sur ton téléphone et vérifie-le plus tard sur ton application de vocabulaire.</p>
 
-### Habitude 2 : Le Shadowing (Répétition instantanée)
+<h3>Habitude 2 : Le Shadowing (Répétition instantanée)</h3>
 
-Le shadowing consiste à écouter un court extrait prononcé par un locuteur natif et à le répéter immédiatement à voix haute en imitant son intonation, sa vitesse et le placement de sa voix.
+<p>Le shadowing consiste à écouter un court extrait prononcé par un locuteur natif et à le répéter immédiatement à voix haute en imitant son intonation, sa vitesse et le placement de sa voix.</p>
 
-* **En voiture :** Chante et répète les paroles de chansons ou d'émissions radio anglophones.
-* **Devant Netflix ou YouTube :** Mets une pause après une réplique percutante et répète-la deux fois en copiant le souffle du personnage.
+<ul>
+<li><strong>En voiture :</strong> Chante et répète les paroles de chansons ou d'émissions radio anglophones.</li>
+<li><strong>Devant Netflix ou YouTube :</strong> Mets une pause après une réplique percutante et répète-la deux fois en copiant le souffle du personnage.</li>
+</ul>
 
-C'est une gymnastique mécanique indispensable pour garder une mâchoire souple et des réflexes d'articulation prêts à l'emploi.
+<p>C'est une gymnastique mécanique indispensable pour garder une mâchoire souple et des réflexes d'articulation prêts à l'emploi.</p>
 
 ---
 
@@ -230,6 +245,7 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
 <a href="/" class="btn-sub">Retourner à l'accueil de Parler Malin</a>
 </div>
 </div>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -243,7 +259,13 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
         "name": "Jérémy de Parler Malin",
         "url": "https://parlermalin.fr/a-propos/"
       },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Parler Malin",
+        "url": "https://parlermalin.fr/"
+      },
       "datePublished": "2026-07-16",
+      "dateModified": "2026-09-28",
       "image": "https://parlermalin.fr/uploads/2026/07/ne-pas-perdre-son-anglais-pilote-automatique-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/comment-ne-pas-perdre-son-anglais-habitudes/"
@@ -288,6 +310,24 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
   ]
 }
 </script>
+
+<script>
+function copyPromoCode(btn, targetId) {
+    const codeEl = document.getElementById(targetId);
+    if (!codeEl) return;
+    const text = codeEl.innerText.trim();
+    navigator.clipboard.writeText(text).then(() => {
+        const originalText = btn.innerText;
+        btn.innerText = 'Copié !';
+        btn.classList.add('copied');
+        setTimeout(() => {
+            btn.innerText = originalText;
+            btn.classList.remove('copied');
+        }, 2200);
+    });
+}
+</script>
+
 <style>
     /* Titre & Fil d'Ariane */
     .breadcrumb {
@@ -566,8 +606,41 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
     .btn-tool-cta:hover {
         background: #1e429f !important;
     }
-    .btn-tool-highlight {
-        background: #1a56db !important;
+    .mini-promo-row {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+        margin-top: 0.1rem;
+    }
+    .mini-code {
+        font-family: ui-monospace, monospace;
+        font-size: 0.72rem;
+        font-weight: 700;
+        color: #1a56db;
+        background: #ebf5ff;
+        padding: 0.15rem 0.4rem;
+        border-radius: 4px;
+        border: 1px dashed #93c5fd;
+    }
+    .btn-mini-copy {
+        background: #ffffff;
+        border: 1px solid #cbd5e1;
+        border-radius: 4px;
+        font-size: 0.68rem;
+        font-weight: 600;
+        color: #475569;
+        padding: 0.15rem 0.4rem;
+        cursor: pointer;
+        transition: all 0.15s ease;
+    }
+    .btn-mini-copy:hover {
+        background: #f1f5f9;
+        color: #0f172a;
+    }
+    .btn-mini-copy.copied {
+        background: #10b981;
+        color: #ffffff;
+        border-color: #10b981;
     }
     .tool-sublink {
         font-size: 0.76rem;
@@ -725,16 +798,20 @@ C'est une gymnastique mécanique indispensable pour garder une mâchoire souple 
         color: #0f172a !important;
     }
 
-    @media (max-width: 640px) {
+    @media (max-width: 768px) {
         .tool-callout-card {
             flex-direction: column;
             align-items: flex-start;
         }
         .tool-callout-action {
             width: 100%;
+            align-items: stretch;
         }
         .btn-tool-cta {
             width: 100%;
+            justify-content: center;
+        }
+        .mini-promo-row {
             justify-content: center;
         }
         .btn-atf-action {
