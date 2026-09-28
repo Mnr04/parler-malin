@@ -38,7 +38,7 @@ heroImageAlt: "Tarifs et abonnements de Loora AI avec code promo"
 </div>
 
 <!-- ========================================== -->
-<!-- 2. VOUCHER -->
+<!-- 2. Code Promo -->
 <!-- ========================================== -->
 <div class="voucher-hero-card">
 <div class="voucher-top-bar">
