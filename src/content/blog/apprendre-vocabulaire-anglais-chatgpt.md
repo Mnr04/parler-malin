@@ -171,7 +171,7 @@ Pour qu'un mot passe définitivement dans ta mémoire à long terme sans effort,
 <span class="tool-feature">5 min / jour sur mobile</span>
 </div>
 <h4>MosaLingua : Ancrer le vocabulaire sans créer de flashcards à la main</h4>
-<p>L'application calcule scientifiquement le moment optimal pour réactiver chaque terme avant l'oubli, convertissant les listes générées sur ChatGPT en automatismes durables.</p>
+<p>L'application calcule le moment optimal pour réactiver chaque terme avant l'oubli, convertissant les listes générées sur ChatGPT en automatismes durables.</p>
 </div>
 <div class="tool-callout-action">
 <a href="https://parlermalin.fr/mosalingua" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta">
