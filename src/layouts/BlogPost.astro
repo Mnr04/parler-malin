@@ -11,18 +11,27 @@ interface Props {
     date?: Date | string;
     updatedDate?: Date | string;
     heroImage?: string;
+    robots?: string;
+    frontmatter?: {
+        title?: string;
+        description?: string;
+        robots?: string;
+        [key: string]: any;
+    };
 }
 
 const {
     title = '',
     description = '',
     heroImage,
+    robots = Astro.props.frontmatter?.robots ?? Astro.props.robots ?? 'index, follow',
 } = Astro.props;
 ---
 
 <html lang="fr">
     <head>
         <BaseHead title={title} description={description} image={heroImage as any} />
+        <meta name="robots" content={robots} />
         <style>
             main {
                 width: 100%;

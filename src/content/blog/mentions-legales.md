@@ -1,6 +1,7 @@
 ---
 title: "Mentions Légales"
 date: 2026-05-26
+robots: "noindex, nofollow"
 ---
 
 # Mentions Légales

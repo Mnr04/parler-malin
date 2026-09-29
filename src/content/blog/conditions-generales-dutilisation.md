@@ -1,6 +1,7 @@
 ---
 title: "Conditions Générales d’Utilisation"
 date: 2026-05-26
+robots: "noindex, nofollow"
 ---
 
 # Conditions Générales d’Utilisation
