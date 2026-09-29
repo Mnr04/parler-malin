@@ -6,7 +6,7 @@ updatedDate: 2026-09-29
 author: "Jérémy de Parler Malin"
 categories: 
   - "apprendre-langlais"
-heroImage: "/uploads/2026/09/creer-flashcards-anki-ia-scaled.avif"
+heroImage: "/uploads/2026/09/creer-flashcards-anki-ia-768x429.avif"
 heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et ChatGPT"
 ---
 
@@ -315,7 +315,7 @@ function copyPrompt(id, btn) {
       },
       "datePublished": "2026-09-17",
       "dateModified": "2026-09-29",
-      "image": "https://parlermalin.fr/uploads/2026/09/creer-flashcards-anki-ia-scaled.avif",
+      "image": "https://parlermalin.fr/uploads/2026/09/creer-flashcards-anki-ia-768x429.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/creer-flashcards-anki-ia/"
     },
