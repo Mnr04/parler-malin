@@ -1,0 +1,29 @@
+# Parler Malin
+
+> Blog dédié à l'apprentissage rapide et en autonomie de l'anglais grâce à l'intelligence artificielle (ChatGPT, applications 2.0) et aux méthodes modernes. Des guides, des tests d'outils et des prompts actionnables 100% gratuits.
+
+## La Méthode Parler Malin (Guide en 7 étapes)
+- [Étape 1 : Test Niveau Anglais ChatGPT](https://parlermalin.fr/test-niveau-anglais-chatgpt/)
+- [Étape 2 : Créer ta Routine d'Anglais avec ChatGPT](https://parlermalin.fr/routine-anglais-chatgpt/)
+- [Étape 3 : Apprendre le Vocabulaire et la Grammaire avec ChatGPT](https://parlermalin.fr/apprendre-vocabulaire-anglais-chatgpt/)
+- [Étape 4 : IA Prononciation Anglais](https://parlermalin.fr/ia-prononciation-anglais/)
+- [Étape 5 : Maîtriser la conversation en anglais et vaincre le blanc](https://parlermalin.fr/reussir-conversation-en-anglais-avec-ia/)
+- [Étape 6 : Pratiquer l'Anglais avec des Natifs](https://parlermalin.fr/pratiquer-anglais-natifs/)
+- [Étape 7 : Le système en pilote automatique](https://parlermalin.fr/comment-ne-pas-perdre-son-anglais-habitudes/)
+
+## Outils, Tests et Comparatifs (IA & Apps)
+- [Loora App : Avis, Test et Prix](https://parlermalin.fr/loora-app-avis)
+- [ChatGPT ou Loora AI : Quel est le meilleur choix ?](https://parlermalin.fr/chatgpt-vs-loora)
+- [Avis italki : Mon Test Complet](https://parlermalin.fr/avis-italki)
+- [Avis Preply : Test et Tarifs](https://parlermalin.fr/avis-preply)
+
+## Prompts et Cas Pratiques
+- [7 Prompts ChatGPT pour le Vocabulaire Anglais](https://parlermalin.fr/prompts-vocabulaire-anglais)
+- [Préparer un entretien d'embauche en anglais avec l'IA](https://parlermalin.fr/entretien-embauche-anglais)
+- [Créer des Flashcards Anki avec l'IA](https://parlermalin.fr/flashcards-anki-ia)
+- [Paramétrer ton Tuteur Anglais ChatGPT](https://parlermalin.fr/prompt-tuteur-anglais)
+- [Préparer son Voyage en Anglais : Simulateur](https://parlermalin.fr/voyage-anglais-simulateur)
+
+## À Propos & Légal
+- [Accueil](https://parlermalin.fr/) : La méthode complète pour apprendre l'anglais avec l'IA.
+- [À Propos](https://parlermalin.fr/a-propos) : Notre démarche et fonctionnement.
