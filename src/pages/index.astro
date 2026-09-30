@@ -120,7 +120,39 @@ const etapes = [
               "name": "Combien de temps par jour dois-je y consacrer ?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont  plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées."
+                "text": "L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quel est le meilleur IA pour apprendre l'anglais ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il n'y a pas d'application miracle ou de 'meilleure IA' universelle. Tout dépend de votre personnalité et de vos objectifs. Si vous souhaitez un tuteur textuel polyvalent (grammaire, vocabulaire, tests), ChatGPT est parfait. Si vous préférez un accompagnement vocal très ciblé sur la prononciation, des applications comme Loora sont excellentes. Enfin, si vous avez besoin de contact humain pour rester motivé, l'IA sera plutôt un outil d'entraînement en complément d'un vrai professeur natif sur Preply."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Est-il possible d'apprendre l'anglais avec ChatGPT ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui, tout à fait. ChatGPT peut agir comme votre professeur d'anglais personnel. Le secret est de ne pas se contenter de lui parler vaguement, mais d'utiliser des prompts spécifiques pour lui faire jouer différents rôles : correcteur de textes, générateur de QCM, ou partenaire de jeux de rôle (client dans un restaurant, recruteur, etc.)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Comment puis-je parler anglais gratuitement avec l'IA ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La méthode la plus simple et gratuite est de télécharger l'application mobile de ChatGPT (ou d'utiliser Copilot/Gemini) et d'activer le mode vocal. Vous pouvez demander à l'IA : 'Agis comme un locuteur natif anglophone, discutons de [votre passion], et corrige mes erreurs de grammaire après chacune de mes phrases.' C'est un excellent moyen de pratiquer gratuitement sans la peur du jugement."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelle est la méthode la plus efficace pour apprendre l'anglais ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La méthode la plus efficace est celle qui correspond à votre fonctionnement. Cependant, une structure idéale combine l'IA et l'humain : utilisez d'abord des tuteurs IA pour apprendre le vocabulaire lié à vos passions et débloquer votre timidité à l'oral dans un cadre sécurisant. Ensuite, lorsque vous vous sentez plus en confiance, passez le cap et confrontez-vous à de vrais natifs pour valider vos acquis et travailler votre spontanéité réelle."
               }
             }
           ]
@@ -344,14 +376,14 @@ const etapes = [
 
             .badge-chatgpt {
                font-size: 0.68rem;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: #047857; /* Emerald 700 (ratio 4.9:1 — passe AA) ou #065f46 pour AAA */
-    background: #ecfdf5;
-    border: 1px solid #a7f3d0;
-    padding: 0.15rem 0.45rem;
-    border-radius: 4px;
+               font-weight: 700;
+               letter-spacing: 0.05em;
+               text-transform: uppercase;
+               color: #047857;
+               background: #ecfdf5;
+               border: 1px solid #a7f3d0;
+               padding: 0.15rem 0.45rem;
+               border-radius: 4px;
             }
 
             /* --- Grille Roadmap --- */
@@ -399,14 +431,14 @@ const etapes = [
 
             .step-tag {
                 font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    font-size: 0.68rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: #4338ca; /* Indigo 700 (ratio 6.9:1 — dépasse largement AA) */
-    background: #eef2ff;
-    border: 1px solid #c7d2fe; /* Bordure légèrement ajustée pour la lisibilité */
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
+                font-size: 0.68rem;
+                font-weight: 700;
+                letter-spacing: 0.08em;
+                color: #4338ca;
+                background: #eef2ff;
+                border: 1px solid #c7d2fe;
+                padding: 0.2rem 0.5rem;
+                border-radius: 4px;
             }
 
             .step-card h3 {
@@ -947,7 +979,35 @@ const etapes = [
                     <details class="faq-item">
                         <summary>Combien de temps par jour dois-je y consacrer ?</summary>
                         <div class="faq-answer">
-                            L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont  plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées.
+                            L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Quel est le meilleur IA pour apprendre l'anglais ?</summary>
+                        <div class="faq-answer">
+                            Il n'y a pas d'application miracle ou de "meilleure IA" universelle. Tout dépend de votre personnalité et de vos objectifs. Si vous souhaitez un tuteur textuel polyvalent (grammaire, vocabulaire, tests), ChatGPT est parfait. Si vous préférez un accompagnement vocal très ciblé sur la prononciation, des applications comme Loora sont excellentes. Enfin, si vous avez besoin de contact humain pour rester motivé, l'IA sera plutôt un outil d'entraînement en complément d'un vrai professeur natif sur Preply.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Est-il possible d'apprendre l'anglais avec ChatGPT ?</summary>
+                        <div class="faq-answer">
+                            Oui, tout à fait. ChatGPT peut agir comme votre professeur d'anglais personnel. Le secret est de ne pas se contenter de lui parler vaguement, mais d'utiliser des prompts spécifiques pour lui faire jouer différents rôles : correcteur de textes, générateur de QCM, ou partenaire de jeux de rôle (client dans un restaurant, recruteur, etc.).
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Comment puis-je parler anglais gratuitement avec l'IA ?</summary>
+                        <div class="faq-answer">
+                            La méthode la plus simple et gratuite est de télécharger l'application mobile de ChatGPT (ou d'utiliser Copilot/Gemini) et d'activer le mode vocal. Vous pouvez demander à l'IA : "Agis comme un locuteur natif anglophone, discutons de [votre passion], et corrige mes erreurs de grammaire après chacune de mes phrases." C'est un excellent moyen de pratiquer gratuitement sans la peur du jugement.
+                        </div>
+                    </details>
+
+                    <details class="faq-item">
+                        <summary>Quelle est la méthode la plus efficace pour apprendre l'anglais ?</summary>
+                        <div class="faq-answer">
+                            La méthode la plus efficace est celle qui correspond à votre fonctionnement. Cependant, une structure idéale combine l'IA et l'humain : utilisez d'abord des tuteurs IA pour apprendre le vocabulaire lié à vos passions et débloquer votre timidité à l'oral dans un cadre sécurisant. Ensuite, lorsque vous vous sentez plus en confiance, passez le cap et confrontez-vous à de vrais natifs pour valider vos acquis et travailler votre spontanéité réelle.
                         </div>
                     </details>
                 </div>
