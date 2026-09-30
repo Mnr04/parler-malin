@@ -3,7 +3,7 @@ title: "Loora vs Preply : Faut-il choisir une IA vocale ou un prof d'anglais ? (
 description: "Coach vocal IA (Loora) ou vrai professeur particulier (Preply) : quelle méthode choisir pour enfin parler anglais à l'oral ? Comparatif, tarifs réels et conseils."
 pubDate: 2026-09-28
 author: "Jérémy de Parler Malin"
-categories: 
+categories:
   - "methode"
 heroImage: "/uploads/2026/09/loora-vs-preply-anglais-oral.avif"
 heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, illustrant le comparatif entre l'IA vocale Loora et les cours particuliers Preply pour apprendre l'anglais."
@@ -32,7 +32,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi.<a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- 2. Bloc En Bref GEO (Moteurs génératifs et réponse rapide) -->
@@ -52,20 +52,19 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 </div>
 
 <!-- ========================================== -->
-<!-- CARTE SYNTHÈSE   -->
+<!-- CARTE SYNTHÈSE                             -->
 <!-- ========================================== -->
 <div id="duel-methodes" class="review-scorecard">
 <div class="scorecard-top">
 <div class="scorecard-brand">
 <span class="brand-pill">VUE D'ENSEMBLE</span>
-<h3>Loora vs Preply : Deux visions de l'oral 100% Complémentaires</h3>
+<p class="scorecard-title">Loora vs Preply : Deux visions de l'oral 100% Complémentaires</p>
 </div>
-
 </div>
 
 <div class="pros-cons-grid">
 <div class="pros-col">
-<h4>Loora (Coach IA)</h4>
+<p class="pros-title">Loora (Coach IA)</p>
 <ul>
 <li><strong>Pratique illimitée 24h/24 :</strong> Pas de rendez-vous nécessaire.</li>
 <li><strong>Zéro stress du regard :</strong> Idéal pour débloquer la parole.</li>
@@ -74,7 +73,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 </ul>
 </div>
 <div class="cons-col">
-<h4>Preply (Tuteur Humain)</h4>
+<p class="cons-title">Preply (Tuteur Humain)</p>
 <ul>
 <li><strong>Vraie dynamique d'échange :</strong> Émotions, humour et argot.</li>
 <li><strong>Objectifs ciblés :</strong> Idéal pour les examens et entretiens pro.</li>
@@ -159,7 +158,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 
 <div class="voucher-body">
 <div class="voucher-text-side">
-<h3 class="voucher-headline">-10 % immédiats sur tous les forfaits Loora</h3>
+<p class="voucher-headline">-10 % immédiats sur tous les forfaits Loora</p>
 <p class="voucher-sub">Active la remise sur l'abonnement Mensuel, 3 Mois ou Annuel.</p>
 </div>
 
@@ -218,7 +217,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <span class="tool-pill tool-pill-highlight">🎁 -50% SUR LE 1ER COURS</span>
 <span class="tool-feature">Tuteurs natifs indépendants</span>
 </div>
-<h4>Preply : Trouve le tuteur adapté à tes besoins</h4>
+<p class="tool-callout-title">Preply : Trouve le tuteur adapté à tes besoins</p>
 <p>Choisis parmi des milliers de profils natifs selon leur accent et ton calendrier. Profite de <strong>50&nbsp;% de remise immédiate</strong> sur ta première leçon via notre lien partenaire.</p>
 </div>
 <div class="tool-callout-action">
@@ -314,7 +313,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 
 <h2 id="verdict">6. Mon conseil final</h2>
 
-<p>Si tu as aujourd'hui une appréhension à l'idée d'ouvrir la bouche devant quelqu'un, commence par tester <a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer"><strong>la leçon gratuite sur Loora </a>. C'est l'échauffement idéal pour reprendre confiance en solo.</p>
+<p>Si tu as aujourd'hui une appréhension à l'idée d'ouvrir la bouche devant quelqu'un, commence par tester <a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer"><strong>la leçon gratuite sur Loora</strong></a>. C'est l'échauffement idéal pour reprendre confiance en solo.</p>
 
 <p>Dès que tu souhaites franchir un palier pour un projet concret ou le travail, réserve un cours avec <a href="https://preply.sjv.io/aNDxBM" target="_blank" rel="sponsored noopener noreferrer"><strong>un professeur natif sur Preply (avec -50 % sur ta 1ère séance)</strong></a>. C'est dans le face-à-face humain que l'anglais prend tout son sens.</p>
 
@@ -368,7 +367,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">GUIDE PRATIQUE</span>
-<h3>Envie d'aller plus loin dans ta progression ?</h3>
+<p class="next-step-title">Envie d'aller plus loin dans ta progression ?</p>
 <p>Découvre notre plan d'action afin de progresser en anglais.</p>
 <a href="/" class="btn-next">Voir le guide complet &rarr;</a>
 </div>
@@ -442,7 +441,7 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 }
 </script>
 
-<script>
+<script is:inline>
 function copyPromoHero(btn, targetId) {
     const codeElement = document.getElementById(targetId);
     if (!codeElement) return;
@@ -638,7 +637,8 @@ function copyPromoHero(btn, targetId) {
         border-radius: 4px;
         letter-spacing: 0.05em;
     }
-    .scorecard-brand h3 {
+    .scorecard-brand h3,
+    .scorecard-brand .scorecard-title {
         margin: 0.35rem 0 0 0;
         font-size: 1.25rem;
         font-weight: 800;
@@ -690,7 +690,8 @@ function copyPromoHero(btn, targetId) {
     .cons-col {
         border-left: 3px solid #1a56db;
     }
-    .pros-col h4, .cons-col h4 {
+    .pros-col h4, .cons-col h4,
+    .pros-col .pros-title, .cons-col .cons-title {
         margin: 0 0 0.65rem 0;
         font-size: 0.88rem;
         font-weight: 700;
@@ -1075,7 +1076,8 @@ function copyPromoHero(btn, targetId) {
         font-size: 0.72rem;
         color: #64748b;
     }
-    .tool-callout-content h4 {
+    .tool-callout-content h4,
+    .tool-callout-content .tool-callout-title {
         margin: 0 0 0.35rem 0;
         font-size: 0.98rem;
         font-weight: 700;
@@ -1205,9 +1207,11 @@ function copyPromoHero(btn, targetId) {
         color: #1a56db;
         letter-spacing: 0.05em;
     }
-    .next-step-card h3 {
+    .next-step-card h3,
+    .next-step-card .next-step-title {
         margin: 0.4rem 0;
         font-size: 1.2rem;
+        font-weight: 700;
         color: #0f172a;
     }
     .next-step-card p {

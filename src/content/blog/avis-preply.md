@@ -3,7 +3,7 @@ title: "Preply Avis 2026 : La plateforme en vaut-elle la peine ? (Test)"
 description: "Notre avis complet sur Preply : la plateforme vaut-elle son prix ? Découvre les tarifs réels, les pièges à éviter et comment profiter de -50% sur ton 1er cours."
 pubDate: 2026-09-07
 author: "Jérémy de Parler Malin"
-categories: 
+categories:
   - "avis"
 heroImage: "/uploads/2026/08/test-illustration-avis-preply-scaled.avif"
 heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Preply"
@@ -33,7 +33,8 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p></div>
+<p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+</div>
 
 <!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
@@ -57,7 +58,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <div class="scorecard-top">
 <div class="scorecard-brand">
 <span class="brand-pill">TEST & AVIS EXPERT</span>
-<h3>Preply en un clin d'œil</h3>
+<p class="scorecard-title">Preply en un clin d'œil</p>
 </div>
 <div class="scorecard-rating">
 <span class="rating-num">4.5<span class="rating-max">/5</span></span>
@@ -68,7 +69,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 
 <div class="pros-cons-grid">
 <div class="pros-col">
-<h4>Ce qu'on aime :</h4>
+<p class="pros-title">Ce qu'on aime :</p>
 <ul>
 <li>Vidéos de présentation sur chaque profil pour évaluer l'accent</li>
 <li>Tarifs ultra accessibles pour pratiquer l'oral (dès 5-10 $/h)</li>
@@ -77,7 +78,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 </ul>
 </div>
 <div class="cons-col">
-<h4>Ce qu'on aime moins :</h4>
+<p class="cons-title">Ce qu'on aime moins :</p>
 <ul>
 <li>Pédagogie inégale chez les tuteurs sans diplôme d'enseignement</li>
 <li>Tarifs plus élevés pour les professeurs certifiés (examens officiels)</li>
@@ -243,9 +244,9 @@ Sur Preply, les professeurs fixent eux-mêmes leurs tarifs. On trouve des cours 
 
 Preply intègre sa propre plateforme de cours directement dans le navigateur ou sur mobile, sans obliger à passer par Zoom ou Skype :
 
-* **Classe virtuelle intégrée :** Tableau blanc partagé, chat avec correction écrite en temps réel et partage de documents pédagogiques.
-* **Historique des leçons :** Suivi des heures effectuées pour garder le rythme et visualiser son assiduité sur le mois.
-* **Système d'évaluation continu :** Les avis laissés par les étudiants sont vérifiés (seuls les élèves ayant effectivement suivi et payé un cours peuvent noter).
+- **Classe virtuelle intégrée :** Tableau blanc partagé, chat avec correction écrite en temps réel et partage de documents pédagogiques.
+- **Historique des leçons :** Suivi des heures effectuées pour garder le rythme et visualiser son assiduité sur le mois.
+- **Système d'évaluation continu :** Les avis laissés par les étudiants sont vérifiés (seuls les élèves ayant effectivement suivi et payé un cours peuvent noter).
 
 ---
 
@@ -275,20 +276,20 @@ Les retours mettent particulièrement en avant :
 
 Preply répond parfaitement à des objectifs concrets où l'intelligence artificielle atteint ses limites :
 
-* **Si tu as un blocage psychologique à l'oral :** Parler avec un interlocuteur bienveillant est le seul vrai remède pour désamorcer la peur du jugement.
-* **Si tu prépares un départ à l'étranger :** Rien ne remplace un tuteur vivant dans le pays pour t'apprendre le vocabulaire du quotidien et l'argot local.
-* **Si tu as besoin de flexibilité :** Tu réserves à l'heure, sans t'engager sur un forfait annuel obligatoire.
+- **Si tu as un blocage psychologique à l'oral :** Parler avec un interlocuteur bienveillant est le seul vrai remède pour désamorcer la peur du jugement.
+- **Si tu prépares un départ à l'étranger :** Rien ne remplace un tuteur vivant dans le pays pour t'apprendre le vocabulaire du quotidien et l'argot local.
+- **Si tu as besoin de flexibilité :** Tu réserves à l'heure, sans t'engager sur un forfait annuel obligatoire.
 
 ---
 
-<h2 id="alternative-loora">Alternative : L'intelligence artificielle avec Loora AI</h2>
+<h2 id="alternative-loora">6. Alternative : L'intelligence artificielle avec Loora AI</h2>
 
 <p>Si la timidité t'empêche de parler à un vrai professeur, ou si le budget de Preply (environ 15 $/h en moyenne) est trop élevé pour une pratique régulière, l'intelligence artificielle est une excellente alternative.</p>
 <p>Des applications comme Loora AI te permettent de converser à l'oral en illimité avec une IA pour une dizaine de dollars par mois, sans la pression du regard humain.</p>
 
 <div class="next-step-card" style="margin-top: 1rem; margin-bottom: 2rem;">
 <span class="next-label">À DÉCOUVRIR</span>
-<h3>Preply (Professeur) ou Loora (IA) ?</h3>
+<p class="next-step-title">Preply (Professeur) ou Loora (IA) ?</p>
 <p>Si tu hésites entre ces deux approches, découvre notre grand comparatif pour choisir la méthode la plus adaptée à ton budget et à tes objectifs.</p>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
 <a href="/preply-ou-loora/" class="btn-next">Lire le comparatif Loora AI vs Preply &rarr;</a>
@@ -298,7 +299,7 @@ Preply répond parfaitement à des objectifs concrets où l'intelligence artific
 
 ---
 
-<h2 id="limites">6. Les 3 pièges à éviter avant de réserver</h2>
+<h2 id="limites">7. Les 3 pièges à éviter avant de réserver</h2>
 
 Pour vivre une excellente expérience, garde ces 3 points à l'esprit :
 
@@ -312,7 +313,7 @@ Pour vivre une excellente expérience, garde ces 3 points à l'esprit :
 <div class="tool-tag-row">
 <span class="tool-pill tool-pill-highlight">🎁 -50% SUR LE 1ER COURS</span>
 </div>
-<h4>Preply : Trouve le tuteur adapté à tes objectifs et ton budget</h4>
+<p class="tool-callout-title">Preply : Trouve le tuteur adapté à tes objectifs et ton budget</p>
 <p>Choisis parmi des milliers de profils natifs selon leur accent et leurs disponibilités. Profite de <strong>50&nbsp;% de remise immédiate</strong> sur ta première leçon via notre lien partenaire.</p>
 </div>
 <div class="tool-callout-action">
@@ -326,7 +327,7 @@ Pour vivre une excellente expérience, garde ces 3 points à l'esprit :
 
 ---
 
-<h2 id="verdict">7. Notre verdict final sur Preply</h2>
+<h2 id="verdict">8. Notre verdict final sur Preply</h2>
 
 Preply est une des plateformes les plus complètes et accessibles pour pratiquer l'anglais avec des humains. 
 
@@ -382,7 +383,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
 <!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">REBOND MÉTHODE</span>
-<h3>Tu hésites entre Preply et d'autres solutions ?</h3>
+<p class="next-step-title">Tu hésites entre Preply et d'autres solutions ?</p>
 <p>Compare cette approche avec notre méthode pas à pas pour combiner l'entraînement gratuit sur l'IA et les sessions orales avec des natifs.</p>
 <a href="/pratiquer-anglais-natifs/" class="btn-next">Combiner l'IA et les tuteurs natifs : la méthode pas à pas &rarr;</a>
 </div>
@@ -655,7 +656,8 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
         border-radius: 4px;
         letter-spacing: 0.05em;
     }
-    .scorecard-brand h3 {
+    .scorecard-brand h3,
+    .scorecard-brand .scorecard-title {
         margin: 0.35rem 0 0 0;
         font-size: 1.25rem;
         font-weight: 800;
@@ -707,7 +709,8 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
     .cons-col {
         border-left: 3px solid #ef4444;
     }
-    .pros-col h4, .cons-col h4 {
+    .pros-col h4, .cons-col h4,
+    .pros-col .pros-title, .cons-col .cons-title {
         margin: 0 0 0.65rem 0;
         font-size: 0.88rem;
         font-weight: 700;
@@ -955,7 +958,8 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
         font-size: 0.72rem;
         color: #64748b;
     }
-    .tool-callout-content h4 {
+    .tool-callout-content h4,
+    .tool-callout-content .tool-callout-title {
         margin: 0 0 0.35rem 0;
         font-size: 0.98rem;
         font-weight: 700;
@@ -1085,9 +1089,11 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
         color: #1a56db;
         letter-spacing: 0.05em;
     }
-    .next-step-card h3 {
+    .next-step-card h3,
+    .next-step-card .next-step-title {
         margin: 0.4rem 0;
         font-size: 1.2rem;
+        font-weight: 700;
         color: #0f172a;
     }
     .next-step-card p {

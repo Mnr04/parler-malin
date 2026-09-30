@@ -3,7 +3,7 @@ title: "Avis italki : Mon test complet de l'app (+ bonus de 10$)"
 description: "Stop à la peur de parler anglais ! Mon avis italki t'explique comment briser la glace avec des natifs abordables (dès 6€) et activer 10$ de crédits offerts."
 pubDate: 2026-08-31
 author: "Jérémy de Parler Malin"
-categories: 
+categories:
   - "avis"
 heroImage: "/uploads/2026/08/avis-italki-test-application-scaled.avif"
 heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki"
@@ -52,13 +52,13 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 </div>
 
 <!-- ========================================== -->
-<!-- CARTE VERDICT CRO SCORECARD     -->
+<!-- CARTE VERDICT CRO SCORECARD                -->
 <!-- ========================================== -->
 <div class="review-scorecard">
 <div class="scorecard-top">
 <div class="scorecard-brand">
 <span class="brand-pill">TEST & AVIS EXPERT</span>
-<h3>italki en un coup d'œil</h3>
+<p class="scorecard-title">italki en un coup d'œil</p>
 </div>
 <div class="scorecard-rating">
 <span class="rating-num">4.8<span class="rating-max">/5</span></span>
@@ -69,7 +69,7 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 
 <div class="pros-cons-grid">
 <div class="pros-col">
-<h4>Ce qu'on aime :</h4>
+<p class="pros-title">Ce qu'on aime :</p>
 <ul>
 <li>Paiement à la leçon : zéro abonnement ou prélèvement automatique forcé</li>
 <li>Tuteurs communautaires très abordables pour la conversation (dès 6 €/h)</li>
@@ -78,7 +78,7 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 </ul>
 </div>
 <div class="cons-col">
-<h4>Ce qu'on aime moins :</h4>
+<p class="cons-title">Ce qu'on aime moins :</p>
 <ul>
 <li>Pas de système de code promo texte (activation obligatoire par lien)</li>
 <li>Frais de change bancaires selon le mode de paiement choisi</li>
@@ -129,9 +129,9 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 Dès l'inscription, on est loin des usines à gaz ou des plateformes scolaires vieillissantes. L'interface d'italki va droit au but : trouver un tuteur, vérifier son calendrier et lancer sa leçon en visioconférence.
 
 Le **tableau de bord élève** centralise l'essentiel pour entretenir sa régularité :
-* L'historique et le décompte de tes heures de conversation accumulées.
-* Les notes et fiches de révision envoyées par tes tuteurs après chaque session.
-* La messagerie directe pour échanger avant de réserver.
+- L'historique et le décompte de tes heures de conversation accumulées.
+- Les notes et fiches de révision envoyées par tes tuteurs après chaque session.
+- La messagerie directe pour échanger avant de réserver.
 
 L'application mobile (notée **4,8/5 sur l'App Store**) permet de suivre ses cours directement depuis son smartphone ou sa tablette avec une stabilité vidéo exemplaire, idéale en déplacement.
 
@@ -154,8 +154,8 @@ Face à des dizaines de milliers d'interlocuteurs, comment choisir sans se tromp
 Tu peux calibrer ta recherche en fonction de trois éléments clés :
 
 ### 1. Le type de profil (Tuteur vs Professeur certifié)
-* **Les Tuteurs Communautaires (dès 5 € à 10 € / h) :** Ce sont des locuteurs natifs passionnés. C'est l'option idéale pour débloquer sa spontanéité, discuter de sujets du quotidien et corriger ses erreurs sans pression scolaire.
-* **Les Professeurs Professionnels (dès 15 € à 30 € / h) :** Enseignants diplômés disposant de plans de cours formels, recommandés pour préparer un examen officiel (TOEIC, TOEFL, IELTS) ou un entretien d'embauche technique.
+- **Les Tuteurs Communautaires (dès 5 € à 10 € / h) :** Ce sont des locuteurs natifs passionnés. C'est l'option idéale pour débloquer sa spontanéité, discuter de sujets du quotidien et corriger ses erreurs sans pression scolaire.
+- **Les Professeurs Professionnels (dès 15 € à 30 € / h) :** Enseignants diplômés disposant de plans de cours formels, recommandés pour préparer un examen officiel (TOEIC, TOEFL, IELTS) ou un entretien d'embauche technique.
 
 ### 2. L'origine géographique & l'accent
 Tu as besoin de travailler un accent spécifique ? Tu peux filtrer les tuteurs par pays : Royaume-Uni, États-Unis, Canada, Australie, Irlande ou Afrique du Sud.
@@ -214,7 +214,7 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
 <span class="tool-pill">CRÉDITS DE BIENVENUE</span>
 <span class="tool-feature">Sans code • Activation directe</span>
 </div>
-<h4>Profite de 10 $ de crédits offerts sur ton compte italki</h4>
+<p class="tool-callout-title">Profite de 10 $ de crédits offerts sur ton compte italki</p>
 <p>En créant ton compte via notre lien ci-dessous, <strong>10&nbsp;$ de crédits te sont automatiquement offerts</strong> dès ton premier achat de cours, ce qui finance quasiment ta première heure de conversation avec un tuteur natif.</p>
 </div>
 <div class="tool-callout-action">
@@ -269,7 +269,7 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
 <!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">REBOND MÉTHODE</span>
-<h3>Comment bien préparer sa première leçon avec un natif ?</h3>
+<p class="next-step-title">Comment bien préparer sa première leçon avec un natif ?</p>
 <p>Découvre nos conseils pour surmonter le trac du premier appel et rentabiliser au maximum chaque heure de pratique avec ton tuteur.</p>
 <a href="/pratiquer-anglais-natifs/" class="btn-next">Comment pratiquer l'anglais avec des natifs &rarr;</a>
 </div>
@@ -534,7 +534,8 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         border-radius: 4px;
         letter-spacing: 0.05em;
     }
-    .scorecard-brand h3 {
+    .scorecard-brand h3,
+    .scorecard-brand .scorecard-title {
         margin: 0.35rem 0 0 0;
         font-size: 1.25rem;
         font-weight: 800;
@@ -586,7 +587,8 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
     .cons-col {
         border-left: 3px solid #ef4444;
     }
-    .pros-col h4, .cons-col h4 {
+    .pros-col h4, .cons-col h4,
+    .pros-col .pros-title, .cons-col .cons-title {
         margin: 0 0 0.65rem 0;
         font-size: 0.88rem;
         font-weight: 700;
@@ -804,7 +806,8 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         font-size: 0.72rem;
         color: #64748b;
     }
-    .tool-callout-content h4 {
+    .tool-callout-content h4,
+    .tool-callout-content .tool-callout-title {
         margin: 0 0 0.35rem 0;
         font-size: 0.98rem;
         font-weight: 700;
@@ -934,9 +937,11 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         color: #1a56db;
         letter-spacing: 0.05em;
     }
-    .next-step-card h3 {
+    .next-step-card h3,
+    .next-step-card .next-step-title {
         margin: 0.4rem 0;
         font-size: 1.2rem;
+        font-weight: 700;
         color: #0f172a;
     }
     .next-step-card p {

@@ -3,7 +3,7 @@ title: "Loora app avis : L'appli ultime pour parler anglais ?"
 description: "Cherches-tu un avis objectif sur Loora App ? Découvre mon test complet de ce coach vocal IA : fonctionnalités, prix 2026 et code promo exclusif de -10% !"
 pubDate: 2026-07-26
 author: "Jérémy de Parler Malin"
-categories: 
+categories:
   - "apprendre-langlais"
 heroImage: "/uploads/2026/07/loora-app-avis-test-2026-scaled.avif"
 heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
@@ -52,13 +52,13 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 </div>
 
 <!-- =================================================== -->
-<!-- CARTE VERDICT    -->
+<!-- CARTE VERDICT                                       -->
 <!-- =================================================== -->
 <div id="offre-exclusive" class="review-scorecard">
 <div class="scorecard-top">
 <div class="scorecard-brand">
 <span class="brand-pill">COACH VOCAL IA // TEST OFFICIEL</span>
-<h3>Loora AI en un coup d'œil</h3>
+<p class="scorecard-title">Loora AI en un coup d'œil</p>
 </div>
 <div class="scorecard-rating">
 <span class="rating-num">4.9<span class="rating-max">/5</span></span>
@@ -69,7 +69,7 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 
 <div class="pros-cons-grid">
 <div class="pros-col">
-<h4>Ce qu'on aime :</h4>
+<p class="pros-title">Ce qu'on aime :</p>
 <ul>
 <li>Zéro peur du jugement : tu oses parler et faire des erreurs sans stress</li>
 <li>Correction phonétique instantanée sur les syllabes qui accrochent</li>
@@ -78,7 +78,7 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 </ul>
 </div>
 <div class="cons-col">
-<h4>Ce qu'on aime moins :</h4>
+<p class="cons-title">Ce qu'on aime moins :</p>
 <ul>
 <li>Abonnement payant nécessaire pour continuer après l'essai</li>
 <li>Facturation en USD (légères variations de conversion selon la banque)</li>
@@ -148,13 +148,13 @@ Dès l'ouverture de l'application sur ton smartphone :
 Après plusieurs semaines d'utilisation quotidienne au rythme de 10 à 15 minutes par jour, voici notre constat objectif :
 
 ### Les vrais points forts :
-* **La fin de la timidité sociale :** Face à un professeur humain, la peur d'avoir l'air ridicule ou d'hésiter bloque de nombreux débutants. Avec Loora, tu peux recommencer une phrase 4 fois d'affilée sans aucune gêne.
-* **Des mises en situation crédibles :** Jeux de rôle professionnels (négociation, entretien d'embauche), conversations de voyage (douane, hôtel) ou débats informels (*Talk*).
-* **Une diction très naturelle :** Le timbre de voix de l'IA est bluffant de fluidité et évite l'effet « robotique » désagréable des vieux logiciels de synthèse vocale.
+- **La fin de la timidité sociale :** Face à un professeur humain, la peur d'avoir l'air ridicule ou d'hésiter bloque de nombreux débutants. Avec Loora, tu peux recommencer une phrase 4 fois d'affilée sans aucune gêne.
+- **Des mises en situation crédibles :** Jeux de rôle professionnels (négociation, entretien d'embauche), conversations de voyage (douane, hôtel) ou débats informels (*Talk*).
+- **Une diction très naturelle :** Le timbre de voix de l'IA est bluffant de fluidité et évite l'effet « robotique » désagréable des vieux logiciels de synthèse vocale.
 
 ### Les limites à connaître :
-* **Un modèle exclusivement payant :** En dehors de la leçon d'essai offerte, il n'existe pas de formule freemium illimitée.
-* **Les subtilités d'intonation culturelle :** L'IA est parfaite pour corriger les sons et la grammaire, mais elle ne remplace pas l'humour spontané, les tics de langage et l'énergie d'un véritable locuteur natif.
+- **Un modèle exclusivement payant :** En dehors de la leçon d'essai offerte, il n'existe pas de formule freemium illimitée.
+- **Les subtilités d'intonation culturelle :** L'IA est parfaite pour corriger les sons et la grammaire, mais elle ne remplace pas l'humour spontané, les tics de langage et l'énergie d'un véritable locuteur natif.
 
 ---
 
@@ -236,7 +236,7 @@ Voici le récapitulatif complet des formules avec l'application de la remise :
 </table>
 </div>
 
-<p class="micro-disclaimer"><em>* Tarifs indicatifs relevés en 2026 fixés en USD par Loora AI (susceptibles d'évoluer sans préavis). Vérifie systématiquement le montant final affiché dans ton panier avant confirmation.</em></p>
+<p class="micro-disclaimer"><em>Tarifs indicatifs relevés en 2026 fixés en USD par Loora AI (susceptibles d'évoluer sans préavis). Vérifie systématiquement le montant final affiché dans ton panier avant confirmation.</em></p>
 
 ---
 
@@ -257,7 +257,7 @@ Pour être sûr que la réduction de 10&nbsp;% soit bien déduite de ta facture 
 <span class="tool-pill">CODE PROMO VÉRIFIÉ</span>
 <span class="tool-feature">-10 % sur tous les forfaits</span>
 </div>
-<h4>Active ton coach vocal d'anglais avec 10&nbsp;% de réduction</h4>
+<p class="tool-callout-title">Active ton coach vocal d'anglais avec 10&nbsp;% de réduction</p>
 <p>Utilise le code exclusif ci-dessous pour débloquer ton tarif remisé dès ton inscription :</p>
 <div class="promo-box">
 <span class="promo-label">Code promo :</span>
@@ -325,7 +325,7 @@ Elle ne remplace pas un professeur humain pour préparer un concours littéraire
 <!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">MÉTHODE COMPLÈTE</span>
-<h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
+<p class="next-step-title">Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</p>
 <p>Découvre l'intégralité des 7 étapes pour progresser en anglais de manière fluide, depuis le diagnostic de ton niveau jusqu'aux conversations avec des locuteurs natifs.</p>
 <a href="/#guide" class="btn-next">Passer son anglais en pilote automatique avec l'IA (7 étapes) &rarr;</a>
 </div>
@@ -629,7 +629,8 @@ function copyPromoHero(btn, elementId) {
         border-radius: 4px;
         letter-spacing: 0.05em;
     }
-    .scorecard-brand h3 {
+    .scorecard-brand h3,
+    .scorecard-brand .scorecard-title {
         margin: 0.35rem 0 0 0;
         font-size: 1.35rem;
         font-weight: 800;
@@ -681,7 +682,8 @@ function copyPromoHero(btn, elementId) {
     .cons-col {
         border-left: 3px solid #ef4444;
     }
-    .pros-col h4, .cons-col h4 {
+    .pros-col h4, .cons-col h4,
+    .pros-col .pros-title, .cons-col .cons-title {
         margin: 0 0 0.65rem 0;
         font-size: 0.88rem;
         font-weight: 700;
@@ -749,61 +751,6 @@ function copyPromoHero(btn, elementId) {
         box-shadow: 0 6px 20px rgba(26, 86, 219, 0.35);
     }
 
-    /* Bandeau prix remisés */
-    .voucher-pricing-strip {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0.65rem;
-        background: #f1f5f9;
-        padding: 0.65rem;
-        border-radius: 8px;
-        margin-bottom: 0.85rem;
-    }
-    .price-pill {
-        background: #ffffff;
-        border: 1px solid #e2e8f0;
-        border-radius: 6px;
-        padding: 0.45rem 0.6rem;
-        text-align: center;
-        font-size: 0.82rem;
-    }
-    .price-pill .plan-name {
-        color: #64748b;
-        margin-right: 0.25rem;
-    }
-    .price-pill del {
-        color: #94a3b8;
-        font-size: 0.74rem;
-    }
-    .price-pill-best {
-        border-color: #1a56db;
-        background: #ebf5ff;
-    }
-    .price-pill-best .plan-name,
-    .price-pill-best .plan-price {
-        color: #1a56db;
-        font-weight: 700;
-    }
-    .plan-tag {
-        display: block;
-        font-family: ui-monospace, monospace;
-        font-size: 0.6rem;
-        font-weight: 800;
-        color: #1a56db;
-        letter-spacing: 0.04em;
-        margin-bottom: 0.1rem;
-    }
-
-    .scorecard-guarantee {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 0.5rem;
-        font-size: 0.74rem;
-        color: #64748b;
-        flex-wrap: wrap;
-    }
-
     /* Boîte Promo Code */
     .promo-box {
         display: inline-flex;
@@ -843,6 +790,16 @@ function copyPromoHero(btn, elementId) {
     }
     .btn-copy-code.copied {
         background: #059669;
+    }
+
+    .scorecard-guarantee {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.74rem;
+        color: #64748b;
+        flex-wrap: wrap;
     }
 
     /* 3. Sommaire interactif rabattable */
@@ -1026,7 +983,8 @@ function copyPromoHero(btn, elementId) {
         font-size: 0.72rem;
         color: #64748b;
     }
-    .tool-callout-content h4 {
+    .tool-callout-content h4,
+    .tool-callout-content .tool-callout-title {
         margin: 0 0 0.35rem 0;
         font-size: 0.98rem;
         font-weight: 700;
@@ -1067,11 +1025,6 @@ function copyPromoHero(btn, elementId) {
         color: #1a56db;
         text-decoration: underline;
         text-underline-offset: 2px;
-    }
-    .tool-reassurance {
-        font-size: 0.72rem;
-        color: #64748b;
-        font-weight: 500;
     }
 
     /* Encart Astuce */
@@ -1174,9 +1127,11 @@ function copyPromoHero(btn, elementId) {
         color: #1a56db;
         letter-spacing: 0.05em;
     }
-    .next-step-card h3 {
+    .next-step-card h3,
+    .next-step-card .next-step-title {
         margin: 0.4rem 0;
         font-size: 1.2rem;
+        font-weight: 700;
         color: #0f172a;
     }
     .next-step-card p {
@@ -1239,9 +1194,6 @@ function copyPromoHero(btn, elementId) {
         .btn-scorecard-cta {
             width: 100%;
             justify-content: center;
-        }
-        .voucher-pricing-strip {
-            grid-template-columns: 1fr;
         }
         .tool-callout-card {
             flex-direction: column;
