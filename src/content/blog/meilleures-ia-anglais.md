@@ -270,7 +270,7 @@ heroImageAlt: "Comparatif des meilleures IA pour apprendre l'anglais en 2026"
 <span class="next-label">PREMIÈRE ÉTAPE</span>
 <h3>Par où commencer ?</h3>
 <p>Si vous ne savez pas quel outil choisir, commencez par évaluer objectivement votre niveau actuel. C'est gratuit, sans inscription, et ça vous donnera une base de départ solide.</p>
-<a href="/tester-niveau-anglais-chatgpt/" class="btn-next">Estimer son niveau avec l'IA &rarr;</a>
+<a href="/test-niveau-anglais-chatgpt/" class="btn-next">Estimer son niveau avec l'IA &rarr;</a>
 </div>
 
 <!-- Script & Schema JSON-LD -->
