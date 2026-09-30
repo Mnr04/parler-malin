@@ -1,15 +1,13 @@
 {
-  "$schema": "https://specs.agentic.org/ai-catalog/v1/schema.json",
-  "name": "Parler Malin",
-  "description": "Guides, prompts et outils IA pour apprendre l'anglais rapidement et en autonomie.",
-  "version": "1.0.0",
-  "provider": {
-    "name": "Parler Malin",
-    "url": "https://parlermalin.fr"
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Parler Malin",
+    "identifier": "did:web:parlermalin.fr"
   },
-  "resources": [
+  "entries": [
     {
-      "name": "Plan du site pour les LLMs",
+      "identifier": "urn:air:parlermalin.fr:llms",
+      "displayName": "Plan du site pour les LLMs",
       "type": "text/markdown",
       "url": "https://parlermalin.fr/llms.txt",
       "description": "Ressources optimisées pour l'indexation par les agents d'intelligence artificielle."
