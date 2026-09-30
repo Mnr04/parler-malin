@@ -119,7 +119,7 @@ date: 2026-06-13
 <h4>ChatGPT ou Loora AI pour apprendre l'anglais : Le match</h4>
 <span>Consulter &rarr;</span>
 </a>
-<a href="/Loora vs Preply : Faut-il choisir une IA vocale ou un prof d'anglais pour parler à l'oral ?/" class="blog-article-card">
+<a href="/preply-ou-loora/" class="blog-article-card">
 <h4>Coach vocal IA (Loora) ou vrai professeur particulier (Preply)</h4>
 <span>Consulter &rarr;</span>
 </a>
