@@ -19,7 +19,7 @@ date: 2026-06-13
 <span class="stat-pill"><strong>7</strong> étapes méthodologiques</span>
 </div>
 
----
+<hr class="divider" />
 
 <h2 class="section-title">01. Pages principales & Légales</h2>
 
@@ -31,9 +31,9 @@ date: 2026-06-13
 <a href="/politique-de-confidentialite-rgpd/" class="page-link-card"><span>🔒 Politique de Confidentialité (RGPD)</span> &rarr;</a>
 </div>
 
----
+<hr class="divider" />
 
-<h2 class="section-title">02. La Méthode Parler Malin (Guide Pilier en 7 Étapes)</h2>
+<h2 class="section-title">02. La Méthode Parler Malin (Guide en 7 Étapes)</h2>
 
 <div class="guide-steps-list">
 <a href="/test-niveau-anglais-chatgpt/" class="guide-step-card">
@@ -46,7 +46,7 @@ date: 2026-06-13
 </a>
 <a href="/apprendre-vocabulaire-anglais-chatgpt/" class="guide-step-card">
 <span class="step-num">03</span>
-<span class="step-text">Comment Apprendre le Vocabulaire (et la Grammaire) Anglaise avec ChatGPT</span>
+<span class="step-text">Comment Apprendre le Vocabulaire (et la Grammaire) avec ChatGPT</span>
 </a>
 <a href="/ia-prononciation-anglais/" class="guide-step-card">
 <span class="step-num">04</span>
@@ -54,7 +54,7 @@ date: 2026-06-13
 </a>
 <a href="/reussir-conversation-en-anglais-avec-ia/" class="guide-step-card">
 <span class="step-num">05</span>
-<span class="step-text">Maîtriser la conversation en anglais avec l'IA : Vaincre la peur du blanc</span>
+<span class="step-text">Maîtriser la conversation avec l'IA : Vaincre la peur du blanc</span>
 </a>
 <a href="/pratiquer-anglais-natifs/" class="guide-step-card">
 <span class="step-num">06</span>
@@ -62,21 +62,21 @@ date: 2026-06-13
 </a>
 <a href="/comment-ne-pas-perdre-son-anglais-habitudes/" class="guide-step-card">
 <span class="step-num">07</span>
-<span class="step-text">Comment ne pas perdre son anglais : le système en pilote automatique</span>
+<span class="step-text">Comment ne pas perdre son anglais : le pilote automatique</span>
 </a>
 </div>
 
----
+<hr class="divider" />
 
 <h2 class="section-title">03. Articles & Dossiers Pratiques du Blog</h2>
 
 <div class="blog-articles-grid">
 <a href="/prompts-chatgpt-vocabulaire-anglais/" class="blog-article-card">
-<h4>7 Prompts ChatGPT pour Apprendre le Vocabulaire Anglais (Argot, Émotions, Métier…)</h4>
+<h4>7 Prompts ChatGPT pour Apprendre le Vocabulaire Anglais</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/peur-parler-anglais-entretien-embauche-ia/" class="blog-article-card">
-<h4>Peur de parler anglais en entretien d'embauche ? Hackez votre préparation avec l'IA</h4>
+<h4>Peur de parler anglais en entretien d'embauche ? Hackez avec l'IA</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/loora-app-avis/" class="blog-article-card">
@@ -92,11 +92,11 @@ date: 2026-06-13
 <span>Consulter &rarr;</span>
 </a>
 <a href="/prompt-chatgpt-tuteur-anglais/" class="blog-article-card">
-<h4>Prompt ChatGPT tuteur anglais : La méthode pour paramétrer ton IA</h4>
+<h4>Prompt ChatGPT tuteur anglais : paramétrer ton IA</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/comprehension-orale-anglais/" class="blog-article-card">
-<h4>Compréhension orale en anglais : le guide pour débloquer ton oreille</h4>
+<h4>Compréhension orale en anglais : débloquer ton oreille</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/avis-italki/" class="blog-article-card">
@@ -108,7 +108,7 @@ date: 2026-06-13
 <span>Consulter &rarr;</span>
 </a>
 <a href="/creer-flashcards-anki-ia/" class="blog-article-card">
-<h4>Créer des Flashcards Anki avec l'IA (Le Prompt et la Méthode)</h4>
+<h4>Créer des Flashcards Anki avec l'IA (Le Prompt)</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/prix-loora-ai/" class="blog-article-card">
@@ -116,7 +116,15 @@ date: 2026-06-13
 <span>Consulter &rarr;</span>
 </a>
 <a href="/chatgpt-ou-loora-ai-pour-apprendre-l-anglais/" class="blog-article-card">
-<h4>ChatGPT ou Loora AI pour apprendre l'anglais : Quel est le meilleur choix ?</h4>
+<h4>ChatGPT ou Loora AI pour apprendre l'anglais : Le match</h4>
+<span>Consulter &rarr;</span>
+</a>
+<a href="/Loora vs Preply : Faut-il choisir une IA vocale ou un prof d'anglais pour parler à l'oral ?/" class="blog-article-card">
+<h4>Coach vocal IA (Loora) ou vrai professeur particulier (Preply)</h4>
+<span>Consulter &rarr;</span>
+</a>
+<a href="/meilleures-ia-anglais/" class="blog-article-card">
+<h4>Meilleures IA pour apprendre l'anglais : le comparatif 2026</h4>
 <span>Consulter &rarr;</span>
 </a>
 </div>
@@ -130,7 +138,8 @@ date: 2026-06-13
 .header-subtitle { font-size: 1rem; color: #475569; margin-bottom: 1.25rem; }
 .sitemap-stats { display: flex; gap: 0.6rem; margin-bottom: 2rem; }
 .stat-pill { background: #f1f5f9; border: 1px solid #e2e8f0; font-size: 0.8rem; padding: 0.25rem 0.65rem; border-radius: 20px; color: #475569; }
-.section-title { font-size: 1.35rem; font-weight: 800; color: #0f172a; margin: 2rem 0 1rem 0; }
+.divider { border: 0; height: 1px; background: #e2e8f0; margin: 2.5rem 0; }
+.section-title { font-size: 1.35rem; font-weight: 800; color: #0f172a; margin: 0 0 1.25rem 0; }
 .pages-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.75rem; }
 .page-link-card { display: flex; justify-content: space-between; align-items: center; background: #ffffff; border: 1px solid #e2e8f0; padding: 0.85rem 1rem; border-radius: 8px; text-decoration: none; color: #0f172a; font-weight: 600; font-size: 0.9rem; }
 .page-link-card:hover { border-color: #1a56db; transform: translateY(-1px); }

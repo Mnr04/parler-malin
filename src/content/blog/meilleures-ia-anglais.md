@@ -89,8 +89,17 @@ heroImageAlt: "Comparatif des meilleures IA pour apprendre l'anglais en 2026"
       </tr>
       <tr>
         <td data-label="Outil">
-          <a href="/#guide" class="tool-link">
-            <span class="tool-name">ChatGPT / Gemini</span>&nbsp;<span class="tool-arrow">&rarr;</span>
+          <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer" class="tool-link">
+            <span class="tool-name">ChatGPT</span>&nbsp;<span class="tool-arrow">&rarr;</span>
+          </a>
+        </td>
+        <td data-label="Type"><span class="badge badge-general">🤖 IA généralistes</span></td>
+        <td data-label="Objectif" class="tool-desc">Apprendre gratuitement et créer des plans sur-mesure</td>
+      </tr>
+      <tr>
+        <td data-label="Outil">
+          <a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer" class="tool-link">
+            <span class="tool-name">GEMINI</span>&nbsp;<span class="tool-arrow">&rarr;</span>
           </a>
         </td>
         <td data-label="Type"><span class="badge badge-general">🤖 IA généralistes</span></td>
