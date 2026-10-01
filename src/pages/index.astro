@@ -1072,12 +1072,15 @@ const etapes = [
                         posts.map((post) => (
                             <a href={`/${post.id}/`} class="post-card">
                                 {post.data.heroImage && (
-                                    <img 
-                                        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any)?.src}
-                                        alt="" 
-                                        class="post-image" 
-                                    />
-                                )}
+    <img 
+        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any)?.src}
+        alt={String((post.data as any).heroImageAlt || post.data.title || '')}
+        width="640"
+        height="360"
+        loading="lazy"
+        class="post-image" 
+    />
+)}
                                 <div class="post-content">
                                     <h3 class="post-title">{post.data.title}</h3>
                                     <span class="post-date">
