@@ -313,25 +313,28 @@ const etapes = [
                 color: var(--primary);
             }
 
-            /* --- Bloc Outils --- */
+            /* --- Bloc Outils (Centré) --- */
             .stack-wrapper {
                 background: var(--surface);
                 border: 1px solid var(--border);
                 border-radius: var(--radius-lg);
-                padding: 1.25rem 1.75rem;
+                padding: 1.75rem 2rem;
                 margin: 0 auto 5rem;
                 max-width: 820px;
                 display: flex;
+                flex-direction: column;
                 align-items: center;
-                justify-content: space-between;
-                gap: 1.5rem;
-                flex-wrap: wrap;
+                justify-content: center;
+                text-align: center;
+                gap: 1.25rem;
                 box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
             }
 
             .stack-info {
                 display: flex;
                 flex-direction: column;
+                align-items: center;
+                text-align: center;
                 gap: 0.35rem;
             }
 
@@ -354,6 +357,7 @@ const etapes = [
                 display: flex;
                 gap: 0.75rem;
                 flex-wrap: wrap;
+                justify-content: center;
             }
 
             .stack-card {
@@ -855,15 +859,10 @@ const etapes = [
                     padding: 2.75rem 1.25rem;
                 }
                 .stack-wrapper {
-                    flex-direction: column;
-                    align-items: stretch;
+                    padding: 1.5rem 1.25rem;
                 }
                 .stack-info {
-                    text-align: center;
-                    margin-bottom: 0.5rem;
-                }
-                .stack-pills {
-                    justify-content: center;
+                    margin-bottom: 0.25rem;
                 }
             }
         </style>
@@ -1072,15 +1071,15 @@ const etapes = [
                         posts.map((post) => (
                             <a href={`/${post.id}/`} class="post-card">
                                 {post.data.heroImage && (
-    <img 
-        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any)?.src}
-        alt={String((post.data as any).heroImageAlt || post.data.title || '')}
-        width="640"
-        height="360"
-        loading="lazy"
-        class="post-image" 
-    />
-)}
+                                    <img 
+                                        src={typeof post.data.heroImage === 'string' ? post.data.heroImage : (post.data.heroImage as any)?.src}
+                                        alt={String((post.data as any).heroImageAlt || post.data.title || '')}
+                                        width="640"
+                                        height="360"
+                                        loading="lazy"
+                                        class="post-image" 
+                                    />
+                                )}
                                 <div class="post-content">
                                     <h3 class="post-title">{post.data.title}</h3>
                                     <span class="post-date">
