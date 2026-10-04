@@ -127,6 +127,10 @@ date: 2026-06-13
 <h4>Meilleures IA pour apprendre l'anglais : le comparatif 2026</h4>
 <span>Consulter &rarr;</span>
 </a>
+<a href="/top-chaine-youtube-anglais/" class="blog-article-card">
+<h4>10 chaînes YouTube pour améliorer son anglais (guide 2026)</h4>
+<span>Consulter &rarr;</span>
+</a>
 </div>
 
 <style>

@@ -238,7 +238,7 @@ Analyse ma phrase selon ces consignes strictes :
 <details class="faq-card">
 <summary class="faq-title">Combien de temps faut-il consacrer à ces exercices par jour ?</summary>
 <div class="faq-body">
-<p>Une session de 10 à 15 minutes par jour suffit amplement. Fais un quiz interactif ou un scénario d'arbitrage par jour pour ancrer les automatismes sans saturer ta concentration.</p>
+<p>Une session de 10 à 15 minutes par jour suffit. Fais un quiz interactif ou un scénario d'arbitrage par jour pour ancrer les automatismes sans saturer ta concentration.</p>
 </div>
 </details>
 
@@ -334,7 +334,7 @@ function copyPrompt(id, btn) {
           "name": "Combien de temps faut-il consacrer à ces exercices par jour ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Une session de 10 à 15 minutes par jour suffit amplement. Fais un quiz interactif ou un scénario d'arbitrage par jour pour ancrer les automatismes sans saturer ta concentration."
+            "text": "Une session de 10 à 15 minutes par jour suffit. Fais un quiz interactif ou un scénario d'arbitrage par jour pour ancrer les automatismes sans saturer ta concentration."
           }
         }
       ]

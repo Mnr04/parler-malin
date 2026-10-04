@@ -146,7 +146,7 @@ Voici les règles STRICTES de notre échange :
 </div>
 
 ### Méthode d'exécution :
-1. Ouvre ChatGPT (le compte gratuit standard suffit amplement).
+1. Ouvre ChatGPT (le compte gratuit standard suffit).
 2. Colle le prompt et lance le test.
 3. Réponds sans tricher ni chercher sur Google : l'intérêt est d'exposer tes vraies hésitations.
 
@@ -224,7 +224,7 @@ Règles de la simulation :
 <div class="next-step-card">
 <span class="next-label">ÉTAPE SUIVANTE</span>
 <h3>Étape 02 : Installer une routine d'anglais efficace</h3>
-<p>Maintenant que tes points faibles sont identifiés, découvre comment caler une pratique régulière avec l'IA pour consolider tes réflexes avant ta certification.</p>
+<p>Maintenant que tes points faibles sont identifiés, découvre comment caler une pratique régulière avec l'IA pour consolider tes réflexes.</p>
 <a href="/routine-anglais-chatgpt/" class="btn-next">Planifier sa routine de travail &rarr;</a>
 </div>
 
