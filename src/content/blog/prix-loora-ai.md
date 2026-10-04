@@ -1,6 +1,6 @@
 ---
-title: "Prix Loora AI (2026) : Tarifs & Code Promo (-10%)"
-description: "Combien coûte vraiment Loora AI ? Découvre les tarifs 2026 et économise 10% avec notre code promo (promo code / discount code valide en octobre 2026)."
+title: "Tarif Loora AI 2026 : prix, abonnement et code promo -10 %"
+description: "Combien coûte Loora AI ? Tarifs mensuel et annuel, essai gratuit et code promo -10 % vérifié en octobre 2026. Tableau et verdict."
 pubDate: 2026-09-16
 author: "Jérémy de Parler Malin"
 categories:
