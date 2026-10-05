@@ -131,6 +131,14 @@ date: 2026-06-13
 <h4>10 chaînes YouTube pour améliorer son anglais (guide 2026)</h4>
 <span>Consulter &rarr;</span>
 </a>
+<a href="/prix-praktika/" class="blog-article-card">
+<h4>Prix Praktika (2026) : tarifs et code promo -50 %</h4>
+<span>Consulter &rarr;</span>
+</a>
+<a href="/avis-praktika/" class="blog-article-card">
+<h4>Praktika avis 2026 : test complet des avatars IA</h4>
+<span>Consulter &rarr;</span>
+</a>
 </div>
 
 <style>
