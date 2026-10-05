@@ -59,7 +59,7 @@ heroImageAlt: "Corriger son accent anglais avec l'intelligence artificielle et L
 <li><a href="#atelier-chatgpt">L'option gratuite : S'échauffer avec le mode vocal de ChatGPT</a></li>
 <li><a href="#gagner-du-temps">Gagner du temps : Pourquoi passer sur une application dédiée</a></li>
 <li><a href="#loora-ia">Loora AI : La solution plug-and-play pour progresser plus vite</a></li>
-<li><a href="#routine-musculaire">La routine de 15 minutes : Recalibrer sa mémoire musculaire</a></li>
+<li><a href="#routine-musculaire">La routine de 15 minutes</a></li>
 <li><a href="#faq">Foire aux questions (FAQ)</a></li>
 </ol>
 </details>
@@ -173,13 +173,9 @@ Pas de prompt à taper ni de contexte à inventer : tu choisis un sujet du quoti
 
 ---
 
-<h2 id="routine-musculaire">4. La routine de 15 minutes : Recalibrer sa mémoire musculaire</h2>
+<h2 id="routine-musculaire">4. La routine de 15 minutes</h2>
 
-La prononciation anglaise est avant tout un **automatisme physique**. En français, nous parlons principalement avec le bout des lèvres et l'avant de la bouche. L'anglais, lui, sollicite la mâchoire, l'arrière du palais et des mouvements de langue inhabituels.
-
-<div class="tip-box">
-<strong>L'astuce d'efficacité :</strong> Inutile de bloquer deux heures le week-end : tes muscles fatiguent rapidement. Quinze minutes par jour, réparties sur la semaine, suffisent à reprogrammer les mouvements réflexes de ta bouche pour parler avec naturel.
-</div>
+<strong>L'astuce d'efficacité :</strong> Inutile de bloquer deux heures le week-end : tes muscles fatiguent rapidement. Quinze minutes par jour, réparties sur la semaine, suffisent à progresser naturellement sans se perdre en motivation 
 
 <figure class="article-figure figure-compact">
 <img src="/uploads/2026/07/graphique-progression-ia-prononciation-anglais-472x1024.avif" alt="Graphique de progression de la confiance en anglais via IA" width="472" height="1024" loading="lazy" />
