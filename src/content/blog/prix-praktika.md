@@ -174,7 +174,7 @@ Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'
 <span class="next-label">À LIRE AUSSI</span>
 <h3>Praktika vaut-il son prix ? Mon test complet</h3>
 <p>Fonctionnement, avatars, points forts et limites : tout ce qu'il faut savoir avant de t'abonner.</p>
-<a href="/praktika-app-avis/" class="btn-next">Lire mon avis complet sur Praktika →</a>
+<a href="/avis-praktika/" class="btn-next">Lire mon avis complet sur Praktika →</a>
 </div>
 
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code copié !</div>

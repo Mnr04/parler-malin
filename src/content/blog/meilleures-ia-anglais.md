@@ -187,9 +187,9 @@ heroImageAlt: "Comparatif des meilleures IA pour apprendre l'anglais en 2026"
 
 <div class="inline-promo-reminder">
 <span>👉</span>
-<a href="/praktika-avis/" class="inline-cta" style="margin-left: 0;">Lire mon test complet de Praktika</a>
+<a href="/avis-praktika/" class="inline-cta" style="margin-left: 0;">Lire mon test complet de Praktika</a>
 <span>|</span>
-<a href="LIEN_AFFILIÉ_PRAKTIKA" target="_blank" rel="sponsored noopener noreferrer" class="inline-cta" style="margin-left: 0;">Essayer Praktika (-50% avec PROMO50) &rarr;</a>
+<a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="inline-cta" style="margin-left: 0;">Essayer Praktika (-50% avec PROMO50) &rarr;</a>
 </div>
 
 <h3>🥉 Speak : un parcours guidé centré sur la parole</h3>
@@ -243,7 +243,7 @@ heroImageAlt: "Comparatif des meilleures IA pour apprendre l'anglais en 2026"
 
 <ul>
 <li><strong>Vous avez peur de parler mais voulez du 100% audio →</strong> Commencez par une IA vocale illimitée (<a href="/loora-app-avis/">Loora</a>).</li>
-<li><strong>Vous voulez parler avec un coach virtuel ludique et visuel →</strong> L'application <a href="/praktika-avis/">Praktika</a>.</li>
+<li><strong>Vous voulez parler avec un coach virtuel ludique et visuel →</strong> L'application <a href="/avis-praktika/">Praktika</a>.</li>
 <li><strong>Votre budget est de zéro euro →</strong> ChatGPT ou Gemini bien paramétré avec <a href="/prompt-chatgpt-tuteur-anglais/">ma méthode gratuite</a>.</li>
 <li><strong>Vous avez besoin d'être guidé pas à pas →</strong> <a href="https://www.usespeak.com/" target="_blank" rel="noopener noreferrer">Speak</a>.</li>
 <li><strong>Vous avez besoin d'un rendez-vous fixe et d'un humain →</strong> <a href="/avis-preply/">Preply</a> ou <a href="/avis-italki/">italki</a>.</li>
