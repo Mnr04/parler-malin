@@ -30,7 +30,6 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <div class="voucher-hero-card">
 <div class="voucher-top-bar">
 <span class="voucher-badge">🔥 Valable en octobre 2026</span>
-<span class="voucher-validity">Réduction vérifiée</span>
 </div>
 <div class="voucher-body">
 <div class="voucher-text-side">
@@ -66,9 +65,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <ol class="toc-list">
 <li><a href="#grille-tarifs">Grille des tarifs Praktika : quel abonnement choisir ?</a></li>
 <li><a href="#code-promo">Comment appliquer le code promo -50 % pas à pas</a></li>
-<li><a href="#rentabilite">Quelle formule est la plus rentable sur 12 mois ?</a></li>
 <li><a href="#ce-que-comprend">Ce que tu obtiens pour ton argent</a></li>
-<li><a href="#comparatif-prix">Praktika vs Loora vs prof particulier : le prix</a></li>
 <li><a href="#version-gratuite">Peut-on utiliser Praktika gratuitement ?</a></li>
 <li><a href="#faq">Foire aux questions</a></li>
 </ol>
@@ -117,29 +114,7 @@ La méthode la plus simple est de passer par le lien partenaire, qui applique la
 <a href="LIEN_AFFILIÉ_PRAKTIKA" target="_blank" rel="sponsored noopener noreferrer" class="inline-cta">Activer l'offre sur Praktika →</a>
 </div>
 
-<h2 id="rentabilite">3. Quelle formule est la plus rentable sur 12 mois ?</h2>
-
-Voici ce que tu paies réellement sur une année selon la formule que tu enchaînes (prix standard, avant promotion) :
-
-<div class="table-container">
-<table class="custom-table">
-<thead>
-<tr><th>Scénario sur 12 mois</th><th>Total payé</th><th>Économie vs mensuel</th></tr>
-</thead>
-<tbody>
-<tr><td>12 × forfait 1 mois</td><td>287,76 €</td><td>—</td></tr>
-<tr><td>4 × forfait 3 mois</td><td>191,96 €</td><td>95,80 €</td></tr>
-<tr><td>1 × forfait annuel</td><td>119,99 €</td><td>167,77 €</td></tr>
-<tr class="highlight-row"><td><strong>1 × forfait annuel avec -50 %</strong> 🏆</td><td><strong>59,99 €</strong></td><td><strong>227,77 €</strong></td></tr>
-</tbody>
-</table>
-</div>
-
-<div class="tip-box">
-<strong>À retenir :</strong> l'abonnement annuel avec la promo coûte plus de 4 fois moins cher que 12 mois en formule mensuelle. En contrepartie, c'est un engagement de 12 mois : ne le prends que si tu es sûr de pratiquer régulièrement.
-</div>
-
-<h2 id="ce-que-comprend">4. Ce que tu obtiens pour ton argent</h2>
+<h2 id="ce-que-comprend">3. Ce que tu obtiens pour ton argent</h2>
 
 Quelle que soit la formule, l'abonnement Premium débloque l'accès aux fonctionnalités qui font l'intérêt de Praktika :
 
@@ -150,7 +125,7 @@ Quelle que soit la formule, l'abonnement Premium débloque l'accès aux fonction
 
 Pour le détail de ces fonctionnalités et mon ressenti d'utilisation : [lire mon avis complet sur Praktika](/avis-praktika/).
 
-<h2 id="version-gratuite">5. Peut-on utiliser Praktika gratuitement ?</h2>
+<h2 id="version-gratuite">4. Peut-on utiliser Praktika gratuitement ?</h2>
 
 Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'application. En revanche, pour pratiquer sans limite avec les tuteurs, il faut un abonnement Premium.
 
