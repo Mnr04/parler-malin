@@ -1,24 +1,24 @@
 ---
 title: "Prix Praktika 2026 : tarifs, abonnement et code promo -50 %"
-description: "Combien coûte Praktika ? Tarifs 1 mois, 3 mois et 1 an, coût par jour, comparatif Loora et code promo -50 % vérifié en octobre 2026."
+description: "Combien coûte Praktika ? Tarifs 1 mois, 3 mois et 1 an, coût par jour et promo -50 % vérifiée en octobre 2026."
 pubDate: 2026-10-05
-updatedDate: 2026-10-05
+updatedDate: 2026-10-07
 author: "Jérémy de Parler Malin"
 categories:
   - "avis"
 heroImage: "/uploads/10/prix-abonnement-praktika-code-promo.avif"
-heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de l'application avec le code promo exclusif de -50%."
+heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de l'application avec la promo exclusive de -50%."
 ---
 
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Prix Praktika</span>
 </nav>
 
-<h1 class="page-title">Prix Praktika (2026) : tarifs et code promo -50 %</h1>
+<h1 class="page-title">Prix Praktika (2026) : tarifs et promo -50 %</h1>
 
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span><span class="dot">•</span>
-<span>Mis à jour le <time datetime="2026-10-05">5 octobre 2026</time></span><span class="dot">•</span>
+<span>Mis à jour le <time datetime="2026-10-07">7 octobre 2026</time></span><span class="dot">•</span>
 <span>Lecture : 5 min</span>
 </div>
 
@@ -34,18 +34,11 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <div class="voucher-body">
 <div class="voucher-text-side">
 <h2 class="voucher-headline">-50 % sur tous les forfaits Praktika</h2>
-<p class="voucher-sub">L'offre s'applique via mon lien partenaire : l'abonnement annuel passe de 119,99 € à <strong>59,99 €</strong>, soit environ 5 € par mois.</p>
+<p class="voucher-sub">Aucun code à saisir : la remise s'applique automatiquement quand tu passes par mon lien partenaire. L'abonnement annuel passe de 119,99 € à <strong>59,99 €</strong>, soit environ 5 € par mois.</p>
 </div>
 <div class="voucher-action-side">
-<div class="voucher-ticket">
-<div class="ticket-label">TON CODE PROMO</div>
-<div class="ticket-code-row">
-<code id="hero-promo-code" class="ticket-code">PROMO50</code>
-<button type="button" class="btn-ticket-copy" onclick="copyPromoHero(this, 'hero-promo-code')"><span class="copy-text">Copier</span><span aria-hidden="true">📋</span></button>
-</div>
-<span class="ticket-micro">La remise s'applique via le lien.</span>
-</div>
 <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-hero-cta"><span>Activer l'offre -50 % sur Praktika</span><span aria-hidden="true">→</span></a>
+<span class="ticket-micro">Sans code : la remise s'applique via le lien.</span>
 </div>
 </div>
 
@@ -64,7 +57,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <summary class="toc-title"><span>Sommaire du guide des prix</span><span class="toc-toggle-icon">▾</span></summary>
 <ol class="toc-list">
 <li><a href="#grille-tarifs">Grille des tarifs Praktika : quel abonnement choisir ?</a></li>
-<li><a href="#code-promo">Comment appliquer le code promo -50 % pas à pas</a></li>
+<li><a href="#promo">Comment profiter de la promo -50 % pas à pas</a></li>
 <li><a href="#ce-que-comprend">Ce que tu obtiens pour ton argent</a></li>
 <li><a href="#version-gratuite">Peut-on utiliser Praktika gratuitement ?</a></li>
 <li><a href="#faq">Foire aux questions</a></li>
@@ -93,25 +86,25 @@ Praktika se télécharge gratuitement, mais l'abonnement Premium est nécessaire
 <strong>Ma recommandation :</strong> si tu veux simplement vérifier que le format te plaît, prends <strong>1 mois</strong> (11,99 € avec la promo). Si tu comptes pratiquer régulièrement, le <strong>forfait annuel</strong> est de loin le plus avantageux : il revient à environ 5 € par mois.
 </div>
 
-<h2 id="code-promo">2. Comment appliquer le code promo -50 % pas à pas</h2>
+<h2 id="promo">2. Comment profiter de la promo -50 % pas à pas</h2>
 
-La méthode la plus simple est de passer par le lien partenaire, qui applique la remise automatiquement :
+Pas de code à copier : il suffit de passer par le lien partenaire, qui applique la remise automatiquement.
 
 1. Clique sur le bouton **« Activer l'offre -50 % »** de cette page.
 2. Télécharge l'application et crée ton compte.
 3. Réponds au questionnaire de départ (objectifs, niveau).
 4. Choisis ta formule (1 mois, 3 mois ou 1 an).
-5. Sur l'écran de paiement, vérifie que la réduction est bien appliquée. Si ce n'est pas le cas, saisis le code **PROMO50** dans le champ prévu.
+5. Sur l'écran de paiement, vérifie que la réduction est bien appliquée. Si ce n'est pas le cas, reviens sur cette page et clique de nouveau sur le bouton avant de t'inscrire, sans passer par un autre lien ou une autre publicité entre-temps.
 
 <figure class="shot shot-wide">
-<img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement Praktika avec le code PROMO50 appliqué" width="800" height="450" loading="lazy" decoding="async">
-<figcaption>Écran de paiement avec la réduction PROMO50 appliquée (octobre 2026).</figcaption>
+<img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement Praktika avec la réduction de 50 % appliquée" width="800" height="450" loading="lazy" decoding="async">
+<figcaption>Écran de paiement avec la réduction de 50 % appliquée (octobre 2026).</figcaption>
 </figure>
 
 <div class="inline-promo-reminder">
-<span>Code promo :</span>
-<code class="inline-code">PROMO50</code>
-<a href="LIEN_AFFILIÉ_PRAKTIKA" target="_blank" rel="sponsored noopener noreferrer" class="inline-cta">Activer l'offre sur Praktika →</a>
+<span>Offre -50 % :</span>
+<span>la remise s'applique via mon lien, sans code.</span>
+<a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="inline-cta">Activer l'offre sur Praktika →</a>
 </div>
 
 <h2 id="ce-que-comprend">3. Ce que tu obtiens pour ton argent</h2>
@@ -141,8 +134,8 @@ Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'
 </details>
 
 <details class="faq-card">
-<summary class="faq-title">Le code PROMO50 fonctionne-t-il vraiment ?</summary>
-<div class="faq-body"><p>Oui, la réduction de 50 % était appliquée à l'écran de paiement lors de mon test en octobre 2026. Vérifie toujours le prix final affiché avant de valider, car Praktika peut modifier ou retirer l'offre.</p></div>
+<summary class="faq-title">Faut-il un code promo pour obtenir -50 % ?</summary>
+<div class="faq-body"><p>Non, aucun code n'est nécessaire : la réduction de 50 % s'applique automatiquement quand tu t'abonnes en passant par mon lien partenaire. Elle était bien appliquée à l'écran de paiement lors de mon test en octobre 2026. Vérifie toujours le prix final affiché avant de valider, car Praktika peut modifier ou retirer l'offre.</p></div>
 </details>
 
 <details class="faq-card">
@@ -177,48 +170,18 @@ Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'
 <a href="/avis-praktika/" class="btn-next">Lire mon avis complet sur Praktika →</a>
 </div>
 
-<div id="copy-toast" class="copy-toast" aria-live="polite">Code copié !</div>
-
-<script is:inline>
-function copyPromoHero(btn, elementId) {
-  var el = document.getElementById(elementId);
-  if (!el) return;
-  var text = el.innerText.trim();
-  var done = function () {
-    var span = btn.querySelector('.copy-text');
-    var old = span ? span.innerText : '';
-    if (span) span.innerText = "Copié !";
-    btn.classList.add("copied");
-    var toast = document.getElementById("copy-toast");
-    if (toast) {
-      toast.innerText = "Code " + text + " copié !";
-      toast.classList.add("show");
-      setTimeout(function () { toast.classList.remove("show"); }, 3000);
-    }
-    setTimeout(function () { if (span) span.innerText = old; btn.classList.remove("copied"); }, 2500);
-  };
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(text).then(done).catch(function () {});
-  } else {
-    var r = document.createRange(); r.selectNodeContents(el);
-    var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
-    try { document.execCommand("copy"); done(); } catch (e) {}
-  }
-}
-</script>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Prix Praktika (2026) : tarifs et code promo -50 %",
-      "description": "Tarifs Praktika 1 mois, 3 mois et 1 an, coût par jour, comparatif Loora et code promo -50 %.",
+      "headline": "Prix Praktika (2026) : tarifs et promo -50 %",
+      "description": "Tarifs Praktika 1 mois, 3 mois et 1 an, coût par jour, comparatif Loora et promo -50 %.",
       "author": { "@type": "Person", "name": "Jérémy de Parler Malin", "url": "https://parlermalin.fr/a-propos/" },
       "publisher": { "@type": "Organization", "name": "Parler Malin", "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" } },
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-05",
+      "dateModified": "2026-10-07",
       "image": "https://parlermalin.fr/uploads/2026/10/praktika-prix-tarifs.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/prix-praktika/"
@@ -239,16 +202,16 @@ function copyPromoHero(btn, elementId) {
       "image": "https://parlermalin.fr/uploads/2026/10/praktika-prix-tarifs.avif",
       "description": "Application d'apprentissage des langues avec des tuteurs IA animés.",
       "offers": [
-        { "@type": "Offer", "name": "Praktika 1 mois avec -50 %", "priceCurrency": "EUR", "price": "11.99", "url": "LIEN_AFFILIÉ_PRAKTIKA", "availability": "https://schema.org/InStock" },
-        { "@type": "Offer", "name": "Praktika 3 mois avec -50 %", "priceCurrency": "EUR", "price": "23.99", "url": "LIEN_AFFILIÉ_PRAKTIKA", "availability": "https://schema.org/InStock" },
-        { "@type": "Offer", "name": "Praktika 1 an avec -50 %", "priceCurrency": "EUR", "price": "59.99", "url": "LIEN_AFFILIÉ_PRAKTIKA", "availability": "https://schema.org/InStock" }
+        { "@type": "Offer", "name": "Praktika 1 mois avec -50 %", "priceCurrency": "EUR", "price": "11.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "Praktika 3 mois avec -50 %", "priceCurrency": "EUR", "price": "23.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "Praktika 1 an avec -50 %", "priceCurrency": "EUR", "price": "59.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" }
       ]
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
         { "@type": "Question", "name": "Combien coûte Praktika par mois ?", "acceptedAnswer": { "@type": "Answer", "text": "De 23,98 € pour 1 mois à environ 10 € par mois pour l'annuel au tarif standard. Avec la réduction de 50 %, le forfait annuel revient à environ 5 € par mois (59,99 € par an)." } },
-        { "@type": "Question", "name": "Le code PROMO50 fonctionne-t-il vraiment ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, la réduction de 50 % était appliquée à l'écran de paiement lors du test en octobre 2026. Vérifie le prix final affiché avant de valider." } },
+        { "@type": "Question", "name": "Faut-il un code promo pour obtenir -50 % ?", "acceptedAnswer": { "@type": "Answer", "text": "Non, aucun code n'est nécessaire : la réduction de 50 % s'applique automatiquement en passant par le lien partenaire. Vérifie le prix final affiché avant de valider." } },
         { "@type": "Question", "name": "Quelle est la formule la moins chère ?", "acceptedAnswer": { "@type": "Answer", "text": "Au total, le forfait 1 mois avec promo (11,99 €). Au coût mensuel, le forfait annuel avec promo (environ 5 € par mois)." } },
         { "@type": "Question", "name": "Comment résilier mon abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "La résiliation se fait en général depuis les réglages d'abonnement de l'App Store ou du Google Play Store, selon l'endroit où tu t'es abonné." } },
         { "@type": "Question", "name": "Praktika est-il moins cher qu'un professeur particulier ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, nettement, mais ce sont deux usages différents : Praktika offre un volume de pratique illimité, un professeur humain apporte un suivi et des nuances qu'une IA n'a pas." } },
@@ -276,13 +239,7 @@ function copyPromoHero(btn, elementId) {
 .voucher-headline{font-size:clamp(1.35rem,2.5vw,1.75rem);font-weight:800;color:#0f172a;line-height:1.25;margin:0 0 .6rem;letter-spacing:-.02em}
 .voucher-sub{font-size:.92rem;color:#475569;line-height:1.55;margin:0}
 .voucher-action-side{display:flex;flex-direction:column;gap:.75rem}
-.voucher-ticket{background:#faf5ff;border:2px dashed #c4b5fd;border-radius:12px;padding:.85rem 1rem;text-align:center}
-.ticket-label{font-family:ui-monospace,monospace;font-size:.68rem;font-weight:700;color:#6d28d9;letter-spacing:.06em;margin-bottom:.4rem}
-.ticket-code-row{display:flex;align-items:center;justify-content:center;gap:.5rem}
-.ticket-code{font-family:ui-monospace,monospace;font-size:1.35rem;font-weight:900;letter-spacing:.08em;color:#0f172a;background:#fff;border:1px solid #cbd5e1;padding:.3rem .85rem;border-radius:8px}
-.btn-ticket-copy{background:#6d28d9;color:#fff;border:none;border-radius:8px;padding:.5rem .95rem;font-size:.82rem;font-weight:700;cursor:pointer;display:inline-flex;align-items:center;gap:.35rem;transition:background .15s ease}
-.btn-ticket-copy:hover{background:#5b21b6}.btn-ticket-copy.copied{background:#047857}
-.ticket-micro{display:block;font-size:.72rem;color:#64748b;margin-top:.4rem}
+.ticket-micro{display:block;font-size:.72rem;color:#64748b;text-align:center}
 .btn-hero-cta{display:flex;align-items:center;justify-content:center;gap:.5rem;background:#6d28d9!important;color:#fff!important;font-size:1rem;font-weight:700;padding:.85rem 1.5rem;border-radius:10px;text-decoration:none!important;box-shadow:0 4px 15px rgba(109,40,217,.25);transition:all .2s ease}
 .btn-hero-cta:hover{background:#5b21b6!important;transform:translateY(-2px)}
 .voucher-pricing-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:.65rem;background:#f1f5f9;padding:.75rem;border-radius:10px;margin-bottom:.85rem}
@@ -310,7 +267,6 @@ function copyPromoHero(btn, elementId) {
 .shot img{display:block;margin:0 auto;max-width:100%;height:auto;border:1px solid #e2e8f0;border-radius:12px;box-shadow:0 4px 16px rgba(15,23,42,.08)}
 .shot-wide img{max-width:640px}.shot figcaption{margin-top:.5rem;font-size:.78rem;color:#64748b}
 .inline-promo-reminder{display:flex;align-items:center;gap:.65rem;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:.75rem 1rem;margin:1.5rem 0;font-size:.88rem;flex-wrap:wrap}
-.inline-code{font-family:ui-monospace,monospace;font-weight:800;background:#fff;border:1px solid #cbd5e1;padding:.2rem .5rem;border-radius:4px;color:#0f172a}
 .inline-cta{margin-left:auto;color:#6d28d9;font-weight:700;text-decoration:underline}
 .tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #6d28d9;border-radius:8px;padding:1rem 1.25rem;font-size:.9rem;color:#475569;margin:1.5rem 0}
 .tip-box a{color:#6d28d9;text-decoration:underline;font-weight:600}
@@ -330,14 +286,9 @@ function copyPromoHero(btn, elementId) {
 .next-step-card p{color:#475569;font-size:.92rem;margin:0 0 1.2rem}
 .btn-next,.btn-next:visited{display:inline-block;background:#6d28d9!important;color:#fff!important;font-weight:600;font-size:.88rem;padding:.6rem 1.15rem;border-radius:6px;text-decoration:none!important;transition:background-color .15s ease}
 .btn-next:hover,.btn-next:focus{background:#5b21b6!important;color:#fff!important}
-.copy-toast{position:fixed;bottom:2rem;right:2rem;background:#0f172a;color:#fff;border:1px solid #334155;padding:.75rem 1.2rem;border-radius:8px;font-size:.88rem;font-weight:600;box-shadow:0 10px 25px rgba(0,0,0,.2);opacity:0;visibility:hidden;transform:translateY(12px);transition:opacity .2s ease,transform .2s ease,visibility .2s;z-index:9999}
-.copy-toast.show{opacity:1;visibility:visible;transform:translateY(0)}
 @media (max-width:768px){
 .voucher-body{grid-template-columns:1fr;gap:1.25rem}
 .voucher-pricing-strip{grid-template-columns:1fr}
-.ticket-code-row{flex-direction:column;width:100%}
-.ticket-code{width:100%;box-sizing:border-box;text-align:center}
-.btn-ticket-copy{width:100%;justify-content:center}
 .inline-cta{margin-left:0;width:100%}
 }
 </style>
