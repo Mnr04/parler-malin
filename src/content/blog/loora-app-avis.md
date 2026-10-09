@@ -1,5 +1,5 @@
 ---
-title: "Loora app avis : L'appli ultime pour parler anglais ?"
+title: "Loora app AVIS : L'appli ultime pour parler anglais ?"
 description: "Cherches-tu un avis objectif sur Loora App ? Découvre mon test complet de ce coach vocal IA : fonctionnalités, prix 2026 et code promo exclusif de -10% !"
 pubDate: 2026-07-26
 author: "Jérémy de Parler Malin"

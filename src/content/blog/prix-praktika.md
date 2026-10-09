@@ -1,5 +1,5 @@
 ---
-title: "Prix Praktika 2026 : tarifs, abonnement et code promo -50 %"
+title: "Prix Praktika 2026 : TARIFS, abonnement et CODE PROMO -50 %"
 description: "Combien coûte Praktika ? Tarifs 1 mois, 3 mois et 1 an, coût par jour et promo -50 % vérifiée en octobre 2026."
 pubDate: 2026-10-05
 updatedDate: 2026-10-07

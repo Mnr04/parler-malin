@@ -1,5 +1,5 @@
 ---
-title: "Praktika avis 2026 : test complet de l'app (prix, avatars IA, promo -50 %)"
+title: "Praktika AVIS 2026 : test complet de l'app (prix, avatars IA, promo -50 %)"
 description: "Mon avis sur Praktika après test : avatars IA, multimodalité, points faibles, prix 2026 et comparatif ChatGPT. Lien promo -50 % inclus."
 pubDate: 2026-10-05
 updatedDate: 2026-10-05
