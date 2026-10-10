@@ -78,7 +78,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika : interface du coa
 <p class="action-highlight"><strong>-50 %</strong> sur l'abonnement via mon lien partenaire.</p>
 
 </div>
-<a href="LIEN_AFFILIÉ_PRAKTIKA" target="_blank" rel="sponsored noopener noreferrer" class="btn-scorecard-cta"><span>Appliquer -50 % sur Praktika</span><span aria-hidden="true">→</span></a>
+<a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-scorecard-cta"><span>Appliquer -50 % sur Praktika</span><span aria-hidden="true">→</span></a>
 </div>
 <div class="scorecard-guarantee"><span>Réduction vérifiée en octobre 2026</span></div>
 </div>
