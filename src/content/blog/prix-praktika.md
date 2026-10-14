@@ -34,11 +34,10 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <div class="voucher-body">
 <div class="voucher-text-side">
 <h2 class="voucher-headline">-50 % sur tous les forfaits Praktika</h2>
-<p class="voucher-sub">Aucun code à saisir : la remise s'applique automatiquement quand tu passes par mon lien partenaire. L'abonnement annuel passe de 119,99 € à <strong>59,99 €</strong>, soit environ 5 € par mois.</p>
+<p class="voucher-sub">Aucun code à saisir : la remise s'applique automatiquement quand tu passes par mon lien partenaire.</p>
 </div>
 <div class="voucher-action-side">
 <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-hero-cta"><span>Activer l'offre -50 % sur Praktika</span><span aria-hidden="true">→</span></a>
-<span class="ticket-micro">Sans code : la remise s'applique via le lien.</span>
 </div>
 </div>
 
@@ -49,7 +48,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 </div>
 
 <div class="voucher-guarantees">
-<span>✓ Prix relevés en octobre 2026</span><span>•</span><span>✓ Écran de paiement vérifié</span>
+<span>✓ Prix relevés en octobre 2026</span>
 </div>
 </div>
 

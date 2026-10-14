@@ -49,7 +49,6 @@ heroImageAlt: "Tarifs et abonnements de Loora AI avec code promo"
 <div class="voucher-body">
 <div class="voucher-text-side">
 <h2 class="voucher-headline">-10% immédiats sur tous les forfaits Loora</h2>
-<p class="voucher-sub">Active la remise sur l'abonnement Mensuel, 3 Mois ou Annuel avec notre code promo (fonctionne aussi comme <em>promo code</em> ou <em>discount code</em> international).</p>
 </div>
 
 <div class="voucher-action-side">
