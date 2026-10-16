@@ -24,7 +24,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
-<span><time datetime="2026-09-07">7 septembre 2026</time></span>
+<span><time datetime="2026-09-07">16 octobre 2026</time></span>
 <span class="dot">•</span>
 <span>Temps de lecture : 6 min</span>
 <span class="dot">•</span>
@@ -117,7 +117,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <li><a href="#avis-clients">Ce qu'en pensent les utilisateurs (retours vérifiés)</a></li>
 <li><a href="#pour-qui">Pour qui cette méthode est-elle idéale ?</a></li>
 <li><a href="#alternative-loora">Alternative : L'intelligence artificielle avec Loora AI</a></li>
-<li><a href="#limites">Les 3 pièges à éviter avant de réserver</a></li>
+<li><a href="#limites">Les 4 pièges à éviter avant de réserver</a></li>
 <li><a href="#verdict">Notre verdict final</a></li>
 <li><a href="#faq">Foire aux questions (FAQ)</a></li>
 </ol>
@@ -299,13 +299,14 @@ Preply répond parfaitement à des objectifs concrets où l'intelligence artific
 
 ---
 
-<h2 id="limites">7. Les 3 pièges à éviter avant de réserver</h2>
+<h2 id="limites">7. Les 4 pièges à éviter avant de réserver</h2>
 
-Pour vivre une excellente expérience, garde ces 3 points à l'esprit :
+Pour vivre une excellente expérience, garde ces 4 points à l'esprit :
 
 1. **Ne choisis pas uniquement le prix le plus bas :** Un tarif à 3 $ cache souvent des profils sans structure pédagogique. Pour une progression efficace, vise la tranche de **10 $ à 15 $**.
 2. **Respecte la règle des 12 heures :** Si tu annules moins de 12 heures avant le cours, la leçon est intégralement due au professeur pour compenser son temps réservé.
 3. **Le premier cours n'est pas gratuit :** Contrairement à d'autres applications freemium, la leçon d'essai est payante. Mais grâce à la réduction ci-dessous, elle ne te coûte que la moitié de son prix.
+4. **Vérifie si tu achètes des cours à l'unité ou un abonnement :** C'est le reproche le plus fréquent dans les avis négatifs sur Trustpilot. Certaines formules se renouvellent automatiquement (tous les 28 jours dans plusieurs témoignages), et la résiliation depuis l'application peut être peu intuitive. Relis le récapitulatif avant de payer et note la date de renouvellement.
 
 <!-- Carte Outil CRO Preply -->
 <div class="tool-callout-card">
@@ -336,6 +337,16 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
 ---
 
 <h2 id="faq">Foire aux questions</h2>
+
+<details class="faq-card">
+<summary class="faq-title">La plateforme Preply a-t-elle une bonne réputation ?</summary>
+<div class="faq-body">
+<p>Oui, Preply bénéficie d'une très bonne réputation. Sur Trustpilot, la plateforme affiche une note de <strong>4,4/5 (« Excellent »)</strong> basée sur plus de <strong>25 700 avis</strong>. La répartition est nettement positive : <strong>76 %</strong> d'avis 5 étoiles et 7 % d'avis 4 étoiles, soit 83 % d'avis positifs. Seuls 13 % des avis sont à 1 étoile.</p>
+<p>Les utilisateurs saluent surtout la qualité des tuteurs, la simplicité de la plateforme pour réserver ses cours et la réactivité du support client. Preply répond d'ailleurs à environ 89 % des avis négatifs, généralement sous 48 heures.</p>
+<p>Les critiques les plus fréquentes concernent les <strong>abonnements à renouvellement automatique</strong>, la difficulté à les résilier depuis l'application, l'expiration du solde de leçons et, parfois, des délais de réponse du support. Pour les éviter, vérifie bien si tu achètes des cours à l'unité ou un forfait avant de payer. À noter que Trustpilot ne vérifie pas le contenu des avis et que Preply invite activement ses utilisateurs à en laisser.</p>
+<p><a href="https://www.trustpilot.com/review/preply.com" target="_blank" rel="nofollow noopener noreferrer">Consulter les avis Preply sur Trustpilot</a> (données relevées en octobre 2026).</p>
+</div>
+</details>
 
 <details class="faq-card">
 <summary class="faq-title">Est-ce que Preply propose des cours gratuits ?</summary>
@@ -402,7 +413,7 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
         "url": "https://parlermalin.fr/a-propos/"
       },
       "datePublished": "2026-09-07",
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-10-16",
       "image": "https://parlermalin.fr/uploads/2026/08/test-illustration-avis-preply-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/avis-preply/"
@@ -432,6 +443,14 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
     {
       "@type": "FAQPage",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "La plateforme Preply a-t-elle une bonne réputation ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, Preply bénéficie d'une très bonne réputation. Sur Trustpilot, la plateforme affiche une note de 4,4/5 (« Excellent ») basée sur plus de 25 700 avis, avec 76 % d'avis 5 étoiles et 7 % d'avis 4 étoiles. Seuls 13 % des avis sont à 1 étoile. Les utilisateurs saluent la qualité des tuteurs, la simplicité de la plateforme et la réactivité du support client. Les critiques portent surtout sur les abonnements à renouvellement automatique, leur résiliation depuis l'application et l'expiration du solde de leçons. Trustpilot ne vérifie pas le contenu des avis. Données relevées en octobre 2026."
+          }
+        },
         {
           "@type": "Question",
           "name": "Est-ce que Preply propose des cours gratuits ?",
@@ -1045,7 +1064,15 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
         line-height: 1.6;
     }
     .faq-body p {
-        margin: 0;
+        margin: 0 0 0.75rem 0;
+    }
+    .faq-body p:last-child {
+        margin-bottom: 0;
+    }
+    .faq-body a {
+        color: #1a56db;
+        text-decoration: underline;
+        text-underline-offset: 2px;
     }
 
     /* Disclaimer IA */

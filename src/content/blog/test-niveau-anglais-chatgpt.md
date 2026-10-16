@@ -32,7 +32,7 @@ heroImageAlt: "Diagnostic de niveau d'anglais sur ChatGPT avant un examen offici
 <p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
-<!-- 2. Bloc En Bref (Optimisé GEO & Lecture Rapide) -->
+<!-- 2. Bloc En Bref -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
