@@ -26,317 +26,749 @@ const posts = (await getCollection('blog'))
     })
     .slice(0, 3);
 
-// Durées à ajuster selon le contenu réel de chaque page
 const etapes = [
     {
         num: '01',
+        phase: 'Diagnostic',
         duree: '10 min',
-        title: 'Estimer son niveau',
-        desc: "Les prompts à copier-coller pour transformer ChatGPT en test interactif (QCM, compréhension et oral) afin d'évaluer votre niveau.",
+        title: 'Estimer son vrai niveau',
+        desc: "Les prompts à copier-coller pour transformer ChatGPT en examinateur interactif (QCM, compréhension et oral) sans passer par un test scolaire biaisé.",
         link: '/test-niveau-anglais-chatgpt/',
-        cta: "Tester son niveau d'anglais avec ChatGPT",
+        cta: "Faire le test de niveau",
+        featured: true,
     },
     {
         num: '02',
+        phase: 'Structure',
         duree: '5 min',
-        title: 'Créer un plan d’étude',
-        desc: "Le prompt exact pour structurer votre apprentissage et générer un planning sur mesure avec l'IA.",
+        title: 'Bâtir son plan d’étude',
+        desc: "Le prompt exact pour découper votre apprentissage et générer une routine réaliste adaptée à votre emploi du temps.",
         link: '/routine-anglais-chatgpt/',
-        cta: "Générer son plan d'étude en anglais",
+        cta: "Générer mon planning",
     },
     {
         num: '03',
+        phase: 'Fondations',
         duree: '10 min/jour',
-        title: 'Vocabulaire & Grammaire',
-        desc: "Générez des exercices de vocabulaire et de grammaire contextualisés selon vos centres d'intérêt.",
+        title: 'Vocabulaire & Grammaire utiles',
+        desc: "Apprenez uniquement les mots et structures liés à votre métier ou vos passions grâce à des mises en contexte sur mesure.",
         link: '/apprendre-vocabulaire-anglais-chatgpt/',
-        cta: 'Apprendre le vocabulaire anglais avec ChatGPT',
+        cta: 'Cibler mon vocabulaire',
     },
     {
         num: '04',
+        phase: 'Phonétique',
         duree: '5 min/jour',
         title: 'Corriger sa prononciation',
-        desc: "Découvrez les coachs vocaux IA capables d'analyser et corriger votre accent en temps réel.",
+        desc: "Comment utiliser les coachs vocaux IA pour détecter vos tics de prononciation francophones et fluidifier votre accent.",
         link: '/ia-prononciation-anglais/',
-        cta: "Corriger sa prononciation en anglais avec l'IA",
+        cta: "Travailler mon accent",
     },
     {
         num: '05',
+        phase: 'Immersion',
         duree: '10 min/jour',
-        title: 'Converser en vocal',
-        desc: "Mises en situation et roleplay guidés pour dialoguer à l'oral avec une IA bienveillante.",
+        title: 'Converser à voix haute',
+        desc: "Simulations et jeux de rôle guidés (réunion pro, voyage, débat) pour parler à l'oral sans la peur du jugement.",
         link: '/reussir-conversation-en-anglais-avec-ia/',
-        cta: 'Parler anglais à l’oral avec une IA',
+        cta: 'Lancer un dialogue vocal',
     },
     {
         num: '06',
-        duree: 'Chaque semaine',
-        title: 'Valider dans le monde réel',
-        desc: "Surmonter l'anxiété de prise de parole et passer de l'entraînement IA aux échanges natifs.",
+        phase: 'Terrain',
+        duree: '1x / semaine',
+        title: 'Valider avec des natifs',
+        desc: "Le protocole pour passer de l'entraînement sécurisé avec l'IA aux vraies conversations humaines avec fluidité.",
         link: '/pratiquer-anglais-natifs/',
-        cta: 'Pratiquer l’anglais avec des natifs',
+        cta: 'Passer aux échanges réels',
     },
 ];
 
-// Source unique : alimente le HTML ET le JSON-LD
+const outilsComparatif = [
+    {
+        nom: 'Loora AI',
+        categorie: 'Coach vocal dédié',
+        usage: 'Idéal pour pratiquer l’oral quotidiennement sur mobile avec corrections en temps réel.',
+        verdict: 'Le plus fluide à l’oral',
+        link: '/loora-app-avis/',
+        cta: 'Lire mon test de Loora',
+    },
+    {
+        nom: 'Praktika',
+        categorie: 'Avatars interactifs',
+        usage: 'Mises en situation visuelles et parcours structurés avec différents accents (US, UK).',
+        verdict: 'Le plus immersif',
+        link: '/avis-praktika/',
+        cta: 'Lire mon test de Praktika',
+    },
+    {
+        nom: 'Preply',
+        categorie: 'Professeurs natifs',
+        usage: 'Indispensable pour valider ses acquis IA face à un vrai interlocuteur humain.',
+        verdict: 'Le complément humain',
+        link: '/avis-preply/',
+        cta: 'Lire mon avis sur Preply',
+    },
+];
+
 const faq = [
     {
         q: "Est-il vraiment possible d'apprendre l'anglais de zéro avec l'IA ?",
-        a: `Absolument, mais l'IA n'est qu'un outil : c'est votre régularité qui fera la différence. ChatGPT agit comme un tuteur personnel disponible 24h/24. Il permet de créer un environnement d'immersion totale (vocabulaire sur-mesure selon vos passions, corrections instantanées, jeux de rôle) directement depuis chez vous. Le but est de remplacer l'apprentissage passif par une pratique active dès le premier jour.`,
+        a: `Oui, à condition de ne pas utiliser l'IA comme un simple dictionnaire. Utilisé avec des consignes précises (prompts), ChatGPT agit comme un tuteur disponible 24h/24 : il adapte les textes à votre niveau, génère des dialogues sur vos centres d'intérêt et corrige vos fautes instantanément. Vous passez d'un apprentissage passif à une pratique active dès le premier jour.`,
     },
     {
-        q: "Comment pratiquer l'oral et l'accent si je suis seul(e) devant mon écran ?",
-        a: `C'est la plus grande révolution apportée par l'intelligence artificielle. Avec le mode vocal de ChatGPT ou des applications spécialisées comme Loora, vous pouvez converser naturellement à voix haute. L'IA écoute, comprend et répond de manière fluide. L'immense avantage ? Vous pratiquez sans la pression ni le jugement d'un interlocuteur humain, ce qui débloque la timidité.`,
+        q: "Comment pratiquer l'oral et l'accent tout seul devant son écran ?",
+        a: `Avec le mode vocal de ChatGPT ou des applications spécialisées comme Loora, vous discutez à voix haute comme au téléphone. L'IA vous écoute, vous répond et pointe vos erreurs de prononciation ou de syntaxe. Le principal levier psychologique est là : vous pratiquez sans la peur du ridicule, ce qui débloque la prise de parole beaucoup plus vite.`,
     },
     {
-        q: 'Faut-il payer la version Premium de ChatGPT (Plus) pour utiliser vos méthodes ?',
-        a: `Non. La majorité de nos prompts et protocoles d'apprentissage sont parfaitement opérationnels avec la version gratuite de ChatGPT. La version payante offre un mode vocal plus fluide et une mémoire contextuelle plus profonde, mais n'est en aucun cas un prérequis pour démarrer votre routine, évaluer votre niveau ou générer vos exercices.`,
+        q: 'Faut-il payer ChatGPT Plus (version payante) pour appliquer cette méthode ?',
+        a: `Non. Tous les prompts et protocoles partagés sur ce site fonctionnent avec la version gratuite de ChatGPT. La version payante ou les applications spécialisées apportent un confort supplémentaire (voix plus naturelles, corrections phonétiques poussées), mais ne sont pas obligatoires pour démarrer.`,
     },
     {
-        q: "Pourquoi l'ensemble des guides et prompts du site sont-ils 100% gratuits ?",
-        a: `Notre objectif est de rendre l'apprentissage moderne accessible à tous. Le site se rémunère de manière transparente via l'affiliation : si vous découvrez et décidez de vous abonner à une application éducative premium via l'un de nos liens (après avoir lu nos tests), nous touchons une commission, sans le moindre surcoût pour vous. Ce modèle permet de financer le temps passé à tester les outils et à maintenir la totalité de nos ressources éditoriales gratuites.`,
+        q: "Pourquoi l'ensemble des guides et prompts du site sont-ils 100 % gratuits ?",
+        a: `Je tiens à garder toutes mes ressources et méthodes en accès libre, sans mur payant ni inscription forcée. Le site se finance de manière transparente via l'affiliation : si vous décidez d'essayer une application payante (comme Loora, Praktika ou Preply) en passant par mes liens après avoir lu mes tests, je perçois une commission sans aucun surcoût pour vous.`,
     },
     {
-        q: 'Combien de temps par jour dois-je y consacrer ?',
-        a: `L'avantage de l'IA est sa flexibilité totale. La régularité bat l'intensité : 15 à 20 minutes par jour (par exemple, 10 minutes de conversation vocale le matin et 10 minutes de consolidation de vocabulaire le soir) sont plus efficaces que deux heures le week-end. L'IA permet des micro-sessions hyper ciblées.`,
+        q: 'Combien de temps par jour faut-il y consacrer pour voir des résultats ?',
+        a: `La régularité bat toujours l'intensité. 15 à 20 minutes par jour (par exemple, 10 minutes d'échange vocal le matin et 10 minutes de vocabulaire contextualisé le soir) donnent de bien meilleurs résultats qu'un bloc de 2 heures le dimanche.`,
     },
     {
-        q: "Quelle est la meilleure IA pour apprendre l'anglais ?",
-        a: `Il n'y a pas d'application miracle ou de "meilleure IA" universelle. Tout dépend de votre personnalité et de vos objectifs. Si vous souhaitez un tuteur textuel polyvalent (grammaire, vocabulaire, tests), ChatGPT est parfait. Si vous préférez un accompagnement vocal très ciblé sur la prononciation, des applications comme Loora sont excellentes. Enfin, si vous avez besoin de contact humain pour rester motivé, l'IA sera plutôt un outil d'entraînement en complément d'un vrai professeur natif sur Preply.`,
-    },
-    {
-        q: "Est-il possible d'apprendre l'anglais avec ChatGPT ?",
-        a: `Oui, tout à fait. ChatGPT peut agir comme votre professeur d'anglais personnel. Le secret est de ne pas se contenter de lui parler vaguement, mais d'utiliser des prompts spécifiques pour lui faire jouer différents rôles : correcteur de textes, générateur de QCM, ou partenaire de jeux de rôle (client dans un restaurant, recruteur, etc.).`,
-    },
-    {
-        q: 'Comment puis-je parler anglais gratuitement avec l\'IA ?',
-        a: `La méthode la plus simple et gratuite est de télécharger l'application mobile de ChatGPT (ou d'utiliser Copilot/Gemini) et d'activer le mode vocal. Vous pouvez demander à l'IA : "Agis comme un locuteur natif anglophone, discutons de [votre passion], et corrige mes erreurs de grammaire après chacune de mes phrases." C'est un excellent moyen de pratiquer gratuitement sans la peur du jugement.`,
-    },
-    {
-        q: "Quelle est la méthode la plus efficace pour apprendre l'anglais ?",
-        a: `La méthode la plus efficace est celle qui correspond à votre fonctionnement. Cependant, une structure idéale combine l'IA et l'humain : utilisez d'abord des tuteurs IA pour apprendre le vocabulaire lié à vos passions et débloquer votre timidité à l'oral dans un cadre sécurisant. Ensuite, lorsque vous vous sentez plus en confiance, passez le cap et confrontez-vous à de vrais natifs pour valider vos acquis et travailler votre spontanéité réelle.`,
+        q: "Quelle est la meilleure IA pour apprendre l'anglais en 2026 ?",
+        a: `Il n'existe pas d'outil unique parfait pour tout le monde. Pour l'écrit, la grammaire sur mesure et les jeux de rôle gratuits, ChatGPT reste imbattable. Pour un suivi pur de la prononciation et de la spontanéité orale sur téléphone, Loora et Praktika sont nettement mieux calibrés. Et pour casser la barrière finale du réel, rien ne remplace un tuteur humain sur Preply.`,
     },
 ];
 
-const faqSchema = {
+const structuredData = {
     '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: faq.map(({ q, a }) => ({
-        '@type': 'Question',
-        name: q,
-        acceptedAnswer: { '@type': 'Answer', text: a },
-    })),
+    '@graph': [
+        {
+            '@type': 'FAQPage',
+            mainEntity: faq.map(({ q, a }) => ({
+                '@type': 'Question',
+                name: q,
+                acceptedAnswer: { '@type': 'Answer', text: a },
+            })),
+        },
+        {
+            '@type': 'ItemList',
+            name: "Plan en 6 étapes pour apprendre l'anglais avec l'IA",
+            itemListElement: etapes.map((e, idx) => ({
+                '@type': 'ListItem',
+                position: idx + 1,
+                name: e.title,
+                description: e.desc,
+                url: `https://parlermalin.fr${e.link}`,
+            })),
+        },
+    ],
 };
 ---
 
 <!doctype html>
 <html lang="fr" class="scroll-smooth">
     <head>
-        <BaseHead title={`Apprendre l'Anglais avec l'IA | ${SITE_TITLE}`} description="La méthode pour progresser en anglais. Découvrez les meilleurs prompts, outils IA et applications pour pratiquer au quotidien." />
+        <BaseHead
+            title={`Apprendre l'Anglais avec l'IA : Méthode & Prompts | ${SITE_TITLE}`}
+            description="Carnet de méthodes concrètes, prompts ChatGPT et tests d'applications vocales pour progresser en anglais à l'oral et à l'écrit en 15 min par jour."
+        />
 
-        <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+        <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
         <style>
             :root {
-                --bg: #f8fafc; --surface: #ffffff; --surface-subtle: #f8fafc;
-                --border: #e2e8f0; --border-strong: #cbd5e1;
-                --text-main: #0f172a; --text-muted: #475569; --text-faint: #64748b;
-                --primary: #4f46e5; --primary-hover: #4338ca;
-                --primary-subtle: #eef2ff; --primary-border: #c7d2fe;
-                --radius-lg: 16px; --radius-md: 10px; --radius-sm: 6px;
+                --bg: #faf8f5;
+                --surface: #ffffff;
+                --surface-warm: #f3efe8;
+                --surface-dark: #141413;
+                --border: #e4dfd5;
+                --border-strong: #c9c1b4;
+                --text-main: #141413;
+                --text-muted: #4a4843;
+                --text-faint: #78746c;
+                --accent: #1d4ed8;
+                --accent-hover: #1e3a8a;
+                --accent-subtle: #eff6ff;
+                --highlight-warm: #fef3c7;
+                --amber-text: #92400e;
+                --radius-lg: 12px;
+                --radius-md: 8px;
+                --radius-sm: 4px;
             }
+
+            * { box-sizing: border-box; }
+
             body {
                 background-color: var(--bg);
-                background-image: radial-gradient(rgba(79, 70, 229, 0.06) 1px, transparent 1px);
-                background-size: 24px 24px;
                 color: var(--text-main);
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+                font-family: 'General Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
                 margin: 0;
                 -webkit-font-smoothing: antialiased;
+                line-height: 1.5;
             }
-            main { max-width: 1060px; margin: auto; padding: 2.5rem 1.5rem 6rem; }
-            a:focus-visible, summary:focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
 
-            .section-tag {
-                display: inline-flex; align-items: center; gap: 0.45rem;
+            main {
+                max-width: 1100px;
+                margin: 0 auto;
+                padding: 2rem 1.5rem 6rem;
+            }
+
+            a:focus-visible, summary:focus-visible {
+                outline: 2px solid var(--accent);
+                outline-offset: 3px;
+            }
+
+            .eyebrow {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
                 font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-                font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
-                color: var(--primary); background: var(--primary-subtle); border: 1px solid var(--primary-border);
-                padding: 0.3rem 0.75rem; border-radius: var(--radius-sm); margin-bottom: 0.85rem;
+                font-size: 0.75rem;
+                font-weight: 700;
+                text-transform: uppercase;
+                letter-spacing: 0.08em;
+                color: var(--text-muted);
+                margin-bottom: 0.75rem;
             }
-            .section-tag .dot { width: 7px; height: 7px; border-radius: 50%; background: #10b981; box-shadow: 0 0 8px rgba(16, 185, 129, 0.6); }
-            h2 { font-size: 1.85rem; font-weight: 800; letter-spacing: -0.03em; color: var(--text-main); margin: 0 0 0.4rem; }
-            .subtitle { font-size: 1rem; color: var(--text-muted); margin: 0 0 2.5rem; }
-            .section-head { text-align: center; margin-bottom: 2.75rem; }
-            .section-head .subtitle { margin-bottom: 0; }
+            .eyebrow::before {
+                content: "";
+                display: inline-block;
+                width: 8px;
+                height: 8px;
+                background: var(--accent);
+                border-radius: 2px;
+            }
 
-            /* Hero */
-            .hero { text-align: center; padding: 5rem 1rem 3.5rem; max-width: 840px; margin: 0 auto; }
-            .hero h1 { font-size: clamp(2.3rem, 5vw, 3.8rem); font-weight: 900; line-height: 1.1; letter-spacing: -0.04em; margin: 1.25rem 0; color: var(--text-main); }
-            .hero h1 .highlight { background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #06b6d4 100%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
-            .hero p { font-size: 1.15rem; color: var(--text-muted); line-height: 1.65; margin: 0 auto 2.25rem; max-width: 640px; }
-            .hero-ctas { display: flex; gap: 0.85rem; justify-content: center; flex-wrap: wrap; }
-            .hero-microcopy { display: block; font-size: 0.8rem; color: var(--text-faint); margin-top: 1.1rem; font-weight: 500; }
+            h2 {
+                font-size: clamp(1.65rem, 3vw, 2.2rem);
+                font-weight: 800;
+                letter-spacing: -0.03em;
+                line-height: 1.15;
+                color: var(--text-main);
+                margin: 0 0 0.5rem;
+            }
 
+            .section-header-split {
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-end;
+                gap: 1.5rem;
+                margin-bottom: 2.25rem;
+                padding-bottom: 1.25rem;
+                border-bottom: 1px solid var(--border);
+                flex-wrap: wrap;
+            }
+            .section-header-split p {
+                margin: 0;
+                color: var(--text-muted);
+                max-width: 540px;
+                font-size: 1rem;
+            }
+
+            /* 1. HERO ASYMÉTRIQUE */
+            .hero {
+                display: grid;
+                grid-template-columns: 1.15fr 0.85fr;
+                gap: 3rem;
+                align-items: center;
+                padding: 3rem 0 4.5rem;
+                border-bottom: 1px solid var(--border);
+                margin-bottom: 4.5rem;
+            }
+            .hero-badge {
+                display: inline-block;
+                background: var(--surface-warm);
+                border: 1px solid var(--border-strong);
+                padding: 0.3rem 0.75rem;
+                border-radius: var(--radius-sm);
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.75rem;
+                font-weight: 600;
+                color: var(--text-main);
+                margin-bottom: 1.25rem;
+            }
+            .hero h1 {
+                font-size: clamp(2.25rem, 4.2vw, 3.4rem);
+                font-weight: 800;
+                line-height: 1.08;
+                letter-spacing: -0.035em;
+                margin: 0 0 1.25rem;
+                color: var(--text-main);
+            }
+            .hero h1 mark {
+                background-color: var(--highlight-warm);
+                color: var(--text-main);
+                padding: 0 0.25rem;
+                border-radius: 4px;
+                box-decoration-break: clone;
+                -webkit-box-decoration-break: clone;
+            }
+            .hero-lead {
+                font-size: 1.125rem;
+                color: var(--text-muted);
+                line-height: 1.65;
+                margin: 0 0 2rem;
+                max-width: 560px;
+            }
+            .hero-actions {
+                display: flex;
+                gap: 0.85rem;
+                flex-wrap: wrap;
+                align-items: center;
+            }
             .btn-primary {
-                background: linear-gradient(135deg, #4f46e5, #4338ca); color: #fff;
-                padding: 0.9rem 1.85rem; border-radius: 999px; font-size: 0.95rem; font-weight: 600; text-decoration: none;
-                transition: transform 0.15s ease, box-shadow 0.15s ease;
-                box-shadow: 0 4px 14px rgba(79, 70, 229, 0.35);
-                display: inline-flex; align-items: center; gap: 0.5rem;
+                background: var(--text-main);
+                color: #fff;
+                padding: 0.9rem 1.5rem;
+                border-radius: var(--radius-md);
+                font-size: 0.95rem;
+                font-weight: 700;
+                text-decoration: none;
+                border: 1px solid var(--text-main);
+                box-shadow: 0 3px 0 var(--accent);
+                transition: transform 0.15s ease, background-color 0.15s ease;
+                display: inline-flex;
+                align-items: center;
+                gap: 0.5rem;
             }
-            .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(79, 70, 229, 0.45); }
+            .btn-primary:hover {
+                background: var(--accent);
+                border-color: var(--accent);
+                transform: translateY(-2px);
+            }
             .btn-secondary {
-                background: var(--surface); color: var(--text-main); border: 1px solid var(--border-strong);
-                padding: 0.9rem 1.85rem; border-radius: 999px; font-size: 0.95rem; font-weight: 600; text-decoration: none;
-                transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+                background: var(--surface);
+                color: var(--text-main);
+                border: 1px solid var(--border-strong);
+                padding: 0.9rem 1.4rem;
+                border-radius: var(--radius-md);
+                font-size: 0.95rem;
+                font-weight: 600;
+                text-decoration: none;
+                transition: border-color 0.15s ease, background-color 0.15s ease;
             }
-            .btn-secondary:hover { background: var(--primary-subtle); border-color: var(--primary); color: var(--primary); }
+            .btn-secondary:hover {
+                background: var(--surface-warm);
+                border-color: var(--text-main);
+            }
+            .hero-meta {
+                margin-top: 1.25rem;
+                font-size: 0.82rem;
+                color: var(--text-faint);
+                display: flex;
+                gap: 1.25rem;
+                flex-wrap: wrap;
+            }
 
-            /* Outils */
-            .stack-wrapper {
-                background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg);
-                padding: 1.75rem 2rem; margin: 0 auto 5rem; max-width: 820px;
-                display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: 1.25rem;
-                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+            /* Carte de démonstration (Preuve concrète dans le Hero) */
+            .prompt-preview {
+                background: var(--surface);
+                border: 1px solid var(--border-strong);
+                border-radius: var(--radius-lg);
+                padding: 1.5rem;
+                box-shadow: 6px 6px 0 var(--border);
             }
-            .stack-info { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.35rem; }
-            .stack-info-surtitle { font-size: 0.75rem; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 700; }
-            .stack-info-title { font-size: 1.15rem; font-weight: 800; color: var(--text-main); margin: 0; }
-            .stack-pills { display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
-            .stack-card {
-                display: inline-flex; align-items: center; gap: 0.65rem; background: #fff;
-                border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 0.55rem 0.95rem;
-                font-size: 0.88rem; font-weight: 700; color: var(--text-main); text-decoration: none; transition: all 0.15s ease;
+            .prompt-preview-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-bottom: 1px dashed var(--border);
+                padding-bottom: 0.75rem;
+                margin-bottom: 1rem;
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.75rem;
+                color: var(--text-faint);
             }
-            .stack-card:hover { border-color: var(--primary); background: var(--primary-subtle); transform: translateY(-2px); }
-            .stack-card-highlight { background: var(--primary); color: #fff !important; border-color: var(--primary); }
-            .stack-card-highlight:hover { background: var(--primary-hover); border-color: var(--primary-hover); }
-            .badge-loora, .badge-human {
-                font-size: 0.68rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
-                padding: 0.15rem 0.45rem; border-radius: 4px;
+            .prompt-tag {
+                background: var(--accent-subtle);
+                color: var(--accent);
+                padding: 0.15rem 0.5rem;
+                border-radius: 4px;
+                font-weight: 700;
             }
-            .badge-loora { color: #7c3aed; background: #f5f3ff; border: 1px solid #ddd6fe; }
-            .badge-human { color: #be185d; background: #fdf2f8; border: 1px solid #fbcfe8; }
+            .prompt-box {
+                background: var(--surface-warm);
+                border-left: 3px solid var(--text-main);
+                padding: 0.85rem 1rem;
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.82rem;
+                color: var(--text-main);
+                line-height: 1.55;
+                margin-bottom: 1rem;
+                border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+            }
+            .prompt-feedback {
+                font-size: 0.85rem;
+                color: var(--text-muted);
+                background: #f0fdf4;
+                border: 1px solid #bbf7d0;
+                padding: 0.75rem 1rem;
+                border-radius: var(--radius-md);
+            }
+            .prompt-feedback strong { color: #166534; }
 
-            /* Roadmap */
+            /* 2. ROADMAP (6 ÉTAPES) */
             .roadmap-section { margin-bottom: 5.5rem; }
-            .steps-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 1.25rem; }
+            .steps-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+                gap: 1.25rem;
+            }
             .step-card {
-                background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 1.75rem;
-                display: flex; flex-direction: column; justify-content: space-between; position: relative;
-                transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                padding: 1.65rem;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                position: relative;
+                transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
             }
-            .step-card:hover { border-color: var(--primary-border); transform: translateY(-3px); box-shadow: 0 12px 28px rgba(79, 70, 229, 0.06); }
-            .step-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
-            .step-num { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.85rem; font-weight: 800; color: var(--primary); }
+            .step-card:hover {
+                border-color: var(--text-main);
+                transform: translateY(-2px);
+                box-shadow: 4px 4px 0 var(--border-strong);
+            }
+            .step-card.is-featured {
+                border: 2px solid var(--text-main);
+                background: linear-gradient(to bottom, #ffffff, #faf8f5);
+            }
+            .step-top {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 1.1rem;
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.78rem;
+            }
+            .step-num {
+                font-weight: 800;
+                color: var(--text-main);
+                background: var(--surface-warm);
+                padding: 0.25rem 0.55rem;
+                border-radius: var(--radius-sm);
+                border: 1px solid var(--border);
+            }
             .step-duree {
-                font-size: 0.75rem; font-weight: 600; color: #4338ca; background: #eef2ff;
-                border: 1px solid #c7d2fe; padding: 0.2rem 0.55rem; border-radius: 999px;
+                color: var(--text-muted);
+                font-weight: 600;
             }
-            .step-card h3 { font-size: 1.2rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 0.65rem; color: var(--text-main); }
-            .step-card p { font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; margin: 0 0 1.5rem; }
+            .step-card h3 {
+                font-size: 1.2rem;
+                font-weight: 800;
+                letter-spacing: -0.02em;
+                margin: 0 0 0.6rem;
+                color: var(--text-main);
+            }
+            .step-card p {
+                font-size: 0.93rem;
+                color: var(--text-muted);
+                line-height: 1.6;
+                margin: 0 0 1.5rem;
+            }
             .step-link {
-                display: inline-flex; align-items: flex-start; gap: 0.35rem; font-size: 0.88rem; line-height: 1.4;
-                font-weight: 700; color: var(--primary); text-decoration: none; margin-top: auto;
+                font-size: 0.88rem;
+                font-weight: 700;
+                color: var(--accent);
+                text-decoration: none;
+                display: inline-flex;
+                align-items: center;
+                gap: 0.35rem;
+                margin-top: auto;
             }
-            .step-link::after { content: ""; position: absolute; inset: 0; border-radius: var(--radius-lg); } /* carte entière cliquable */
-            .step-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+            .step-link::after {
+                content: "";
+                position: absolute;
+                inset: 0;
+                border-radius: var(--radius-lg);
+            }
+            .step-card:hover .step-link {
+                text-decoration: underline;
+                text-underline-offset: 3px;
+            }
 
-            /* Carnet éditorial */
-            .logbook-card {
-                background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg);
-                padding: 2.25rem 2.5rem; margin-bottom: 5.5rem; position: relative; overflow: hidden;
-                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+            /* 3. COMPARATIF OUTILS (CRO & GEO) */
+            .tools-section {
+                background: var(--surface-warm);
+                border: 1px solid var(--border-strong);
+                border-radius: var(--radius-lg);
+                padding: 2.5rem;
+                margin-bottom: 5.5rem;
             }
-            .logbook-card::before { content: ""; position: absolute; top: 0; left: 0; width: 4px; height: 100%; background: linear-gradient(to bottom, #4f46e5, #06b6d4); }
-            .logbook-header { border-bottom: 1px solid var(--border); padding-bottom: 1.25rem; margin-bottom: 1.5rem; }
-            .logbook-title { font-size: 1.4rem; font-weight: 800; letter-spacing: -0.02em; margin: 0; color: var(--text-main); }
-            .logbook-intro { font-size: 1rem; color: var(--text-muted); line-height: 1.6; margin: 0 0 1.5rem; }
-            .editorial-features { display: flex; flex-direction: column; gap: 0.85rem; margin-bottom: 2rem; }
-            .feature-item {
-                display: flex; align-items: flex-start; gap: 0.85rem; padding: 0.9rem 1.1rem;
-                background: var(--surface-subtle); border: 1px solid var(--border); border-radius: var(--radius-md);
-                transition: border-color 0.15s ease, background 0.15s ease;
+            .tools-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+                gap: 1.25rem;
+                margin-bottom: 1.5rem;
             }
-            .feature-item:hover { background: #fff; border-color: var(--primary-border); }
-            .feature-icon-badge {
-                display: flex; align-items: center; justify-content: center; width: 22px; height: 22px;
-                border-radius: 50%; background: var(--primary-subtle); color: var(--primary); flex-shrink: 0; margin-top: 1px;
+            .tool-card {
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-md);
+                padding: 1.4rem;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                text-decoration: none;
+                color: inherit;
+                transition: border-color 0.15s ease, transform 0.15s ease;
             }
-            .feature-text { font-size: 0.92rem; line-height: 1.5; color: var(--text-muted); }
-            .feature-text strong { color: var(--text-main); font-weight: 700; }
-            .logbook-footer {
-                display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;
-                padding-top: 1.25rem; border-top: 1px dashed var(--border);
+            .tool-card:hover {
+                border-color: var(--accent);
+                transform: translateY(-2px);
             }
-            .author-badge { display: flex; align-items: center; gap: 0.75rem; }
-            .author-avatar-placeholder {
-                width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, #4f46e5, #7c3aed);
-                display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 0.9rem; color: #fff;
-                box-shadow: 0 2px 8px rgba(79, 70, 229, 0.35);
+            .tool-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                gap: 0.5rem;
+                margin-bottom: 0.75rem;
             }
-            .author-info-name { font-size: 0.9rem; font-weight: 700; color: var(--text-main); margin: 0; }
-            .author-info-role { font-size: 0.75rem; color: var(--text-faint); margin: 0; }
-            .link-subtle {
-                font-size: 0.88rem; font-weight: 700; color: var(--primary); text-decoration: none;
-                border-bottom: 1.5px solid var(--primary-border); padding-bottom: 2px; transition: border-color 0.15s ease;
+            .tool-name {
+                font-size: 1.1rem;
+                font-weight: 800;
+                color: var(--text-main);
+                margin: 0;
             }
-            .link-subtle:hover { border-color: var(--primary); }
+            .tool-verdict {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.7rem;
+                font-weight: 700;
+                background: var(--highlight-warm);
+                color: var(--amber-text);
+                padding: 0.2rem 0.5rem;
+                border-radius: var(--radius-sm);
+            }
+            .tool-usage {
+                font-size: 0.9rem;
+                color: var(--text-muted);
+                margin: 0 0 1.25rem;
+                line-height: 1.55;
+            }
+            .tool-cta {
+                font-size: 0.85rem;
+                font-weight: 700;
+                color: var(--accent);
+            }
+            .tools-footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+                gap: 1rem;
+                padding-top: 1.25rem;
+                border-top: 1px dashed var(--border-strong);
+                font-size: 0.92rem;
+                color: var(--text-muted);
+            }
+            .link-strong {
+                font-weight: 800;
+                color: var(--text-main);
+                text-decoration: none;
+                border-bottom: 2px solid var(--accent);
+                padding-bottom: 2px;
+            }
+            .link-strong:hover { color: var(--accent); }
 
-            /* FAQ */
-            .faq-section { margin-bottom: 5.5rem; }
-            .faq-container { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
-            .faq-item {
-                background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-md);
-                overflow: hidden; transition: border-color 0.2s ease, box-shadow 0.2s ease;
+            /* 4. MANIFESTE ÉDITORIAL (E-E-A-T) */
+            .editorial-box {
+                background: var(--surface);
+                border: 1px solid var(--border-strong);
+                border-radius: var(--radius-lg);
+                padding: 2.5rem;
+                margin-bottom: 5.5rem;
+                display: grid;
+                grid-template-columns: 1fr 1.2fr;
+                gap: 2.5rem;
+                align-items: start;
             }
-            .faq-item:hover { border-color: var(--primary-border); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02); }
-            .faq-item summary {
-                padding: 1.25rem 1.5rem; font-size: 1.05rem; font-weight: 700; color: var(--text-main); cursor: pointer;
-                list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 1rem; transition: color 0.2s ease;
+            .editorial-left p {
+                color: var(--text-muted);
+                font-size: 0.98rem;
+                line-height: 1.65;
+                margin: 0 0 1.5rem;
             }
-            .faq-item summary:hover { color: var(--primary); }
-            .faq-item summary::-webkit-details-marker { display: none; }
-            .faq-item summary::after { content: "+"; font-size: 1.5rem; font-weight: 400; color: var(--primary); line-height: 1; transition: transform 0.3s ease; }
-            .faq-item[open] summary::after { transform: rotate(45deg); }
-            .faq-item[open] summary { border-bottom: 1px solid var(--surface-subtle); }
-            .faq-answer { padding: 1.25rem 1.5rem; font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; }
+            .author-signature {
+                display: flex;
+                align-items: center;
+                gap: 0.9rem;
+                padding-top: 1.25rem;
+                border-top: 1px solid var(--border);
+            }
+            .author-monogram {
+                width: 44px;
+                height: 44px;
+                border-radius: var(--radius-md);
+                background: var(--text-main);
+                color: #fff;
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-weight: 800;
+                font-size: 1rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-shrink: 0;
+            }
+            .author-name { font-weight: 800; font-size: 0.95rem; margin: 0; color: var(--text-main); }
+            .author-role { font-size: 0.8rem; color: var(--text-faint); margin: 0; }
+            .editorial-pillars {
+                display: flex;
+                flex-direction: column;
+                gap: 0.85rem;
+            }
+            .pillar-item {
+                padding: 1rem 1.15rem;
+                background: var(--bg);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-md);
+                font-size: 0.92rem;
+                color: var(--text-muted);
+                line-height: 1.55;
+            }
+            .pillar-item strong {
+                color: var(--text-main);
+                display: block;
+                margin-bottom: 0.2rem;
+            }
 
-            /* Blog */
-            .blog-head { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem; }
-            .blog-head h2 { margin-bottom: 0; }
-            .blog-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 1.5rem; }
+            /* 5. BLOG */
+            .blog-section { margin-bottom: 5.5rem; }
+            .blog-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+                gap: 1.5rem;
+            }
             .post-card {
-                background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden;
-                text-decoration: none; color: inherit; display: flex; flex-direction: column;
-                transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+                background: var(--surface);
+                border: 1px solid var(--border);
+                border-radius: var(--radius-lg);
+                overflow: hidden;
+                text-decoration: none;
+                color: inherit;
+                display: flex;
+                flex-direction: column;
+                transition: border-color 0.15s ease, transform 0.15s ease;
             }
-            .post-card:hover { border-color: var(--primary-border); transform: translateY(-3px); box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05); }
-            .post-image { height: 180px; width: 100%; object-fit: cover; background: var(--surface-subtle); border-bottom: 1px solid var(--border); }
-            .post-content { padding: 1.5rem; flex-grow: 1; display: flex; flex-direction: column; }
-            .post-title { font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin: 0 0 0.85rem; color: var(--text-main); }
-            .post-card:hover .post-title { color: var(--primary); }
-            .post-date { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.75rem; color: var(--text-faint); margin-top: auto; }
+            .post-card:hover {
+                border-color: var(--text-main);
+                transform: translateY(-2px);
+            }
+            .post-image {
+                height: 185px;
+                width: 100%;
+                object-fit: cover;
+                background: var(--surface-warm);
+                border-bottom: 1px solid var(--border);
+            }
+            .post-content {
+                padding: 1.4rem;
+                flex-grow: 1;
+                display: flex;
+                flex-direction: column;
+            }
+            .post-title {
+                font-size: 1.05rem;
+                font-weight: 800;
+                line-height: 1.35;
+                margin: 0 0 0.85rem;
+                color: var(--text-main);
+            }
+            .post-card:hover .post-title { color: var(--accent); }
+            .post-date {
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 0.75rem;
+                color: var(--text-faint);
+                margin-top: auto;
+            }
 
-            /* CTA final */
-            .final-cta-card {
-                margin-top: 5.5rem; background: var(--surface); border: 1px solid var(--border); border-radius: 24px;
-                padding: 4rem 2rem; position: relative; overflow: hidden;
-                box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.04), 0 20px 40px -15px rgba(79, 70, 229, 0.07);
+            /* 6. FAQ */
+            .faq-section { margin-bottom: 5.5rem; }
+            .faq-list {
+                display: flex;
+                flex-direction: column;
+                border-top: 1px solid var(--border-strong);
             }
-            .final-cta-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #4f46e5, #7c3aed, #06b6d4); }
-            .final-cta-content { max-width: 620px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; text-align: center; }
-            .final-cta-content h2 { font-size: clamp(1.8rem, 3.8vw, 2.3rem); font-weight: 800; letter-spacing: -0.03em; margin: 0.75rem 0 0.85rem; color: var(--text-main); }
-            .final-cta-content p { font-size: 1.05rem; color: var(--text-muted); line-height: 1.6; margin: 0 0 2rem; }
-            .btn-large { padding: 1rem 2.25rem; font-size: 1rem; gap: 0.6rem; }
-            .final-cta-microcopy { font-size: 0.8rem; color: var(--text-faint); margin-top: 1.25rem; font-weight: 500; }
+            .faq-item {
+                border-bottom: 1px solid var(--border-strong);
+                background: transparent;
+            }
+            .faq-item summary {
+                padding: 1.35rem 0.5rem;
+                font-size: 1.05rem;
+                font-weight: 700;
+                color: var(--text-main);
+                cursor: pointer;
+                list-style: none;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 1rem;
+            }
+            .faq-item summary::-webkit-details-marker { display: none; }
+            .faq-item summary:hover { color: var(--accent); }
+            .faq-item summary::after {
+                content: "+";
+                font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+                font-size: 1.35rem;
+                color: var(--text-muted);
+                transition: transform 0.2s ease;
+            }
+            .faq-item[open] summary::after { transform: rotate(45deg); color: var(--accent); }
+            .faq-answer {
+                padding: 0 0.5rem 1.5rem;
+                font-size: 0.96rem;
+                color: var(--text-muted);
+                line-height: 1.65;
+                max-width: 780px;
+            }
 
-            @media (max-width: 640px) {
-                .logbook-card { padding: 1.5rem; }
-                .final-cta-card { padding: 2.75rem 1.25rem; }
-                .stack-wrapper { padding: 1.5rem 1.25rem; }
+            /* 7. CTA FINAL */
+            .final-cta {
+                background: var(--surface-dark);
+                color: #fff;
+                border-radius: var(--radius-lg);
+                padding: 3.5rem 2.5rem;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap: 2rem;
+                flex-wrap: wrap;
             }
+            .final-cta-text { max-width: 560px; }
+            .final-cta-text h2 {
+                color: #fff;
+                margin: 0 0 0.65rem;
+            }
+            .final-cta-text p {
+                color: #d6d3cd;
+                margin: 0;
+                font-size: 1rem;
+                line-height: 1.6;
+            }
+            .btn-light {
+                background: #fff;
+                color: var(--text-main);
+                padding: 1rem 1.75rem;
+                border-radius: var(--radius-md);
+                font-size: 0.98rem;
+                font-weight: 800;
+                text-decoration: none;
+                box-shadow: 0 3px 0 var(--accent);
+                transition: transform 0.15s ease;
+                white-space: nowrap;
+            }
+            .btn-light:hover { transform: translateY(-2px); }
+
+            @media (max-width: 860px) {
+                .hero, .editorial-box {
+                    grid-template-columns: 1fr;
+                    gap: 2rem;
+                }
+                .tools-section, .editorial-box, .final-cta {
+                    padding: 1.75rem 1.25rem;
+                }
+            }
+
             @media (prefers-reduced-motion: reduce) {
                 * { transition: none !important; }
                 html { scroll-behavior: auto; }
@@ -346,144 +778,145 @@ const faqSchema = {
     <body>
         <Header />
         <main>
-            <!-- 1. HERO -->
+            <!-- 1. HERO ASYMÉTRIQUE AVEC PREUVE -->
             <section class="hero">
-                <h1>Apprendre l'Anglais avec l'IA :<br><span class="highlight">La méthode pour progresser</span></h1>
-                <p>
-                    Oubliez les listes de verbes et les exercices abstraits. Découvrez les stratégies concrètes pour exploiter l'intelligence artificielle en autonomie.
-                </p>
-                <div class="hero-ctas">
-                    <a href="/test-niveau-anglais-chatgpt/" class="btn-primary">Tester mon niveau (10 min)</a>
-                    <a href="#guide" class="btn-secondary">Voir le plan en 6 étapes</a>
+                <div>
+                    <h1>
+                        Apprendre l'anglais avec l'IA, <mark>sans réciter de listes.</mark>
+                    </h1>
+                    <p class="hero-lead">
+                        Transformez ChatGPT et les coachs vocaux en tuteurs personnels. Des protocoles concrets pour améliorer votre oral et votre compréhension en autonomie.
+                    </p>
+                    <div class="hero-actions">
+                        <a href="/test-niveau-anglais-chatgpt/" class="btn-primary">
+                            <span>Évaluer mon niveau (10 min)</span>
+                            <span aria-hidden="true">&rarr;</span>
+                        </a>
+                        <a href="#guide" class="btn-secondary">Parcourir les 6 étapes</a>
+                    </div>
+                    <div class="hero-meta">
+                        <span>✓ Prompts prêts à copier</span>
+                        <span>✓ Compatible ChatGPT gratuit</span>
+                        <span>✓ Zéro inscription</span>
+                    </div>
                 </div>
-                <span class="hero-microcopy">✓ Gratuit &bull; Sans inscription</span>
+
+                <aside class="prompt-preview" aria-label="Exemple de prompt concret">
+                    <div class="prompt-preview-header">
+                        <span>EXTRAIT</span>
+                    </div>
+                    <div class="prompt-box">
+                        « Agis comme un recruteur anglophone à Londres. Pose-moi une seule question à la fois. Après chacune de mes réponses, corrige mes tournures maladroites avant de continuer. »
+                    </div>
+                    <div class="prompt-feedback">
+                        <strong>Résultat :</strong> Vous pratiquez de vraies conversations sous-titrées et corrigées en direct, sans le blocage du regard des autres.
+                    </div>
+                </aside>
             </section>
 
-            <!-- 2. OUTILS -->
-            <section id="outils" class="stack-wrapper">
-                <div class="stack-info">
-                    <span class="stack-info-surtitle">Outils & Applications</span>
-                    <h2 class="stack-info-title">Quelle IA choisir pour apprendre l'anglais ?</h2>
-                </div>
-                <div class="stack-pills">
-                    <a href="/loora-app-avis/" class="stack-card">
-                        <span>Avis Loora</span>
-                        <span class="badge-loora">Oral IA</span>
-                    </a>
-                    <a href="/avis-praktika/" class="stack-card">
-                        <span>Avis Praktika</span>
-                        <span class="badge-loora">Oral IA</span>
-                    </a>
-                    <a href="/avis-preply/" class="stack-card">
-                        <span>Avis Preply</span>
-                        <span class="badge-human">Humain</span>
-                    </a>
-                    <a href="/meilleures-ia-anglais/" class="stack-card stack-card-highlight">
-                        <span>🏆 Voir le comparatif 2026 &rarr;</span>
-                    </a>
-                </div>
-            </section>
-
-            <!-- 3. ROADMAP -->
+            <!-- 2. ROADMAP EN 6 ÉTAPES -->
             <section id="guide" class="roadmap-section">
-                <div class="section-head">
-                    <h2>Apprendre l'anglais avec l'IA : le plan en 6 étapes</h2>
-                    <p class="subtitle">Du test de niveau aux vraies conversations. 15 à 20 min par jour, gratuit.</p>
+                <div class="section-header-split">
+                    <div>
+
+                        <h2>Le parcours structuré en 6 étapes</h2>
+                    </div>
+                    <p>Suivez l'ordre chronologique si vous partez de zéro, ou piochez directement la brique qui vous bloque aujourd'hui.</p>
                 </div>
+
                 <div class="steps-grid">
                     {
                         etapes.map((etape) => (
-                            <div class="step-card">
+                            <article class={`step-card ${etape.featured ? 'is-featured' : ''}`}>
                                 <div>
-                                    <div class="step-meta">
-                                        <span class="step-num">{etape.num}</span>
-                                        <span class="step-duree">{etape.duree}</span>
+                                    <div class="step-top">
+                                        <span class="step-num">{etape.num} &middot; {etape.phase}</span>
+                                        <span class="step-duree">⏱ {etape.duree}</span>
                                     </div>
                                     <h3>{etape.title}</h3>
                                     <p>{etape.desc}</p>
                                 </div>
                                 <a href={etape.link} class="step-link">{etape.cta} &rarr;</a>
-                            </div>
+                            </article>
                         ))
                     }
+                </div>
+            </section>
+
+            <!-- 3. COMPARATIF DES OUTILS (CRO & GEO) -->
+            <section id="outils" class="tools-section">
+                <div class="section-header-split">
+                    <div>
+
+                        <h2>Quelle application choisir selon votre profil ?</h2>
+                    </div>
+                    <p>Au-delà de ChatGPT, j'ai testé plusieurs applications dédiées à l'oral. Voici mes retours.</p>
+                </div>
+
+                <div class="tools-grid">
+                    {
+                        outilsComparatif.map((outil) => (
+                            <a href={outil.link} class="tool-card">
+                                <div>
+                                    <div class="tool-header">
+                                        <h3 class="tool-name">{outil.nom}</h3>
+                                        <span class="tool-verdict">{outil.verdict}</span>
+                                    </div>
+                                    <p class="tool-usage">{outil.usage}</p>
+                                </div>
+                                <span class="tool-cta">{outil.cta} &rarr;</span>
+                            </a>
+                        ))
+                    }
+                </div>
+
+                <div class="tools-footer">
+                    <span>Vous hésitez entre un tuteur gratuit et une application vocale dédiée ?</span>
+                    <a href="/meilleures-ia-anglais/" class="link-strong">
+                        Consulter le comparatif complet des IA d'anglais 2026 &rarr;
+                    </a>
                 </div>
             </section>
 
             <!-- 4. APPROCHE ÉDITORIALE -->
-            <section class="logbook-card">
-                <div class="logbook-header">
-                    <h2 class="logbook-title">L'approche éditoriale</h2>
-                </div>
-
-                <p class="logbook-intro">
-                    Ce site est tenu comme un carnet de bord d'expérimentations concrètes : pas de méthodes miracles, uniquement des tests pratiques basés sur l'IA.
-                </p>
-
-                <div class="editorial-features">
-                    <div class="feature-item">
-                        <div class="feature-icon-badge">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        </div>
-                        <div class="feature-text">
-                            <strong>Tests sur le terrain :</strong> retours d'expérience honnêtes sur les outils et applications d'apprentissage.
-                        </div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="feature-icon-badge">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        </div>
-                        <div class="feature-text">
-                            <strong>Prompts opérationnels :</strong> des modèles prêts à copier-coller pour transformer ChatGPT en coach d'anglais.
-                        </div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="feature-icon-badge">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        </div>
-                        <div class="feature-text">
-                            <strong>Pratique en autonomie :</strong> un cadre structuré pour s'entraîner quotidiennement sans dépendre d'un cours magistral.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="logbook-footer">
-                    <div class="author-badge">
-                        <div class="author-avatar-placeholder">J</div>
+            <section class="editorial-box">
+                <div class="editorial-left">
+                    <h2>Un carnet de terrain, pas une énième méthode miracle</h2>
+                    <p>
+                        J'ai créé Parler Malin avec une idée simple : documenter comment utiliser concrètement l'intelligence artificielle pour améliorer son anglais.
+                    </p>
+                    <div class="author-signature">
+                        <div class="author-monogram" aria-hidden="true">JM</div>
                         <div>
-                            <p class="author-info-name">Jérémy de Parler Malin</p>
-                            <p class="author-info-role">Créateur du site</p>
+                            <p class="author-name">Jérémy — Parler Malin</p>
+                            <p class="author-role">Éditeur indépendant &bull; <a href="/a-propos/" class="link-strong" style="border-width:1px;">En savoir plus sur ma démarche</a></p>
                         </div>
                     </div>
-                    <a href="/a-propos/" class="link-subtle">En savoir plus &rarr;</a>
                 </div>
-            </section>
 
-            <!-- 5. FAQ -->
-            <section class="faq-section">
-                <div class="section-head">
-                    <h2>Questions Fréquentes</h2>
-                    <p class="subtitle">Tout ce qu'il faut savoir sur l'apprentissage avec l'IA.</p>
-                </div>
-                <div class="faq-container">
-                    {
-                        faq.map(({ q, a }) => (
-                            <details class="faq-item">
-                                <summary>{q}</summary>
-                                <div class="faq-answer">{a}</div>
-                            </details>
-                        ))
-                    }
-                </div>
-            </section>
-
-            <!-- 6. BLOG -->
-            <section>
-                <div class="blog-head">
-                    <div>
-                        <div class="section-tag">Blog</div>
-                        <h2>Nos derniers articles</h2>
+                <div class="editorial-pillars">
+                    <div class="pillar-item">
+                        <strong>1. Prompts testés et prêts à l'emploi</strong>
+                        Pas de théorie abstraite : chaque guide contient les instructions exactes à copier-coller dans ChatGPT.
                     </div>
-                    <a href="/blog/" class="link-subtle">Voir tous les articles &rarr;</a>
+                    <div class="pillar-item">
+                        <strong>2. Avis indépendants sur les applications</strong>
+                        Je teste chaque outil vocal en conditions réelles pour vous dire honnêtement s'il vaut son abonnement ou si ChatGPT gratuit suffit.
+                    </div>
+                    <div class="pillar-item">
+                        <strong>3. Objectif : parler dans le monde réel</strong>
+                        L'IA est un tremplin sécurisant pour gagner en confiance avant de parler avec de vrais interlocuteurs anglophones.
+                    </div>
+                </div>
+            </section>
+
+            <!-- 5. DERNIERS ARTICLES -->
+            <section class="blog-section">
+                <div class="section-header-split">
+                    <div>
+                        <h2>Les derniers guides et tests</h2>
+                    </div>
+                    <a href="/blog/" class="link-strong">Explorer tous les articles &rarr;</a>
                 </div>
 
                 <div class="blog-grid">
@@ -514,26 +947,38 @@ const faqSchema = {
                 </div>
             </section>
 
-            <!-- 7. CTA FINAL -->
-            <section class="final-cta-card">
-                <div class="final-cta-content">
-                    <div class="section-tag">
-                        <span class="dot"></span>
-                        <span>Commencez ici</span>
+            <!-- 6. FAQ -->
+            <section class="faq-section">
+                <div class="section-header-split">
+                    <div>
+                        <h2>Questions fréquentes</h2>
                     </div>
-                    <h2>Testez votre niveau d'anglais en 10 minutes</h2>
-                    <p>
-                        Évaluez votre niveau actuel à l'écrit et à l'oral grâce à notre système interactif de prompts ChatGPT.
-                    </p>
-                    <a href="/test-niveau-anglais-chatgpt/" class="btn-primary btn-large">
-                        <span>Tester mon niveau d'anglais</span>
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                            <line x1="5" y1="12" x2="19" y2="12"></line>
-                            <polyline points="12 5 19 12 12 19"></polyline>
-                        </svg>
-                    </a>
-                    <span class="final-cta-microcopy">✓ Gratuit &bull; Sans inscription</span>
                 </div>
+
+                <div class="faq-list">
+                    {
+                        faq.map(({ q, a }) => (
+                            <details class="faq-item">
+                                <summary>{q}</summary>
+                                <div class="faq-answer">{a}</div>
+                            </details>
+                        ))
+                    }
+                </div>
+            </section>
+
+            <!-- 7. CTA FINAL -->
+            <section class="final-cta">
+                <div class="final-cta-text">
+                    <span class="eyebrow" style="color: #93c5fd;">Étape 01 recommandée</span>
+                    <h2>Connaissez-vous votre vrai niveau actuel ?</h2>
+                    <p>
+                        Ne démarrez pas à l'aveugle. Utilisez notre protocole de prompts pour évaluer votre écrit et votre oral en 10 minutes avec ChatGPT.
+                    </p>
+                </div>
+                <a href="/test-niveau-anglais-chatgpt/" class="btn-light">
+                    Lancer le test de niveau gratuit &rarr;
+                </a>
             </section>
         </main>
         <Footer />
