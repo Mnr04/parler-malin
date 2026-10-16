@@ -34,7 +34,8 @@ heroImageAlt: "Tarifs et abonnements de Loora AI avec code promo"
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+
 </div>
 
 <!-- ========================================== -->

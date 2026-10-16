@@ -33,7 +33,7 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- 2. Bloc En Bref GEO -->

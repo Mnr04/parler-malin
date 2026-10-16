@@ -24,7 +24,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 
 <div class="transparency-banner">
 <span aria-hidden="true">🛡️</span>
-<p><strong>Transparence :</strong> cet article contient des liens affiliés. Si tu t'abonnes via mon lien, je touche une commission, sans surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <div class="voucher-hero-card">
