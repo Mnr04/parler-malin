@@ -5,8 +5,7 @@ pubDate: 2026-07-26
 updatedDate: 2026-10-17
 author: "Jérémy de Parler Malin"
 categories:
-- 
-"apprendre-langlais"
+  - "apprendre-langlais"
 heroImage: "/uploads/2026/07/loora-app-avis-test-2026-scaled.avif"
 heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 ---
@@ -22,7 +21,7 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-<span>Mis à jour le <time datetime="2026-10-05">17 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-17">17 oct. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 7 min</span>
 </div>
@@ -676,13 +675,11 @@ document.addEventListener("DOMContentLoaded", function () {
    OPTIMISATIONS MOBILE-FIRST & CRO (<768px)
    ========================================= */
 @media (max-width:768px){
-  /* 1. Gain d'espace vertical Above The Fold */
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
   .page-title{font-size:1.5rem;line-height:1.18;margin:.15rem 0 .45rem}
   .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.6rem}
   .transparency-banner{padding:.35rem .6rem;font-size:.72rem;margin-bottom:.75rem}
 
-  /* 2. Boîte EN BREF ultra-compacte pour afficher le code + CTA sans scroller */
   .geo-box{padding:.9rem 1rem;margin-bottom:1.2rem}
   .geo-header{margin-bottom:.55rem;padding-bottom:.35rem}
   .geo-list{font-size:.83rem;line-height:1.42;margin-bottom:.75rem;padding-left:1rem}
@@ -691,7 +688,6 @@ document.addEventListener("DOMContentLoaded", function () {
   .atf-promo-row{font-size:.74rem}
   .btn-atf-action{font-size:.95rem;padding:.85rem 1rem;min-height:50px}
 
-  /* 3. Scorecard et Callout empilés proprement */
   .review-scorecard{padding:1.1rem;border-radius:14px}
   .scorecard-top{flex-direction:column;align-items:flex-start;gap:.5rem;padding-bottom:.85rem}
   .scorecard-rating{align-items:flex-start}
@@ -700,10 +696,8 @@ document.addEventListener("DOMContentLoaded", function () {
   .ticket-code-row{width:100%;max-width:100%}
   .btn-scorecard-cta,.btn-tool-cta,.tool-callout-action,.btn-next{width:100%;min-height:50px;justify-content:center}
 
-  /* 4. Tableaux */
   .table-scroll-hint{display:block}
 
-  /* 5. Barre Sticky Mobile en bas de l'écran (Thumb Zone) */
   .mobile-sticky-cta{
     display:flex;
     align-items:center;

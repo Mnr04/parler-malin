@@ -53,7 +53,7 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
 
 <!-- Encart lien méthode -->
 <div class="tip-box">
-  <strong>💡 Étape 03 de la méthode globale :</strong> Ce tutoriel couvre la manipulation technique. Pour choisir les bons mots et réviser en contexte, lis le guide complet : <a href="/apprendre-vocabulaire-anglais-chatgpt/">Comment apprendre le vocabulaire anglais avec ChatGPT &rarr;</a>
+ Ce tutoriel couvre la manipulation technique. Pour choisir les bons mots et réviser en contexte, lis le guide complet : <a href="/apprendre-vocabulaire-anglais-chatgpt/">Comment apprendre le vocabulaire anglais avec ChatGPT &rarr;</a>
 </div>
 
 <!-- Sommaire interactif -->
