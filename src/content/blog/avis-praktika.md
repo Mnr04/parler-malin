@@ -2,7 +2,7 @@
 title: "Praktika AVIS 2026 : test complet de l'app (prix, avatars IA, promo -50 %)"
 description: "Mon avis sur Praktika après test : avatars IA, multimodalité, points faibles, prix 2026 et comparatif ChatGPT. Lien promo -50 % inclus."
 pubDate: 2026-10-05
-updatedDate: 2026-10-05
+updatedDate: 2026-10-17
 author: "Jérémy de Parler Malin"
 categories:
 - "apprendre-langlais"
@@ -19,7 +19,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika : interface du coa
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-05">5 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-05">17 oct. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 8 min</span>
 </div>
