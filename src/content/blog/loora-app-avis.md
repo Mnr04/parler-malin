@@ -5,7 +5,8 @@ pubDate: 2026-07-26
 updatedDate: 2026-10-17
 author: "Jérémy de Parler Malin"
 categories:
-- "apprendre-langlais"
+- 
+"apprendre-langlais"
 heroImage: "/uploads/2026/07/loora-app-avis-test-2026-scaled.avif"
 heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 ---
@@ -142,7 +143,7 @@ heroImageAlt: "Avis et test complet du coach vocal d'anglais Loora AI en 2026"
 
 ---
 
-<h2 id="fonctionnement">1. Comment fonctionne le coach vocal Loora AI ?</h2>
+<h2 id="fonctionnement">Comment fonctionne le coach vocal Loora AI ?</h2>
 
 Contrairement aux applications d'apprentissage généralistes qui te font cliquer sur des quiz à choix multiples, **Loora est un coach 100&nbsp;% axé sur la parole vive**. 
 
@@ -439,7 +440,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "url": "https://parlermalin.fr/a-propos/"
       },
       "datePublished": "2026-07-26",
-      "dateModified": "2026-07-26",
+      "dateModified": "2026-10-17",
       "image": "https://parlermalin.fr/uploads/2026/07/loora-app-avis-test-2026-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/loora-app-avis/"
