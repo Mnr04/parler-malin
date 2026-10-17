@@ -20,7 +20,7 @@ heroImageAlt: "Tarifs et abonnements de Loora AI avec code promo"
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-03">3 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-03">17 oct. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 5 min</span>
 </div>
@@ -83,9 +83,6 @@ heroImageAlt: "Tarifs et abonnements de Loora AI avec code promo"
 </div>
 </div>
 
-<div class="voucher-guarantees">
-  <span>✓ Testé en octobre 2026 • Web & App mobile</span>
-</div>
 
 <!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card">
