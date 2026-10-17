@@ -139,6 +139,10 @@ date: 2026-06-13
 <h4>Praktika avis 2026 : test complet des avatars IA</h4>
 <span>Consulter &rarr;</span>
 </a>
+<a href="/apprendre-anglais-netflix/" class="blog-article-card">
+<h4>Apprendre l’anglais avec Netflix : le plan en 4 semaines (guide 2026)</h4>
+<span>Consulter &rarr;</span>
+</a>
 </div>
 
 <style>
