@@ -64,7 +64,7 @@ heroImageAlt: "Une personne qui regarde une série en VO sur un écran avec un c
       "@id": "https://parlermalin.fr/apprendre-anglais-avec-netflix/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://parlermalin.fr/" },
-        { "@type": "ListItem", "position": 2, "name": "Méthode", "item": "https://parlermalin.fr/methode-anglais/" },
+        { "@type": "ListItem", "position": 2, "name": "Méthode", "item": "https://parlermalin.fr/" },
         { "@type": "ListItem", "position": 3, "name": "Apprendre l’anglais avec Netflix", "item": "https://parlermalin.fr/apprendre-anglais-avec-netflix/" }
       ]
     },
@@ -190,11 +190,11 @@ heroImageAlt: "Une personne qui regarde une série en VO sur un écran avec un c
 .breadcrumb a:hover { text-decoration: underline; }
 </style>
 
-<nav aria-label="Fil d’Ariane" class="breadcrumb"><ol><li><a href="/">Accueil</a></li><li><a href="/methode-anglais/">Méthode</a></li><li aria-current="page">Apprendre l’anglais avec Netflix</li></ol></nav>
+<nav aria-label="Fil d’Ariane" class="breadcrumb"><ol><li><a href="/">Accueil</a></li><li><a href="/blog/">Blog</a></li><li aria-current="page">Apprendre l’anglais avec Netflix</li></ol></nav>
 
 # Apprendre l’anglais avec Netflix : le plan en 4 semaines (guide 2026)
 
-<p class="byline">Par <a href="https://parlermalin.fr/a-propos/" rel="author">Jérémy</a> · Publié le <time datetime="2026-10-17">17 octobre 2026</time> · Mis à jour le <time datetime="2026-10-17">17 octobre 2026</time> · Lecture : environ 15 min</p>
+<p class="byline">Par <a href="https://parlermalin.fr/a-propos/" rel="author">Jérémy de Parler Malin</a> · Publié le <time datetime="2026-10-17">17 octobre 2026</time> · Lecture : environ 15 min</p>
 
 > **Réponse courte :** oui, Netflix peut faire progresser en anglais, surtout la compréhension orale et le vocabulaire, à condition de suivre une méthode. Le plan de ce guide tient en 20 à 30 minutes par jour sur une seule série pendant 4 semaines : sous-titres français, puis anglais, puis répétition à voix haute, puis test sans sous-titres.
 
@@ -457,15 +457,9 @@ Oui, pour trouver des séries adaptées et vous faire réviser par questions. V�
 >
 > 👉 Découvrez notre **[sélection des 10 chaînes YouTube pour améliorer son anglais](/top-chaine-youtube-anglais/)**.
 > 👉 Comparez les **[meilleures IA pour apprendre l’anglais](/meilleures-ia-anglais/)**.
-> 👉 Suivez notre **[méthode complète en 6 étapes](/methode-anglais/)**.
+> 👉 Suivez notre **[méthode complète en 6 étapes](/)**.
 
 <br>
-
-> 🎯 **PREMIÈRE ÉTAPE : par où commencer ?**
->
-> Si vous ne savez pas quelle série choisir, commencez par évaluer votre niveau actuel. C’est gratuit, rapide, et cela vous donne un repère fiable.
->
-> **[Estimer son niveau avec l’IA en 10 minutes →](/test-niveau-anglais-chatgpt/)**
 
 ---
 
@@ -486,5 +480,10 @@ Oui, pour trouver des séries adaptées et vous faire réviser par questions. V�
 *Sources consultées en octobre 2026. Les chiffres cités proviennent de ces publications ; les résultats d’études ne garantissent pas un résultat individuel.*
 
 ---
+*⚖️ **Mentions légales et propriété intellectuelle :** Netflix est une marque déposée de Netflix, Inc. Cet article est un guide éditorial indépendant, ni affilié à, ni approuvé, ni sponsorisé par Netflix, Inc. Les autres marques et noms cités (par exemple YouTube, ChatGPT, Claude, Gemini, Anki, Language Reactor, WordReference, Reverso) appartiennent à leurs propriétaires respectifs et sont mentionnés à titre purement descriptif. Les noms de séries sont cités à titre informatif ; aucun extrait de dialogue, de sous-titres ni aucune capture d’écran protégés ne sont reproduits. Les informations sur les outils et les catalogues (fonctions, tarifs, disponibilité) peuvent changer. Contenu informatif et pédagogique.* 
 
-*⚖️ **Mentions légales et propriété intellectuelle :** Netflix est une marque déposée de Netflix, Inc. Cet article est un guide éditorial indépendant, ni affilié à, ni approuvé, ni sponsorisé par Netflix, Inc. Les autres marques et noms cités (par exemple YouTube, ChatGPT, Claude, Gemini, Anki, Language Reactor, WordReference, Reverso) appartiennent à leurs propriétaires respectifs et sont mentionnés à titre purement descriptif. Les noms de séries sont cités à titre informatif ; aucun extrait de dialogue, de sous-titres ni aucune capture d’écran protégés ne sont reproduits. Les informations sur les outils et les catalogues (fonctions, tarifs, disponibilité) peuvent changer. Contenu informatif et pédagogique.* <!-- À adapter : si des liens d’affiliation ou des partenariats sont ajoutés un jour, ajouter la mention correspondante de façon visible. -->
+> 🎯 **PREMIÈRE ÉTAPE : par où commencer ?**
+>
+> Si vous ne savez pas quelle série choisir, commencez par évaluer votre niveau actuel. C’est gratuit, rapide, et cela vous donne un repère fiable.
+>
+> **[Estimer son niveau avec l’IA en 10 minutes →](/test-niveau-anglais-chatgpt/)**
