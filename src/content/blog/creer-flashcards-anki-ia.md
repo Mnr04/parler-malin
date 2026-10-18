@@ -1,11 +1,10 @@
 ---
-title: "Créer flashcards Anki IA : Prompts et Méthodologie (2026)"
+title: "Tutoriel : Créer des flashcards Anki avec l'IA (2026)"
 description: "Méthode pas à pas pour générer et importer tes flashcards Anki avec ChatGPT en 5 minutes. Zéro bug d'accent, zéro décalage de colonne."
 pubDate: 2026-09-17
 updatedDate: 2026-09-29
 author: "Jérémy de Parler Malin"
-categories: 
-  - "apprendre-langlais"
+categories: ["apprendre-langlais"]
 heroImage: "/uploads/2026/09/creer-flashcards-anki-ia-768x429.avif"
 heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et ChatGPT"
 ---
@@ -33,7 +32,7 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
 
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi.<a href="/a-propos/">En savoir plus</a>.</p>
+<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- Bloc En Bref + Accès direct -->
@@ -90,7 +89,7 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
 Thème : [INSÉRER TON THÈME ICI — ex: réunions professionnelles, voyage à l'aéroport, phrasal verbs]
 
 Format OBLIGATOIRE pour chaque ligne :
-&lt;b&gt;Mot anglais&lt;/b&gt;&lt;br&gt;Phrase d'exemple courte en contexte	&lt;b&gt;Traduction française du mot&lt;/b&gt;&lt;br&gt;Traduction française de la phrase
+&lt;b&gt;Mot anglais&lt;/b&gt;&lt;br&gt;Phrase d'exemple courte en contexte &lt;b&gt;Traduction française du mot&lt;/b&gt;&lt;br&gt;Traduction française de la phrase
 
 Contraintes STRICTES de formatage :
 1. Une seule paire par ligne.
@@ -149,7 +148,7 @@ Contraintes STRICTES de formatage :
   <figcaption>Vérifie que la séparation en 2 colonnes est nette et que l'option HTML est activée <em>(interface Anki macOS)</em>.</figcaption>
 </figure>
 
-<p>Quand tu lances ta session de révision, ta carte est parfaitement calibrée : le terme clé se détache en gras, la phrase de contexte se lit dessous sans forcer, et la traduction exacte apparaît au dos après avoir cliqué sur <em>Afficher la réponse</em> :</p>
+<p>Quand tu lances ta session de révision, ta carte est parfaitement calibrée : le terme clé se détache en gras, la phrase de contexte se lit dessous sans force, et la traduction exacte apparaît au dos après avoir cliqué sur <em>Afficher la réponse</em> :</p>
 
 <figure class="article-figure">
   <img src="/uploads/2026/09/rendu-carte-flashcard-anki-ia.avif" alt="Rendu final d'une carte flashcard Anki avec mot en gras et phrase d'exemple sur Mac" loading="lazy" width="600" height="660">
@@ -265,7 +264,7 @@ Contraintes STRICTES de formatage :
 <div class="next-step-card">
   <span class="next-label">RETOUR AU GUIDE MÉTHODE</span>
   <h3>Apprendre le vocabulaire et la grammaire avec ChatGPT</h3>
-  <p>Retrouve tous les prompts pour pratiquer en contexte et lancer des sessions de révision interactive avec l'IA.</p>
+  <p>Retrouve tous les prompts pour pratiquer en contexte et lancer sessions de révision interactive avec l'IA.</p>
   <a href="/apprendre-vocabulaire-anglais-chatgpt/" class="btn-next">Lire le guide complet de l'Étape 03 &rarr;</a>
 </div>
 
@@ -306,7 +305,7 @@ function copyPrompt(id, btn) {
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Créer flashcards Anki IA : Prompts et Méthodologie (2026)",
+      "headline": "Tutoriel : Créer des flashcards Anki avec l'IA (2026)",
       "description": "Méthode pas à pas pour générer et importer tes flashcards Anki avec ChatGPT en 5 minutes. Zéro bug d'accent, zéro décalage de colonne.",
       "author": {
         "@type": "Person",
