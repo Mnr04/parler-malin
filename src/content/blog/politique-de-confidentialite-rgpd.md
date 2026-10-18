@@ -35,6 +35,6 @@ Par défaut, aucun cookie ni traceur non essentiel n'est déposé lors de votre 
 
 **5. Vos droits (accès, rectification, suppression)**
 
-Conformément à la réglementation européenne RGPD, vous disposez d’un droit d’accès, de modification et de suppression de vos données personnelles. Pour exercer ce droit (par exemple, pour supprimer un commentaire que vous avez laissé), vous pouvez nous contacter à l’adresse suivante : contact@parlermalin.fr.
+Conformément à la réglementation européenne RGPD, vous disposez d’un droit d’accès, de modification et de suppression de vos données personnelles. Pour exercer ce droit (par exemple, pour supprimer un commentaire que vous avez laissé), vous pouvez nous contacter à l’adresse suivante : <!--email_off-->contact@parlermalin.fr<!--/email_off-->.
 
 Si vous estimez, après nous avoir contactés, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL (www.cnil.fr).

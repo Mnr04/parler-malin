@@ -54,10 +54,12 @@ date: 2026-07-07
     <div class="contact-inner">
       <h2>Contact</h2>
       <p>Une question sur un outil ou une idée de test ? Tu peux m'écrire directement :</p>
+      <!--email_off-->
       <a href="mailto:contact@parlermalin.fr" class="contact-email">
         <span class="mail-icon">✉</span>
         contact@parlermalin.fr
       </a>
+      <!--/email_off-->
     </div>
   </section>
 </div>

@@ -14,7 +14,7 @@ Le site ParlerMalin est édité par : **Meunier jérémy**.
 
 Directeur de la publication : **Meunier jérémy**.
 
-Contact : contact@parlermalin.fr
+Contact : <!--email_off-->contact@parlermalin.fr<!--/email_off-->
 
 ## **2\. Hébergement**
 
@@ -50,6 +50,6 @@ L'éditeur s'efforce de fournir des informations aussi précises que possible. T
 
 ## **7\. Données personnelles (RGPD)**
 
-**Contact** : L'utilisation de l'adresse de contact (contact@parlermalin.fr) implique le traitement de l'adresse email de l'expéditeur dans le seul but de lui répondre. Ces données ne sont ni cédées, ni revendues. Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression en écrivant à cette adresse.
+**Contact** : L'utilisation de l'adresse de contact (<!--email_off-->contact@parlermalin.fr<!--/email_off-->) implique le traitement de l'adresse email de l'expéditeur dans le seul but de lui répondre. Ces données ne sont ni cédées, ni revendues. Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression en écrivant à cette adresse.
 
 **Cookies** : La navigation sur ParlerMalin est susceptible de provoquer l’installation de cookies sur l’ordinateur de l’utilisateur. En particulier, les liens d'affiliation utilisent des cookies de traçage permettant d'attribuer la commission à l'éditeur en cas de vente. Vous pouvez configurer votre navigateur pour refuser l'installation des cookies.
