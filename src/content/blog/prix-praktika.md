@@ -73,7 +73,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <details class="toc-card">
   <summary class="toc-title"><span>📋 Sommaire du guide des prix</span><span class="toc-toggle-icon">▾</span></summary>
   <ol class="toc-list">
-    <li><a href="#grille-tarifs">Grille des tarifs Praktika : quel abonnement choisir ?</a></li>
+    <li><a href="#grille-tarifs">Combien coûte Praktika ? (Tarifs et abonnements)</a></li>
     <li><a href="#promo">Comment profiter de la promo -50 % pas à pas</a></li>
     <li><a href="#ce-que-comprend">Ce que tu obtiens pour ton argent</a></li>
     <li><a href="#version-gratuite">Peut-on utiliser Praktika gratuitement ?</a></li>
@@ -81,7 +81,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
   </ol>
 </details>
 
-<h2 id="grille-tarifs">1. Grille des tarifs Praktika : quel abonnement choisir ?</h2>
+<h2 id="grille-tarifs">1. Combien coûte Praktika ? (Tarifs et abonnements)</h2>
 
 Praktika se télécharge gratuitement, mais l'abonnement Premium est nécessaire pour profiter des échanges illimités avec les tuteurs IA. Trois formules sont proposées. Voici les prix relevés en octobre 2026, avec et sans la réduction de 50 % :
 
@@ -115,7 +115,7 @@ Pas de code à copier : il suffit de passer par le lien partenaire, qui applique
 5. Sur l'écran de paiement, vérifie que la réduction est bien appliquée. Si ce n'est pas le cas, reviens sur cette page et clique de nouveau sur le bouton avant de t'inscrire, sans passer par un autre lien ou une autre publicité entre-temps.
 
 <figure class="shot shot-phone">
-  <img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement Praktika avec la réduction de 50 % appliquée" width="390" height="844" loading="lazy" decoding="async">
+  <img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement de l'abonnement Praktika avec la réduction de 50 % appliquée" width="390" height="844" loading="lazy" decoding="async">
   <figcaption>Écran de paiement : la remise de -50 % s'affiche automatiquement (octobre 2026).</figcaption>
 </figure>
 
@@ -144,8 +144,6 @@ Pour le détail de ces fonctionnalités et mon ressenti d'utilisation : [lire mo
 <h2 id="version-gratuite">4. Peut-on utiliser Praktika gratuitement ?</h2>
 
 Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'application. En revanche, pour pratiquer sans limite avec les tuteurs, il faut un abonnement Premium.
-
-<!-- À COMPLÉTER : précise ce que tu as pu faire gratuitement (nombre de leçons, durée de l'essai, carte bancaire demandée ou non). -->
 
 <p class="micro-disclaimer"><em>Les conditions de la version gratuite sont fixées par Praktika et peuvent évoluer : vérifie-les dans l'application au moment de l'installation.</em></p>
 
