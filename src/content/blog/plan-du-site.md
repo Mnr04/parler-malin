@@ -136,7 +136,7 @@ date: 2026-06-13
 <span>Consulter &rarr;</span>
 </a>
 <a href="/avis-praktika/" class="blog-article-card">
-<h4>Praktika avis 2026 : test complet des avatars IA</h4>
+<h4>Praktika avis 2026</h4>
 <span>Consulter &rarr;</span>
 </a>
 <a href="/apprendre-anglais-netflix/" class="blog-article-card">
