@@ -14,7 +14,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Prix Praktika</span>
 </nav>
 
-<h1 class="page-title">Prix Praktika 2026 : dès 5 €/mois avec -50 %</h1>
+<h1 class="page-title">Prix Praktika octobre 2026 : tarifs et promo -50 %</h1>
 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
