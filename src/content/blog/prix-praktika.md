@@ -1,25 +1,25 @@
 ---
-title: "Prix Praktika octobre 2026 : tarifs et promo -50 %"
-description: "Tarifs Praktika : 11,99 € (1 mois), 23,99 € (3 mois), 59,99 € (1 an) avec -50 % sans code. Prix vérifiés en octobre 2026."
+title: "Prix Praktika AI (Octobre 2026) : Tarifs, Abonnement & Code Promo -50%"
+description: "Combien coûte vraiment Praktika AI en 2026 ? Découvre la grille des tarifs (mensuel, annuel), les limites de la version gratuite et comment activer -50% sans code promo."
 pubDate: 2026-10-05
-updatedDate: 2026-10-24
+updatedDate: 2026-10-28
 author: "Jérémy de Parler Malin"
 categories:
 - "avis"
 heroImage: "/uploads/10/prix-abonnement-praktika-code-promo.avif"
-heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de l'application avec la promo exclusive de -50%."
+heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en 2026 : illustration de l'application avec la promo exclusive de -50%."
 ---
 
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Prix Praktika</span>
 </nav>
 
-<h1 class="page-title">Prix Praktika octobre 2026 : tarifs et promo -50 %</h1>
+<h1 class="page-title">Prix Praktika AI (Octobre 2026) : Tarifs, Abonnement & Code Promo -50%</h1>
 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-24">24 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-28">28 oct. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 6 min</span>
 </div>
@@ -31,12 +31,12 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 
 <div class="voucher-hero-card">
   <div class="voucher-top-bar">
-    <span class="voucher-badge">🔥 Valable en octobre 2026</span>
+    <span class="voucher-badge">🔥 Offre vérifiée en octobre 2026</span>
   </div>
 
   <div class="voucher-header-text">
-    <h2 class="voucher-headline">-50 % sur tous les forfaits Praktika</h2>
-    <p class="voucher-sub">Aucun code à saisir : la remise s'applique automatiquement en passant par mon lien partenaire.</p>
+    <h2 class="voucher-headline">-50 % sur tous les abonnements Praktika AI</h2>
+    <p class="voucher-sub">Aucun code promo à saisir : la remise s'applique automatiquement en passant par mon lien partenaire.</p>
   </div>
 
   <div class="voucher-pricing-strip">
@@ -64,7 +64,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
       <span aria-hidden="true">→</span>
     </a>
     <div class="voucher-guarantees">
-      <span>🔒 Réduction immédiate au paiement • Prix vérifiés en oct. 2026</span>
+      <span>🔒 Réduction immédiate au paiement • Tarifs vérifiés en oct. 2026</span>
     </div>
   </div>
 </div>
@@ -72,25 +72,25 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika en 2026 : illustration de
 <details class="toc-card">
   <summary class="toc-title"><span>📋 Sommaire du guide des prix</span><span class="toc-toggle-icon">▾</span></summary>
   <ol class="toc-list">
-    <li><a href="#grille-tarifs">Combien coûte Praktika ? (Tarifs et abonnements)</a></li>
+    <li><a href="#grille-tarifs">Combien coûte Praktika AI ? (Tarifs et abonnements)</a></li>
     <li><a href="#promo">Code promo Praktika : -50 % sans code</a></li>
-    <li><a href="#ce-que-comprend">Ce que tu obtiens pour ton argent</a></li>
-    <li><a href="#version-gratuite">Praktika est-il gratuit ?</a></li>
+    <li><a href="#ce-que-comprend">Ce que tu obtiens avec l'abonnement Premium</a></li>
+    <li><a href="#version-gratuite">Praktika AI est-il gratuit ? (Essai et limites)</a></li>
     <li><a href="#praktika-vs-loora">Praktika vs Loora : quel prix ?</a></li>
-    <li><a href="#resilier">Comment résilier Praktika</a></li>
+    <li><a href="#resilier">Comment résilier ton abonnement Praktika</a></li>
     <li><a href="#faq">Foire aux questions</a></li>
   </ol>
 </details>
 
-<h2 id="grille-tarifs">1. Combien coûte Praktika ? (Tarifs et abonnements)</h2>
+<h2 id="grille-tarifs">1. Combien coûte Praktika AI ? (Tarifs et abonnements)</h2>
 
-Praktika se télécharge gratuitement, mais l'abonnement Premium est nécessaire pour profiter des échanges illimités avec les tuteurs IA. Trois formules sont proposées. Voici les prix relevés en octobre 2026, avec et sans la réduction de 50 % :
+L'application Praktika AI se télécharge gratuitement, mais l'abonnement Premium est nécessaire pour débloquer les échanges vocaux illimités avec les tuteurs IA. Trois formules d'abonnement sont proposées. Voici la grille complète des tarifs relevés en octobre 2026, avec et sans la réduction de 50 % :
 
 <span class="table-scroll-hint">↔ Glisse le tableau pour voir le coût/jour</span>
 <div class="table-container">
   <table class="custom-table">
     <thead>
-      <tr><th>Formule</th><th>Tarif standard</th><th>Avec -50 %</th><th>Coût mensuel net</th><th>Coût par jour</th></tr>
+      <tr><th>Formule</th><th>Tarif standard</th><th>Prix avec -50 %</th><th>Coût mensuel net</th><th>Coût par jour</th></tr>
     </thead>
     <tbody>
       <tr><td><strong>1 mois</strong></td><td>23,98 €</td><td><strong>11,99 €</strong></td><td>11,99 €</td><td>~0,39 €</td></tr>
@@ -99,21 +99,21 @@ Praktika se télécharge gratuitement, mais l'abonnement Premium est nécessaire
     </tbody>
   </table>
 </div>
-<p class="micro-disclaimer"><em>Les tarifs et promotions sont fixés par Praktika et peuvent changer sans préavis. Vérifie toujours le prix final affiché avant de payer.</em></p>
+<p class="micro-disclaimer"><em>Les tarifs et promotions sont fixés par Praktika et peuvent changer sans préavis. Vérifie toujours le prix final affiché en euros avant de payer.</em></p>
 
 <div class="tip-box">
-  <strong>💡 Ma recommandation :</strong> si tu veux simplement vérifier que le format te plaît, prends <strong>1 mois</strong> (11,99 € avec la promo). Si tu comptes pratiquer régulièrement, le <strong>forfait annuel</strong> est de loin le plus avantageux : il revient à environ 5 € par mois. Pour savoir si l'app vaut ce prix, lis mon <a href="/avis-praktika/">avis Praktika après test</a>.
+  <strong>💡 Ma recommandation :</strong> si tu veux simplement vérifier que le format te plaît, prends l'abonnement <strong>1 mois</strong> (11,99 € avec la promo). Si tu comptes pratiquer régulièrement, le <strong>forfait annuel</strong> est de loin le plus rentable : il revient à environ 5 € par mois. Pour savoir si l'application vaut ce prix, consulte mon <a href="/avis-praktika/">avis complet sur Praktika AI après test</a>.
 </div>
 
-<h2 id="promo">2. Code promo Praktika : -50 % sans code</h2>
+<h2 id="promo">2. Code promo Praktika : comment avoir -50 % sans code</h2>
 
-Tu cherches un **code promo Praktika**, un coupon ou un code de réduction ? Bonne nouvelle : tu n'en as pas besoin. La remise de 50 % est intégrée au lien partenaire et s'applique automatiquement. Il suffit de passer par ce lien avant de t'inscrire.
+Tu cherches un **code promo Praktika** (`praktika promo code`), un coupon ou un code de réduction ? Bonne nouvelle : tu n'as aucun code à copier-coller. La remise de 50 % est directement intégrée au lien partenaire et s'applique automatiquement au moment du paiement. Il suffit de passer par ce lien avant de créer ton profil :
 
-1. Clique sur le bouton **« Activer l'offre -50 % »** de cette page.
-2. Télécharge l'application et crée ton compte.
-3. Réponds au questionnaire de départ (objectifs, niveau).
-4. Choisis ta formule (1 mois, 3 mois ou 1 an).
-5. Sur l'écran de paiement, vérifie que la réduction est bien appliquée. Si ce n'est pas le cas, reviens sur cette page et clique de nouveau sur le bouton avant de t'inscrire, sans passer par un autre lien ou une autre publicité entre-temps.
+1. Clique sur le bouton **« Activer l'offre -50 % »** présent sur cette page.
+2. Télécharge l'application Praktika (iOS ou Android) et crée ton compte.
+3. Réponds au questionnaire de départ (objectifs, niveau d'anglais, centres d'intérêt).
+4. Choisis ta formule d'abonnement (1 mois, 3 mois ou 1 an).
+5. Sur l'écran de paiement, vérifie que le tarif réduit à -50 % est bien affiché. Si ce n'est pas le cas, reviens sur cette page et clique de nouveau sur le bouton avant de valider, sans passer par un autre lien entre-temps.
 
 <figure class="shot shot-phone">
   <img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement de l'abonnement Praktika avec la réduction de 50 % appliquée" width="390" height="844" loading="lazy" decoding="async">
@@ -123,7 +123,7 @@ Tu cherches un **code promo Praktika**, un coupon ou un code de réduction ? Bon
 <div class="inline-promo-reminder">
   <div class="inline-promo-text">
     <span class="inline-promo-badge">🔥 RAPPEL OFFRE -50 %</span>
-    <p>La remise s'applique directement via mon lien partenaire (aucun code à taper).</p>
+    <p>La remise s'applique directement via mon lien partenaire (aucun code promo à taper).</p>
   </div>
   <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-inline-cta">
     <span>Activer l'offre (-50 %)</span>
@@ -131,108 +131,113 @@ Tu cherches un **code promo Praktika**, un coupon ou un code de réduction ? Bon
   </a>
 </div>
 
-<h2 id="ce-que-comprend">3. Ce que tu obtiens pour ton argent</h2>
+<h2 id="ce-que-comprend">3. Ce que tu obtiens avec l'abonnement Premium</h2>
 
-Quelle que soit la formule, l'abonnement Premium débloque l'accès aux fonctionnalités qui font l'intérêt de Praktika :
+Quelle que soit la durée choisie (mensuelle, trimestrielle ou annuelle), l'abonnement Praktika Premium débloque l'accès complet aux fonctionnalités de l'application :
 
-- **Conversations orales illimitées** avec des tuteurs IA animés, chacun avec sa personnalité et son accent.
-- **Corrections de grammaire et de prononciation** en temps réel, avec trois niveaux de sévérité (doux, équilibré, strict).
-- **Multimodalité :** tu peux partager des photos ou des documents (CV, menu…) pour lancer des jeux de rôle personnalisés.
-- **Suivi de progression et gamification :** séries quotidiennes, défis et courbe de progression.
+- **Conversations orales illimitées** avec tous les avatars et tuteurs IA animés (Skye, Tama, Raven…), chacun ayant sa personnalité et son accent (américain, britannique, etc.).
+- **Corrections de grammaire et de prononciation** en temps réel, avec trois niveaux d'exigence réglables (doux, équilibré, strict).
+- **Multimodalité :** possibilité d'importer des photos ou des documents (CV, menu de restaurant, support de présentation) pour lancer des jeux de rôle sur mesure.
+- **Suivi de progression et gamification :** programme personnalisé selon ton niveau, séries quotidiennes et défis.
 
-Pour le détail de ces fonctionnalités et mon ressenti d'utilisation : [lire mon avis complet sur Praktika](/avis-praktika/).
+Pour voir ces fonctionnalités en conditions réelles : <a href="/avis-praktika/">lire mon test et avis sur Praktika</a>.
 
-<h2 id="version-gratuite">4. Praktika est-il gratuit ?</h2>
+<h2 id="version-gratuite">4. Praktika AI est-il gratuit ? (Essai et limites)</h2>
 
-**Pas totalement.** Le **téléchargement et l'inscription sont gratuits**, et tu peux découvrir l'application. En revanche, pour pratiquer sans limite avec les tuteurs, il faut un abonnement Premium. Il n'existe donc pas de formule 100 % gratuite et illimitée.
+**Non, Praktika AI n'est pas totalement gratuit.** L'application fonctionne sur un modèle *freemium* :
 
-<p class="micro-disclaimer"><em>Les conditions de la version gratuite sont fixées par Praktika et peuvent évoluer : vérifie-les dans l'application au moment de l'installation.</em></p>
+- **Ce qui est gratuit :** Le téléchargement sur l'App Store ou Google Play, la création de ton compte, le questionnaire d'évaluation initial et un premier aperçu de l'interface avec un avatar pour tester la reconnaissance vocale.
+- **Ce qui est payant (Praktika Premium) :** Dès que tu souhaites discuter librement sans limite de temps, suivre ton plan d'étude complet ou utiliser les mises en situation personnalisées, l'abonnement payant devient indispensable.
 
-<h2 id="praktika-vs-loora">5. Praktika vs Loora : quel prix ?</h2>
+Concernant l'**essai gratuit**, Praktika privilégie généralement une réduction immédiate de -50 % dès le premier mois (soit 11,99 € pour tester un mois complet sans engagement annuel) plutôt qu'une période d'essai gratuite illimitée.
 
-Praktika et Loora sont deux coachs vocaux IA pour parler anglais. Côté budget, voici comment ils se comparent au tarif annuel et mensuel :
+<p class="micro-disclaimer"><em>Les conditions d'accès gratuit sont fixées par Praktika et peuvent évoluer selon les mises à jour : vérifie-les directement dans l'application lors de l'inscription.</em></p>
+
+<h2 id="praktika-vs-loora">5. Praktika vs Loora : quel prix est le plus intéressant ?</h2>
+
+Praktika AI et Loora AI sont les deux applications de coachs vocaux les plus populaires pour pratiquer l'anglais à l'oral. Côté tarifs, voici comment leurs abonnements se comparent en octobre 2026 :
 
 <span class="table-scroll-hint">↔ Glisse le tableau pour comparer</span>
 <div class="table-container">
   <table class="custom-table">
     <thead>
-      <tr><th>Critère</th><th>Praktika</th><th>Loora</th></tr>
+      <tr><th>Critère</th><th>Praktika AI</th><th>Loora AI</th></tr>
     </thead>
     <tbody>
       <tr><td><strong>Annuel (standard)</strong></td><td>119,99 €</td><td>119,99 $</td></tr>
       <tr class="highlight-row"><td><strong>Annuel (avec promo)</strong></td><td><strong>59,99 €</strong> (-50 %, sans code)</td><td><strong>107,99 $</strong> (-10 % avec le code PARLERMALIN10)</td></tr>
       <tr><td><strong>Coût mensuel (annuel + promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td></tr>
       <tr><td><strong>Mensuel (avec promo)</strong></td><td>11,99 €</td><td>23,39 $</td></tr>
-      <tr><td><strong>Gratuit ?</strong></td><td>Téléchargement gratuit, abonnement pour un usage régulier</td><td>1 leçon d'essai, puis abonnement</td></tr>
-      <tr><td><strong>Style</strong></td><td>Avatars animés, jeux de rôle, photos et documents</td><td>Interface audio épurée, correction phonétique</td></tr>
+      <tr><td><strong>Gratuit ?</strong></td><td>Téléchargement gratuit, abonnement pour pratiquer</td><td>1 leçon d'essai, puis abonnement</td></tr>
+      <tr><td><strong>Style</strong></td><td>Avatars animés 3D, jeux de rôle, photos et documents</td><td>Interface audio épurée, focus anglais et phonétique</td></tr>
     </tbody>
   </table>
 </div>
-<p class="micro-disclaimer"><em>Prix relevés en octobre 2026. Loora facture en dollars américains. Le montant en euros dépend du taux de change de ta banque. Vérifie le prix final affiché avant de payer.</em></p>
+<p class="micro-disclaimer"><em>Prix relevés en octobre 2026. Loora facture en dollars américains ($) : le montant final en euros dépend du taux de change. Vérifie toujours le prix affiché avant de valider.</em></p>
 
-Au tarif annuel avec promo, Praktika revient moins cher par mois. Pour le détail de l'autre offre, consulte mon guide du <a href="/prix-loora-ai/">prix de Loora AI</a> et mon <a href="/loora-app-avis/">avis sur Loora</a>.
+Au tarif annuel avec réduction, **Praktika revient presque deux fois moins cher par mois que Loora**. Pour comparer avec l'autre application, consulte mon guide du <a href="/prix-loora-ai/">prix de Loora AI</a> ainsi que mon <a href="/loora-app-avis/">avis complet sur Loora</a>.
 
-<h2 id="resilier">6. Comment résilier Praktika</h2>
+<h2 id="resilier">6. Comment résilier ton abonnement Praktika</h2>
 
-La résiliation se fait en général depuis les réglages d'abonnement de **l'App Store** (iPhone) ou du **Google Play Store** (Android), selon l'endroit où tu t'es abonné. Les abonnements pris via ces boutiques se renouvellent automatiquement à la fin de la période, sauf annulation.
+Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement automatique, mais tu peux les annuler à tout moment pour éviter la reconduction à l'échéance suivante. La résiliation s'effectue selon la plateforme utilisée lors de ton paiement :
 
-1. Ouvre les réglages de ton compte (Apple ID sur iPhone, ou Abonnements dans le Google Play Store).
-2. Sélectionne Praktika dans la liste de tes abonnements.
-3. Choisis l'annulation avant la date de renouvellement pour ne pas être prélevé à nouveau.
+1. **Souscription via iPhone (App Store) :** ouvre les *Réglages* de ton iPhone > clique sur ton nom (Identifiant Apple) > *Abonnements* > sélectionne **Praktika** > appuie sur *Annuler l'abonnement*.
+2. **Souscription via Android (Google Play Store) :** ouvre le *Google Play Store* > appuie sur ton icône de profil en haut à droite > *Paiements et abonnements* > *Abonnements* > sélectionne **Praktika** > *Annuler l'abonnement*.
+3. **Souscription via le site web :** si tu as payé directement par carte bancaire ou PayPal depuis le navigateur lors de l'onboarding, gère ou annule ton renouvellement depuis le portail client indiqué dans ton e-mail de confirmation d'achat (ou via le support intégré à l'application).
 
-<p class="micro-disclaimer"><em>Les conditions de renouvellement et de remboursement dépendent de la boutique et de Praktika : vérifie-les avant de t'abonner, surtout sur la formule annuelle.</em></p>
+<p class="micro-disclaimer"><em>Pense à effectuer la résiliation au moins 24 heures avant la date de fin de ta période en cours pour ne pas être prélevé pour la période suivante.</em></p>
 
 <h2 id="faq">Foire aux questions</h2>
 
 <details class="faq-card">
   <summary class="faq-title">Combien coûte Praktika par mois ?</summary>
-  <div class="faq-body"><p>De 23,98 € pour 1 mois à environ 10 € par mois pour l'annuel au tarif standard. Avec la réduction de 50 %, le forfait annuel revient à environ 5 € par mois (59,99 € par an).</p></div>
+  <div class="faq-body"><p>Le tarif standard est de 23,98 € pour un abonnement d'un mois, ou d'environ 10 € par mois sur la formule annuelle (119,99 €). En activant la réduction de -50 %, le forfait 1 mois passe à 11,99 € et le forfait annuel descend à 59,99 € par an, soit environ 5 € par mois.</p></div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Faut-il un code promo pour obtenir -50 % ?</summary>
-  <div class="faq-body"><p>Non, aucun code n'est nécessaire : la réduction de 50 % s'applique automatiquement quand tu t'abonnes en passant par mon lien partenaire. Elle était bien appliquée à l'écran de paiement lors de mon test en octobre 2026. Vérifie toujours le prix final affiché avant de valider, car Praktika peut modifier ou retirer l'offre.</p></div>
+  <summary class="faq-title">Faut-il un code promo Praktika pour obtenir -50 % ?</summary>
+  <div class="faq-body"><p>Non, aucun code promo n'est nécessaire : la réduction de 50 % s'applique automatiquement quand tu passes par mon lien partenaire. Elle s'affiche directement sur la page de paiement (vérifié en octobre 2026). Contrôle toujours le prix final avant de payer, car l'éditeur peut modifier ses offres.</p></div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Praktika est-il gratuit ?</summary>
-  <div class="faq-body"><p>Le téléchargement et l'inscription sont gratuits, mais l'usage régulier avec les tuteurs IA nécessite un abonnement Premium. Vérifie les conditions de la version gratuite dans l'application.</p></div>
+  <summary class="faq-title">L'application Praktika est-elle gratuite ?</summary>
+  <div class="faq-body"><p>Le téléchargement et l'inscription sont gratuits pour découvrir l'application, mais un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et débloquer le parcours complet.</p></div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Quelle est la formule la moins chère ?</summary>
-  <div class="faq-body"><p>Au total, la moins chère est le forfait 1 mois avec promo (11,99 €). Au coût mensuel, la moins chère est le forfait annuel avec promo (environ 5 € par mois).</p></div>
+  <summary class="faq-title">Quelle est la formule d'abonnement la moins chère ?</summary>
+  <div class="faq-body"><p>Pour débourser le moins possible immédiatement, la formule 1 mois avec promo est la plus accessible (11,99 €). Pour payer le moins cher au mois sur la durée, c'est l'abonnement annuel à -50 % qui est le plus économique (~5 € par mois).</p></div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Praktika ou Loora : lequel est le moins cher ?</summary>
-  <div class="faq-body"><p>Au tarif annuel avec promo, Praktika revient à environ 5 € par mois contre environ 9 $ par mois pour Loora avec le code PARLERMALIN10. Le bon choix dépend aussi du style : avatars et jeux de rôle pour Praktika, interface audio épurée pour Loora.</p></div>
+  <div class="faq-body"><p>Au tarif annuel avec réduction, Praktika revient à environ 5 € par mois (59,99 €/an) contre environ 9 $ par mois pour Loora (107,99 $/an avec le code PARLERMALIN10). Praktika est donc nettement plus abordable et propose plusieurs langues avec des avatars animés, tandis que Loora se concentre sur l'anglais avec une interface purement vocale.</p></div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Comment résilier mon abonnement Praktika ?</summary>
-  <div class="faq-body"><p>La résiliation se fait en général depuis les réglages d'abonnement de l'App Store ou du Google Play Store, selon l'endroit où tu t'es abonné. Pense à résilier avant la date de renouvellement pour ne pas être prélevé à nouveau.</p></div>
+  <div class="faq-body"><p>Rends-toi dans la section « Abonnements » des réglages de ton compte App Store (iOS) ou Google Play Store (Android), ou passe par le lien de gestion reçu par e-mail si tu as souscrit sur le web. Résilie au moins 24h avant la date d'échéance pour stopper le renouvellement automatique.</p></div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Praktika est-il moins cher qu'un professeur particulier ?</summary>
-  <div class="faq-body"><p>Oui, nettement : un abonnement annuel avec promo coûte moins que quelques heures de cours particuliers. Mais ce sont deux usages différents : Praktika offre un volume de pratique illimité, un professeur humain apporte un suivi et des nuances qu'une IA n'a pas.</p></div>
+  <div class="faq-body"><p>Oui, largement : une année complète de Praktika avec -50 % (59,99 €) coûte l'équivalent de deux ou trois heures de cours particuliers avec un professeur humain. Les deux approches restent complémentaires : Praktika permet de pratiquer l'oral tous les jours sans contrainte, tandis qu'un professeur humain apporte un suivi pédagogique sur mesure.</p></div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Y a-t-il des frais cachés ?</summary>
-  <div class="faq-body"><p>Je n'ai pas constaté de frais supplémentaires lors de mon test, mais le montant exact dépend de ton mode de paiement et de ton pays. Contrôle le total affiché avant de finaliser l'achat.</p></div>
+  <summary class="faq-title">Y a-t-il des frais cachés sur Praktika ?</summary>
+  <div class="faq-body"><p>Je n'ai constaté aucun frais caché lors de mon test : les prix sont affichés en euros (€) avant la validation. Vérifie simplement le montant total et la périodicité de renouvellement sur ton écran de confirmation.</p></div>
 </details>
 
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement</span>
-  <p>Tarifs relevés en octobre 2026. Praktika se réserve le droit de modifier ses prix et promotions. Vérifie systématiquement le montant total affiché avant de finaliser ton achat.</p>
+  <p>Tarifs relevés en octobre 2026. Praktika se réserve le droit de modifier ses prix et promotions à tout moment. Vérifie systématiquement le montant total affiché avant de finaliser ton achat.</p>
 </div>
 
 <div class="next-step-card">
   <span class="next-label">À LIRE AUSSI</span>
-  <h3>Praktika vaut-il son prix ? Mon test complet</h3>
-  <p>Fonctionnement, avatars, points forts et limites : tout ce qu'il faut savoir avant de t'abonner.</p>
+  <h3>Praktika AI vaut-il son prix ? Mon test complet</h3>
+  <p>Fonctionnement, avatars (Skye, Tama), qualité des corrections et limites : tout ce qu'il faut savoir avant de t'abonner.</p>
   <a href="/avis-praktika/" class="btn-next">Lire mon avis complet sur Praktika →</a>
 </div>
 
@@ -269,12 +274,12 @@ document.addEventListener("DOMContentLoaded", function () {
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Prix Praktika 2026 : dès 5 €/mois avec -50 %",
-      "description": "Tarifs Praktika 1 mois, 3 mois et 1 an, coût par jour, promo -50 % sans code et comparaison de prix avec Loora.",
+      "headline": "Prix Praktika AI (Octobre 2026) : Tarifs, Abonnement & Code Promo -50%",
+      "description": "Combien coûte vraiment Praktika AI en 2026 ? Découvre la grille des tarifs (mensuel, annuel), les limites de la version gratuite et comment activer -50% sans code promo.",
       "author": { "@type": "Person", "name": "Jérémy de Parler Malin", "url": "https://parlermalin.fr/a-propos/" },
       "publisher": { "@type": "Organization", "name": "Parler Malin", "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" } },
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-28",
       "image": "https://parlermalin.fr/uploads/10/prix-abonnement-praktika-code-promo.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/prix-praktika/"
@@ -289,28 +294,28 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       "@type": "SoftwareApplication",
-      "name": "Praktika",
+      "name": "Praktika AI",
       "applicationCategory": "EducationalApplication",
       "operatingSystem": "iOS, Android",
       "image": "https://parlermalin.fr/uploads/10/prix-abonnement-praktika-code-promo.avif",
-      "description": "Application d'apprentissage des langues avec des tuteurs IA animés.",
+      "description": "Application d'apprentissage des langues avec des tuteurs et avatars IA animés.",
       "offers": [
-        { "@type": "Offer", "name": "Praktika 1 mois avec -50 %", "priceCurrency": "EUR", "price": "11.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
-        { "@type": "Offer", "name": "Praktika 3 mois avec -50 %", "priceCurrency": "EUR", "price": "23.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
-        { "@type": "Offer", "name": "Praktika 1 an avec -50 %", "priceCurrency": "EUR", "price": "59.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" }
+        { "@type": "Offer", "name": "Abonnement Praktika 1 mois avec -50 %", "priceCurrency": "EUR", "price": "11.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "Abonnement Praktika 3 mois avec -50 %", "priceCurrency": "EUR", "price": "23.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" },
+        { "@type": "Offer", "name": "Abonnement Praktika 1 an avec -50 %", "priceCurrency": "EUR", "price": "59.99", "url": "https://try.praktika.ai/?via=jeremy", "availability": "https://schema.org/InStock" }
       ]
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
-        { "@type": "Question", "name": "Combien coûte Praktika par mois ?", "acceptedAnswer": { "@type": "Answer", "text": "De 23,98 € pour 1 mois à environ 10 € par mois pour l'annuel au tarif standard. Avec la réduction de 50 %, le forfait annuel revient à environ 5 € par mois (59,99 € par an)." } },
-        { "@type": "Question", "name": "Faut-il un code promo pour obtenir -50 % ?", "acceptedAnswer": { "@type": "Answer", "text": "Non, aucun code n'est nécessaire : la réduction de 50 % s'applique automatiquement en passant par le lien partenaire. Vérifie le prix final affiché avant de valider." } },
-        { "@type": "Question", "name": "Praktika est-il gratuit ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et l'inscription sont gratuits, mais l'usage régulier avec les tuteurs IA nécessite un abonnement Premium. Vérifie les conditions de la version gratuite dans l'application." } },
-        { "@type": "Question", "name": "Quelle est la formule la moins chère ?", "acceptedAnswer": { "@type": "Answer", "text": "Au total, le forfait 1 mois avec promo (11,99 €). Au coût mensuel, le forfait annuel avec promo (environ 5 € par mois)." } },
-        { "@type": "Question", "name": "Praktika ou Loora : lequel est le moins cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Au tarif annuel avec promo, Praktika revient à environ 5 € par mois contre environ 9 $ par mois pour Loora avec le code PARLERMALIN10. Le bon choix dépend aussi du style : avatars et jeux de rôle pour Praktika, interface audio épurée pour Loora." } },
-        { "@type": "Question", "name": "Comment résilier mon abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "La résiliation se fait en général depuis les réglages d'abonnement de l'App Store ou du Google Play Store, selon l'endroit où tu t'es abonné." } },
-        { "@type": "Question", "name": "Praktika est-il moins cher qu'un professeur particulier ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, nettement, mais ce sont deux usages différents : Praktika offre un volume de pratique illimité, un professeur humain apporte un suivi et des nuances qu'une IA n'a pas." } },
-        { "@type": "Question", "name": "Y a-t-il des frais cachés ?", "acceptedAnswer": { "@type": "Answer", "text": "Aucun frais supplémentaire constaté lors du test, mais le montant dépend du mode de paiement et du pays : contrôle le total avant de finaliser l'achat." } }
+        { "@type": "Question", "name": "Combien coûte Praktika par mois ?", "acceptedAnswer": { "@type": "Answer", "text": "Le tarif standard est de 23,98 € pour un abonnement d'un mois, ou d'environ 10 € par mois sur la formule annuelle (119,99 €). En activant la réduction de -50 %, le forfait 1 mois passe à 11,99 € et le forfait annuel descend à 59,99 € par an, soit environ 5 € par mois." } },
+        { "@type": "Question", "name": "Faut-il un code promo Praktika pour obtenir -50 % ?", "acceptedAnswer": { "@type": "Answer", "text": "Non, aucun code promo n'est nécessaire : la réduction de 50 % s'applique automatiquement quand tu passes par le lien partenaire. Vérifie toujours le prix final affiché avant de valider." } },
+        { "@type": "Question", "name": "L'application Praktika est-elle gratuite ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et l'inscription sont gratuits pour découvrir l'application, mais un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et débloquer le parcours complet." } },
+        { "@type": "Question", "name": "Quelle est la formule d'abonnement la moins chère ?", "acceptedAnswer": { "@type": "Answer", "text": "Pour débourser le moins possible immédiatement, la formule 1 mois avec promo est la plus accessible (11,99 €). Pour payer le moins cher au mois sur la durée, c'est l'abonnement annuel à -50 % qui est le plus économique (~5 € par mois)." } },
+        { "@type": "Question", "name": "Praktika ou Loora : lequel est le moins cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Au tarif annuel avec réduction, Praktika revient à environ 5 € par mois (59,99 €/an) contre environ 9 $ par mois pour Loora (107,99 $/an avec le code PARLERMALIN10)." } },
+        { "@type": "Question", "name": "Comment résilier mon abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Rends-toi dans la section Abonnements des réglages de ton compte App Store (iOS) ou Google Play Store (Android), ou passe par le lien de gestion reçu par e-mail si tu as souscrit sur le web." } },
+        { "@type": "Question", "name": "Praktika est-il moins cher qu'un professeur particulier ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, largement : une année complète de Praktika avec -50 % (59,99 €) coûte l'équivalent de deux ou trois heures de cours particuliers avec un professeur humain." } },
+        { "@type": "Question", "name": "Y a-t-il des frais cachés sur Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Aucun frais caché constaté lors du test : les prix sont affichés en euros avant la validation. Vérifie simplement le montant total et la périodicité de renouvellement sur ton écran de confirmation." } }
       ]
     }
   ]
