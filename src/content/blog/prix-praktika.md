@@ -64,7 +64,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en 2026 : illustration
       <span aria-hidden="true">→</span>
     </a>
     <div class="voucher-guarantees">
-      <span>🔒 Réduction immédiate au paiement • Tarifs vérifiés en oct. 2026</span>
+      <span>🔒 Réduction immédiate au paiement • Tarifs vérifiés en nov. 2026</span>
     </div>
   </div>
 </div>
