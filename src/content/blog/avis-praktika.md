@@ -2,7 +2,7 @@
 title: "Avis Praktika AI (2026) : J'ai testé l'application et ses avatars vocaux"
 description: "Mon avis complet sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, prix réel et comparatif avec Loora."
 pubDate: 2026-10-05
-updatedDate: 2026-10-28
+updatedDate: 2026-11-01
 author: "Jérémy de Parler Malin"
 categories:
 - "apprendre-langlais"
@@ -19,7 +19,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-28">28 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-28">01 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 9 min</span>
 </div>
@@ -103,7 +103,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
     </a>
   </div>
   <div class="scorecard-guarantee">
-    <span>🔒 Réduction vérifiée en octobre 2026 • Annulable à tout moment</span>
+    <span>🔒 Réduction vérifiée en novembre 2026 • Annulable à tout moment</span>
   </div>
 </div>
 

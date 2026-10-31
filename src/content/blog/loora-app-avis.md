@@ -119,7 +119,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
   </div>
 
   <div class="scorecard-guarantee">
-    <span>🔒 Testé et vérifié en octobre 2026 • Résiliable à tout moment</span>
+    <span>🔒 Testé et vérifié en novembre 2026 • Résiliable à tout moment</span>
   </div>
 </div>
 
@@ -366,7 +366,7 @@ Elle ne remplace pas un professeur natif pour préparer un examen académique po
 <!-- Disclaimer IA -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement de transparence</span>
-  <p>Les fonctionnalités et tarifs mentionnés ont été vérifiés en octobre 2026. L'éditeur de l'application se réserve le droit de faire évoluer ses offres. Vérifie toujours le récapitulatif dans ton panier avant de confirmer ton abonnement.</p>
+  <p>Les fonctionnalités et tarifs mentionnés ont été vérifiés en novembre 2026. L'éditeur de l'application se réserve le droit de faire évoluer ses offres. Vérifie toujours le récapitulatif dans ton panier avant de confirmer ton abonnement.</p>
 </div>
 
 <!-- Navigation CRO Rebond Guide -->
