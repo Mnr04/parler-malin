@@ -38,7 +38,6 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
 <div class="voucher-hero-card">
   <div class="voucher-top-bar">
     <span class="voucher-badge">🔥 Offre vérifiée en Novembre 2026</span>
-    <span class="voucher-validity">✓ Code & Coupon actifs</span>
   </div>
   <div class="voucher-header-text">
     <h2 class="voucher-headline">-10 % immédiats sur tous les abonnements Loora AI</h2>
