@@ -1,5 +1,5 @@
 ---
-title: "Code Promo Loora AI : -10 % avec PARLERMALIN10 (2026)"
+title: "Code Promo Loora AI (Novembre 2026) : -10 % avec PARLERMALIN10 (2026)"
 description: "Code promo Loora : PARLERMALIN10 donne -10 % sur 1 mois, 3 mois et 1 an. Copie le coupon, applique-le en 30 secondes et paie l'annuel 107,99 $."
 pubDate: 2026-11-01
 updatedDate: 2026-11-01

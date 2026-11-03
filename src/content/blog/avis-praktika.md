@@ -1,5 +1,5 @@
 ---
-title: "Avis Praktika AI (2026) : J'ai testé l'application et ses avatars vocaux"
+title: "Avis Praktika AI (Novembre 2026) : J'ai testé l'application"
 description: "Mon avis complet sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, prix réel et comparatif avec Loora."
 pubDate: 2026-10-05
 updatedDate: 2026-11-01

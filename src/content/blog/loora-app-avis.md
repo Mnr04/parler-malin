@@ -1,8 +1,8 @@
 ---
-title: "Avis Loora AI (2026) : Mon Test Complet de l'Application (Fiable ou Arnaque ?)"
+title: "Avis Loora AI (Novembre 2026) : Mon Test Complet de l'Application (Fiable ou Arnaque ?)"
 description: "Que vaut vraiment l'application Loora AI pour parler anglais ? Mon avis après test : reconnaissance vocale, limites, retours clients, prix et comparatif."
 pubDate: 2026-07-26
-updatedDate: 2026-10-28
+updatedDate: 2026-11-03
 author: "Jérémy de Parler Malin"
 categories:
 - "apprendre-langlais"
@@ -21,7 +21,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-28">28 oct. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-10-28">03 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 8 min</span>
 </div>

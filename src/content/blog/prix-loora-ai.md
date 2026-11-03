@@ -1,5 +1,5 @@
 ---
-title: "Prix Loora AI 2026 : Tarifs + Code Promo -10 %"
+title: "Prix Loora AI (Novrembre 2026) : Tarifs + Code Promo -10 %"
 description: "Loora AI dès 8,30 €/mois : tarifs 1 mois, 3 mois et 1 an, essai gratuit et code promo PARLERMALIN10 (-10 %) à copier. Vérifié en novembre 2026."
 pubDate: 2026-09-16
 updatedDate: 2026-11-01
