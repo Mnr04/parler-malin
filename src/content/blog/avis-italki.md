@@ -33,7 +33,7 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 
 </div>
 

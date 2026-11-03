@@ -31,8 +31,7 @@ heroImageAlt: "Pratiquer la conversation en anglais avec un locuteur natif"
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés (comme italki), sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- 2. Bloc En Bref (Optimisé GEO & Lecture Rapide) -->
 <div class="geo-box">

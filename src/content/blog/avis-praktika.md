@@ -17,7 +17,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 <h1 class="page-title">Avis Praktika AI (2026) : J'ai testé l'application et ses avatars vocaux</h1>
 
 <div class="article-meta-bar">
-  <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+  <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>Mis à jour le <time datetime="2026-10-28">01 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -26,7 +26,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 
 <div class="transparency-banner">
   <span aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <div class="geo-box">
@@ -46,7 +46,6 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
       <span aria-hidden="true">→</span>
     </a>
     <div class="atf-sub-actions">
-      <span class="micro-trust">✓ -50 % activé automatiquement via ce lien</span>
       <a href="#offre-exclusive" class="link-jump-details">Voir le résumé des notes ↓</a>
     </div>
   </div>
@@ -95,7 +94,6 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
         <span class="badge-promo">🔥 OFFRE PARTENAIRE</span>
         <span class="auto-promo-pill">✓ Activé automatiquement via le lien</span>
       </div>
-      <p class="action-highlight"><strong>-50 % immédiat</strong> sur l'abonnement (aucun code à copier).</p>
     </div>
     <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-scorecard-cta">
       <span>Appliquer -50 % sur Praktika</span>
@@ -103,7 +101,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
     </a>
   </div>
   <div class="scorecard-guarantee">
-    <span>🔒 Réduction vérifiée en novembre 2026 • Annulable à tout moment</span>
+    <span>🔒 Valide en novembre 2026 </span>
   </div>
 </div>
 

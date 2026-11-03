@@ -29,8 +29,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- 2. Bloc En Bref GEO (Optimisé Above The Fold Mobile) -->
 <div class="geo-box">

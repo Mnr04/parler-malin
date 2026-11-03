@@ -33,7 +33,7 @@ heroImageAlt: "Comparatif ChatGPT vs Loora AI pour apprendre l'anglais"
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés (comme Loora AI), sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- 2. Bloc En Bref GEO -->

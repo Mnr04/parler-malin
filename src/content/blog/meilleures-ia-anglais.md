@@ -30,8 +30,7 @@ heroImageAlt: "Comparatif des meilleures IA pour apprendre l'anglais en 2026"
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> Tests financés par des liens affiliés, sans surcoût pour vous. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- Accroche directe CRO -->
 <div class="hook-box">

@@ -33,8 +33,7 @@ heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'éco
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Tests indépendants financés par des liens affiliés (comme Loora et italki), sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">

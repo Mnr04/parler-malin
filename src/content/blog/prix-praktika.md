@@ -17,7 +17,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en 2026 : illustration
 <h1 class="page-title">Prix Praktika AI (Novembre 2026) : Tarifs, Abonnement & Code Promo -50%</h1>
 
 <div class="article-meta-bar">
-  <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+  <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>Mis à jour le <time datetime="2026-10-28">28 oct. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -26,7 +26,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en 2026 : illustration
 
 <div class="transparency-banner">
   <span aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <div class="voucher-hero-card">
@@ -64,7 +64,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en 2026 : illustration
       <span aria-hidden="true">→</span>
     </a>
     <div class="voucher-guarantees">
-      <span>🔒 Réduction immédiate au paiement • Tarifs vérifiés en nov. 2026</span>
+      <span>🔒 Réduction immédiate au paiement</span>
     </div>
   </div>
 </div>

@@ -29,7 +29,7 @@ heroImageAlt: "Code promo Loora AI PARLERMALIN10 : coupon de réduction de -10 %
 <!-- Bandeau Transparence -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <!-- ========================================== -->

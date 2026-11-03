@@ -34,8 +34,7 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-  <p><strong>Transparence :</strong> cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- ========================================== -->
 <!-- 2. Code Promo Hero Card (CRO Mobile-First) -->

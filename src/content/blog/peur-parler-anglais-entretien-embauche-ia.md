@@ -32,8 +32,7 @@ heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et l'in
 <!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
-<p><strong>Transparence :</strong> Guide indépendant financé par des liens partenaires, sans aucun surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
 <!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
