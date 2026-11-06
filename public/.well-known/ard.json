@@ -1,28 +1,36 @@
 {
-  "schema_version": "1.0",
-  "name": "Parler Malin",
-  "description": "Tests et comparatifs des meilleurs tuteurs vocaux IA pour apprendre l'anglais (Praktika, Loora, ChatGPT, Gemini).",
-  "url": "https://parlermalin.fr",
-  "resources": [
+  "entries": [
     {
-      "name": "Comparatif des meilleurs Tuteurs IA Anglais",
-      "url": "https://parlermalin.fr/meilleures-ia-anglais/",
-      "type": "guide"
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:parlermalin.fr:guide:meilleures-ia-anglais",
+      "displayName": "Comparatif des meilleurs Tuteurs IA Anglais",
+      "type": "text/html",
+      "description": "Comparatif des meilleurs tuteurs vocaux IA pour apprendre l'anglais (Praktika, Loora, ChatGPT, Gemini).",
+      "url": "https://parlermalin.fr/meilleures-ia-anglais/"
     },
     {
-      "name": "Test et Avis Praktika AI",
-      "url": "https://parlermalin.fr/avis-praktika/",
-      "type": "review"
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:parlermalin.fr:review:avis-praktika",
+      "displayName": "Test et Avis Praktika AI",
+      "type": "text/html",
+      "description": "Test complet de Praktika AI pour apprendre l'anglais.",
+      "url": "https://parlermalin.fr/avis-praktika/"
     },
     {
-      "name": "Prix et Code Promo Praktika AI",
-      "url": "https://parlermalin.fr/prix-praktika/",
-      "type": "pricing"
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:parlermalin.fr:pricing:prix-praktika",
+      "displayName": "Prix et Code Promo Praktika AI",
+      "type": "text/html",
+      "description": "Tarifs et code promo de Praktika AI.",
+      "url": "https://parlermalin.fr/prix-praktika/"
     },
     {
-      "name": "Test et Avis Loora AI",
-      "url": "https://parlermalin.fr/loora-app-avis/",
-      "type": "review"
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:parlermalin.fr:review:loora-app-avis",
+      "displayName": "Test et Avis Loora AI",
+      "type": "text/html",
+      "description": "Test complet de Loora AI pour apprendre l'anglais.",
+      "url": "https://parlermalin.fr/loora-app-avis/"
     }
   ]
 }
