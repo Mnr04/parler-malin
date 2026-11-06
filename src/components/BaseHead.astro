@@ -20,20 +20,16 @@ if (currentPath !== '/' && !currentPath.endsWith('/')) {
 }
 const canonicalURL = new URL(currentPath, siteUrl);
 
-// Image Open Graph par défaut pour tout le site (accueil, catégories, à propos...)
 const defaultShareImage = '/og-cover.png';
 const { title, description, image = defaultShareImage } = Astro.props;
 
-// Récupère l'URL absolue complète pour les réseaux sociaux
 const imagePath = typeof image === 'string' ? image : image.src;
 const ogImageURL = new URL(imagePath, siteUrl);
 ---
 
-<!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-<!-- Favicons -->
 <link rel="icon" href="/favicon.ico" sizes="48x48" />
 <link rel="icon" type="image/svg+xml" href="/favicon-parlermalin.svg" sizes="any" />
 <link rel="icon" type="image/png" href="/favicon-48.png" sizes="48x48" />

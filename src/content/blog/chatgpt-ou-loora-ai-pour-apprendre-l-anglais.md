@@ -221,12 +221,12 @@ Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, m
 <p>Les intelligences artificielles sont de formidables simulateurs d'entraînement pour prendre confiance sans stress. Pour consolider ton aisance dans la vraie vie, complète toujours ta pratique avec de véritables échanges humains.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
+
 <div class="next-step-card">
-<span class="next-label">MÉTHODE COMPLÈTE</span>
-<h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
-<p>Découvre l'intégralité des 7 étapes : de l'évaluation initiale jusqu'aux simulations d'échanges avec des natifs, pour progresser sans perdre de temps.</p>
-<a href="/#guide" class="btn-next">Améliorer son anglais avec l'IA : la méthode étape par étape &rarr;</a>
+<span class="next-label">COMPARATIF DÉTAILLÉ</span>
+<h3>Quel tuteur vocal IA est fait pour vous ?</h3>
+<p>Découvrez notre classement mis à jour et comparez les fonctionnalités, les notes et les tarifs des meilleurs tuteurs IA pour pratiquer l'anglais au quotidien.</p>
+<a href="/meilleures-ia-anglais/" class="btn-next">Voir le comparatif des meilleurs tuteurs IA &rarr;</a>
 </div>
 
 <!-- Toast flottant -->

@@ -1,11 +1,11 @@
 ---
 title: "Avis Praktika AI (Novembre 2026) : J'ai testé l'application"
-description: "Mon avis complet sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, prix réel et comparatif avec Loora."
+description: "Mon avis sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, tarif réel (-50%) et comparatif avec Loora."
 pubDate: 2026-10-05
-updatedDate: 2026-11-01
-author: "Jérémy de Parler Malin"
+updatedDate: 2026-11-06
+author: "Jérémy"
 categories:
-- "apprendre-langlais"
+  - "avis"
 heroImage: "/uploads/10/avis-praktika-app-test-coach-ia.avif"
 heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du coach vocal avec un avatar IA en plein apprentissage de l'anglais."
 ---
@@ -14,12 +14,12 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Avis Praktika</span>
 </nav>
 
-<h1 class="page-title">Avis Praktika AI (2026) : J'ai testé l'application et ses avatars vocaux</h1>
+<h1 class="page-title">Avis Praktika AI (Novembre 2026) : J'ai testé l'application et ses avatars vocaux</h1>
 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-10-28">01 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-06">06 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 9 min</span>
 </div>
@@ -31,14 +31,14 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 
 <div class="geo-box">
   <div class="geo-header">
-    <span class="geo-tag">⚡ EN BREF</span>
+    <span class="geo-tag">⚡ MON AVIS EN BREF</span>
     <span class="geo-rating-pill">★ 4,7/5 (App Store)</span>
   </div>
   <ul class="geo-list">
-    <li><strong>Le concept :</strong> Idéal pour <strong>parler en anglais avec un robot</strong> et <strong>améliorer son accent anglais</strong> grâce à des conversations libres avec des avatars IA animés.</li>
-    <li><strong>Le point fort :</strong> Jeux de rôle sur mesure à partir de tes propres photos ou documents (ex : ton CV).</li>
-    <li><strong>Pour qui :</strong> Ceux qui bloquent à l'oral par timidité. À éviter si tu cherches un cours de grammaire pure.</li>
-    <li><strong>Mon verdict :</strong> Excellent coach vocal de poche, très ludique (abonnement indispensable pour pratiquer).</li>
+    <li><strong>L'application :</strong> <strong>Praktika AI</strong> est un tuteur vocal sur mobile qui te fait pratiquer l'anglais à voix haute face à des <strong>avatars IA interactifs</strong> (Skye, Tama, Raven) aux accents variés (US, UK, Australien).</li>
+    <li><strong>Le point fort du test :</strong> Parcours guidé sur mesure et jeux de rôle à partir de tes propres documents ou photos (ex : importer ton CV pour simuler un entretien).</li>
+    <li><strong>Gratuit ou payant :</strong> Téléchargement gratuit pour découvrir l'interface, puis abonnement Premium indispensable (dès ~5 €/mois avec -50 %).</li>
+    <li><strong>Verdict sur Praktika App :</strong> L'un des meilleurs rapports immersion / prix en 2026 pour débloquer son oral sans la peur du jugement.</li>
   </ul>
   <div class="geo-cta-wrap">
     <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-atf-action">
@@ -46,7 +46,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
       <span aria-hidden="true">→</span>
     </a>
     <div class="atf-sub-actions">
-      <a href="#offre-exclusive" class="link-jump-details">Voir le résumé des notes ↓</a>
+      <a href="#offre-exclusive" class="link-jump-details">Voir le résumé de mon test ↓</a>
     </div>
   </div>
 </div>
@@ -54,7 +54,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 <div id="offre-exclusive" class="review-scorecard">
   <div class="scorecard-top">
     <div class="scorecard-brand">
-      <span class="brand-pill">TUTEUR IA MULTILANGUE // AVIS</span>
+      <span class="brand-pill">TEST &amp; AVIS APPLICATION PRAKTIKA</span>
       <p class="scorecard-title">L'application Praktika AI en un coup d'œil</p>
     </div>
     <div class="scorecard-rating">
@@ -106,17 +106,17 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
 </div>
 
 <details class="toc-card">
-  <summary class="toc-title"><span>📋 Sommaire de l'article</span><span class="toc-toggle-icon">▾</span></summary>
+  <summary class="toc-title"><span>📋 Sommaire de mon test &amp; avis</span><span class="toc-toggle-icon">▾</span></summary>
   <ol class="toc-list">
     <li><a href="#fonctionnement">Comment fonctionne l'application Praktika AI ?</a></li>
     <li><a href="#test-terrain">Mon test : avatars (Skye, Tama), multimodalité et gamification</a></li>
-    <li><a href="#limites">Les limites de Praktika</a></li>
+    <li><a href="#limites">Les limites de l'application Praktika</a></li>
     <li><a href="#pour-qui">Pour qui (et pour qui pas) ?</a></li>
-    <li><a href="#avis-utilisateurs">Avis des utilisateurs sur Praktika</a></li>
+    <li><a href="#avis-utilisateurs">Avis sur Praktika : que pensent les utilisateurs ?</a></li>
     <li><a href="#arnaque">Praktika est-il une arnaque ? Est-il fiable ?</a></li>
     <li><a href="#comparatif">Praktika vs Loora vs ChatGPT</a></li>
-    <li><a href="#tarifs">Quel budget prévoir pour l'abonnement Praktika ?</a></li>
-    <li><a href="#verdict">Verdict final</a></li>
+    <li><a href="#tarifs">Prix Praktika : est-ce gratuit ou payant ?</a></li>
+    <li><a href="#verdict">Verdict final : mon avis sur Praktika AI</a></li>
     <li><a href="#faq">FAQ</a></li>
   </ol>
 </details>
@@ -134,9 +134,9 @@ Dès l'inscription, un **questionnaire de personnalisation** te demande pourquoi
 
 Tu choisis ensuite ton coach parmi plusieurs **avatars Praktika** (**Skye**, **Tama**, **Raven**…), chacun doté de sa propre personnalité, de son histoire et d'un accent spécifique (américain, britannique, australien, etc.). Tu peux changer de tuteur quand tu veux selon ton humeur ou l'accent que tu souhaites travailler.
 
-<h2 id="test-terrain">2. Mon test : avatars (Skye, Tama), multimodalité et gamification</h2>
+<h2 id="test-terrain">2. Mon test de Praktika : avatars (Skye, Tama), multimodalité et gamification</h2>
 
-J'ai testé l'application sur plusieurs sessions de 15 à 20 minutes pour vérifier la réactivité des échanges vocaux et la pertinence pédagogique. J'ai principalement conversé avec **Skye Praktika** (l'avatar féminin à l'accent américain standard) et **Tama**, notamment en simulant la préparation d'un voyage aux États-Unis. Ce qui frappe immédiatement avec les **avatars de Praktika**, c'est la fluidité : le temps de latence entre la fin de ma phrase et la réponse vocale de l'IA est inférieur à deux secondes.
+Lors de mon **test de Praktika**, j'ai enchaîné plusieurs sessions de 15 à 20 minutes pour vérifier la réactivité des échanges vocaux et la pertinence pédagogique. J'ai principalement conversé avec **Skye Praktika** (l'avatar féminin à l'accent américain standard) et **Tama**, notamment en simulant la préparation d'un voyage aux États-Unis. Ce qui frappe immédiatement avec les **avatars de Praktika**, c'est la fluidité : le temps de latence entre la fin de ma phrase et la réponse vocale de l'IA est inférieur à deux secondes.
 
 **Ce que les corrections donnent en conditions réelles :** lors de ma simulation de voyage, j'ai volontairement glissé des erreurs classiques de temps et de prépositions (*"I go to New York last year"*). L'avatar Skye ne m'a pas coupé sèchement : elle a d'abord répondu naturellement à ma question pour maintenir le fil de la discussion, tout en affichant la correction écrite sous mon message (*"I went to New York last year"*) et en me suggérant une tournure plus naturelle. Le seul petit défaut rencontré pendant mon test : dans un environnement un peu bruyant, le micro a parfois validé ma phrase trop vite alors que je cherchais simplement mes mots.
 
@@ -162,15 +162,15 @@ Praktika AI ne se limite pas à l'audio. Tu peux **partager des photos ou des do
 
 Progression visible (scores de fluence, prononciation et vocabulaire), séries quotidiennes (*streaks*) et défis : le système est conçu pour créer une habitude et te faire pratiquer quelques minutes chaque jour.
 
-<h2 id="limites">3. Les limites de Praktika</h2>
+<h2 id="limites">3. Les limites de l'application Praktika</h2>
 
-L'application Praktika a de vrais atouts, mais il faut connaître ses points faibles avant de souscrire :
+L'application Praktika a de vrais atouts, mais voici les points faibles relevés durant mon test :
 
 - **L'IA peut se tromper.** Les corrections de grammaire et de prononciation sont générées automatiquement. Elles sont très efficaces pour débloquer l'oral, mais garde un esprit critique si une remarque te surprend.
-- **Peu de nuance humaine.** Un avatar IA ne remplace pas l'humour spontané, les références culturelles pointues et l'empathie d'un vrai professeur natif.
+- **Peu de nuance humaine.** Un avatar IA ne remplace pas l'humour spontané, les références culturelles pointues et la pédagogie d'un vrai professeur diplômé.
 - **L'abonnement est vite nécessaire.** Le téléchargement est gratuit, mais l'usage régulier demande un compte Premium (voir la <a href="/prix-praktika/">grille complète des tarifs et codes promo Praktika</a>).
 - **Il faut pouvoir parler à voix haute.** L'application est pensée pour la voix : dans les transports en commun ou au bureau, son utilisation est limitée.
-- **Moins structuré qu'un cours de grammaire.** Praktika excelle dans la pratique orale, mais ne remplace pas un manuel scolaire qui explique les règles grammaticales de A à Z.
+- **Moins structuré qu'un cours de grammaire.** Praktika excelle dans la pratique orale, mais ne remplace pas un manuel qui explique les règles grammaticales de A à Z.
 
 <h2 id="pour-qui">4. Pour qui (et pour qui pas) ?</h2>
 
@@ -195,9 +195,9 @@ L'application Praktika a de vrais atouts, mais il faut connaître ses points fai
   </div>
 </div>
 
-<h2 id="avis-utilisateurs">5. Avis des utilisateurs sur Praktika (App Store 4,7/5)</h2>
+<h2 id="avis-utilisateurs">5. Avis sur Praktika : que pensent les utilisateurs ? (App Store 4,7/5)</h2>
 
-Praktika affiche une note moyenne de **4,7/5 sur l'App Store**, basée sur plus de 165 000 évaluations au moment de mon test. Tu peux consulter tous les retours clients ou télécharger l'application directement via ce lien : <a href="https://apps.apple.com/us/app/praktika-ai-language-tutor/id1624701477" target="_blank" rel="noopener noreferrer"><strong>Voir Praktika sur l'App Store</strong></a>.
+Du côté des **avis sur l'application Praktika** (*Praktika app avis*), la plateforme affiche une note moyenne de **4,7/5 sur l'App Store**, basée sur plus de 165 000 évaluations au moment de mon test. Tu peux consulter tous les retours clients ou télécharger l'application directement via ce lien : <a href="https://apps.apple.com/us/app/praktika-ai-language-tutor/id1624701477" target="_blank" rel="noopener noreferrer"><strong>Voir Praktika sur l'App Store</strong></a>.
 
 Voici deux avis représentatifs publiés par des utilisateurs (traduits de l'anglais) :
 
@@ -232,19 +232,19 @@ Pour être totalement transparent : cette page contient des liens affiliés. Si 
       <tr><th>Critère</th><th>Praktika AI</th><th>Loora AI</th><th>ChatGPT (mode vocal)</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>Pratique orale</strong></td><td>Très forte</td><td>Très forte</td><td>Forte</td></tr>
-      <tr><td><strong>Parcours guidé</strong></td><td>Oui (gamifié, multi-langues)</td><td>Oui (épuré, anglais uniquement)</td><td>Aucun (à construire soi-même)</td></tr>
+      <tr><td><strong>Note App Store</strong></td><td>4,7/5</td><td>4,9/5</td><td>—</td></tr>
+      <tr><td><strong>Parcours guidé</strong></td><td>Oui (gamifié, multi-langues)</td><td>Discussion libre (anglais uniquement)</td><td>Aucun (à configurer soi-même)</td></tr>
       <tr><td><strong>Jeux de rôle / Visuel</strong></td><td>Avatars animés 3D + import de photos</td><td>Interface audio pure</td><td>Interface vocale simple, sans avatar</td></tr>
-      <tr><td><strong>Budget (annuel avec promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td><td>Gratuit (limité) ou ~20 € / mois</td></tr>
+      <tr><td><strong>Budget (annuel avec promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td><td>Gratuit (sans suivi) ou ~22 € / mois</td></tr>
     </tbody>
   </table>
 </div>
 
-Mon avis : si tu cherches des **applications comme Loora** mais avec une approche plus visuelle, plusieurs langues disponibles et un tarif nettement plus doux, Praktika est la meilleure alternative actuelle. Pour comparer en détail avec son concurrent direct, lis mon <a href="/loora-app-avis/">avis sur Loora AI</a> et mon analyse du <a href="/prix-loora-ai/">prix de Loora AI</a>. Face au mode vocal de ChatGPT, Praktika garde l'avantage grâce à ses corrections systématiques, son programme structuré et ses avatars qui évitent le syndrome de la page blanche.
+Dans le match **Praktika vs Loora**, le choix dépend de ton besoin : si tu cherches une approche visuelle avec un parcours structuré et un tarif presque deux fois moins élevé, Praktika a l'avantage. Si tu veux uniquement discuter librement comme au téléphone sans avatar, Loora est légèrement plus fluide. Pour comparer en détail, lis mon <a href="/loora-app-avis/">avis sur Loora AI</a> et mon analyse du <a href="/prix-loora-ai/">prix de Loora AI</a>. Face au mode vocal gratuit de ChatGPT, Praktika évite d'avoir à configurer des prompts avant chaque session et assure un vrai suivi de ta prononciation.
 
-<h2 id="tarifs">8. Quel budget prévoir pour l'abonnement Praktika ?</h2>
+<h2 id="tarifs">8. Prix Praktika : est-ce gratuit ou payant ?</h2>
 
-L'application se télécharge gratuitement pour une première prise en main, puis propose trois formules d'abonnement (1 mois, 3 mois ou 1 an). En passant par mon lien partenaire, une réduction de 50 % s'applique directement sur la page de paiement (ce qui ramène l'abonnement annuel à environ 5 € par mois). Pour consulter le coût par jour, les conditions de la version gratuite et la méthode de résiliation, rendez-vous sur mon guide dédié au <a href="/prix-praktika/">prix Praktika et code promo</a>.
+**Est-ce que Praktika est gratuit ?** L'application se télécharge gratuitement pour une première prise en main, mais elle est **payante** dès que tu veux pratiquer au quotidien avec les avatars. Trois formules d'abonnement **Praktika Premium** existent (1 mois, 3 mois ou 1 an). En passant par mon lien partenaire, une réduction de 50 % s'applique directement sur la page de paiement (ce qui ramène l'abonnement annuel à environ 5 € par mois). Pour consulter le coût par jour, les limites exactes de la version gratuite et la méthode de résiliation, rendez-vous sur mon guide dédié au <a href="/prix-praktika/">prix Praktika et code promo</a>.
 
 <figure class="shot shot-phone">
   <img src="/uploads/10/praktika-code-promo-paiement.avif" alt="Écran de paiement de l'abonnement Praktika avec la réduction de 50 % appliquée" width="390" height="844" loading="lazy" decoding="async">
@@ -282,19 +282,19 @@ L'application se télécharge gratuitement pour une première prise en main, pui
   </div>
 </div>
 
-<h2 id="verdict">9. Verdict final : faut-il installer Praktika AI ?</h2>
+<h2 id="verdict">9. Verdict final : mon avis sur Praktika AI</h2>
 
-Si ton objectif principal est de **débloquer ton oral** plutôt que de faire des exercices de grammaire écrits, Praktika AI est l'une des meilleures applications que j'ai testées en 2026 : les conversations avec les avatars (comme Skye ou Tama) sont fluides, l'import de documents pour créer des jeux de rôle sur mesure est bluffant, et le prix avec la remise de 50 % est ultra compétitif.
+Si ton objectif principal est de **pratiquer l'oral régulièrement** plutôt que de faire des exercices de grammaire écrits, mon **avis sur Praktika AI** est très positif : les conversations avec les avatars (comme Skye ou Tama) sont fluides, l'import de documents pour créer des jeux de rôle sur mesure est très bien pensé, et le tarif avec la remise de 50 % est le plus compétitif du marché.
 
-**Ma note finale : 4,5/5.**
+**Ma note finale : 4,7/5.**
 
 **Ma recommandation :** démarre avec le forfait 1 mois (ou 3 mois) pour valider que le rythme te convient, puis bascule sur l'abonnement annuel si tu pratiques plusieurs fois par semaine. Tu peux comparer toutes les options dans mon guide des <a href="/prix-praktika/">tarifs Praktika</a> avant de te lancer.
 
 <h2 id="faq">Foire aux questions</h2>
 
 <details class="faq-card">
-  <summary class="faq-title">L'application Praktika AI est-elle gratuite ?</summary>
-  <div class="faq-body"><p>Le téléchargement et le test d'évaluation initial sont gratuits, mais l'usage régulier avec les avatars IA nécessite un abonnement Premium.</p></div>
+  <summary class="faq-title">Est-ce que Praktika est gratuit ou payant ?</summary>
+  <div class="faq-body"><p>Le téléchargement et le test d'évaluation initial sont gratuits, mais Praktika est une application payante : l'usage régulier avec les avatars IA nécessite un abonnement Praktika Premium.</p></div>
 </details>
 
 <details class="faq-card">
@@ -308,7 +308,7 @@ Si ton objectif principal est de **débloquer ton oral** plutôt que de faire de
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Combien coûte Praktika ?</summary>
+  <summary class="faq-title">Combien coûte l'abonnement Praktika ?</summary>
   <div class="faq-body"><p>Les tarifs standards vont de 23,98 € pour 1 mois à 119,99 € pour 1 an. En passant par le lien partenaire à -50 %, le mois passe à 11,99 € et l'abonnement annuel revient à 59,99 € (soit environ 5 € par mois).</p></div>
 </details>
 
@@ -328,13 +328,13 @@ Si ton objectif principal est de **débloquer ton oral** plutôt que de faire de
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Praktika ou Duolingo : lequel choisir ?</summary>
-  <div class="faq-body"><p>Duolingo est parfait pour mémoriser du vocabulaire de base sous forme de petits jeux écrits. Praktika AI est conçu pour te faire parler à voix haute dans des situations réelles. Les deux applications se complètent très bien.</p></div>
+  <summary class="faq-title">Praktika ou Loora : lequel choisir ?</summary>
+  <div class="faq-body"><p>Choisis Praktika si tu préfères un parcours structuré avec des avatars visuels et un tarif plus économique (~5 €/mois sur l'année). Choisis Loora si tu cherches uniquement de la discussion libre purement vocale comme au téléphone.</p></div>
 </details>
 
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement</span>
-  <p>Tarifs et fonctionnalités vérifiés en octobre 2026. L'éditeur peut les modifier à tout moment : vérifie le montant final dans l'application avant de valider.</p>
+  <p>Tarifs et fonctionnalités vérifiés en novembre 2026. L'éditeur peut les modifier à tout moment : vérifie le montant final dans l'application avant de valider.</p>
 </div>
 
 <div class="next-step-card">
@@ -385,12 +385,12 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       "@type": "Article",
-      "headline": "Avis Praktika AI (2026) : J'ai testé l'application et ses avatars vocaux",
-      "description": "Mon avis complet sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, prix réel et comparatif avec Loora.",
-      "author": { "@type": "Person", "name": "Jérémy de Parler Malin", "url": "https://parlermalin.fr/a-propos/" },
+      "headline": "Avis Praktika AI (Novembre 2026) : J'ai testé l'application et ses avatars vocaux",
+      "description": "Mon avis sur l'application Praktika AI après test : qualité des avatars (Skye, Tama), corrections à l'oral, tarif réel (-50%) et comparatif avec Loora.",
+      "author": { "@type": "Person", "name": "Jérémy", "url": "https://parlermalin.fr/a-propos/" },
       "publisher": { "@type": "Organization", "name": "Parler Malin", "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" } },
       "datePublished": "2026-10-05",
-      "dateModified": "2026-10-28",
+      "dateModified": "2026-11-06",
       "image": "https://parlermalin.fr/uploads/10/avis-praktika-app-test-coach-ia.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/avis-praktika/"
@@ -404,21 +404,21 @@ document.addEventListener("DOMContentLoaded", function () {
       "description": "Application d'apprentissage des langues basée sur des conversations orales avec des tuteurs et avatars IA animés.",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "4.5", "bestRating": "5" },
-        "author": { "@type": "Person", "name": "Jérémy de Parler Malin" }
+        "reviewRating": { "@type": "Rating", "ratingValue": "4.7", "bestRating": "5" },
+        "author": { "@type": "Person", "name": "Jérémy" }
       }
     },
     {
       "@type": "FAQPage",
       "mainEntity": [
-        { "@type": "Question", "name": "L'application Praktika AI est-elle gratuite ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et le test d'évaluation initial sont gratuits, mais l'usage régulier avec les avatars IA nécessite un abonnement Premium." } },
+        { "@type": "Question", "name": "Est-ce que Praktika est gratuit ou payant ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et le test d'évaluation initial sont gratuits, mais Praktika est payant : l'usage régulier avec les avatars IA nécessite un abonnement Praktika Premium." } },
         { "@type": "Question", "name": "Praktika (Pratika / Practika) est-il fiable ou une arnaque ?", "acceptedAnswer": { "@type": "Answer", "text": "L'application Praktika AI (souvent tapée par erreur Pratika ou Practika) est tout à fait fiable et affiche une note de 4,7/5 sur l'App Store (plus de 165 000 avis). Les corrections sont générées par une IA : elles sont très efficaces pour progresser à l'oral, même s'il faut garder un esprit critique." } },
         { "@type": "Question", "name": "Qui sont les avatars de Praktika comme Skye ou Tama ?", "acceptedAnswer": { "@type": "Answer", "text": "Skye, Tama et Raven sont des tuteurs virtuels animés en 3D au sein de l'application Praktika. Chaque avatar possède son propre accent (américain, britannique, etc.), sa personnalité et sa voix." } },
-        { "@type": "Question", "name": "Combien coûte Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Les tarifs standards vont de 23,98 € pour 1 mois à 119,99 € pour 1 an. En passant par le lien partenaire à -50 %, le mois passe à 11,99 € et l'abonnement annuel revient à 59,99 € (soit environ 5 € par mois)." } },
+        { "@type": "Question", "name": "Combien coûte l'abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Les tarifs standards vont de 23,98 € pour 1 mois à 119,99 € pour 1 an. En passant par le lien partenaire à -50 %, le mois passe à 11,99 € et l'abonnement annuel revient à 59,99 € (soit environ 5 € par mois)." } },
         { "@type": "Question", "name": "Comment résilier Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "La résiliation s'effectue directement depuis la rubrique Abonnements des réglages de ton iPhone (App Store) ou du Google Play Store (Android), au moins 24 heures avant la date de renouvellement." } },
         { "@type": "Question", "name": "Quelles langues peut-on apprendre avec Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Praktika permet d'apprendre et de pratiquer l'anglais, l'espagnol, le français, l'allemand, l'italien, le portugais, le japonais, le coréen, le chinois, le russe et l'arabe." } },
         { "@type": "Question", "name": "Peut-on débuter de zéro sur Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, tu peux sélectionner le niveau débutant (A1) lors du questionnaire initial : l'avatar adaptera son débit de parole et pourra t'aider dans ta langue maternelle." } },
-        { "@type": "Question", "name": "Praktika ou Duolingo : lequel choisir ?", "acceptedAnswer": { "@type": "Answer", "text": "Duolingo est parfait pour mémoriser du vocabulaire de base sous forme de petits jeux écrits. Praktika AI est conçu pour te faire parler à voix haute dans des situations réelles." } }
+        { "@type": "Question", "name": "Praktika ou Loora : lequel choisir ?", "acceptedAnswer": { "@type": "Answer", "text": "Choisis Praktika si tu préfères un parcours structuré avec des avatars visuels et un tarif plus économique (~5 €/mois sur l'année). Choisis Loora si tu cherches uniquement de la discussion libre purement vocale." } }
       ]
     }
   ]
@@ -446,7 +446,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .geo-list{margin:0 0 1rem;padding-left:1.1rem;color:#334155;font-size:.9rem;line-height:1.5}.geo-list li{margin-bottom:.45rem}
 .geo-cta-wrap{padding-top:.85rem;border-top:1px solid #f1f5f9;display:flex;flex-direction:column;gap:.55rem}
 .atf-sub-actions{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.5rem;font-size:.76rem}
-.micro-trust{color:#047857;font-weight:600}
 .link-jump-details{color:#64748b;text-decoration:underline;text-underline-offset:2px;font-weight:500}
 .link-jump-details:hover{color:#0f172a}
 
@@ -481,7 +480,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .promo-badge-row{display:flex;align-items:center;gap:.55rem;flex-wrap:wrap;margin-bottom:.4rem}
 .badge-promo{display:inline-block;font-family:ui-monospace,monospace;font-size:.7rem;font-weight:800;color:#166534;background:#dcfce7;border:1px solid #bbf7d0;padding:.2rem .5rem;border-radius:4px}
 .auto-promo-pill{font-size:.74rem;font-weight:700;color:#047857;background:#ecfdf5;border:1px solid #a7f3d0;padding:.15rem .55rem;border-radius:99px}
-.action-highlight{margin:0;font-size:.9rem;color:#14532d}
 .scorecard-guarantee{display:flex;justify-content:center;text-align:center;font-size:.75rem;color:#64748b}
 
 /* Sommaire */
@@ -551,7 +549,7 @@ document.addEventListener("DOMContentLoaded", function () {
 .mobile-sticky-cta{display:none}
 
 /* =========================================
-(<768px)
+   OPTIMISATIONS MOBILE (<768px)
    ========================================= */
 @media (max-width:768px){
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
