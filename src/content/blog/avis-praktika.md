@@ -39,7 +39,7 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
     <li><strong>Le point fort du test :</strong> Parcours guidé sur mesure et jeux de rôle à partir de tes propres documents ou photos (ex : importer ton CV pour simuler un entretien).</li>
     <li><strong>Gratuit ou payant :</strong> Téléchargement gratuit pour découvrir l'interface, puis abonnement Premium indispensable (dès ~5 €/mois avec -50 %).</li>
     <li><strong>Verdict sur Praktika App :</strong> L'un des meilleurs rapports immersion / prix en 2026 pour débloquer son oral sans la peur du jugement.</li>
-  </ul>
+  </ul> 
   <div class="geo-cta-wrap">
     <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-atf-action">
       <span>Tester Praktika AI à -50 %</span>

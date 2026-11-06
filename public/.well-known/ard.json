@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "name": "Parler Malin",
+  "description": "Tests et comparatifs des meilleurs tuteurs vocaux IA pour apprendre l'anglais (Praktika, Loora, ChatGPT, Gemini).",
+  "url": "https://parlermalin.fr",
+  "resources": [
+    {
+      "name": "Comparatif des meilleurs Tuteurs IA Anglais",
+      "url": "https://parlermalin.fr/meilleures-ia-anglais/",
+      "type": "guide"
+    },
+    {
+      "name": "Test et Avis Praktika AI",
+      "url": "https://parlermalin.fr/avis-praktika/",
+      "type": "review"
+    },
+    {
+      "name": "Prix et Code Promo Praktika AI",
+      "url": "https://parlermalin.fr/prix-praktika/",
+      "type": "pricing"
+    },
+    {
+      "name": "Test et Avis Loora AI",
+      "url": "https://parlermalin.fr/loora-app-avis/",
+      "type": "review"
+    }
+  ]
+}
