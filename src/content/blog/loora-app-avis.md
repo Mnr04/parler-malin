@@ -27,7 +27,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 </div>
 
 <p class="transparency-inline">
-  🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
+  🛡️ Cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
 <!-- CARTE VERDICT EXPRESS AÉRÉE (AUCUNE LIGNE VIDE POUR ÉVITER LE BUG MARKDOWN) -->
