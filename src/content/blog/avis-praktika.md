@@ -24,87 +24,46 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
   <span>⏱️ 9 min</span>
 </div>
 
-<div class="transparency-banner">
-  <span aria-hidden="true">🛡️</span>
-  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
+<p class="transparency-inline">
+  🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
+</p>
 
+<!-- CARTE EN BREF AÉRÉE (ZÉRO PAVÉ SUR MOBILE) -->
 <div class="geo-box">
   <div class="geo-header">
-    <span class="geo-tag">⚡ MON AVIS EN BREF</span>
-    <span class="geo-rating-pill">★ 4,7/5 (App Store)</span>
+    <span class="geo-tag">⚡ VERDICT EXPRESS</span>
+    <span class="geo-rating-pill">★ 4,7/5 App Store</span>
   </div>
-  <ul class="geo-list">
-    <li><strong>L'application :</strong> <strong>Praktika AI</strong> est un tuteur vocal sur mobile qui te fait pratiquer l'anglais à voix haute face à des <strong>avatars IA interactifs</strong> (Skye, Tama, Raven) aux accents variés (US, UK, Australien).</li>
-    <li><strong>Le point fort du test :</strong> Parcours guidé sur mesure et jeux de rôle à partir de tes propres documents ou photos (ex : importer ton CV pour simuler un entretien).</li>
-    <li><strong>Gratuit ou payant :</strong> Téléchargement gratuit pour découvrir l'interface, puis abonnement Premium indispensable (dès ~5 €/mois avec -50 %).</li>
-    <li><strong>Verdict sur Praktika App :</strong> L'un des meilleurs rapports immersion / prix en 2026 pour débloquer son oral sans la peur du jugement.</li>
-  </ul> 
+
+  <p class="geo-verdict">
+    <strong>Praktika AI</strong> est le tuteur vocal offrant le meilleur rapport immersion/prix en 2026 pour pratiquer l'anglais à voix haute sans la peur du jugement.
+  </p>
+
+  <div class="geo-specs">
+    <div class="geo-spec-row">
+      <span class="spec-label">🎯 Idéal pour</span>
+      <span class="spec-val">Débloquer l'oral avec un parcours guidé</span>
+    </div>
+    <div class="geo-spec-row">
+      <span class="spec-label">🤖 Le + du test</span>
+      <span class="spec-val">Avatars 3D (US, UK) &amp; import de documents</span>
+    </div>
+    <div class="geo-spec-row">
+      <span class="spec-label">💰 Tarif réel</span>
+      <span class="spec-val">Aperçu gratuit, puis dès <strong>~5 €/mois</strong> (-50 %)</span>
+    </div>
+  </div>
+
   <div class="geo-cta-wrap">
     <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-atf-action">
       <span>Tester Praktika AI à -50 %</span>
       <span aria-hidden="true">→</span>
     </a>
-    <div class="atf-sub-actions">
-      <a href="#offre-exclusive" class="link-jump-details">Voir le résumé de mon test ↓</a>
-    </div>
+    <span class="geo-micro-note">🔒 Remise activée automatiquement via ce lien</span>
   </div>
 </div>
 
-<div id="offre-exclusive" class="review-scorecard">
-  <div class="scorecard-top">
-    <div class="scorecard-brand">
-      <span class="brand-pill">TEST &amp; AVIS APPLICATION PRAKTIKA</span>
-      <p class="scorecard-title">L'application Praktika AI en un coup d'œil</p>
-    </div>
-    <div class="scorecard-rating">
-      <div class="rating-score-row">
-        <span class="rating-num">4,7<span class="rating-max">/5</span></span>
-        <span class="rating-stars" aria-hidden="true">★★★★★</span>
-      </div>
-      <span class="rating-count">Note moyenne App Store (165 000+ avis)</span>
-    </div>
-  </div>
-
-  <div class="pros-cons-grid">
-    <div class="pros-col">
-      <p class="pros-title">✅ Ce que j'aime :</p>
-      <ul>
-        <li>Questionnaire de départ poussé, parcours personnalisé</li>
-        <li>Avatars avec accents variés (US, britannique, latino…)</li>
-        <li>Corrections instantanées (grammaire et prononciation)</li>
-        <li>Jeux de rôle à partir de tes photos ou documents</li>
-        <li>Gamification : progression visible et séries (streaks)</li>
-      </ul>
-    </div>
-    <div class="cons-col">
-      <p class="cons-title">❌ Ce que j'aime moins :</p>
-      <ul>
-        <li>L'IA peut parfois manquer de nuance</li>
-        <li>Version gratuite limitée, abonnement vite nécessaire</li>
-        <li>Nécessite un endroit calme pour parler à voix haute</li>
-        <li>Moins structuré qu'un cours de grammaire classique</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="scorecard-action-bar">
-    <div class="action-info">
-      <div class="promo-badge-row">
-        <span class="badge-promo">🔥 OFFRE PARTENAIRE</span>
-        <span class="auto-promo-pill">✓ Activé automatiquement via le lien</span>
-      </div>
-    </div>
-    <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-scorecard-cta">
-      <span>Appliquer -50 % sur Praktika</span>
-      <span aria-hidden="true">→</span>
-    </a>
-  </div>
-  <div class="scorecard-guarantee">
-    <span>🔒 Valide en novembre 2026 </span>
-  </div>
-</div>
-
+<!-- SOMMAIRE PLACÉ ICI POUR AÉRER LA LECTURE MOBILE -->
 <details class="toc-card">
   <summary class="toc-title"><span>📋 Sommaire de mon test &amp; avis</span><span class="toc-toggle-icon">▾</span></summary>
   <ol class="toc-list">
@@ -120,6 +79,45 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
     <li><a href="#faq">FAQ</a></li>
   </ol>
 </details>
+
+<!-- BILAN POINTS FORTS / POINTS FAIBLES -->
+<div id="offre-exclusive" class="review-scorecard">
+  <div class="scorecard-top">
+    <div class="scorecard-brand">
+      <span class="brand-pill">BILAN DU TEST</span>
+      <p class="scorecard-title">Points forts &amp; limites de Praktika AI</p>
+    </div>
+    <div class="scorecard-rating">
+      <div class="rating-score-row">
+        <span class="rating-num">4,7<span class="rating-max">/5</span></span>
+        <span class="rating-stars" aria-hidden="true">★★★★★</span>
+      </div>
+      <span class="rating-count">Sur +165 000 avis App Store</span>
+    </div>
+  </div>
+
+  <div class="pros-cons-grid">
+    <div class="pros-col">
+      <p class="pros-title">✅ Ce que j'aime :</p>
+      <ul>
+        <li>Parcours personnalisé dès l'inscription</li>
+        <li>Avatars avec accents variés (US, UK, Australie…)</li>
+        <li>Corrections en direct (grammaire et prononciation)</li>
+        <li>Jeux de rôle à partir de tes photos ou CV</li>
+        <li>Suivi de progression motivant au quotidien</li>
+      </ul>
+    </div>
+    <div class="cons-col">
+      <p class="cons-title">❌ Ce que j'aime moins :</p>
+      <ul>
+        <li>L'IA manque parfois de nuance culturelle</li>
+        <li>Version gratuite très courte (abonnement requis)</li>
+        <li>Demande d'être au calme pour parler à voix haute</li>
+        <li>Ne remplace pas un cours de grammaire pure</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 <h2 id="fonctionnement">1. Comment fonctionne l'application Praktika AI ?</h2>
 
@@ -430,45 +428,50 @@ document.addEventListener("DOMContentLoaded", function () {
 .breadcrumb a{color:#475569;text-decoration:none}.breadcrumb a:hover{color:#7c3aed}
 .breadcrumb .sep{margin:0 .35rem;color:#94a3b8}.breadcrumb .current{color:#0f172a;font-weight:600}
 
-.page-title{font-size:clamp(1.65rem,4vw,2.35rem);font-weight:800;line-height:1.18;letter-spacing:-.03em;color:#0f172a;margin:.25rem 0 .65rem}
+.page-title{font-size:clamp(1.65rem,4vw,2.35rem);font-weight:800;line-height:1.18;letter-spacing:-.03em;color:#0f172a;margin:.25rem 0 .6rem}
 
-.article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.85rem;flex-wrap:wrap}
+.article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.45rem;flex-wrap:wrap}
 .article-meta-bar a{color:#0f172a;text-decoration:none}.article-meta-bar .dot{color:#cbd5e1}
 
-.transparency-banner{display:flex;align-items:center;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #8b5cf6;border-radius:6px;padding:.45rem .75rem;margin-bottom:1rem;font-size:.76rem;color:#475569}
-.transparency-banner p{margin:0;line-height:1.35}.transparency-banner a{color:#6d28d9;text-decoration:underline;text-underline-offset:2px}
+/* Mention d'affiliation discrète (sans boîte lourde) */
+.transparency-inline{font-size:.74rem;color:#64748b;margin:0 0 1.15rem;line-height:1.4}
+.transparency-inline a{color:#6d28d9;text-decoration:underline;text-underline-offset:2px}
 
-/* Boîte EN BREF optimisée Above The Fold */
-.geo-box{background:#fff;border:1.5px solid #ddd6fe;border-radius:12px;padding:1.15rem 1.25rem;margin-bottom:1.5rem;box-shadow:0 4px 16px rgba(109,40,217,.06)}
-.geo-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.75rem;padding-bottom:.45rem;border-bottom:1px solid #f1f5f9;font-family:ui-monospace,monospace;font-size:.74rem}
-.geo-tag{font-weight:800;color:#6d28d9;letter-spacing:.04em;background:#f3e8ff;padding:.15rem .5rem;border-radius:4px}
-.geo-rating-pill{font-weight:700;color:#b45309;background:#fef3c7;padding:.15rem .5rem;border-radius:4px;font-size:.72rem}
-.geo-list{margin:0 0 1rem;padding-left:1.1rem;color:#334155;font-size:.9rem;line-height:1.5}.geo-list li{margin-bottom:.45rem}
-.geo-cta-wrap{padding-top:.85rem;border-top:1px solid #f1f5f9;display:flex;flex-direction:column;gap:.55rem}
-.atf-sub-actions{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.5rem;font-size:.76rem}
-.link-jump-details{color:#64748b;text-decoration:underline;text-underline-offset:2px;font-weight:500}
-.link-jump-details:hover{color:#0f172a}
+/* CARTE VERDICT EXPRESS AÉRÉE (ABOVE THE FOLD) */
+.geo-box{background:#fff;border:1.5px solid #c4b5fd;border-radius:16px;padding:1.35rem;margin-bottom:1.35rem;box-shadow:0 10px 25px -5px rgba(109,40,217,.07)}
+.geo-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.85rem;padding-bottom:.65rem;border-bottom:1px solid #f1f5f9;font-family:ui-monospace,monospace;font-size:.74rem}
+.geo-tag{font-weight:800;color:#6d28d9;letter-spacing:.04em;background:#f3e8ff;padding:.2rem .55rem;border-radius:6px}
+.geo-rating-pill{font-weight:700;color:#b45309;background:#fef3c7;padding:.2rem .55rem;border-radius:6px;font-size:.73rem}
+
+.geo-verdict{font-size:.95rem;color:#1e293b;line-height:1.55;margin:0 0 1rem}
+.geo-verdict strong{color:#0f172a}
+
+.geo-specs{display:flex;flex-direction:column;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:.85rem 1rem;margin-bottom:1.1rem}
+.geo-spec-row{display:flex;justify-content:space-between;align-items:baseline;gap:.75rem;font-size:.86rem;line-height:1.4}
+.spec-label{font-weight:700;color:#475569;white-space:nowrap;flex-shrink:0}
+.spec-val{color:#0f172a;text-align:right;font-weight:500}
+
+.geo-cta-wrap{display:flex;flex-direction:column;align-items:center;gap:.5rem}
+.geo-micro-note{font-size:.74rem;color:#64748b;text-align:center}
 
 /* Boutons CTA calibrés pour la Thumb Zone */
-.btn-atf-action,.btn-scorecard-cta,.btn-tool-cta{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;background:linear-gradient(135deg,#7c3aed 0%,#6d28d9 100%)!important;color:#fff!important;font-weight:700;border-radius:10px;text-decoration:none!important;transition:transform .15s ease,box-shadow .15s ease;box-shadow:0 4px 14px rgba(109,40,217,.28)}
-.btn-atf-action{font-size:.95rem;padding:.85rem 1.25rem;width:100%;box-sizing:border-box}
-.btn-scorecard-cta{font-size:.95rem;padding:.9rem 1.45rem;white-space:nowrap;box-sizing:border-box}
+.btn-atf-action,.btn-tool-cta{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;background:linear-gradient(135deg,#7c3aed 0%,#6d28d9 100%)!important;color:#fff!important;font-weight:700;border-radius:10px;text-decoration:none!important;transition:transform .15s ease,box-shadow .15s ease;box-shadow:0 4px 14px rgba(109,40,217,.28)}
+.btn-atf-action{font-size:.96rem;padding:.9rem 1.25rem;width:100%;box-sizing:border-box}
 .btn-tool-cta{font-size:.92rem;padding:.85rem 1.35rem;white-space:nowrap;box-sizing:border-box}
-.btn-atf-action:hover,.btn-scorecard-cta:hover,.btn-tool-cta:hover{background:linear-gradient(135deg,#6d28d9 0%,#5b21b6 100%)!important;transform:translateY(-1px);box-shadow:0 6px 20px rgba(109,40,217,.35)}
-.btn-atf-action:active,.btn-scorecard-cta:active,.btn-tool-cta:active{transform:scale(.99)}
+.btn-atf-action:hover,.btn-tool-cta:hover{background:linear-gradient(135deg,#6d28d9 0%,#5b21b6 100%)!important;transform:translateY(-1px);box-shadow:0 6px 20px rgba(109,40,217,.35)}
 
-/* Scorecard */
-.review-scorecard{background:#fff;border:2px solid #8b5cf6;border-radius:16px;padding:1.4rem;margin:1.5rem 0 2rem;box-shadow:0 10px 30px rgba(139,92,246,.08)}
+/* Scorecard Bilan (Allégée pour ne pas doublonner avec la boîte du haut) */
+.review-scorecard{background:#fff;border:1px solid #e2e8f0;border-radius:16px;padding:1.4rem;margin:1.5rem 0 2.25rem;box-shadow:0 4px 15px rgba(15,23,42,.03)}
 .scorecard-top{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #f1f5f9;padding-bottom:1rem;margin-bottom:1.15rem;flex-wrap:wrap;gap:.8rem}
 .brand-pill{font-family:ui-monospace,monospace;font-size:.68rem;font-weight:800;color:#6d28d9;background:#f3e8ff;padding:.2rem .55rem;border-radius:4px;letter-spacing:.05em}
-.scorecard-title{margin:.35rem 0 0;font-size:1.3rem;font-weight:800;color:#0f172a}
+.scorecard-title{margin:.35rem 0 0;font-size:1.25rem;font-weight:800;color:#0f172a}
 .scorecard-rating{display:flex;flex-direction:column;align-items:flex-end}
 .rating-score-row{display:flex;align-items:baseline;gap:.4rem}
-.rating-num{font-size:1.8rem;font-weight:900;color:#0f172a;line-height:1}.rating-max{font-size:.95rem;color:#64748b;font-weight:600}
-.rating-stars{color:#f59e0b;font-size:.95rem;letter-spacing:1px}
+.rating-num{font-size:1.65rem;font-weight:900;color:#0f172a;line-height:1}.rating-max{font-size:.9rem;color:#64748b;font-weight:600}
+.rating-stars{color:#f59e0b;font-size:.9rem;letter-spacing:1px}
 .rating-count{font-size:.72rem;color:#047857;font-weight:700;margin-top:.2rem}
 
-.pros-cons-grid,.who-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.15rem;margin-bottom:1.25rem}
+.pros-cons-grid,.who-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.15rem}
 .pros-col,.cons-col,.who-yes,.who-no{background:#f8fafc;border-radius:10px;padding:1rem 1.1rem}
 .pros-col,.who-yes{border-left:3px solid #10b981}.cons-col,.who-no{border-left:3px solid #ef4444}
 .pros-title,.cons-title,.who-title{margin:0 0 .6rem;font-size:.9rem;font-weight:700;color:#0f172a}
@@ -476,15 +479,11 @@ document.addEventListener("DOMContentLoaded", function () {
 .pros-col li,.cons-col li,.who-yes li,.who-no li{margin-bottom:.38rem}
 .who-grid{margin:1rem 0 1.5rem}
 
-.scorecard-action-bar{background:#f0fdf4;border:1.5px dashed #86efac;border-radius:12px;padding:1.1rem 1.2rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-bottom:.75rem;flex-wrap:wrap}
-.promo-badge-row{display:flex;align-items:center;gap:.55rem;flex-wrap:wrap;margin-bottom:.4rem}
-.badge-promo{display:inline-block;font-family:ui-monospace,monospace;font-size:.7rem;font-weight:800;color:#166534;background:#dcfce7;border:1px solid #bbf7d0;padding:.2rem .5rem;border-radius:4px}
 .auto-promo-pill{font-size:.74rem;font-weight:700;color:#047857;background:#ecfdf5;border:1px solid #a7f3d0;padding:.15rem .55rem;border-radius:99px}
-.scorecard-guarantee{display:flex;justify-content:center;text-align:center;font-size:.75rem;color:#64748b}
 
 /* Sommaire */
-.toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:2rem;overflow:hidden}
-.toc-title{padding:.85rem 1.1rem;font-family:ui-monospace,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;margin-bottom:1.5rem;overflow:hidden}
+.toc-title{padding:.9rem 1.1rem;font-family:ui-monospace,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
 .toc-title::-webkit-details-marker{display:none}
 .toc-toggle-icon{font-size:.95rem;color:#64748b;transition:transform .2s ease}
 .toc-card[open] .toc-toggle-icon{transform:rotate(180deg);color:#7c3aed}
@@ -552,25 +551,25 @@ document.addEventListener("DOMContentLoaded", function () {
    OPTIMISATIONS MOBILE (<768px)
    ========================================= */
 @media (max-width:768px){
-  .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
-  .page-title{font-size:1.52rem;line-height:1.18;margin:.15rem 0 .45rem}
-  .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.6rem}
-  .transparency-banner{padding:.35rem .6rem;font-size:.72rem;margin-bottom:.75rem}
+  .breadcrumb{font-size:.7rem;margin-bottom:.35rem}
+  .page-title{font-size:1.5rem;line-height:1.2;margin:.15rem 0 .5rem}
+  .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.35rem}
+  .transparency-inline{font-size:.71rem;margin-bottom:1rem}
 
-  .geo-box{padding:.9rem 1rem;margin-bottom:1.2rem}
-  .geo-header{margin-bottom:.55rem;padding-bottom:.35rem}
-  .geo-list{font-size:.83rem;line-height:1.42;margin-bottom:.75rem;padding-left:1rem}
-  .geo-list li{margin-bottom:.3rem}
-  .geo-cta-wrap{padding-top:.65rem;gap:.45rem}
+  .geo-box{padding:1.1rem;margin-bottom:1.15rem;border-radius:14px}
+  .geo-header{margin-bottom:.65rem;padding-bottom:.5rem}
+  .geo-verdict{font-size:.88rem;line-height:1.5;margin-bottom:.85rem}
+  .geo-specs{padding:.75rem .85rem;gap:.55rem;margin-bottom:.95rem}
+  .geo-spec-row{flex-direction:column;gap:.1rem;font-size:.83rem}
+  .spec-val{text-align:left}
   .btn-atf-action{font-size:.95rem;padding:.85rem 1rem;min-height:50px}
-  .atf-sub-actions{font-size:.72rem}
 
-  .review-scorecard{padding:1.1rem;border-radius:14px}
+  .review-scorecard{padding:1.1rem;border-radius:14px;margin:1.25rem 0 1.75rem}
   .scorecard-top{flex-direction:column;align-items:flex-start;gap:.5rem;padding-bottom:.85rem}
   .scorecard-rating{align-items:flex-start}
   .pros-cons-grid,.who-grid{grid-template-columns:1fr;gap:.85rem}
-  .scorecard-action-bar,.tool-callout-card{flex-direction:column;align-items:stretch;padding:1rem;gap:.85rem}
-  .btn-scorecard-cta,.btn-tool-cta,.tool-callout-action,.btn-next{width:100%;min-height:50px;justify-content:center}
+  .tool-callout-card{flex-direction:column;align-items:stretch;padding:1rem;gap:.85rem}
+  .btn-tool-cta,.tool-callout-action,.btn-next{width:100%;min-height:50px;justify-content:center}
 
   .table-scroll-hint{display:block}
   .shot-phone{max-width:250px}
