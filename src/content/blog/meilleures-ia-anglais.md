@@ -77,11 +77,11 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           <a href="/loora-app-avis/" class="tool-link-btn btn-blue-outline">Lire mon test complet &rarr;</a>
         </td>
         <td data-label="Format">
-          <span class="badge badge-ai">🎙️ Vocal 100% pur</span>
+          <span class="badge badge-ai">🎙️ Avatar photoréaliste</span>
           <span class="store-rating">★ 4,9/5 App Store</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Positionnement premium sans distraction visuelle : vous discutez librement comme au téléphone avec des corrections en temps réel.
+          Positionnement premium : vous discutez librement face à un avatar photoréaliste avec des corrections en temps réel.
         </td>
       </tr>
       <!-- Rang 3 : ChatGPT / Gemini (Gratuit à configurer) -->
@@ -164,7 +164,7 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 <h2 id="loora">2. Loora AI : l'application la mieux notée pour la discussion libre</h2>
 
 <div class="tip-box border-blue">
-  <strong>💡 C'est pour vous si :</strong> Vous avez déjà quelques bases et vous cherchez uniquement à discuter à voix haute comme au téléphone, sans avatar ni décor, avec une fluidité maximale.
+  <strong>💡 C'est pour vous si :</strong> Vous avez déjà quelques bases et vous cherchez à discuter à voix haute avec un avatar visuel photoréaliste, avec une fluidité maximale.
 </div>
 
 <p>Avec une note de <strong>4,9/5 sur l'App Store</strong>, Loora AI mise sur le minimalisme et la qualité de la voix. L'interface va droit au but : vous lancez l'application et vous parlez de n'importe quel sujet (votre journée, l'actualité, une simulation de réunion). L'IA vous relance naturellement et affiche les corrections grammaticales ou de prononciation en temps réel sans couper votre élan.</p>
@@ -236,7 +236,7 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 <details class="faq-card">
   <summary class="faq-title">Quel est le tuteur IA le mieux noté par les utilisateurs ?</summary>
   <div class="faq-body">
-    <p>Sur l'App Store, <strong>Loora AI</strong> affiche une note moyenne de 4,9/5 et <strong>Praktika AI</strong> une note de 4,7/5. Les deux applications sont très appréciées, le choix se fait surtout entre l'approche 100 % téléphonique de Loora et l'approche par avatars et parcours structuré de Praktika.</p>
+    <p>Sur l'App Store, <strong>Loora AI</strong> affiche une note moyenne de 4,9/5 et <strong>Praktika AI</strong> une note de 4,7/5. Les deux applications sont très appréciées, le choix se fait surtout entre l'approche conversationnelle libre avec avatar de Loora et l'approche par parcours structuré de Praktika.</p>
   </div>
 </details>
 

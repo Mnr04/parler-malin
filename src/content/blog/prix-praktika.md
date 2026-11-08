@@ -173,7 +173,7 @@ Praktika AI et Loora AI sont les deux applications de coachs vocaux les plus pop
       <tr><td><strong>Coût mensuel (annuel + promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td></tr>
       <tr><td><strong>Mensuel (avec promo)</strong></td><td>11,99 €</td><td>23,39 $</td></tr>
       <tr><td><strong>Gratuit ou payant ?</strong></td><td>Téléchargement gratuit, abonnement pour pratiquer</td><td>1 leçon d'essai, puis abonnement</td></tr>
-      <tr><td><strong>Style</strong></td><td>Avatars animés 3D, jeux de rôle, photos et documents</td><td>Interface audio épurée, focus anglais et phonétique</td></tr>
+      <tr><td><strong>Style</strong></td><td>Avatars animés 3D, jeux de rôle, photos et documents</td><td>Avatar photoréaliste, focus anglais et phonétique</td></tr>
     </tbody>
   </table>
 </div>

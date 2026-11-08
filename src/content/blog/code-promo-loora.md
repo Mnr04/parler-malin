@@ -249,7 +249,7 @@ Le code fait baisser la facture, mais ce qui compte, c'est l'usage. Un calcul si
 
 <h2 id="alternatives">7. Un code promo pour d'autres applications d'anglais ?</h2>
 
-Si Loora ne te convient pas, ou si ton budget est plus serré, regarde [le prix de Praktika](/prix-praktika/) : c'est la principale alternative IA, avec des avatars 3D et un tarif annuel plus bas. Pour des cours avec un humain, mon [avis sur italki](/avis-italki/) détaille les prix et le fonctionnement.
+Si Loora ne te convient pas, ou si ton budget est plus serré, regarde le prix de Praktika : c’est l'autre grande alternative IA axée sur un parcours guidé avec avatars. Pour des cours avec un humain, mon avis sur italki détaille les prix et le fonctionnement.
 
 ---
 

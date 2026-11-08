@@ -191,7 +191,7 @@ Que tu cherches un **code promo Loora**, un **coupon**, un **code de réduction*
 Quelle que soit la durée choisie (mensuel, trimestriel ou annuel), le compte **Loora Premium** débloque toutes les fonctionnalités sans limite quotidienne :
 
 - **Conversations vocales illimitées 24h/24 :** échanges guidés, jeux de rôle professionnels (réunions, entretiens d'embauche) et discussions autour d'articles (*Read & Talk*).
-- **Mode Discussion Libre (*Talk*) :** parle de n'importe quel sujet de ton choix pour travailler ta spontanéité.
+- **Mode Discussion Libre (*Talk*) :** discute librement face à l'avatar photoréaliste de n’importe quel sujet de ton choix pour travailler ta spontanéité.
 - **Correction phonétique et grammaticale instantanée :** l'IA analyse ta prononciation, corrige tes tournures et te fait répéter les mots difficiles.
 - **Aides à la conversation intégrées :** traduction en un clic, suggestions de réponses quand tu cherches tes mots et suivi de ton score de fluidité.
 
@@ -222,7 +222,7 @@ Pour savoir si l'application vaut son prix côté qualité (reconnaissance vocal
 
 <h2 id="comparaison-concurrents">6. Loora vs Praktika vs italki : comparatif des prix</h2>
 
-Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiquer l'anglais à l'oral ? Voici la comparaison entre **Loora**, son principal concurrent IA **Praktika**, et les cours particuliers avec un professeur humain sur **italki** :
+Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiquer l'anglais à l'oral ? Voici la comparaison entre <strong>Loora</strong>, son principal concurrent IA <strong>Praktika</strong>, et les cours particuliers avec un professeur humain sur <strong>italki</strong> :
 
 <span class="table-scroll-hint">↔ Glisse le tableau pour comparer les 3 solutions</span>
 <div class="table-container">
@@ -256,7 +256,7 @@ Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiq
       </tr>
       <tr>
         <td><strong>Spécialité</strong></td>
-        <td>Spécialiste 100 % Anglais & Phonétique</td>
+        <td>Spécialiste 100 % Anglais avec avatar photoréaliste</td>
         <td>Avatars 3D animés & Multi-langues</td>
         <td>Échange humain réel & Culture</td>
       </tr>
@@ -264,9 +264,9 @@ Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiq
   </table>
 </div>
 
-- **Si ton budget est serré :** <a href="/prix-praktika/">le prix de Praktika AI</a> est presque deux fois inférieur (~5 €/mois sur l'annuel avec mon offre à -50 %) et propose des avatars visuels en 3D.
-- **Si tu veux un coach purement vocal en anglais :** Loora AI se distingue par la finesse des corrections d'accent et l'ergonomie de son interface audio.
-- **Face à un professeur particulier :** un mois complet d'entraînement illimité sur Loora coûte à peu près le prix d'une heure de cours sur <a href="/avis-italki/">italki</a>. L'idéal est d'utiliser Loora au quotidien et de prendre un cours avec un natif une fois par mois.
+- <strong>Si ton budget est serré :</strong> <a href="/prix-praktika/">le prix de Praktika AI</a> est presque deux fois inférieur (~5 €/mois sur l'annuel avec mon offre à -50 %) et propose des avatars visuels en 3D.
+- <strong>Si tu veux un coach spécialisé en anglais avec avatar photoréaliste :</strong> Loora AI se distingue par la finesse des corrections d'accent et l'immersion visuelle.
+- <strong>Face à un professeur particulier :</strong> un mois complet d'entraînement illimité sur Loora coûte à peu près le prix d'une heure de cours sur <a href="/avis-italki/">italki</a>. L'idéal est d'utiliser Loora au quotidien et de prendre un cours avec un natif une fois par mois.
 
 ---
 

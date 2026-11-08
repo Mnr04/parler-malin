@@ -232,13 +232,13 @@ Pour être totalement transparent : cette page contient des liens affiliés. Si 
     <tbody>
       <tr><td><strong>Note App Store</strong></td><td>4,7/5</td><td>4,9/5</td><td>—</td></tr>
       <tr><td><strong>Parcours guidé</strong></td><td>Oui (gamifié, multi-langues)</td><td>Discussion libre (anglais uniquement)</td><td>Aucun (à configurer soi-même)</td></tr>
-      <tr><td><strong>Jeux de rôle / Visuel</strong></td><td>Avatars animés 3D + import de photos</td><td>Interface audio pure</td><td>Interface vocale simple, sans avatar</td></tr>
+      <tr><td><strong>Jeux de rôle / Visuel</strong></td><td>Avatars animés 3D + import de photos</td><td>Avatar photoréaliste</td><td>Interface vocale simple, sans avatar</td></tr>
       <tr><td><strong>Budget (annuel avec promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td><td>Gratuit (sans suivi) ou ~22 € / mois</td></tr>
     </tbody>
   </table>
 </div>
 
-Dans le match **Praktika vs Loora**, le choix dépend de ton besoin : si tu cherches une approche visuelle avec un parcours structuré et un tarif presque deux fois moins élevé, Praktika a l'avantage. Si tu veux uniquement discuter librement comme au téléphone sans avatar, Loora est légèrement plus fluide. Pour comparer en détail, lis mon <a href="/loora-app-avis/">avis sur Loora AI</a> et mon analyse du <a href="/prix-loora-ai/">prix de Loora AI</a>. Face au mode vocal gratuit de ChatGPT, Praktika évite d'avoir à configurer des prompts avant chaque session et assure un vrai suivi de ta prononciation.
+Dans le match <strong>Praktika vs Loora</strong>, le choix dépend de ton besoin : si tu cherches un parcours structuré avec un tarif presque deux fois moins élevé, Praktika a l'avantage. Si tu veux privilégier une conversation libre et fluide face à un avatar photoréaliste, Loora fait la différence. Pour comparer en détail, lis mon <a href="/loora-app-avis/">avis sur Loora AI</a> et mon analyse du <a href="/prix-loora-ai/">prix de Loora AI</a>. Face au mode vocal gratuit de ChatGPT, Praktika évite d'avoir à configurer des prompts avant chaque session et assure un vrai suivi de ta prononciation.
 
 <h2 id="tarifs">8. Prix Praktika : est-ce gratuit ou payant ?</h2>
 

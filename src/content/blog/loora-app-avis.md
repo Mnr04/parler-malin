@@ -141,20 +141,19 @@ Dès l'ouverture de l'appli sur ton téléphone (iOS ou Android) :
 
 ---
 
-<h2 id="test-terrain">2. Mon test en conditions réelles : ce qui marche et les limites</h2>
+<h2 id="test-terrain">2. Mon test : ce qui marche et les limites</h2>
 
 Après plusieurs semaines d'entraînement quotidien sur l'application Loora au rythme de 10 à 15 minutes par jour, voici mon bilan sans filtre :
 
 ### Les vrais points forts constatés pendant le test :
 - **Moins d'appréhension à l'oral :** face à un professeur humain ou en réunion, la peur de faire des fautes bloque souvent la parole. Avec Loora AI, tu peux chercher tes mots ou recommencer une phrase quatre fois sans jamais te sentir jugé.
+- **Un avatar photoréaliste immersif :** l'interaction visuelle avec l'avatar apporte un vrai plus pour simuler une conversation en face-à-face, tout en gardant une interface épurée.
 - **Des mises en situation professionnelles et concrètes :** simulations d'entretien d'embauche, négociation de salaire, préparation de voyage (aéroport, restaurant) ou débat libre (*Talk*) sur l'actualité.
 - **Une voix ultra fluide :** l'intonation de l'IA est naturelle, expressive et réglable en vitesse.
 
 ### Les limites à connaître avant d'installer l'appli :
 - **Pas de version gratuite permanente :** une fois la première session de découverte terminée, il faut obligatoirement souscrire un abonnement pour continuer.
 - **Exclusivement centrée sur l'anglais :** si tu cherches à apprendre l'espagnol ou l'allemand, Loora ne le propose pas.
-- **Une interface sans avatar visuel :** Loora mise sur une interface audio minimaliste (ondes sonores et transcription texte). Si tu préfères parler face à un personnage animé en 3D avec un parcours plus guidé, une application comme <a href="/avis-praktika/">Praktika AI</a> te conviendra mieux.
-
 ---
 
 <h2 id="avis-utilisateurs">3. Avis clients Loora (App Store 4,9/5 et Trustpilot)</h2>
