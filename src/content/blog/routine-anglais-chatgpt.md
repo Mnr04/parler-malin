@@ -154,12 +154,10 @@ Copie ce prompt dans ChatGPT (ou Gemini), remplace les informations entre croche
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-routine', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-routine"><code class="prompt-code">Agis comme un conseiller pédagogique spécialisé dans l'apprentissage de l'anglais. Je souhaite organiser une routine d'anglais réaliste et équilibrée sur ma semaine.
-
 Voici mes paramètres personnels :
 - MES CRÉNEAUX DISPONIBLES : [Ex: Lundi, Mercredi et Vendredi de 18h30 à 18h45 + Dimanche matin 20 minutes].
 - MON OBJECTIF PRINCIPAL : [Ex: Être plus à l'aise à l'oral au travail / Préparer un voyage].
 - MON NIVEAU ACTUEL : [Ex: B1 - Intermédiaire].
-
 Génère mon planning hebdomadaire sous forme de tableau clair en respectant ces règles :
 1. Alterner les activités d'un jour sur l'autre pour garder de la variété.
 2. Répartir ces 4 types de séances dans mes créneaux :

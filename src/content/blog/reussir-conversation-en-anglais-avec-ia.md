@@ -115,9 +115,7 @@ Idéal pour briser la glace en quelques minutes autour d'une commande simple.
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-barista', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-barista"><code class="prompt-code">Act as a friendly barista in London. We are chatting while you make my coffee.
-
 Before we start, ask me if I am a beginner, intermediate, or advanced learner, and adjust your vocabulary based on my answer.
-
 Constraint: We will take turns. Ask me ONE short question at a time and wait for my answer before continuing. Do not generate the whole conversation at once. Start by greeting me!</code></pre>
 </div>
 
@@ -136,7 +134,6 @@ L'objectif est de s'entraîner à converser de manière informelle (météo, voy
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-train', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-train"><code class="prompt-code">Act as a friendly stranger sitting next to me on a train to Manchester.
-
 Calibration: Ask me my English level before starting to adjust your phrasing.
 
 Constraint: We take turns. Ask only ONE short question at a time and wait for my response. Start by commenting on the weather or where I am travelling!</code></pre>
@@ -157,9 +154,7 @@ Un exercice pratique pour défendre un budget, argumenter sur un prix et mobilis
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-nego', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-nego"><code class="prompt-code">Act as a stubborn seller at a vintage market in New York. I want to buy a leather jacket from your stand.
-
 Calibration: Test my level quickly and adapt your vocabulary.
-
 Constraint: Negotiate back and forth. Only reply to my offers. Ask ONE question or make ONE counter-offer at a time. Keep your answers under 2 sentences. Start by greeting me and giving me a very high price!</code></pre>
 </div>
 
@@ -178,7 +173,6 @@ Conçu pour structurer sa pensée, utiliser des connecteurs logiques (*however*,
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-debat', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-debat"><code class="prompt-code">I want to debate an interesting topic with you. You will take one side, and I will take the other.
-
 Constraint:
 1. Ask me to choose the debate topic and which side I want to defend.
 2. Once chosen, challenge my arguments one by one.

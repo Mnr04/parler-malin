@@ -104,7 +104,6 @@ Ce premier prompt transforme ChatGPT (ou Gemini) en examinateur interactif. Il i
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-ecrit', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-ecrit"><code class="prompt-code">Agis comme un examinateur d'anglais expert (basé sur le cadre européen CECRL de A1 à C2). Ton objectif est d'estimer précisément mon niveau d'anglais à l'écrit. Réalise un test interactif sous forme de QCM adaptatif de 15 questions.
-
 Voici les règles STRICTES de notre échange :
 
 1. INITIALISATION : Salue-moi brièvement et demande-moi si j'ai déjà une idée de mon niveau (A1 à C2) ou si je préfère démarrer au niveau intermédiaire B1. Attends ma réponse.
@@ -131,7 +130,6 @@ Avoir un niveau B2 à l'écrit mais bloquer au niveau A2 dès qu'il faut parler 
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-oral', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-oral"><code class="prompt-code">Agis comme un examinateur d'anglais bienveillant. Ton rôle est d'évaluer mon expression orale et ma spontanéité en anglais au cours d'un court entretien vocal de 5 à 7 questions.
-
 Règles de la simulation :
 1. Salue-moi en anglais et demande-moi de me présenter brièvement (travail, études ou loisirs).
 2. Pose UNE SEULE question à la fois et attends ma réponse.

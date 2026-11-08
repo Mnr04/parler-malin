@@ -88,7 +88,6 @@ Colle ce prompt dans ChatGPT, active le mode vocal en bas à droite sur ton smar
     <button type="button" class="btn-copy" onclick="copyPrompt('prompt-prononciation', this)">Copier le prompt 📋</button>
   </div>
   <pre id="prompt-prononciation"><code class="prompt-code">Agis comme un professeur d'anglais bienveillant et pédagogue. Je souhaite entraîner ma prononciation sur les sons souvent difficiles pour les francophones (le son "TH", le "H" aspiré et la différence entre voyelles courtes et longues).
-
 Voici les règles de notre séance :
 1. Donne-moi UNE SEULE phrase courte (5 à 8 mots) à prononcer à la fois.
 2. Affiche la phrase et indique la prononciation simplifiée des 2 mots les plus importants.
