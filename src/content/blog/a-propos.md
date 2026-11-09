@@ -5,20 +5,17 @@ date: 2026-07-07
 ---
 
 <div class="about-page">
-  <!-- Fil d'Ariane -->
   <nav class="breadcrumb" aria-label="Fil d'Ariane">
     <a href="/">Accueil</a>
     <span class="sep">/</span>
     <span class="current">À propos</span>
   </nav>
 
-  <!-- En-tête -->
   <header class="about-hero">
     <h1 class="page-title">À propos</h1>
     <p class="hero-intro">Des tests réels et sans détour pour apprendre à parler anglais avec les outils d'aujourd'hui.</p>
   </header>
 
-  <!-- Section Qui suis-je -->
   <section class="content-block bio-card">
     <div class="bio-avatar">J</div>
     <div class="bio-text">
@@ -27,14 +24,12 @@ date: 2026-07-07
     </div>
   </section>
 
-  <!-- Section Pourquoi ce site -->
   <section class="content-block">
     <h2>Pourquoi ce site ?</h2>
     <p>Entre les promesses magiques et les applications gadgets, il est difficile de savoir ce qui fonctionne vraiment.</p>
     <p>Mon but avec <strong>Parler Malin</strong> est simple : faire le tri. Je teste des prompts, des outils vocaux et des méthodes d'entraînement pour garder uniquement ce qui fait avancer.</p>
   </section>
 
-  <!-- Section Transparence -->
   <section class="content-block">
     <h2>Transparence</h2>
     <div class="transparency-grid">
@@ -49,22 +44,18 @@ date: 2026-07-07
     </div>
   </section>
 
-  <!-- Section Contact -->
   <section class="content-block contact-card">
     <div class="contact-inner">
       <h2>Contact</h2>
       <p>Une question sur un outil ou une idée de test ? Tu peux m'écrire directement :</p>
-      <!--email_off-->
       <a href="mailto:contact@parlermalin.fr" class="contact-email">
         <span class="mail-icon">✉</span>
         contact@parlermalin.fr
       </a>
-      <!--/email_off-->
     </div>
   </section>
 </div>
 
-<!-- Données structurées SEO -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

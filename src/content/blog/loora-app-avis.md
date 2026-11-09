@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/07/loora-app-avis-test-2026-scaled.avif"
 heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Loora AI en 2026"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Avis Loora AI</span>
 </nav>
 
 <h1 class="page-title">Avis Loora AI (Novembre 2026) : Mon Test Complet de l'Application et Coach Vocal</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
   🛡️ Cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE VERDICT EXPRESS AÉRÉE (AUCUNE LIGNE VIDE POUR ÉVITER LE BUG MARKDOWN) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ VERDICT EXPRESS</span>
@@ -70,7 +67,6 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
   </div>
 </div>
 
-<!-- SOMMAIRE PLACÉ ICI POUR CASSER L'EMPILEMENT DE BOÎTES -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire de mon test complet</span>
@@ -88,7 +84,6 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
   </ol>
 </details>
 
-<!-- CARTE BILAN : POINTS FORTS & LIMITES (AUCUNE LIGNE VIDE) -->
 <div id="offre-exclusive" class="review-scorecard">
   <div class="scorecard-top">
     <div class="scorecard-brand">
@@ -266,7 +261,6 @@ Après la première leçon d'essai gratuite, Loora propose trois formules d'abon
 
 Pour voir le détail complet des conversions en euros, les astuces pour éviter les frais bancaires et le tutoriel d'activation du coupon pas à pas, consulte mon guide dédié au <a href="/prix-loora-ai/">prix de Loora AI et code promo</a>.
 
-<!-- Carte Outil CRO Loora AI -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -343,13 +337,11 @@ Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, 
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement de transparence</span>
   <p>Les fonctionnalités et tarifs mentionnés ont été vérifiés en novembre 2026. L'éditeur de l'application se réserve le droit de faire évoluer ses offres. Vérifie toujours le récapitulatif dans ton panier avant de confirmer ton abonnement.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
   <span class="next-label">À LIRE AUSSI</span>
   <p class="next-step-title">Combien coûte Loora AI en Euros ? Grille des tarifs 2026</p>
@@ -357,7 +349,6 @@ Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, 
   <a href="/prix-loora-ai/" class="btn-next">Voir le guide complet des prix Loora &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar avec Copie en 1 Tap -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Loora AI <span class="sticky-stars">★ 4.9</span></span>
@@ -370,7 +361,6 @@ Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, 
   </a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
 <script is:inline>

@@ -298,7 +298,6 @@ const regularPosts = posts.slice(1);
     <body>
         <Header />
         <main class="blog-main">
-            <!-- En-tête -->
             <header class="blog-header">
                 <span class="blog-badge">LE BLOG // PARLER MALIN</span>
                 <h1 class="blog-title">Tous les articles & guides</h1>
@@ -313,7 +312,7 @@ const regularPosts = posts.slice(1);
                 </div>
             ) : (
                 <>
-                    {/* Article vedette (le plus récent) */}
+                    {/* (le plus récent) */}
                     {featuredPost && (
                         <section class="featured-section" aria-label="Article à la une">
                             <a href={`/${featuredPost.id}/`} class="featured-card">

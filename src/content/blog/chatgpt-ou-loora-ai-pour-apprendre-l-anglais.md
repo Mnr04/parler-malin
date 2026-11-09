@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/09/chatgpt-ou-loora-ai-pour-apprendre-l-anglais-768x42
 heroImageAlt: "Comparatif ChatGPT vs Loora AI pour apprendre l'anglais"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Comparatif ChatGPT vs Loora AI pour apprendre l'anglais"
 
 <h1 class="page-title">ChatGPT ou Loora AI pour apprendre l'anglais : Le Duel</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -30,13 +28,11 @@ heroImageAlt: "Comparatif ChatGPT vs Loora AI pour apprendre l'anglais"
 <span class="dot">•</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -51,7 +47,6 @@ heroImageAlt: "Comparatif ChatGPT vs Loora AI pour apprendre l'anglais"
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du comparatif</span>
@@ -156,7 +151,6 @@ Trancher entre ChatGPT et Loora n'est pas une question de « quelle est la meill
 ### Tarifs et offre partenaire Loora AI
 Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, mais propose une période d'essai pour tester le tuteur sans risque. Pour le détail complet des formules, consulte notre page [Prix Loora AI](/prix-loora-ai/) ainsi que notre [Avis complet sur Loora App](/loora-app-avis/).
 
-<!-- Carte Outil CRO Loora AI -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -215,7 +209,6 @@ Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, m
 
 ---
 
-<!-- Disclaimer IA avant l'action suivante -->
 <div class="disclaimer-callout">
 <span class="disclaimer-badge">Avertissement IA</span>
 <p>Les intelligences artificielles sont de formidables simulateurs d'entraînement pour prendre confiance sans stress. Pour consolider ton aisance dans la vraie vie, complète toujours ta pratique avec de véritables échanges humains.</p>
@@ -229,7 +222,6 @@ Loora fonctionne sur un modèle d'abonnement sans version gratuite permanente, m
 <a href="/meilleures-ia-anglais/" class="btn-next">Voir le comparatif des meilleurs tuteurs IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
 <script is:inline>

@@ -9,14 +9,12 @@ heroImage: "/uploads/2026/08/test-illustration-avis-preply-scaled.avif"
 heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Preply"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Avis Preply</span>
 </nav>
 
 <h1 class="page-title">Avis Preply (2026) : La plateforme en vaut-elle vraiment la peine ?</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -25,13 +23,11 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
   <span>⏱️ 6 min</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
   <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
-<!-- 2. Bloc En Bref GEO (Optimisé Above The Fold Mobile) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ EN BREF</span>
@@ -54,9 +50,6 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
   </div>
 </div>
 
-<!-- ========================================== -->
-<!-- CARTE VERDICT CRO SCORECARD (HIGH CTR)     -->
-<!-- ========================================== -->
 <div id="offre-exclusive" class="review-scorecard">
   <div class="scorecard-top">
     <div class="scorecard-brand">
@@ -110,7 +103,6 @@ heroImageAlt: "Avis et test complet de la plateforme de cours particuliers Prepl
   </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable (Fermé par défaut sur mobile) -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire de l'évaluation</span>
@@ -279,7 +271,6 @@ Pour vivre une excellente expérience, garde ces 4 points à l'esprit :
 3. **Le premier cours n'est pas gratuit :** Contrairement à d'autres applications freemium, la leçon d'essai est payante. Mais grâce à la réduction ci-dessous, elle ne te coûte que la moitié de son prix.
 4. **Vérifie si tu achètes des cours à l'unité ou un abonnement :** C'est le reproche le plus fréquent dans les avis négatifs sur Trustpilot. Certaines formules se renouvellent automatiquement (tous les 28 jours dans plusieurs témoignages), et la résiliation depuis l'application peut être peu intuitive. Relis le récapitulatif avant de payer et note la date de renouvellement.
 
-<!-- Carte Outil CRO Preply -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -357,13 +348,11 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
 
 ---
 
-<!-- Disclaimer légal & tarifaire -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement de transparence</span>
   <p>Les tarifs mentionnés sont relevés à titre indicatif et sont librement fixés par les tuteurs indépendants sur Preply. Vérifie toujours le montant final et les conditions d'annulation avant de valider ta réservation.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
   <span class="next-label">REBOND MÉTHODE</span>
   <p class="next-step-title">Tu hésites entre Preply et d'autres solutions ?</p>
@@ -371,7 +360,6 @@ Si l'intelligence artificielle est un formidable outil d'échauffement au quotid
   <a href="/pratiquer-anglais-natifs/" class="btn-next">Combiner l'IA et les tuteurs natifs &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar (Apparaît au scroll sur mobile) -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Preply <span class="sticky-stars">★ 4.8</span></span>

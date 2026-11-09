@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/07/test-niveau-anglais-chatgpt-ia-768x429.avif"
 heroImageAlt: "Diagnostic et test de niveau d'anglais gratuit avec ChatGPT"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Test de Niveau IA</span>
 </nav>
 
 <h1 class="page-title">Test de Niveau d'Anglais avec ChatGPT : La Méthode Gratuite pour Évaluer ton Niveau (A1 à C2)</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Diagnostic et test de niveau d'anglais gratuit avec ChatGPT"
   🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE EN BREF AÉRÉE -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ MÉTHODE EXPRESS</span>
@@ -54,7 +51,6 @@ heroImageAlt: "Diagnostic et test de niveau d'anglais gratuit avec ChatGPT"
   </div>
 </div>
 
-<!-- Sommaire interactif rabattable (fermé par défaut sur mobile pour alléger) -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire de la méthode</span>
@@ -77,7 +73,6 @@ Que tu prépares une certification officielle (TOEIC, IELTS, TOEFL, Linguaskill,
 
 Plutôt que de passer un test générique en ligne qui te donne une note finale sans jamais t'expliquer tes erreurs, un diagnostic bien paramétré sur ChatGPT agit comme un examinateur privé.
 
-<!-- Bloc vidéo ressource épuré -->
 <div class="video-card">
   <div class="video-header">
     <span class="video-tag">RESSOURCE COMPLÉMENTAIRE // VIDÉO</span>
@@ -139,7 +134,6 @@ Règles de la simulation :
 6. À la fin des 7 questions, fais-moi un bilan en français : donne-moi mon niveau oral estimé (A1 à C2), mes points forts et les 3 erreurs principales à corriger.</code></pre>
 </div>
 
-<!-- Carte Pont CRO vers le Comparatif des Tuteurs IA -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -192,13 +186,11 @@ Tu peux comparer ces solutions en détail (notes App Store, essais gratuits et t
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Note importante</span>
   <p>Ce test via ChatGPT fournit une estimation indicative pour guider ton apprentissage personnel. Il ne remplace pas un examen officiel certifiant.</p>
 </div>
 
-<!-- Navigation CRO Rebond vers la page Pilier Comparatif Tuteurs IA -->
 <div class="next-step-card">
   <span class="next-label">PROCHAINE ÉTAPE RECOMMANDÉE</span>
   <h3>Quel Tuteur Vocal IA choisir pour débloquer ton anglais ?</h3>
@@ -206,7 +198,6 @@ Tu peux comparer ces solutions en détail (notes App Store, essais gratuits et t
   <a href="/meilleures-ia-anglais/" class="btn-next">Voir le comparatif des meilleurs Tuteurs IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">✓ Prompt copié dans le presse-papier !</div>
 
 <script is:inline>

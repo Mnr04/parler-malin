@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/07/ne-pas-perdre-son-anglais-pilote-automatique-scaled
 heroImageAlt: "Maintenir son niveau d'anglais au quotidien avec de bonnes habitudes et un tuteur IA"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Maintenir son Anglais</span>
 </nav>
 
 <h1 class="page-title">Comment Ne Pas Perdre son Anglais : 3 Habitudes Simples pour Maintenir son Niveau</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Maintenir son niveau d'anglais au quotidien avec de bonnes habitu
   🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE EN BREF AÉRÉE (AUCUNE LIGNE VIDE INTERNE) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ ROUTINE DE MAINTIEN</span>
@@ -54,7 +51,6 @@ heroImageAlt: "Maintenir son niveau d'anglais au quotidien avec de bonnes habitu
   </div>
 </div>
 
-<!-- Sommaire interactif rabattable (fermé par défaut sur mobile) -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire du guide</span>
@@ -139,7 +135,6 @@ Aujourd'hui, le moyen le plus simple pour conserver une pratique orale active de
 
 En complément de ces entraînements quotidiens sur mobile, tu peux aussi réserver ponctuellement une séance de conversation en visio avec un locuteur natif (sur des plateformes comme italki ou Preply) une ou deux fois par mois pour valider ton aisance dans un échange humain réel.
 
-<!-- Carte Pont vers le Comparatif des Tuteurs IA (Zéro ligne vide interne) -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -204,13 +199,11 @@ Le *shadowing* consiste à écouter une phrase prononcée par un anglophone nati
 
 ---
 
-<!-- Disclaimer sobre -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">En résumé</span>
   <p>Maintenir son niveau d'anglais repose avant tout sur la régularité : un peu d'écoute en version originale chaque jour et quelques minutes de conversation à voix haute sur un tuteur IA valent mieux qu'une longue révision ponctuelle.</p>
 </div>
 
-<!-- Navigation CRO Rebond vers la page Pilier Comparatif Tuteurs IA -->
 <div class="next-step-card">
   <span class="next-label">COMPARATIF COMPLET 2026</span>
   <h3>Trouve le Tuteur Vocal IA idéal pour entretenir ton anglais</h3>

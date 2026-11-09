@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/11/code-promo-loora-scaled.avif"
 heroImageAlt: "Code promo Loora AI PARLERMALIN10 : coupon de réduction de -10 % sur l'abonnement"
 ---
 
-<!-- Fil d'Ariane -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Code promo Loora</span>
 </nav>
 
 <h1 class="page-title">Code promo Loora AI : PARLERMALIN10 (-10 %)</h1>
 
-<!-- E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -26,15 +24,12 @@ heroImageAlt: "Code promo Loora AI PARLERMALIN10 : coupon de réduction de -10 %
   <span class="hide-mobile">⏱️ 4 min</span>
 </div>
 
-<!-- Bandeau Transparence -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
   <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
-<!-- ========================================== -->
-<!-- Code Promo Hero Card (CRO Mobile-First)    -->
-<!-- ========================================== -->
+
 <div class="voucher-hero-card">
   <div class="voucher-top-bar">
     <span class="voucher-badge">🔥 Code vérifié en novembre 2026</span>
@@ -79,12 +74,10 @@ heroImageAlt: "Code promo Loora AI PARLERMALIN10 : coupon de réduction de -10 %
   </div>
 </div>
 
-<!-- Réponse directe (capsule GEO : citable telle quelle par un moteur IA) -->
 <div class="quick-answer">
   <p><strong>Le code promo Loora AI est PARLERMALIN10.</strong> Il donne 10 % de réduction sur les abonnements de 1 mois, 3 mois et 1 an, à saisir dans le champ « Add promo code » au moment du paiement sur le site officiel loora.com. Avec le code, l'abonnement annuel passe de 119,99 $ à 107,99 $, soit environ 8,30 €/mois.</p>
 </div>
 
-<!-- Faits clés (bloc GEO : faits courts, chiffrés et citables) -->
 <div class="key-facts">
   <h2 class="key-facts-title">L'essentiel sur le code promo Loora en 6 points</h2>
   <ul>
@@ -97,7 +90,6 @@ heroImageAlt: "Code promo Loora AI PARLERMALIN10 : coupon de réduction de -10 %
   </ul>
 </div>
 
-<!-- Sommaire -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire</span>
@@ -313,13 +305,13 @@ Si Loora ne te convient pas, ou si ton budget est plus serré, regarde le prix d
 
 ---
 
-<!-- Méthode de vérification (signal de confiance pour lecteurs et moteurs IA) -->
+
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Comment je vérifie cette page</span>
   <p>Les prix et le code sont contrôlés lors du paiement sur loora.com, et la date de dernière vérification est indiquée en haut de page. Loora peut modifier ses tarifs et ses offres à tout moment : vérifie toujours le total affiché dans ton panier avant de valider. Cette page contient des liens affiliés, ce qui ne change pas le prix que tu paies.</p>
 </div>
 
-<!-- Navigation CRO -->
+
 <div class="next-step-card">
   <span class="next-label">À LIRE AVANT DE PAYER</span>
   <h3>Loora AI vaut-il vraiment son prix ? Mon test complet</h3>
@@ -327,7 +319,7 @@ Si Loora ne te convient pas, ou si ton budget est plus serré, regarde le prix d
   <a href="/loora-app-avis/" class="btn-next">Lire mon avis complet sur Loora AI &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar avec copie en 1 tap -->
+
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Code promo Loora <span class="sticky-discount">-10 %</span></span>
@@ -340,7 +332,7 @@ Si Loora ne te convient pas, ou si ton budget est plus serré, regarde le prix d
   </a>
 </div>
 
-<!-- Toast flottant -->
+
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
 <script is:inline>

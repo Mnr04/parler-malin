@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/07/apprendre-vocabulaire-anglais-chatgpt-scaled.avif"
 heroImageAlt: "Apprendre le vocabulaire anglais en contexte avec ChatGPT et un tuteur IA"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Vocabulaire Anglais IA</span>
 </nav>
 
 <h1 class="page-title">Apprendre le Vocabulaire Anglais avec ChatGPT : La Méthode en Contexte (Prompts)</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Apprendre le vocabulaire anglais en contexte avec ChatGPT et un t
   🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE EN BREF AÉRÉE (AUCUNE LIGNE VIDE INTERNE) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ VOCABULAIRE EN CONTEXTE</span>
@@ -54,7 +51,6 @@ heroImageAlt: "Apprendre le vocabulaire anglais en contexte avec ChatGPT et un t
   </div>
 </div>
 
-<!-- Sommaire interactif rabattable (fermé par défaut sur mobile) -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire de la méthode</span>
@@ -168,7 +164,6 @@ Règles de notre échange :
 
 <p>Pour qu'un mot devienne un réflexe naturel à l'oral, il faut le prononcer à voix haute dans un vrai dialogue. C'est là que les tuteurs vocaux IA prennent le relais pour faire progresser ton expression orale. Pour aller plus loin et choisir l'outil qui te correspond, tu peux découvrir nos retours d'expérience sur <a href="/avis-praktika/"><strong>Praktika AI</strong></a> ou consulter notre avis complet sur <a href="/loora-app-avis/"><strong>Loora AI</strong></a> (avec le code promo <em>PARLERMALIN10</em>).</p>
 
-<!-- Carte Pont vers le Comparatif des Tuteurs IA (Zéro ligne vide interne) -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -217,13 +212,11 @@ Règles de notre échange :
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Note pratique</span>
   <p>Les modèles d'IA génèrent d'excellents exemples en contexte, mais peuvent occasionnellement proposer une traduction un peu littérale. En cas de doute sur une expression pointue, n'hésite pas à vérifier dans un dictionnaire de référence comme WordReference ou Cambridge Dictionary.</p>
 </div>
 
-<!-- Navigation CRO Rebond vers la page Pilier Comparatif Tuteurs IA -->
 <div class="next-step-card">
   <span class="next-label">COMPARATIF COMPLET 2026</span>
   <h3>Passe de la théorie écrite à la pratique orale avec un Tuteur IA</h3>
@@ -231,7 +224,6 @@ Règles de notre échange :
   <a href="/meilleures-ia-anglais/" class="btn-next">Voir le comparatif des meilleurs Tuteurs IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">✓ Prompt copié dans le presse-papier !</div>
 
 <script is:inline>

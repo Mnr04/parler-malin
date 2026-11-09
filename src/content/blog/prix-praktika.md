@@ -245,7 +245,6 @@ Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement au
   <a href="/avis-praktika/" class="btn-next">Lire mon avis complet sur Praktika →</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar (Apparaît au scroll sur mobile) -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Offre Praktika <span class="sticky-discount">-50 %</span></span>

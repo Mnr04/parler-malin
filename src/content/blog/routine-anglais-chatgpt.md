@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/07/routine-anglais-chatgpt-apprentissage-scaled.avif"
 heroImageAlt: "Création d'une routine d'anglais sur-mesure avec ChatGPT et un tuteur IA"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Routine d'Anglais IA</span>
 </nav>
 
 <h1 class="page-title">Routine d'Anglais avec ChatGPT : Construire ton Planning Sur-Mesure (15 min/jour)</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Création d'une routine d'anglais sur-mesure avec ChatGPT et un t
   🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE EN BREF AÉRÉE (AUCUNE LIGNE VIDE INTERNE) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ ORGANISATION EXPRESS</span>
@@ -54,7 +51,6 @@ heroImageAlt: "Création d'une routine d'anglais sur-mesure avec ChatGPT et un t
   </div>
 </div>
 
-<!-- Sommaire interactif rabattable (fermé par défaut pour alléger le mobile) -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire de la méthode</span>
@@ -186,7 +182,6 @@ Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préféren
 - **L'approche 100 % gratuite (avec ChatGPT ou Gemini) :** idéale si tu as un budget de 0 € et que cela ne te dérange pas de paramétrer toi-même tes sessions d'entraînement à l'aide de prompts.
 - **L'approche guidée (avec une application de Tuteur Vocal IA) :** des applications mobiles spécialisées comme <a href="/avis-praktika/"><strong>Praktika AI</strong></a> (parcours structuré avec avatars) ou <a href="/loora-app-avis/"><strong>Loora AI</strong></a> (conversations vocales libres avec corrections en temps réel) intègrent directement un programme quotidien prêt à l'emploi et un suivi de prononciation, sans avoir à configurer de prompt.
 
-<!-- Carte Pont vers le Comparatif des Tuteurs IA (Zéro ligne vide interne) -->
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
@@ -228,13 +223,11 @@ Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préféren
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Note pratique</span>
   <p>Un planning généré par l'IA est une base d'organisation personnelle : adapte toujours le rythme et la durée des séances selon ton emploi du temps réel.</p>
 </div>
 
-<!-- Navigation CRO Rebond vers la page Pilier Comparatif Tuteurs IA -->
 <div class="next-step-card">
   <span class="next-label">PROCHAINE ÉTAPE RECOMMANDÉE</span>
   <h3>Trouve le Tuteur Vocal IA adapté à ton profil</h3>
@@ -242,7 +235,6 @@ Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préféren
   <a href="/meilleures-ia-anglais/" class="btn-next">Accéder au comparatif des meilleurs Tuteurs IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">✓ Prompt copié dans le presse-papier !</div>
 
 <script is:inline>

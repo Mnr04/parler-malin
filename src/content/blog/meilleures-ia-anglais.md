@@ -11,14 +11,12 @@ heroImage: "/uploads/2026/09/meilleures-ia-anglais-comparatif.avif"
 heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2026"
 ---
 
-<!-- Fil d'Ariane -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Comparatif Tuteurs IA</span>
 </nav>
 
 <h1 class="page-title">Meilleurs Tuteurs IA pour l'anglais en 2026 : comparatif selon votre profil</h1>
 
-<!-- E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -27,19 +25,15 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   <span>⏱️ 4 min</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
   <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
-<!-- Accroche directe CRO / GEO -->
 <div class="hook-box">
   <p><strong>Pas le temps de tout lire ?</strong> Il n'existe pas un seul tuteur IA parfait pour tout le monde : votre choix dépend de votre budget et de votre besoin d'être guidé visuellement ou non. Voici les <strong>tuteurs vocaux que j'ai testés et validés</strong> à ce jour (cette sélection s'agrandira au fil de mes prochains tests) :</p>
 </div>
 
-<!-- TABLEAU OPTIMISÉ CRO (FOCUS TUTEURS IA UNIQUEMENT) -->
-<!-- IMPORTANT : aucune ligne vide dans ce bloc (sinon le Markdown le casse) -->
 <div class="premium-table-wrapper">
   <table class="premium-table">
     <thead>
@@ -50,7 +44,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
       </tr>
     </thead>
     <tbody>
-      <!-- Rang 1 : Praktika (Parcours structuré / Qualité-Prix) -->
       <tr class="rank-budget-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
@@ -67,7 +60,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           Idéal pour suivre un programme structuré pas à pas avec des avatars réalistes (accents US, UK, Australien) à un tarif très accessible.
         </td>
       </tr>
-      <!-- Rang 2 : Loora (Conversation libre / Note App Store) -->
       <tr class="rank-premium-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
@@ -84,7 +76,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           Positionnement premium : vous discutez librement face à un avatar photoréaliste avec des corrections en temps réel.
         </td>
       </tr>
-      <!-- Rang 3 : ChatGPT / Gemini (Gratuit à configurer) -->
       <tr>
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
@@ -100,7 +91,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           <strong>Gratuit :</strong> Pratique pour dépanner à 0 € avec le mode vocal, mais demande une configuration préalable (prompts) et n'offre aucun suivi.
         </td>
       </tr>
-      <!-- Teasing : Prochaines applications en test -->
       <tr class="upcoming-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
@@ -119,7 +109,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   </table>
 </div>
 
-<!-- 2. Sommaire interactif repoussé sous le tableau -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire du comparatif</span>
@@ -256,7 +245,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 ---
 
-<!-- Navigation CRO Rebond : Match ChatGPT vs Loora AI -->
 <div class="next-step-card">
   <span class="next-label">COMPARATIF DÉTAILLÉ</span>
   <h3>Vous hésitez entre une IA gratuite et un tuteur dédié ?</h3>
@@ -264,7 +252,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   <a href="/chatgpt-ou-loora-ai-pour-apprendre-l-anglais/" class="btn-next">Lire le match : ChatGPT vs Loora AI &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar (Praktika Focus) : "inert" tant que la barre est masquée -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" inert>
   <div class="sticky-cta-info">
     <span class="sticky-cta-badge" aria-hidden="true">-50%</span>
@@ -278,7 +265,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   </a>
 </div>
 
-<!-- Script & Schema JSON-LD -->
 <script is:inline>
 (function () {
   var bar = document.getElementById("mobile-sticky-cta");
@@ -373,7 +359,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 </script>
 
 <style>
-/* Titre & Fil d'Ariane */
 .breadcrumb{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.76rem;color:#64748b;margin-bottom:.5rem}
 .breadcrumb a{color:#475569;text-decoration:none}.breadcrumb a:hover{color:#1a56db}
 .breadcrumb .sep{margin:0 .35rem;color:#cbd5e1}.breadcrumb .current{color:#0f172a;font-weight:600}
@@ -383,17 +368,14 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.85rem;flex-wrap:wrap}
 .article-meta-bar a{color:#0f172a;text-decoration:none}.article-meta-bar .dot{color:#cbd5e1}
 
-/* Bandeau Transparence */
 .transparency-banner{display:flex;align-items:center;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #3b82f6;border-radius:6px;padding:.45rem .75rem;margin-bottom:1rem;font-size:.76rem;color:#475569}
 .transparency-banner p{margin:0;line-height:1.35}
 .transparency-icon{font-size:.95rem;line-height:1;flex-shrink:0}
 .transparency-banner a{color:#1a56db;text-decoration:underline;text-underline-offset:2px}
 
-/* Accroche Intro */
 .hook-box p{font-size:1.02rem;line-height:1.6;color:#334155;margin-bottom:1.5rem}
 .hook-box strong{color:#0f172a}
 
-/* Sommaire repoussé */
 .toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:2.25rem;margin-top:1.5rem;overflow:hidden}
 .toc-title{padding:.8rem 1.1rem;font-family:ui-monospace,SFMono-Regular,monospace;font-size:.78rem;font-weight:700;color:#0f172a;letter-spacing:.04em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
 .toc-title::-webkit-details-marker{display:none}
@@ -402,7 +384,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .toc-list{margin:0;padding:.6rem 1.1rem 1rem 2.2rem;border-top:1px solid #e2e8f0;font-size:.88rem;color:#475569;line-height:1.65}
 .toc-list li{margin-bottom:.35rem}.toc-list a{color:#1e293b;text-decoration:none;font-weight:500}.toc-list a:hover{color:#1a56db;text-decoration:underline}
 
-/* --- TABLEAU PREMIUM CRO --- */
 .premium-table-wrapper{background:#fff;border:1px solid #e2e8f0;border-radius:12px;box-shadow:0 8px 20px rgba(15,23,42,.04);margin:1.5rem 0 2rem;overflow:hidden}
 .premium-table{width:100%;border-collapse:collapse;text-align:left;font-size:.92rem}
 .premium-table th{background:#f8fafc;color:#475569;font-weight:700;padding:.85rem 1.25rem;border-bottom:1px solid #e2e8f0;font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
@@ -410,7 +391,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .premium-table tbody tr:hover td{background-color:#f8fafc}
 .premium-table tbody tr:last-child td{border-bottom:none}
 
-/* Couleurs spécifiques par Profil */
 .rank-budget-row{background-color:#faf5ff!important;border-left:4px solid #9333ea}
 .rank-premium-row{background-color:#eff6ff!important;border-left:4px solid #2563eb;border-top:1px solid #e2e8f0}
 .upcoming-row{background-color:#fafafa!important;border-left:4px dashed #cbd5e1}
@@ -433,14 +413,12 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .tool-desc{color:#475569;line-height:1.45;font-size:.88rem}
 .tool-desc strong{color:#0f172a}
 
-/* Badges de Catégories & Notes */
 .badge{display:inline-block;padding:.25rem .6rem;border-radius:20px;font-size:.72rem;font-weight:700;white-space:nowrap;letter-spacing:.02em}
 .badge-ai{background-color:#eff6ff;color:#1d4ed8;border:1px solid #bfdbfe}
 .badge-general{background-color:#f0fdf4;color:#15803d;border:1px solid #bbf7d0}
 .badge-upcoming{background-color:#f1f5f9;color:#64748b;border:1px dashed #cbd5e1}
 .store-rating{display:block;font-family:ui-monospace,monospace;font-size:.72rem;font-weight:700;color:#92400e;margin-top:.35rem}
 
-/* --- BLOCS D'ACTION EMPILES (Stacking) --- */
 .action-stack-card{background:#fff;border-radius:10px;padding:1.15rem 1.25rem;margin:1.5rem 0 2rem;box-shadow:0 4px 15px rgba(0,0,0,.03)}
 .border-purple-light{border:1px solid #e9d5ff;border-left:3px solid #9333ea}
 .border-blue-light{border:1px solid #bfdbfe;border-left:3px solid #2563eb}
@@ -460,7 +438,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 .inline-text-link{color:#1a56db;font-weight:700;text-decoration:underline;text-underline-offset:2px}
 
-/* Encarts Astuce / Pros / Prochains tests */
 .tip-box{background:#f8fafc;border-radius:8px;padding:1rem 1.15rem;font-size:.9rem;color:#475569;margin:1.5rem 0;line-height:1.55}
 .tip-box.border-purple{border:1px solid #e9d5ff;border-left:3px solid #9333ea}
 .tip-box.border-blue{border:1px solid #bfdbfe;border-left:3px solid #2563eb}
@@ -474,11 +451,9 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .pros-list{margin:1rem 0;padding-left:0;list-style:none}
 .pros-list li{margin-bottom:.5rem;padding-left:1.5rem;position:relative;color:#334155}
 
-/* Petits boutons Prompts gratuits */
 .prompt-links{display:flex;flex-direction:column;gap:.5rem;margin-top:1rem}
 .btn-small{padding:.5rem .75rem;font-size:.8rem;justify-content:flex-start}
 
-/* FAQ */
 .faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
 .faq-title{padding:.9rem 1.1rem;font-weight:700;font-size:.92rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
@@ -487,7 +462,6 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .faq-card[open] .faq-title::after{content:"−";color:#1a56db}
 .faq-body{padding:0 1.1rem 1rem;color:#475569;font-size:.9rem;line-height:1.55}.faq-body p{margin:0}
 
-/* Rebond Guide (Navigation interne) */
 .next-step-card{background:#fff;border:1px solid #e2e4e9;border-radius:12px;padding:1.4rem;margin:2.5rem 0 2rem;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.03)}
 .next-label{font-family:ui-monospace,monospace;font-size:.72rem;font-weight:700;color:#1a56db;letter-spacing:.05em;display:block;margin-bottom:.4rem}
 .next-step-card h3{margin:0 0 .5rem;font-size:1.2rem;color:#0f172a}
@@ -495,19 +469,14 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .btn-next{display:inline-flex;align-items:center;justify-content:center;background:#0f172a!important;color:#fff!important;font-weight:600;font-size:.9rem;padding:.75rem 1.35rem;border-radius:8px;text-decoration:none!important;transition:all .15s ease;box-sizing:border-box}
 .btn-next:hover{background:#1e293b!important}
 
-/* Sticky Mobile Bar (Cachée sur Desktop) */
 .mobile-sticky-cta{display:none}
 
-/* =========================================
-   OPTIMISATIONS MOBILE-FIRST & CRO (<768px)
-   ========================================= */
 @media (max-width: 768px) {
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
   .page-title{font-size:1.5rem;line-height:1.18;margin:.15rem 0 .45rem}
   .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.6rem}
   .transparency-banner{padding:.35rem .6rem;font-size:.72rem;margin-bottom:.75rem}
 
-  /* Transformation du Tableau en App Cards pour Mobile */
   .premium-table-wrapper{border:none;box-shadow:none;background:transparent;margin:1.25rem 0}
   .premium-table thead{display:none}
   .premium-table,.premium-table tbody,.premium-table tr,.premium-table td{display:block;width:100%;box-sizing:border-box}
@@ -518,24 +487,20 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   .premium-table tr.upcoming-row{border-left:4px dashed #cbd5e1}
   .premium-table td{padding:0;border-bottom:none}
 
-  /* Agencement interne de la carte mobile */
   .premium-table td[data-label="Tuteur IA"]{display:flex;flex-direction:column;align-items:flex-start;margin-bottom:.65rem;border-bottom:1px solid #f1f5f9;padding-bottom:.65rem}
   .tool-name-wrap{margin-bottom:.4rem;width:100%}
   .tool-name{font-size:1.25rem}
   .rank-badge{white-space:normal}
 
-  /* Transformer le petit lien en vrai bouton large sur la carte mobile */
   .tool-link-btn{display:flex;width:100%;justify-content:center;padding:.75rem;font-size:.9rem;margin-top:.25rem}
 
   .premium-table td[data-label="Format"]{margin-bottom:.5rem;display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
   .store-rating{margin-top:0}
   .premium-table td[data-label="Objectif"]{font-size:.88rem;color:#475569}
 
-  /* Blocs d'action (Stacking) */
   .stack-secondary-row{flex-direction:column}
   .btn-secondary{width:100%}
 
-  /* Barre Sticky Mobile (Single CTA Praktika) */
   .mobile-sticky-cta{
     display:flex;
     align-items:center;

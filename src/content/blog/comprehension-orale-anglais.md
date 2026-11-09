@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/08/comprehension-orale-anglais-application-ia-scaled.a
 heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'écoute active"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'éco
 
 <h1 class="page-title">Compréhension Orale Anglais : 3 Étapes pour Progresser</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -30,12 +28,10 @@ heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'éco
 <span class="dot">•</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -50,7 +46,6 @@ heroImageAlt: "Améliorer sa compréhension orale en anglais avec l'IA et l'éco
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du guide</span>
@@ -132,7 +127,6 @@ C'est là qu'une application de conversation comme **Loora AI** devient utile au
 
 C'est un excellent pont pour passer de l'écoute passive à la prise de parole sans pression.
 
-<!-- Carte Outil CRO Loora AI -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -166,7 +160,6 @@ La dernière étape consiste donc à confronter ton oreille à de **vrais locute
 
 La plateforme **italki** permet de réserver des discussions informelles à l'heure avec des tuteurs du monde entier (dès 6&nbsp;€ à 10&nbsp;€/h), sans aucun abonnement obligatoire. C'est le meilleur moyen de valider que ton oreille comprend l'anglais spontané de la vraie vie.
 
-<!-- Carte Outil CRO italki -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -221,13 +214,11 @@ La plateforme **italki** permet de réserver des discussions informelles à l'he
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
 <span class="disclaimer-badge">Conseil d'apprentissage</span>
 <p>Entraîner son oreille demande un peu de régularité. Ne panique pas si tu ne comprends pas tout au mot à mot : l'important au début, c'est de saisir l'idée générale de la phrase.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">MÉTHODE COMPLÈTE</span>
 <h3>Améliorer son anglais avec l'IA : Le Guide Pilote Automatique</h3>
@@ -235,7 +226,6 @@ La plateforme **italki** permet de réserver des discussions informelles à l'he
 <a href="/#guide" class="btn-next">Suivre la méthode pour progresser en anglais avec l'IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
 <script is:inline>
@@ -328,7 +318,6 @@ function copyPromoCode(btn, elementId) {
 </script>
 
 <style>
-    /* Titre & Fil d'Ariane */
     .breadcrumb {
         font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
         font-size: 0.78rem;
@@ -384,7 +373,6 @@ function copyPromoCode(btn, elementId) {
         font-weight: 600;
     }
 
-    /* 1. Bandeau Transparence concis */
     .transparency-banner {
         display: flex;
         align-items: center;
@@ -413,7 +401,6 @@ function copyPromoCode(btn, elementId) {
         text-underline-offset: 2px;
     }
 
-    /* 2. Bloc En Bref GEO */
     .geo-box {
         background: #ffffff;
         border: 1px solid #e2e8f0;
@@ -467,7 +454,6 @@ function copyPromoCode(btn, elementId) {
         background: #1e429f !important;
     }
 
-    /* 3. Sommaire interactif rabattable */
     .toc-card {
         background: #f8fafc;
         border: 1px solid #e2e8f0;
@@ -521,7 +507,6 @@ function copyPromoCode(btn, elementId) {
         text-decoration: underline;
     }
 
-    /* Cartes Outils CRO */
     .tool-callout-card {
         display: flex;
         align-items: center;
@@ -575,7 +560,6 @@ function copyPromoCode(btn, elementId) {
         line-height: 1.5;
     }
 
-    /* Boîte Promo Code */
     .promo-box {
         display: inline-flex;
         align-items: center;
@@ -653,7 +637,6 @@ function copyPromoCode(btn, elementId) {
         font-weight: 500;
     }
 
-    /* Encarts & Callouts */
     .tip-box {
         background: #f8fafc;
         border: 1px solid #e2e8f0;
@@ -670,7 +653,6 @@ function copyPromoCode(btn, elementId) {
         font-weight: 600;
     }
 
-    /* FAQ */
     .faq-card {
         background: #ffffff;
         border: 1px solid #e2e8f0;
@@ -717,7 +699,6 @@ function copyPromoCode(btn, elementId) {
         margin: 0;
     }
 
-    /* Disclaimer IA */
     .disclaimer-callout {
         background: #fafafc;
         border: 1px solid #e2e8f0;
@@ -743,7 +724,6 @@ function copyPromoCode(btn, elementId) {
         line-height: 1.5;
     }
 
-    /* Rebond Guide */
     .next-step-card {
         background: #ffffff;
         border: 1px solid #e2e4e9;
@@ -787,7 +767,6 @@ function copyPromoCode(btn, elementId) {
         text-decoration: none !important;
     }
 
-    /* Toast */
     .copy-toast {
         position: fixed;
         bottom: 2rem;

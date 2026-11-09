@@ -1,294 +1,258 @@
 ---
-title: "Peur de parler anglais en entretien d'embauche : Le Hack IA"
-description: "La peur de parler anglais en entretien d'embauche te paralyse ? Simule l'exigence d'un vrai recruteur métier avec notre système IA. Découvre le guide pas à pas !"
+title: "Entretien d'Embauche en Anglais (2026) : Simuler et Pratiquer avec l'IA"
+description: "Peur de parler anglais en entretien d'embauche ? Entraîne-toi en direct avec nos 2 prompts de simulation sur ChatGPT et découvre les meilleurs tuteurs vocaux IA."
 pubDate: 2026-07-24
-author: "Jérémy de Parler Malin"
-categories: 
-  - "apprendre-langlais"
+updatedDate: 2026-11-09
+author: "Jérémy"
+categories:
+  - "astuces"
 heroImage: "/uploads/2026/07/peur-parler-anglais-entretien-embauche-chatgpt-scaled.avif"
-heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et l'intelligence artificielle"
+heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et un tuteur vocal IA"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
-<a href="/">Accueil</a>
-<span class="sep">/</span>
-<a href="/blog/">Blog</a>
-<span class="sep">/</span>
-<span class="current">Entretien d'embauche en anglais</span>
+  <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Entretien d'embauche en anglais</span>
 </nav>
 
-<h1 class="page-title">Peur de parler anglais en entretien d'embauche : Le Hack IA</h1>
+<h1 class="page-title">Peur de Parler Anglais en Entretien d'Embauche : S'entraîner en Direct avec l'IA</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
-<span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
-<span class="dot">•</span>
-<span><time datetime="2026-07-24">24 juillet 2026</time></span>
-<span class="dot">•</span>
-<span>Temps de lecture : 6 min</span>
+  <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
+  <span class="dot" aria-hidden="true">•</span>
+  <span>Mis à jour le <time datetime="2026-11-09">09 nov. 2026</time></span>
+  <span class="dot" aria-hidden="true">•</span>
+  <span>⏱️ 6 min</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
-<div class="transparency-banner">
-<span class="transparency-icon">🛡️</span>
-<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
+<p class="transparency-inline">
+  🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
+</p>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
-<div class="geo-header">
-<span class="geo-tag">EN BREF</span>
-</div>
-<ul class="geo-list">
-<li><strong>Le piège :</strong> Savoir discuter de la pluie et du beau temps ne suffit pas : un recruteur évalue ton vocabulaire technique métier sous haute tension émotionnelle.</li>
-<li><strong>Le hack :</strong> Transformer ChatGPT en un recruteur sectoriel sans complaisance qui pose des questions pièges une par une en mode vocal.</li>
-<li><strong>La méthode :</strong> Utiliser le framework STAR (Situation, Task, Action, Result) et débriefer chirurgicalement ses erreurs syntaxiques après l'échange.</li>
-</ul>
-<div class="geo-cta-wrap">
-<a href="#prompt-recruteur" class="btn-atf-action">Copier le prompt du recruteur IA ↓</a>
-</div>
+  <div class="geo-header">
+    <span class="geo-tag">⚡ PRÉPARATION ENTRETIEN</span>
+    <span class="geo-meta">Simulation Vocale • 2 Prompts</span>
+  </div>
+  <p class="geo-verdict">
+    En entretien d'embauche, réciter un texte appris par cœur fonctionne rarement face aux relances du recruteur. Voici <strong>2 prompts ChatGPT</strong> pour simuler un entretien vocal adapté à ton métier et obtenir un débriefing détaillé, avant de pratiquer régulièrement sur un <strong>tuteur vocal IA</strong>.
+  </p>
+  <div class="geo-specs">
+    <div class="geo-spec-row">
+      <span class="spec-label">🎙️ Prompt 1</span>
+      <span class="spec-val">Simulation d'entretien question par question (Mode Vocal)</span>
+    </div>
+    <div class="geo-spec-row">
+      <span class="spec-label">📋 Prompt 2</span>
+      <span class="spec-val">Bilan des erreurs, méthode STAR &amp; vocabulaire métier</span>
+    </div>
+  </div>
+  <div class="geo-cta-wrap">
+    <a href="#prompt-recruteur" class="btn-atf-action">Copier les prompts de simulation ↓</a>
+  </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
-<details class="toc-card" open>
-<summary class="toc-title">
-<span>Sommaire du guide</span>
-<span class="toc-toggle-icon">▾</span>
-</summary>
-<ol class="toc-list">
-<li><a href="#peur">Pourquoi l'entretien d'embauche en anglais paralyse</a></li>
-<li><a href="#limites">Pourquoi les méthodes classiques échouent le jour J</a></li>
-<li><a href="#systeme-ia">Le système de l'Anti-Tuteur : 2 prompts pour simuler la réalité</a></li>
-<li><a href="#debrief">Le débriefing post-entretien et l'extraction du vocabulaire</a></li>
-<li><a href="#faq">Foire aux questions (FAQ)</a></li>
-</ol>
+<details class="toc-card">
+  <summary class="toc-title">
+    <span>📋 Sommaire du guide de préparation</span>
+    <span class="toc-toggle-icon">▾</span>
+  </summary>
+  <ol class="toc-list">
+    <li><a href="#peur">Pourquoi l'entretien d'embauche en anglais est un exercice à part</a></li>
+    <li><a href="#limites">Pourquoi réciter son CV par cœur ne suffit pas le jour J</a></li>
+    <li><a href="#systeme-ia">Prompt 1 : Simuler un entretien réaliste avec le mode vocal de ChatGPT</a></li>
+    <li><a href="#debrief">Prompt 2 : Obtenir un débriefing complet et extraire le vocabulaire métier</a></li>
+    <li><a href="#tuteurs-ia-entretien">S'entraîner au quotidien avant le jour J : l'intérêt d'un Tuteur Vocal IA</a></li>
+    <li><a href="#faq">Foire aux questions (FAQ)</a></li>
+  </ol>
 </details>
 
 ---
 
-<h2 id="peur">1. Pourquoi l'entretien d'embauche en anglais paralyse</h2>
+<h2 id="peur">1. Pourquoi l'entretien d'embauche en anglais est un exercice à part</h2>
 
-Discuter avec un collègue autour de la machine à café ou commander un café en vacances est une chose. Mais face à un recruteur anglophone, la dynamique change complètement :
+Échanger quelques phrases en voyage ou discuter de manière informelle avec un collègue est très différent d'un entretien de recrutement. Face à un recruteur, trois éléments augmentent la difficulté à l'oral :
 
-* **L'obligation de résultat :** Le but n'est pas d'être sympathique, mais de prouver ton expertise et de justifier ta valeur sur le marché.
-* **Le lexique métier :** Dès que la discussion glisse sur tes compétences techniques, le vocabulaire courant devient insuffisant.
-* **La pression du jugement :** Selon une étude relayée par <a href="https://presseagence.fr/paris-anglais-au-travail-4-francais-sur-10-en-difficulte-a-loral-un-frein-majeur-a-lemploi/" target="_blank" rel="noopener noreferrer">Presse Agence</a>, **47&nbsp;% des professionnels français** ressentent un stress important en situation de travail en anglais.
+- **La précision attendue :** il ne s'agit pas seulement de se faire comprendre globalement, mais d'expliquer clairement son parcours, ses responsabilités et ses résultats.
+- **Le vocabulaire spécifique à ton secteur :** dès que les questions portent sur tes compétences techniques, les tournures générales du quotidien ne suffisent plus.
+- **L'appréhension du jugement :** selon une enquête relayée par <a href="https://presseagence.fr/paris-anglais-au-travail-4-francais-sur-10-en-difficulte-a-loral-un-frein-majeur-a-lemploi/" target="_blank" rel="noopener noreferrer">Presse Agence</a>, **47 % des professionnels français** déclarent ressentir du stress lorsqu'ils doivent s'exprimer en anglais à l'oral dans un cadre professionnel.
 
 <div class="warning-callout">
-<strong>Le faux calcul :</strong> Croire que ton aisance générale suffira pour décrocher un poste exigeant. Si tu n'as pas préparé le jargon précis de ton secteur, ton cerveau cherchera ses mots et laissera s'installer de longs silences embarrassants.
+  <strong>Le point d'attention :</strong> Même avec un bon niveau de compréhension écrite, le manque d'habitude de parler à voix haute de son propre métier entraîne souvent des hésitations sur des mots techniques pourtant simples.
 </div>
 
 ---
 
-<h2 id="limites">2. Pourquoi les méthodes classiques échouent le jour J</h2>
+<h2 id="limites">2. Pourquoi réciter son CV par cœur ne suffit pas le jour J</h2>
 
-Pour ne pas bloquer en entretien, répéter un script préétabli devant son miroir ne sert à rien. Les recruteurs repèrent immédiatement les réponses apprises par cœur.
+Le réflexe le plus courant avant un entretien en anglais consiste à rédiger une présentation écrite et à l'apprendre par cœur devant son miroir. Cette approche montre vite ses limites en conditions réelles :
 
-Pourquoi la préparation classique échoue systématiquement :
-* **Le syndrome du monologue :** Réciter son CV donne une fausse confiance. À la première relance inattendue, le candidat perd pied.
-* **L'absence de contradiction :** Ton miroir ne relèvera jamais une incohérence dans tes arguments chiffrés.
-* **Le coût de l'échec :** Selon une étude <a href="https://www.ipsos.com/fr-fr/73-des-employeurs-estiment-redhibitoires-les-difficultes-sexprimer-lecrit" target="_blank" rel="noopener noreferrer">Ipsos</a>, **un tiers des employeurs** écartent d'office les candidats incapables de soutenir une argumentation claire à l'oral.
+- **Le piège du monologue :** réciter un texte préparé fonctionne pour la première question (*« Tell me about yourself »*), mais dès que le recruteur pose une question imprévue ou demande une précision, il faut improviser.
+- **Le manque d'interaction :** s'entraîner seul à l'écrit n'habitue pas l'oreille au rythme d'une discussion professionnelle ni à la reformulation spontanée.
 
-Pour être performant le jour J, il faut t'exposer à **l'imprévu d'un échange interactif sous contrainte**.
-
-<!-- Carte Outil CRO Loora AI -->
-<div class="tool-callout-card">
-<div class="tool-callout-content">
-<div class="tool-tag-row">
-<span class="tool-pill">ENTRAÎNEMENT VOCAL</span>
-</div>
-<h4>Bloqué à l'oral avant même d'aborder les questions techniques ?</h4>
-<p>Si la peur d'articuler ou d'hésiter sur tes mots te paralyse, entraîne-toi chaque matin avec <strong>Loora AI</strong>. C'est le coach vocal idéal pour déverrouiller tes automatismes d'élocution. Profite de <strong>10&nbsp;% de remise</strong> avec notre code exclusif :</p>
-<div class="promo-box">
-<span class="promo-label">Code promo :</span>
-<code id="promo-code" class="promo-code">PARLERMALIN10</code>
-<button class="btn-copy-code" onclick="copyPromoCode(this, 'promo-code')">Copier le code</button>
-</div>
-</div>
-<div class="tool-callout-action">
-<a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-tool-cta">
-<span>Essayer Loora avec -10 %</span>
-<span class="btn-arrow">&rarr;</span>
-</a>
-<a href="/loora-app-avis/" class="tool-sublink">Lire notre test complet de Loora App &nearr;</a>
-</div>
-</div>
+Pour arriver serein le jour de l'entretien, le meilleur entraînement consiste à **pratiquer le jeu des questions-réponses à voix haute** afin d'automatiser tes tournures de phrases.
 
 ---
 
-<h2 id="systeme-ia">3. Le système de l'Anti-Tuteur : 2 prompts pour simuler la réalité</h2>
+<h2 id="systeme-ia">3. Prompt 1 : Simuler un entretien réaliste avec le mode vocal de ChatGPT</h2>
 
-Voici notre méthode en deux temps pour configurer ChatGPT sur mobile et vivre un entretien d'embauche plus difficile que la réalité.
+Voici comment utiliser gratuitement l'application mobile ChatGPT (ou Gemini) pour simuler un entretien professionnel adapté au poste que tu vises.
 
-### Étape 1 : Le setup vocal sur mobile
-1. Ouvre l'application officielle ChatGPT sur ton smartphone.
-2. Démarre une nouvelle conversation en mode texte pour injecter les consignes de départ.
-3. Branche des écouteurs avec micro pour simuler les conditions d'un entretien réel en visioconférence.
-
-### Étape 2 : L'injection du persona (Le Recruteur Impitoyable)
-Copie ce premier prompt en remplaçant les éléments entre crochets :
+### Mode d'emploi rapide sur smartphone :
+1. Ouvre l'application ChatGPT sur ton téléphone.
+2. Colle le **Prompt 1** ci-dessous en complétant les informations entre crochets (poste visé et secteur d'activité).
+3. Dès que l'IA te salue, active l'**icône du mode vocal (ondes sonores)** en bas à droite pour répondre aux questions à voix haute.
 
 <div class="prompt-container" id="prompt-recruteur">
-<div class="prompt-bar">
-<span class="prompt-title">PROMPT 1 — LE RECRUTEUR EXIGEANT (JEU DE RÔLE)</span>
-<button class="btn-copy" onclick="copyPrompt('prompt-recruteur-code', this)">Copier le prompt</button>
-</div>
-<pre id="prompt-recruteur-code"><code class="prompt-code">Tu es [Indique le persona : ex. Tech Lead américain très exigeant, Directrice Financière basée à Londres], et tu me fais passer un entretien d'embauche en anglais pour le poste de [Intitulé du poste visé] dans le secteur [Secteur d'activité : ex. Fintech, SaaS B2B, Logistique].
+  <div class="prompt-bar">
+    <span class="prompt-title">PROMPT 1 — SIMULATION D'ENTRETIEN (JEU DE RÔLE)</span>
+    <button type="button" class="btn-copy" onclick="copyPrompt('prompt-recruteur-code', this)">Copier le prompt 📋</button>
+  </div>
+  <pre id="prompt-recruteur-code"><code class="prompt-code">Agis comme un recruteur professionnel anglophone [Indique le profil : ex. Responsable RH ou Manager technique basé à Londres / New York]. Tu me fais passer un entretien d'embauche en anglais pour le poste de [Intitulé du poste visé] dans le secteur [Secteur d'activité : ex. Marketing digital, Finance, Informatique, Logistique].
+RÈGLES DE LA SIMULATION :
+1. Mène l'entretien à 100 % en anglais du début à la fin.
+2. Adopte un ton professionnel, courtois mais exigeant.
+3. Pose tes questions UNE SEULE À LA FOIS et attends systématiquement ma réponse avant de continuer.
+4. Si l'une de mes réponses reste trop vague, pose-moi une question de relance pour me demander un exemple concret ("Can you give me a specific example?", "What was your exact role in this project?").
+5. Ne corrige pas mes fautes pendant l'échange pour garder une discussion fluide : garde toutes tes remarques pour le bilan final.
+DÉROULEMENT DE L'ENTRETIEN :
+- Une brève phrase d'accueil.
+- La question d'introduction ("Tell me about yourself").
+- 4 questions professionnelles et comportementales liées au poste.
+- Une conclusion où tu me demandes si j'ai des questions.
 
-RÈGLES STRICTES DE COMPORTEMENT :
-1. Tu incarnes ce personnage à 100% en anglais du début à la fin. Ne sors JAMAIS de ton rôle.
-2. Ton niveau d'exigence est maximal : tu es direct, professionnel, parfois sec et sans aucune complaisance.
-3. Pose tes questions UNE PAR UNE et attends impérativement ma réponse avant de continuer.
-4. Si ma réponse est trop générale ou manque de chiffres, recadre-moi immédiatement : "Can you give me a specific metric?", "What was your concrete role in this outcome?".
-5. Ne corrige AUCUNE faute pendant l'entretien. Garde toutes tes remarques pour le débriefing final.
-
-DÉROULEMENT DU JEU DE RÔLE :
-- Une phrase brève d'introduction dans ton rôle.
-- Une question d'échauffement ("Tell me about yourself").
-- 4 questions techniques et comportementales adaptées au poste.
-- 1 question piège typique de ce secteur.
-- Une clôture où tu me demandes si j'ai des questions.
-
-Commence l'entretien maintenant, uniquement en anglais, avec ta toute première réplique d'accueil.</code></pre>
+Commence l'entretien maintenant en anglais avec ta première question.</code></pre>
 </div>
 
 <figure class="article-figure figure-compact">
-<img src="/uploads/2026/07/prompt-ia-simulation-entretien-embauche-anglais-developpeur.avif" alt="Simulation d'entretien d'embauche en anglais avec ChatGPT" width="580" height="340" loading="lazy" />
-<figcaption>Simulation d'un entretien technique mené en direct via le mode vocal de ChatGPT.</figcaption>
+  <img src="/uploads/2026/07/prompt-ia-simulation-entretien-embauche-anglais-developpeur.avif" alt="Simulation d'entretien d'embauche en anglais avec ChatGPT" width="580" height="340" loading="lazy" />
+  <figcaption>Simulation d'un entretien professionnel mené avec le mode vocal de ChatGPT.</figcaption>
 </figure>
 
-<div class="tip-box">
-<strong>Action immédiate :</strong> Dès que l'IA a validé sa première réplique, appuie sur l'icône du casque audio (ou du micro) pour basculer en mode vocal et faire tout l'entretien à voix haute sans toucher ton écran.
-</div>
-
 ---
 
-<h2 id="debrief">4. Le débriefing post-entretien et l'extraction du vocabulaire</h2>
+<h2 id="debrief">4. Prompt 2 : Obtenir un débriefing complet et extraire le vocabulaire métier</h2>
 
-Une fois l'entretien terminé (ou après avoir tapé « STOP »), **reste impérativement dans la même discussion**. Colle ce second prompt pour obtenir l'analyse complète de ta prestation :
+Une fois les questions terminées, **reste dans la même conversation** et colle ce second prompt. L'IA va analyser tes réponses et te proposer des reformulations plus naturelles pour ton secteur :
 
 <div class="prompt-container">
-<div class="prompt-bar">
-<span class="prompt-title">PROMPT 2 — DÉBRIEFING DE COACH ET EXTRACTION TECHNIQUE</span>
-<button class="btn-copy" onclick="copyPrompt('prompt-debrief-code', this)">Copier le prompt</button>
-</div>
-<pre id="prompt-debrief-code"><code class="prompt-code">L'entretien est terminé. Sors complètement de ton personnage. Agis désormais comme un coach en recrutement international bilingue et donne-moi une analyse honnête et sans filtre de ma performance.
-
+  <div class="prompt-bar">
+    <span class="prompt-title">PROMPT 2 — DÉBRIEFING &amp; CORRECTIONS POST-ENTRETIEN</span>
+    <button type="button" class="btn-copy" onclick="copyPrompt('prompt-debrief-code', this)">Copier le prompt 📋</button>
+  </div>
+  <pre id="prompt-debrief-code"><code class="prompt-code">L'entretien est terminé. Agis maintenant comme un formateur d'anglais professionnel bilingue et fais-moi un bilan constructif de ma prestation.
 Rédige ton retour en français selon cette structure :
-1. NOTE GLOBALE (/10) justifiée en 2 phrases courtes.
-2. CORRECTIONS SYNTAXIQUES CHIRURGICALES
-   - Liste mes 3 erreurs de grammaire ou de prépositions les plus récurrentes avec pour chacune : [Ma phrase d'origine] -> [Version naturelle en anglais pro].
-   - Mes tics de langage ou mots répétés en boucle (ex: "actually", "like", "you know").
-3. EXTRACTION DU VOCABULAIRE MÉTIER MANQUANT
-   - Liste 5 termes ou expressions techniques que TU as utilisés pendant l'échange et que je n'ai pas su réemployer.
-   - Donne la traduction et un exemple de phrase en contexte pour le poste de [Intitulé du poste].
-4. ÉVALUATION DE LA MÉTHODE STAR
-   - Mes réponses suivaient-elles bien la structure STAR (Situation, Task, Action, Result) ? Étais-je assez orienté sur les résultats concrets ?
-5. LA PRIORITÉ
-   - La question précise sur laquelle j'ai le plus hésité et la meilleure façon d'y répondre.</code></pre>
+1. BILAN GÉNÉRAL : Résume en 2 phrases mes points forts et mon axe principal d'amélioration.
+2. CORRECTIONS ET REFORMULATIONS :
+   - Relève mes 3 principales erreurs de grammaire, de temps ou de vocabulaire en indiquant : [Ma phrase d'origine] -> [Reformulation naturelle en anglais professionnel].
+   - Signale mes éventuelles répétitions.
+3. VOCABULAIRE MÉTIER UTILE :
+   - Propose 5 termes ou verbes d'action professionnels adaptés au poste de [Intitulé du poste] que j'aurais pu placer pour enrichir mes réponses, avec leur traduction et une phrase d'exemple.
+4. STRUCTURE DES RÉPONSES (MÉTHODE STAR) :
+   - Indique si mes exemples étaient suffisamment structurés (Situation, Tâche, Action, Résultat) et montre-moi comment améliorer la réponse où j'ai le plus hésité.</code></pre>
 </div>
 
 <div class="tip-box">
-<strong>La stratégie de révision :</strong> Récupère les termes techniques extraits au point 3 et intègre-les immédiatement dans un deck de répétition espacée (voir notre tutoriel pour <a href="/creer-flashcards-anki-ia/">créer des flashcards Anki avec l'IA</a>).
+  <strong>💡 Astuce de révision :</strong> Note les 5 expressions professionnelles proposées par l'IA au point 3 et refais une courte simulation le lendemain en essayant de les placer naturellement à voix haute. Pour enrichir ton lexique par secteur, tu peux aussi consulter mes <a href="/prompts-chatgpt-vocabulaire-anglais/">7 prompts de vocabulaire anglais</a>.
 </div>
 
 ---
 
-<h2 id="faq">Foire aux questions</h2>
+<h2 id="tuteurs-ia-entretien">5. S'entraîner au quotidien avant le jour J : l'intérêt d'un Tuteur Vocal IA</h2>
+
+Les prompts sur ChatGPT sont très utiles pour faire une simulation ponctuelle à 0 €. En revanche, si ton entretien a lieu dans quelques semaines et que tu souhaites pratiquer tous les jours sans avoir à reconfigurer des consignes, ni risquer que l'IA oublie son rôle en cours de route, les applications de **tuteurs vocaux IA** offrent un cadre beaucoup plus complet.
+
+Pour passer de la théorie à une vraie pratique orale quotidienne sans avoir à copier-coller des prompts, les deux applications de **tuteurs vocaux IA** parmis les mieux notées proposent une approche très proche (simulations de conversations, conversations en direct, parcours personnalisé et corrections instantanées de la grammaire et de la prononciation) :
+
+- **Praktika AI :** tuteur vocal complet avec des avatars interactifs en 3D, différents accents (US, UK, Australien). Découvre mon <a href="/avis-praktika/"><strong>test et avis sur Praktika AI</strong></a> ainsi que le détail des <a href="/prix-praktika/"><strong>tarifs et l'offre à -50 %</strong></a>.
+- **Loora AI :** tuteur vocal complet avec une interface épurée dédiée à la pratique de l'anglais. Consulte mon <a href="/loora-app-avis/"><strong>test et avis sur Loora AI</strong></a> ainsi que le guide des <a href="/prix-loora-ai/"><strong>prix et le code promo -10 %</strong></a>.
+
+<div class="tool-callout-card">
+  <div class="tool-callout-content">
+    <div class="tool-tag-row">
+      <span class="tool-pill">PRÉPARER SON ORAL PRO</span>
+      <span class="tool-feature">Comparatif 2026</span>
+    </div>
+    <h4>Quel tuteur vocal IA choisir pour gagner en fluidité avant ton entretien ?</h4>
+    <p>Compare les fonctionnalités, les notes App Store et les tarifs des applications dédiées (Praktika AI, Loora AI) face aux assistants gratuits (ChatGPT, Gemini) dans mon dossier complet.</p>
+  </div>
+  <div class="tool-callout-action">
+    <a href="/meilleures-ia-anglais/" class="btn-tool-cta">Voir le comparatif des Tuteurs IA &rarr;</a>
+  </div>
+</div>
+
+---
+
+<h2 id="faq">Foire aux questions (FAQ)</h2>
 
 <details class="faq-card">
-<summary class="faq-title">Comment structurer la question « Tell me about yourself » en anglais ?</summary>
-<div class="faq-body">
-<p>Utilise la règle du Présent - Passé - Futur : résume ton rôle actuel et ton expertise (Present), mentionne un ou deux succès clés passés qui illustrent tes compétences (Past), puis explique précisément pourquoi cette opportunité s'inscrit dans la suite logique de ton plan de carrière (Future). Le tout doit durer moins de 90 secondes.</p>
-</div>
+  <summary class="faq-title">Comment structurer la réponse à « Tell me about yourself » en anglais ?</summary>
+  <div class="faq-body">
+    <p>La structure la plus simple est « Présent - Passé - Futur » : résume ton poste actuel et ton domaine de compétence (Present), cite une expérience ou réalisation marquante de ton parcours (Past), puis explique pourquoi le poste visé correspond à la suite logique de ton projet professionnel (Future), en 1 à 2 minutes maximum.</p>
+  </div>
 </details>
 
 <details class="faq-card">
-<summary class="faq-title">Que faire si je ne comprends pas la question du recruteur ?</summary>
-<div class="faq-body">
-<p>Ne fais surtout pas semblant de comprendre en hochant la tête. Utilise une formule professionnelle pour demander une clarification : « Could you clarify what you mean by [mot clé] ? » ou « Just to make sure I understand correctly, are you asking about [ton interprétation] ? ». Cela démontre de la précision et un vrai sens de la communication.</p>
-</div>
+  <summary class="faq-title">Que dire si je ne comprends pas une question du recruteur en anglais ?</summary>
+  <div class="faq-body">
+    <p>Il est tout à fait normal de demander une reformulation plutôt que de répondre à côté. Tu peux utiliser une phrase simple et professionnelle comme : « Could you please rephrase the question? » ou « Just to make sure I understand correctly, are you asking about…? ».</p>
+  </div>
 </details>
 
 <details class="faq-card">
-<summary class="faq-title">Qu'est-ce que la méthode STAR en entretien d'embauche ?</summary>
-<div class="faq-body">
-<p>STAR est l'acronyme de Situation (le contexte du problème), Task (ton objectif précis), Action (les démarches concrètes que tu as initiées) et Result (les retours mesurables et chiffrés obtenus). C'est le standard universel attendu par les recruteurs anglophones pour évaluer tes compétences comportementales.</p>
-</div>
+  <summary class="faq-title">Qu'est-ce que la méthode STAR en entretien d'embauche ?</summary>
+  <div class="faq-body">
+    <p>STAR signifie Situation (le contexte), Task (l'objectif ou la mission), Action (ce que tu as mis en place concrètement) et Result (les résultats obtenus). Cette structure aide à donner des réponses claires et organisées sans se perdre dans les détails.</p>
+  </div>
 </details>
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
-<span class="disclaimer-badge">Avertissement de méthode</span>
-<p>La simulation IA est un outil d'entraînement redoutable pour bâtir ses automatismes et maîtriser son argumentaire. Pour valider ta posture et ton accent sous le regard d'un véritable humain, confronte-toi au moins une fois à un tuteur natif spécialisé avant ton entretien décisif.</p>
+  <span class="disclaimer-badge">Note pratique</span>
+  <p>S'entraîner avec un simulateur ou un tuteur vocal IA permet de préparer ses arguments et de gagner en aisance à voix haute sans stress, en complément de ses recherches sur l'entreprise visée.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
-<span class="next-label">ÉTAPE SUIVANTE</span>
-<h3>Pratiquer l'anglais avec des natifs : le crash-test de la vraie vie</h3>
-<p>La préparation avec l'IA est terminée. Découvre comment trouver un tuteur professionnel pour tester ton pitch en conditions réelles avant le jour J.</p>
-<a href="/pratiquer-anglais-natifs/" class="btn-next">Pratiquer l'anglais avec des natifs sans stresser &rarr;</a>
+  <span class="next-label">COMPARATIF COMPLET 2026</span>
+  <h3>Trouve le Tuteur Vocal IA idéal pour débloquer ton anglais professionnel</h3>
+  <p>Tu veux pratiquer l'oral 10 à 15 minutes par jour pour être plus à l'aise en entretien et en réunion ? Découvre mon comparatif complet entre Praktika AI, Loora AI et ChatGPT Vocal.</p>
+  <a href="/meilleures-ia-anglais/" class="btn-next">Accéder au comparatif des meilleurs Tuteurs IA &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
-<div id="copy-toast" class="copy-toast" aria-live="polite">Prompt copié dans le presse-papier !</div>
+<div id="copy-toast" class="copy-toast" aria-live="polite">✓ Prompt copié dans le presse-papier !</div>
 
 <script is:inline>
 function copyPrompt(id, btn) {
-    const codeBlock = document.getElementById(id);
-    if (!codeBlock) return;
-    const text = codeBlock.innerText;
-    navigator.clipboard.writeText(text).then(() => {
-        const originalText = btn.innerText;
-        btn.innerText = "Copié !";
-        btn.classList.add("copied");
-
-        const toast = document.getElementById("copy-toast");
-        if (toast) {
-            toast.innerText = "Prompt copié dans le presse-papier !";
-            toast.classList.add("show");
-            setTimeout(() => {
-                toast.classList.remove("show");
-            }, 2500);
-        }
-
-        setTimeout(() => {
-            btn.innerText = originalText;
-            btn.classList.remove("copied");
-        }, 2000);
-    }).catch(err => {
-        console.error("Erreur lors de la copie : ", err);
-    });
-}
-
-function copyPromoCode(btn, elementId) {
-    const codeEl = document.getElementById(elementId);
-    if (!codeEl) return;
-    const text = codeEl.innerText.trim();
-    navigator.clipboard.writeText(text).then(() => {
-        const originalText = btn.innerText;
-        btn.innerText = "Copié !";
-        btn.classList.add("copied");
-
-        const toast = document.getElementById("copy-toast");
-        if (toast) {
-            toast.innerText = "Code promo copié !";
-            toast.classList.add("show");
-            setTimeout(() => {
-                toast.classList.remove("show");
-            }, 2500);
-        }
-
-        setTimeout(() => {
-            btn.innerText = originalText;
-            btn.classList.remove("copied");
-        }, 2000);
-    }).catch(err => {
-        console.error("Erreur lors de la copie du code : ", err);
-    });
+  var codeBlock = document.getElementById(id);
+  if (!codeBlock) return;
+  var text = codeBlock.innerText;
+  var triggerSuccess = function () {
+    var originalText = btn.innerText;
+    btn.innerText = "✓ Copié !";
+    btn.classList.add("copied");
+    var toast = document.getElementById("copy-toast");
+    if (toast) {
+      toast.innerText = "✓ Prompt copié dans le presse-papier !";
+      toast.classList.add("show");
+      setTimeout(function () {
+        toast.classList.remove("show");
+      }, 2500);
+    }
+    setTimeout(function () {
+      btn.innerText = originalText;
+      btn.classList.remove("copied");
+    }, 2000);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(triggerSuccess).catch(function () {});
+  } else {
+    var r = document.createRange();
+    r.selectNodeContents(codeBlock);
+    var s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(r);
+    try { document.execCommand("copy"); triggerSuccess(); } catch (e) {}
+  }
 }
 </script>
 
@@ -297,16 +261,29 @@ function copyPromoCode(btn, elementId) {
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://parlermalin.fr/" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://parlermalin.fr/blog/" },
+        { "@type": "ListItem", "position": 3, "name": "Entretien d'embauche en anglais", "item": "https://parlermalin.fr/peur-parler-anglais-entretien-embauche-ia/" }
+      ]
+    },
+    {
       "@type": "Article",
-      "headline": "Peur de parler anglais en entretien d'embauche : Le Hack IA",
-      "description": "La peur de parler anglais en entretien d'embauche te paralyse ? Simule l'exigence d'un vrai recruteur métier avec notre système IA. Découvre le guide pas à pas !",
+      "headline": "Peur de Parler Anglais en Entretien d'Embauche : S'entraîner en Direct avec l'IA",
+      "description": "Peur de parler anglais en entretien d'embauche ? Entraîne-toi en direct avec nos 2 prompts de simulation sur ChatGPT et découvre les meilleurs tuteurs vocaux IA.",
       "author": {
         "@type": "Person",
-        "name": "Jérémy de Parler Malin",
+        "name": "Jérémy",
         "url": "https://parlermalin.fr/a-propos/"
       },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Parler Malin",
+        "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" }
+      },
       "datePublished": "2026-07-24",
-      "dateModified": "2026-07-24",
+      "dateModified": "2026-11-09",
       "image": "https://parlermalin.fr/uploads/2026/07/peur-parler-anglais-entretien-embauche-chatgpt-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/peur-parler-anglais-entretien-embauche-ia/"
@@ -316,18 +293,18 @@ function copyPromoCode(btn, elementId) {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Comment structurer la question « Tell me about yourself » en anglais ?",
+          "name": "Comment structurer la réponse à « Tell me about yourself » en anglais ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Utilise la règle du Présent - Passé - Futur : résume ton rôle actuel et ton expertise (Present), mentionne un ou deux succès clés passés qui illustrent tes compétences (Past), puis explique précisément pourquoi cette opportunité s'inscrit dans la suite logique de ton plan de carrière (Future). Le tout doit durer moins de 90 secondes."
+            "text": "Utilise la structure Présent - Passé - Futur : résume ton poste actuel, mentionne une réalisation clé passée, puis explique pourquoi cette opportunité s'inscrit dans la suite logique de ton parcours, en moins de 2 minutes."
           }
         },
         {
           "@type": "Question",
-          "name": "Que faire si je ne comprends pas la question du recruteur ?",
+          "name": "Que dire si je ne comprends pas une question du recruteur en anglais ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ne fais surtout pas semblant de comprendre en hochant la tête. Utilise une formule professionnelle pour demander une clarification : « Could you clarify what you mean by [mot clé] ? » ou « Just to make sure I understand correctly, are you asking about [ton interprétation] ? ». Cela démontre de la précision et un vrai sens de la communication."
+            "text": "Utilise une formule simple et polie pour demander une clarification, comme « Could you please rephrase the question? » ou « Just to make sure I understand correctly, are you asking about…? »."
           }
         },
         {
@@ -335,7 +312,7 @@ function copyPromoCode(btn, elementId) {
           "name": "Qu'est-ce que la méthode STAR en entretien d'embauche ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "STAR est l'acronyme de Situation (le contexte du problème), Task (ton objectif précis), Action (les démarches concrètes que tu as initiées) et Result (les retours mesurables et chiffrés obtenus). C'est le standard universel attendu par les recruteurs anglophones pour évaluer tes compétences comportementales."
+            "text": "STAR est l'acronyme de Situation (le contexte), Task (l'objectif), Action (les démarches entreprises) et Result (les résultats obtenus). C'est une structure très utilisée pour présenter ses expériences de façon claire."
           }
         }
       ]
@@ -345,586 +322,90 @@ function copyPromoCode(btn, elementId) {
 </script>
 
 <style>
-    /* Titre & Fil d'Ariane */
-    .breadcrumb {
-        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-        font-size: 0.78rem;
-        color: #64748b;
-        margin-bottom: 0.85rem;
-    }
-    .breadcrumb a {
-        color: #475569;
-        text-decoration: none;
-    }
-    .breadcrumb a:hover {
-        color: #1a56db;
-    }
-    .breadcrumb .sep {
-        margin: 0 0.35rem;
-        color: #cbd5e1;
-    }
-    .breadcrumb .current {
-        color: #0f172a;
-        font-weight: 600;
-    }
-    .page-title {
-        font-size: clamp(1.85rem, 3.5vw, 2.35rem);
-        font-weight: 800;
-        line-height: 1.2;
-        letter-spacing: -0.03em;
-        color: #0f172a;
-        margin: 0.5rem 0 0.85rem 0;
-    }
-    .article-meta-bar {
-        display: flex;
-        align-items: center;
-        gap: 0.6rem;
-        font-size: 0.82rem;
-        color: #64748b;
-        margin-bottom: 1.25rem;
-        flex-wrap: wrap;
-    }
-    .article-meta-bar a {
-        color: #0f172a;
-        text-decoration: none;
-    }
-    .article-meta-bar .dot {
-        color: #cbd5e1;
-    }
-    .meta-badge {
-        background: #f1f5f9;
-        color: #475569;
-        font-family: ui-monospace, monospace;
-        font-size: 0.72rem;
-        padding: 0.15rem 0.5rem;
-        border-radius: 4px;
-        font-weight: 600;
-    }
-
-    /* 1. Bandeau Transparence concis */
-    .transparency-banner {
-        display: flex;
-        align-items: center;
-        gap: 0.65rem;
-        background: #f8fafc;
-        border: 1px solid #e2e8f0;
-        border-left: 3px solid #3b82f6;
-        border-radius: 6px;
-        padding: 0.6rem 0.95rem;
-        margin-bottom: 1.5rem;
-        font-size: 0.82rem;
-        color: #475569;
-    }
-    .transparency-banner p {
-        margin: 0;
-        line-height: 1.45;
-    }
-    .transparency-icon {
-        font-size: 1rem;
-        line-height: 1;
-        flex-shrink: 0;
-    }
-    .transparency-banner a {
-        color: #1a56db;
-        text-decoration: underline;
-        text-underline-offset: 2px;
-    }
-
-    /* 2. Bloc En Bref GEO */
-    .geo-box {
-        background: #ffffff;
-        border: 1px solid #e2e8f0;
-        border-radius: 12px;
-        padding: 1.4rem 1.5rem;
-        margin-bottom: 1.5rem;
-        box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
-    }
-    .geo-header {
-        margin-bottom: 0.9rem;
-        padding-bottom: 0.5rem;
-        border-bottom: 1px solid #f1f5f9;
-        font-family: ui-monospace, monospace;
-        font-size: 0.74rem;
-    }
-    .geo-tag {
-        font-weight: 700;
-        color: #1a56db;
-        letter-spacing: 0.04em;
-    }
-    .geo-list {
-        margin: 0 0 1.25rem 0;
-        padding-left: 1.2rem;
-        color: #334155;
-        font-size: 0.94rem;
-        line-height: 1.6;
-    }
-    .geo-list li {
-        margin-bottom: 0.6rem;
-    }
-    .geo-list li:last-child {
-        margin-bottom: 0;
-    }
-    .geo-cta-wrap {
-        padding-top: 0.85rem;
-        border-top: 1px solid #f1f5f9;
-    }
-    .btn-atf-action {
-        display: inline-flex;
-        align-items: center;
-        background: #1a56db !important;
-        color: #ffffff !important;
-        font-weight: 600;
-        font-size: 0.86rem;
-        padding: 0.6rem 1.15rem;
-        border-radius: 6px;
-        text-decoration: none !important;
-        transition: background-color 0.15s ease;
-    }
-    .btn-atf-action:hover {
-        background: #1e429f !important;
-    }
-
-    /* 3. Sommaire interactif rabattable */
-    .toc-card {
-        background: #f8fafc;
-        border: 1px solid #e2e8f0;
-        border-radius: 8px;
-        margin-bottom: 2.25rem;
-        overflow: hidden;
-    }
-    .toc-title {
-        padding: 0.8rem 1.1rem;
-        font-family: ui-monospace, SFMono-Regular, monospace;
-        font-size: 0.78rem;
-        font-weight: 700;
-        color: #0f172a;
-        letter-spacing: 0.04em;
-        cursor: pointer;
-        user-select: none;
-        list-style: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .toc-title::-webkit-details-marker {
-        display: none;
-    }
-    .toc-toggle-icon {
-        font-size: 0.95rem;
-        color: #64748b;
-        transition: transform 0.2s ease;
-    }
-    .toc-card[open] .toc-toggle-icon {
-        transform: rotate(180deg);
-        color: #1a56db;
-    }
-    .toc-list {
-        margin: 0;
-        padding: 0.6rem 1.1rem 1rem 2.2rem;
-        border-top: 1px solid #e2e8f0;
-        font-size: 0.88rem;
-        color: #475569;
-        line-height: 1.65;
-    }
-    .toc-list li {
-        margin-bottom: 0.35rem;
-    }
-    .toc-list a {
-        color: #1e293b;
-        text-decoration: none;
-    }
-    .toc-list a:hover {
-        color: #1a56db;
-        text-decoration: underline;
-    }
-
-    /* Figures & Images */
-    .article-figure {
-        margin: 1.5rem 0 1.75rem 0;
-        text-align: center;
-    }
-    .figure-compact img {
-        max-width: 580px;
-        width: 100%;
-        height: auto;
-        border-radius: 10px;
-        border: 1px solid #e2e8f0;
-        box-shadow: 0 4px 15px rgba(15, 23, 42, 0.05);
-        margin: 0 auto;
-        display: block;
-    }
-    .article-figure figcaption {
-        font-size: 0.8rem;
-        color: #64748b;
-        text-align: center;
-        margin-top: 0.55rem;
-    }
-
-    /* Boîtes de Prompts sombres */
-    .prompt-container {
-        background: #0d1117 !important;
-        border: 1px solid #30363d !important;
-        border-radius: 8px;
-        margin: 1.5rem 0 2rem;
-        overflow: hidden;
-    }
-    .prompt-bar {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        background: #161b22;
-        padding: 0.6rem 0.95rem;
-        border-bottom: 1px solid #30363d;
-    }
-    .prompt-title {
-        font-family: ui-monospace, monospace;
-        font-size: 0.74rem;
-        font-weight: 700;
-        letter-spacing: 0.04em;
-        color: #8b949e;
-    }
-    .btn-copy {
-        background: #21262d;
-        border: 1px solid #363b42;
-        border-radius: 6px;
-        padding: 0.3rem 0.75rem;
-        font-size: 0.74rem;
-        font-weight: 600;
-        color: #e6edf3;
-        cursor: pointer;
-        transition: all 0.15s ease;
-    }
-    .btn-copy:hover {
-        background: #30363d;
-        border-color: #8b949e;
-    }
-    .btn-copy.copied {
-        background: #238636;
-        border-color: #2ea043;
-        color: #ffffff;
-    }
-    .prompt-container pre {
-        margin: 0 !important;
-        padding: 1.15rem !important;
-        background: transparent !important;
-        overflow-x: auto;
-    }
-    .prompt-container pre,
-    .prompt-container code,
-    .prompt-container .prompt-code,
-    .prompt-container pre *,
-    .prompt-container code * {
-        color: #f0f6fc !important;
-        opacity: 1 !important;
-        font-family: ui-monospace, SFMono-Regular, Menlo, monospace !important;
-        font-size: 0.88rem !important;
-        line-height: 1.65 !important;
-        white-space: pre-wrap !important;
-        word-break: break-word !important;
-    }
-
-    /* Carte Outil CRO Loora AI */
-    .tool-callout-card {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 1.5rem;
-        background: #ffffff;
-        border: 1px solid #e2e8f0;
-        border-radius: 12px;
-        padding: 1.35rem 1.4rem;
-        margin: 1.75rem 0 2rem 0;
-        box-shadow: 0 2px 8px rgba(15, 23, 42, 0.03);
-    }
-    .tool-tag-row {
-        display: flex;
-        align-items: center;
-        gap: 0.6rem;
-        margin-bottom: 0.5rem;
-        flex-wrap: wrap;
-    }
-    .tool-pill {
-        font-family: ui-monospace, monospace;
-        font-size: 0.68rem;
-        font-weight: 700;
-        color: #1a56db;
-        background: #ebf5ff;
-        padding: 0.15rem 0.5rem;
-        border-radius: 4px;
-        letter-spacing: 0.04em;
-    }
-    .tool-feature {
-        font-family: ui-monospace, monospace;
-        font-size: 0.72rem;
-        color: #64748b;
-    }
-    .tool-callout-content h4 {
-        margin: 0 0 0.35rem 0;
-        font-size: 0.98rem;
-        font-weight: 700;
-        color: #0f172a;
-    }
-    .tool-callout-content p {
-        margin: 0 0 0.85rem 0;
-        font-size: 0.88rem;
-        color: #475569;
-        line-height: 1.5;
-    }
-    .promo-box {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.45rem;
-        background: #f1f5f9;
-        border: 1px dashed #cbd5e1;
-        padding: 0.35rem 0.65rem;
-        border-radius: 6px;
-        font-size: 0.8rem;
-    }
-    .promo-label {
-        color: #475569;
-        font-weight: 600;
-    }
-    .promo-code {
-        font-family: ui-monospace, SFMono-Regular, monospace;
-        font-weight: 800;
-        color: #0f172a;
-        background: #ffffff;
-        padding: 0.15rem 0.4rem;
-        border-radius: 4px;
-        border: 1px solid #e2e8f0;
-    }
-    .btn-copy-code {
-        background: #0f172a;
-        color: #ffffff;
-        border: none;
-        border-radius: 4px;
-        padding: 0.2rem 0.5rem;
-        font-size: 0.72rem;
-        font-weight: 600;
-        cursor: pointer;
-        transition: background 0.15s ease;
-    }
-    .btn-copy-code:hover {
-        background: #1e293b;
-    }
-    .btn-copy-code.copied {
-        background: #059669;
-    }
-    .tool-callout-action {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.4rem;
-        flex-shrink: 0;
-    }
-    .btn-tool-cta {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.4rem;
-        white-space: nowrap;
-        background: #1a56db !important;
-        color: #ffffff !important;
-        font-weight: 600;
-        font-size: 0.84rem;
-        padding: 0.65rem 1.15rem;
-        border-radius: 7px;
-        text-decoration: none !important;
-        transition: background-color 0.15s ease;
-    }
-    .btn-tool-cta:hover {
-        background: #1e429f !important;
-    }
-    .tool-sublink {
-        font-size: 0.76rem;
-        color: #1a56db;
-        text-decoration: underline;
-        text-underline-offset: 2px;
-    }
-
-    /* Encarts & Callouts */
-    .tip-box {
-        background: #f8fafc;
-        border: 1px solid #e2e8f0;
-        border-left: 3px solid #1a56db;
-        border-radius: 8px;
-        padding: 1rem 1.25rem;
-        font-size: 0.9rem;
-        color: #475569;
-        margin: 1.5rem 0;
-    }
-    .tip-box a {
-        color: #1a56db;
-        text-decoration: underline;
-        font-weight: 600;
-    }
-    .warning-callout {
-        background: #fffbeb;
-        border: 1px solid #fef3c7;
-        border-left: 3px solid #f59e0b;
-        border-radius: 8px;
-        padding: 1rem 1.25rem;
-        font-size: 0.9rem;
-        color: #92400e;
-        margin: 1.5rem 0;
-    }
-
-    /* FAQ */
-    .faq-card {
-        background: #ffffff;
-        border: 1px solid #e2e8f0;
-        border-radius: 8px;
-        margin-bottom: 0.65rem;
-        overflow: hidden;
-        transition: border-color 0.15s ease;
-    }
-    .faq-card[open] {
-        border-color: #cbd5e1;
-    }
-    .faq-title {
-        padding: 0.9rem 1.15rem;
-        font-weight: 700;
-        font-size: 0.95rem;
-        color: #0f172a;
-        cursor: pointer;
-        user-select: none;
-        list-style: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .faq-title::-webkit-details-marker {
-        display: none;
-    }
-    .faq-title::after {
-        content: "+";
-        font-size: 1.2rem;
-        font-weight: 400;
-        color: #64748b;
-    }
-    .faq-card[open] .faq-title::after {
-        content: "−";
-        color: #1a56db;
-    }
-    .faq-body {
-        padding: 0 1.15rem 1.15rem;
-        color: #475569;
-        font-size: 0.92rem;
-        line-height: 1.6;
-    }
-    .faq-body p {
-        margin: 0;
-    }
-
-    /* Disclaimer IA */
-    .disclaimer-callout {
-        background: #fafafc;
-        border: 1px solid #e2e8f0;
-        border-left: 3px solid #64748b;
-        border-radius: 6px;
-        padding: 0.85rem 1.1rem;
-        margin: 2.5rem 0 1.5rem 0;
-    }
-    .disclaimer-badge {
-        font-family: ui-monospace, SFMono-Regular, monospace;
-        font-size: 0.68rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        color: #475569;
-        letter-spacing: 0.05em;
-        display: block;
-        margin-bottom: 0.25rem;
-    }
-    .disclaimer-callout p {
-        margin: 0;
-        font-size: 0.86rem;
-        color: #64748b;
-        line-height: 1.5;
-    }
-
-    /* Rebond Guide */
-    .next-step-card {
-        background: #ffffff;
-        border: 1px solid #e2e4e9;
-        border-radius: 10px;
-        padding: 1.5rem;
-        margin-top: 2rem;
-    }
-    .next-label {
-        font-family: ui-monospace, monospace;
-        font-size: 0.72rem;
-        font-weight: 700;
-        color: #1a56db;
-        letter-spacing: 0.05em;
-    }
-    .next-step-card h3 {
-        margin: 0.4rem 0;
-        font-size: 1.2rem;
-        color: #0f172a;
-    }
-    .next-step-card p {
-        color: #475569;
-        font-size: 0.92rem;
-        margin: 0 0 1.2rem;
-    }
-    .btn-next,
-    .btn-next:visited {
-        display: inline-block;
-        background: #1a56db !important;
-        color: #ffffff !important;
-        font-weight: 600;
-        font-size: 0.88rem;
-        padding: 0.6rem 1.15rem;
-        border-radius: 6px;
-        text-decoration: none !important;
-        transition: background-color 0.15s ease;
-    }
-    .btn-next:hover,
-    .btn-next:focus {
-        background: #1e429f !important;
-        color: #ffffff !important;
-        text-decoration: none !important;
-    }
-
-    /* Toast */
-    .copy-toast {
-        position: fixed;
-        bottom: 2rem;
-        right: 2rem;
-        background: #0f172a;
-        color: #ffffff;
-        border: 1px solid #334155;
-        padding: 0.75rem 1.2rem;
-        border-radius: 8px;
-        font-size: 0.88rem;
-        font-weight: 600;
-        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-        opacity: 0;
-        visibility: hidden;
-        transform: translateY(12px);
-        transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
-        z-index: 9999;
-    }
-    .copy-toast.show {
-        opacity: 1;
-        visibility: visible;
-        transform: translateY(0);
-    }
-
-    @media (max-width: 640px) {
-        .tool-callout-card {
-            flex-direction: column;
-            align-items: flex-start;
-        }
-        .tool-callout-action {
-            width: 100%;
-        }
-        .btn-tool-cta {
-            width: 100%;
-            justify-content: center;
-        }
-        .btn-atf-action {
-            width: 100%;
-            justify-content: center;
-        }
-    }
+.breadcrumb{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.76rem;color:#64748b;margin-bottom:.5rem}
+.breadcrumb a{color:#475569;text-decoration:none}.breadcrumb a:hover{color:#1a56db}
+.breadcrumb .sep{margin:0 .35rem;color:#cbd5e1}.breadcrumb .current{color:#0f172a;font-weight:600}
+.page-title{font-size:clamp(1.65rem,4vw,2.35rem);font-weight:800;line-height:1.18;letter-spacing:-.03em;color:#0f172a;margin:.25rem 0 .6rem}
+.article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.45rem;flex-wrap:wrap}
+.article-meta-bar a{color:#0f172a;text-decoration:none}.article-meta-bar .dot{color:#cbd5e1}
+.transparency-inline{font-size:.74rem;color:#64748b;margin:0 0 1.15rem;line-height:1.4}
+.transparency-inline a{color:#1a56db;text-decoration:underline;text-underline-offset:2px}
+.geo-box{background:#fff;border:1.5px solid #bfdbfe;border-radius:16px;padding:1.35rem;margin-bottom:1.35rem;box-shadow:0 10px 25px -5px rgba(26,86,219,.06)}
+.geo-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.85rem;padding-bottom:.65rem;border-bottom:1px solid #f1f5f9;font-family:ui-monospace,monospace;font-size:.74rem}
+.geo-tag{font-weight:800;color:#1a56db;letter-spacing:.04em;background:#eff6ff;padding:.2rem .55rem;border-radius:6px}
+.geo-meta{color:#475569;font-weight:700;font-size:.73rem}
+.geo-verdict{font-size:.95rem;color:#1e293b;line-height:1.55;margin:0 0 1rem}
+.geo-verdict strong{color:#0f172a}
+.geo-specs{display:flex;flex-direction:column;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:.85rem 1rem;margin-bottom:1.1rem}
+.geo-spec-row{display:flex;justify-content:space-between;align-items:baseline;gap:.75rem;font-size:.86rem;line-height:1.4}
+.spec-label{font-weight:700;color:#475569;white-space:nowrap;flex-shrink:0}
+.spec-val{color:#0f172a;text-align:right;font-weight:500}
+.geo-cta-wrap{display:flex;flex-direction:column}
+.btn-atf-action{display:inline-flex;align-items:center;justify-content:center;background:#1a56db!important;color:#fff!important;font-weight:700;font-size:.94rem;padding:.85rem 1.25rem;border-radius:10px;text-decoration:none!important;transition:background-color .15s ease;width:100%;box-sizing:border-box}
+.btn-atf-action:hover{background:#1e429f!important}
+.toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;margin-bottom:2rem;overflow:hidden}
+.toc-title{padding:.9rem 1.1rem;font-family:ui-monospace,SFMono-Regular,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.toc-title::-webkit-details-marker{display:none}
+.toc-toggle-icon{font-size:.95rem;color:#64748b;transition:transform .2s ease}
+.toc-card[open] .toc-toggle-icon{transform:rotate(180deg);color:#1a56db}
+.toc-list{margin:0;padding:.6rem 1.1rem 1rem 2.2rem;border-top:1px solid #e2e8f0;font-size:.88rem;color:#475569;line-height:1.7}
+.toc-list li{margin-bottom:.35rem}
+.toc-list a{color:#1e293b;text-decoration:none;font-weight:500}.toc-list a:hover{color:#1a56db;text-decoration:underline}
+.article-figure{margin:1.5rem 0 1.75rem;text-align:center}
+.figure-compact img{max-width:580px;width:100%;height:auto;border-radius:10px;border:1px solid #e2e8f0;box-shadow:0 4px 15px rgba(15,23,42,.05);margin:0 auto;display:block}
+.article-figure figcaption{font-size:.8rem;color:#64748b;text-align:center;margin-top:.55rem}
+.prompt-container{background:#0d1117!important;border:1px solid #30363d!important;border-radius:10px;margin:1.5rem 0 2rem;overflow:hidden}
+.prompt-bar{display:flex;justify-content:space-between;align-items:center;background:#161b22;padding:.65rem 1rem;border-bottom:1px solid #30363d;gap:.5rem;flex-wrap:wrap}
+.prompt-title{font-family:ui-monospace,monospace;font-size:.74rem;font-weight:700;letter-spacing:.04em;color:#8b949e}
+.btn-copy{background:#2563eb;border:1px solid #3b82f6;border-radius:6px;padding:.35rem .85rem;font-size:.76rem;font-weight:700;color:#fff;cursor:pointer;transition:all .15s ease}
+.btn-copy:hover{background:#1d4ed8}
+.btn-copy.copied{background:#059669;border-color:#10b981;color:#fff}
+.prompt-container pre{margin:0!important;padding:1.15rem!important;background:transparent!important;overflow-x:auto}
+.prompt-container pre,.prompt-container code,.prompt-container .prompt-code{color:#f0f6fc!important;font-family:ui-monospace,SFMono-Regular,Menlo,monospace!important;font-size:.86rem!important;line-height:1.65!important;white-space:pre-wrap!important;word-break:break-word!important}
+.tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:1rem 1.25rem;font-size:.9rem;color:#475569;margin:1.5rem 0;line-height:1.55}
+.tip-box a{color:#1a56db;text-decoration:underline;font-weight:600}
+.warning-callout{background:#fffbeb;border:1px solid #fef3c7;border-left:3px solid #f59e0b;border-radius:8px;padding:1rem 1.25rem;font-size:.9rem;color:#92400e;margin:1.5rem 0;line-height:1.55}
+.tool-callout-card{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;background:linear-gradient(to right,#ffffff,#eff6ff);border:1.5px solid #93c5fd;border-radius:14px;padding:1.35rem 1.4rem;margin:1.75rem 0 2rem;box-shadow:0 4px 15px rgba(26,86,219,.06)}
+.tool-tag-row{display:flex;align-items:center;gap:.6rem;margin-bottom:.5rem;flex-wrap:wrap}
+.tool-pill{font-family:ui-monospace,monospace;font-size:.68rem;font-weight:800;color:#1a56db;background:#dbeafe;padding:.2rem .55rem;border-radius:4px;letter-spacing:.04em}
+.tool-feature{font-family:ui-monospace,monospace;font-size:.72rem;color:#475569;font-weight:600}
+.tool-callout-content h4{margin:0 0 .4rem;font-size:1.05rem;font-weight:800;color:#0f172a}
+.tool-callout-content p{margin:0;font-size:.88rem;color:#475569;line-height:1.55}
+.btn-tool-cta{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;background:linear-gradient(135deg,#2563eb 0%,#1a56db 100%)!important;color:#fff!important;font-weight:700;font-size:.9rem;padding:.8rem 1.25rem;border-radius:8px;text-decoration:none!important;box-shadow:0 4px 12px rgba(26,86,219,.25);transition:transform .15s ease}
+.btn-tool-cta:hover{transform:translateY(-1px)}
+.faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.65rem;overflow:hidden}
+.faq-card[open]{border-color:#cbd5e1}
+.faq-title{padding:.9rem 1.15rem;font-weight:700;font-size:.93rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
+.faq-title::-webkit-details-marker{display:none}
+.faq-title::after{content:"+";font-size:1.2rem;font-weight:400;color:#64748b;flex-shrink:0}
+.faq-card[open] .faq-title::after{content:"−";color:#1a56db}
+.faq-body{padding:0 1.15rem 1.1rem;color:#475569;font-size:.9rem;line-height:1.6}
+.faq-body p{margin:0}
+.disclaimer-callout{background:#fafafc;border:1px solid #e2e8f0;border-left:3px solid #64748b;border-radius:6px;padding:.85rem 1.1rem;margin:2.5rem 0 1.5rem}
+.disclaimer-badge{font-family:ui-monospace,SFMono-Regular,monospace;font-size:.68rem;font-weight:700;text-transform:uppercase;color:#475569;letter-spacing:.05em;display:block;margin-bottom:.25rem}
+.disclaimer-callout p{margin:0;font-size:.84rem;color:#64748b;line-height:1.5}
+.next-step-card{background:#0f172a;color:#fff;border-radius:16px;padding:2rem 1.75rem;margin:2rem 0 1rem;text-align:center;box-shadow:0 15px 30px -10px rgba(15,23,42,.25)}
+.next-label{font-family:ui-monospace,monospace;font-size:.72rem;font-weight:800;color:#60a5fa;letter-spacing:.06em;display:block;margin-bottom:.45rem}
+.next-step-card h3{margin:0 0 .65rem;font-size:1.35rem;color:#fff;font-weight:800}
+.next-step-card p{color:#cbd5e1;font-size:.92rem;margin:0 auto 1.35rem;max-width:560px;line-height:1.6}
+.btn-next,.btn-next:visited{display:inline-flex;align-items:center;justify-content:center;background:#2563eb!important;color:#fff!important;font-weight:700;font-size:.95rem;padding:.9rem 1.5rem;border-radius:10px;text-decoration:none!important;box-shadow:0 4px 14px rgba(37,99,235,.35);transition:transform .15s ease,background-color .15s ease;box-sizing:border-box}
+.btn-next:hover{background:#1d4ed8!important;transform:translateY(-1px)}
+.copy-toast{position:fixed;bottom:2rem;left:50%;transform:translate(-50%,12px);background:#0f172a;color:#fff;border:1px solid #334155;padding:.65rem 1.2rem;border-radius:99px;font-size:.84rem;font-weight:600;box-shadow:0 10px 25px rgba(0,0,0,.25);opacity:0;visibility:hidden;transition:opacity .2s ease,transform .2s ease,visibility .2s;z-index:9999;white-space:nowrap}
+.copy-toast.show{opacity:1;visibility:visible;transform:translate(-50%,0)}
+@media (max-width:768px){
+  .breadcrumb{font-size:.7rem;margin-bottom:.35rem}
+  .page-title{font-size:1.5rem;line-height:1.2;margin:.15rem 0 .5rem}
+  .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.35rem}
+  .transparency-inline{font-size:.71rem;margin-bottom:1rem}
+  .geo-box{padding:1.1rem;margin-bottom:1.15rem;border-radius:14px}
+  .geo-header{margin-bottom:.65rem;padding-bottom:.5rem}
+  .geo-verdict{font-size:.88rem;line-height:1.5;margin-bottom:.85rem}
+  .geo-specs{padding:.75rem .85rem;gap:.55rem;margin-bottom:.95rem}
+  .geo-spec-row{flex-direction:column;gap:.1rem;font-size:.83rem}
+  .spec-val{text-align:left}
+  .tool-callout-card{flex-direction:column;align-items:stretch;padding:1.15rem;gap:1rem}
+  .btn-tool-cta,.btn-next,.btn-atf-action{width:100%;min-height:50px}
+  .next-step-card{padding:1.5rem 1.2rem}
+  .next-step-card h3{font-size:1.2rem}
+}
 </style>

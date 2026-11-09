@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/08/avis-italki-test-application-scaled.avif"
 heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 
 <h1 class="page-title">Avis italki : Mon Test Complet (et comment obtenir 10$ Offerts)</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -30,14 +28,12 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 <span class="dot">•</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
 
 </div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -52,9 +48,7 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 </div>
 </div>
 
-<!-- ========================================== -->
-<!-- CARTE VERDICT CRO SCORECARD                -->
-<!-- ========================================== -->
+
 <div class="review-scorecard">
 <div class="scorecard-top">
 <div class="scorecard-brand">
@@ -107,7 +101,6 @@ heroImageAlt: "Avis et test complet de la plateforme de tuteurs d'anglais italki
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire de l'évaluation</span>
@@ -207,7 +200,6 @@ Beaucoup d'apprenants cherchent un **code promo italki** sur Google dans l'espoi
 
 La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de passer par un lien partenaire de parrainage lors de la création initiale de ton compte.
 
-<!-- Carte Outil CRO italki (Offre 10$) -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -261,13 +253,11 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
 
 ---
 
-<!-- Disclaimer légal & transparence -->
 <div class="disclaimer-callout">
 <span class="disclaimer-badge">Avertissement de transparence</span>
 <p>Les tarifs affichés sont fixés librement par les professeurs indépendants sur italki. La conversion en euros peut varier selon le taux de change et les éventuels frais de paiement international de ta banque. Vérifie systématiquement le montant total facturé avant de valider ta réservation.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">REBOND MÉTHODE</span>
 <p class="next-step-title">Comment bien préparer sa première leçon avec un natif ?</p>
@@ -358,7 +348,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
 </script>
 
 <style>
-    /* Titre & Fil d'Ariane */
     .breadcrumb {
         font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
         font-size: 0.78rem;
@@ -414,7 +403,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         font-weight: 600;
     }
 
-    /* 1. Bandeau Transparence concis */
     .transparency-banner {
         display: flex;
         align-items: center;
@@ -443,7 +431,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         text-underline-offset: 2px;
     }
 
-    /* 2. Bloc En Bref GEO */
     .geo-box {
         background: #ffffff;
         border: 1px solid #e2e8f0;
@@ -504,9 +491,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         background: #1e429f !important;
     }
 
-    /* ======================================= */
-    /* CARTE VERDICT CRO SCORECARD             */
-    /* ======================================= */
     .review-scorecard {
         background: #ffffff;
         border: 2px solid #e2e8f0;
@@ -570,7 +554,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         font-weight: 700;
     }
 
-    /* Grille Avantages / Inconvénients */
     .pros-cons-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -606,7 +589,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         margin-bottom: 0.4rem;
     }
 
-    /* Action Bar Scorecard */
     .scorecard-action-bar {
         background: #ebf5ff;
         border: 1px solid #bfdbfe;
@@ -665,7 +647,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         flex-wrap: wrap;
     }
 
-    /* 3. Sommaire interactif rabattable */
     .toc-card {
         background: #f8fafc;
         border: 1px solid #e2e8f0;
@@ -719,7 +700,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         text-decoration: underline;
     }
 
-    /* Figures & Images */
     .article-figure {
         margin: 1.5rem 0 1.75rem 0;
         text-align: center;
@@ -734,7 +714,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         margin: 0 auto;
         display: block;
     }
-    /* Format smartphone compact pour éviter d'occuper toute la hauteur */
     .figure-phone img {
         max-width: 240px;
         width: 100%;
@@ -754,7 +733,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         margin-top: 0.55rem;
     }
 
-    /* Encarts & Callouts */
     .tip-box {
         background: #f8fafc;
         border: 1px solid #e2e8f0;
@@ -766,7 +744,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         margin: 1.5rem 0;
     }
 
-    /* Carte Outil CRO italki */
     .tool-callout-card {
         display: flex;
         align-items: center;
@@ -850,7 +827,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         font-weight: 500;
     }
 
-    /* FAQ */
     .faq-card {
         background: #ffffff;
         border: 1px solid #e2e8f0;
@@ -897,7 +873,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         margin: 0;
     }
 
-    /* Disclaimer IA */
     .disclaimer-callout {
         background: #fafafc;
         border: 1px solid #e2e8f0;
@@ -923,7 +898,6 @@ La seule méthode officielle pour bénéficier d'un crédit de bienvenue est de 
         line-height: 1.5;
     }
 
-    /* Rebond Guide */
     .next-step-card {
         background: #ffffff;
         border: 1px solid #e2e4e9;

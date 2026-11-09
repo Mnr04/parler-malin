@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/07/chatgpt-conjugaison-anglaise-768x429.avif"
 heroImageAlt: "Maîtriser la conjugaison anglaise en contexte réel avec ChatGPT"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Maîtriser la conjugaison anglaise en contexte réel avec ChatGPT
 
 <h1 class="page-title">Maîtriser la conjugaison anglaise avec ChatGPT (2026)</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -29,7 +27,6 @@ heroImageAlt: "Maîtriser la conjugaison anglaise en contexte réel avec ChatGPT
 <span>Temps de lecture : 6 min</span>
 </div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -44,7 +41,6 @@ heroImageAlt: "Maîtriser la conjugaison anglaise en contexte réel avec ChatGPT
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du guide</span>
@@ -205,7 +201,6 @@ Analyse ma phrase selon ces consignes strictes :
 <img src="/uploads/2026/07/chatgpt-conjugaison-anglais-correction-phrase.avif" alt="Correction personnalisée d'une phrase en anglais et explication de la règle" width="580" height="320" loading="lazy" />
 <figcaption>Explication simple de la règle enfreinte sans jargon théorique.</figcaption>
 </figure>
-<!-- 1. Bandeau Vigilance IA -->
 <div class="transparency-banner">
 <span class="transparency-icon">⚠️</span>
 <p><strong>Vigilance IA :</strong> Même très performante, l'IA peut parfois valider une tournure imprécise ou une règle simplifiée. Utilise ces prompts pour forger tes réflexes en contexte et vérifie toujours auprès d'un dictionnaire de référence en cas de doute persistant.</p>
@@ -244,7 +239,6 @@ Analyse ma phrase selon ces consignes strictes :
 
 ---
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">ÉTAPE SUIVANTE</span>
 <h3>Comment créer ta routine d'anglais avec ChatGPT</h3>
@@ -252,7 +246,6 @@ Analyse ma phrase selon ces consignes strictes :
 <a href="/routine-anglais-chatgpt/" class="btn-next">Créer sa routine d'anglais avec ChatGPT (15 min/jour) &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Prompt copié dans le presse-papier !</div>
 
 <script is:inline>

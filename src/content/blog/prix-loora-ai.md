@@ -10,14 +10,12 @@ heroImage: "/uploads/2026/09/loora-ai-tarif-scaled.avif"
 heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo et coupon de réduction de -10 %"
 ---
 
-<!-- Fil d'Ariane -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Prix Loora AI</span>
 </nav>
 
 <h1 class="page-title">Prix Loora AI 2026 : Tarifs, Abonnement et Code Promo (-10 %)</h1>
 
-<!-- E-E-A-T -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
@@ -26,19 +24,15 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
   <span>⏱️ 6 min</span>
 </div>
 
-<!-- Réponse directe (texte brut lisible par Google) -->
 <div class="quick-answer">
   <p><strong>Loora AI coûte 25,99 $ pour 1 mois, 59,99 $ pour 3 mois ou 119,99 $ pour 1 an</strong>, soit environ 8,30 €/mois sur l'annuel avec le code promo <strong>PARLERMALIN10</strong> (-10 %). Tu veux d'abord un retour d'expérience ? <a href="/loora-app-avis/">Lis mon avis complet sur Loora AI</a>.</p>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
-<!-- ========================================== -->
-<!-- 2. Code Promo Hero Card (CRO Mobile-First) -->
-<!-- ========================================== -->
+
 <div class="voucher-hero-card">
   <div class="voucher-top-bar">
     <span class="voucher-badge">🔥 Offre vérifiée en novembre 2026</span>
@@ -83,7 +77,6 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
   </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire du guide des tarifs</span>
@@ -323,13 +316,11 @@ Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiq
 
 ---
 
-<!-- Disclaimer avant l'action suivante -->
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Avertissement de transparence</span>
   <p>Les tarifs mentionnés ont été vérifiés en novembre 2026. Loora se réserve le droit de modifier ses grilles tarifaires et ses offres promotionnelles. Vérifie toujours le montant total affiché dans ton panier avant de finaliser ton achat.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
   <span class="next-label">À LIRE AUSSI</span>
   <h3>Loora AI vaut-il vraiment son prix ? Mon test complet</h3>
@@ -337,7 +328,6 @@ Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiq
   <a href="/loora-app-avis/" class="btn-next">Lire mon avis complet sur Loora AI &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar avec Copie en 1 Tap -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Loora AI <span class="sticky-discount">-10 %</span></span>
@@ -350,7 +340,6 @@ Comment se positionne le tarif de Loora AI face aux autres solutions pour pratiq
   </a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Code promo copié !</div>
 
 <script is:inline>
@@ -564,7 +553,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 <style>
-/* Titre & Fil d'Ariane */
 .breadcrumb{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.76rem;color:#64748b;margin-bottom:.5rem}
 .breadcrumb a{color:#475569;text-decoration:none}.breadcrumb a:hover{color:#1a56db}
 .breadcrumb .sep{margin:0 .35rem;color:#cbd5e1}.breadcrumb .current{color:#0f172a;font-weight:600}
@@ -574,20 +562,15 @@ document.addEventListener("DOMContentLoaded", function () {
 .article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.85rem;flex-wrap:wrap}
 .article-meta-bar a{color:#0f172a;text-decoration:none}.article-meta-bar .dot{color:#cbd5e1}
 
-/* Réponse directe sous le H1 */
 .quick-answer{background:#fff;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:.7rem .9rem;margin-bottom:.85rem;font-size:.92rem;color:#1e293b;line-height:1.5}
 .quick-answer p{margin:0}
 .quick-answer a{color:#1a56db;text-decoration:underline;text-underline-offset:2px;font-weight:600}
 
-/* 1. Bandeau Transparence concis */
 .transparency-banner{display:flex;align-items:center;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #3b82f6;border-radius:6px;padding:.45rem .75rem;margin-bottom:1rem;font-size:.76rem;color:#475569}
 .transparency-banner p{margin:0;line-height:1.35}
 .transparency-icon{font-size:.95rem;line-height:1;flex-shrink:0}
 .transparency-banner a{color:#1a56db;text-decoration:underline;text-underline-offset:2px}
 
-/* ======================================= */
-/* 2. STYLE VOUCHER HERO CARD (CRO MAX) */
-/* ======================================= */
 .voucher-hero-card{background:#fff;border:2px solid #1a56db;border-radius:16px;padding:1.35rem 1.45rem;margin-bottom:1.75rem;box-shadow:0 10px 30px rgba(26,86,219,.08);position:relative;overflow:hidden}
 .voucher-top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:.75rem;flex-wrap:wrap;gap:.5rem}
 .voucher-badge{background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-family:ui-monospace,monospace;font-size:.72rem;font-weight:800;padding:.2rem .6rem;border-radius:99px;letter-spacing:.03em}
@@ -596,7 +579,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .voucher-header-text{margin-bottom:.85rem}
 .voucher-headline{font-size:clamp(1.3rem,2.5vw,1.65rem);font-weight:800;color:#0f172a;line-height:1.22;margin:0;letter-spacing:-.02em}
 
-/* Grille des 3 prix remisés visible d'un coup d'œil */
 .voucher-pricing-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:.6rem;background:#f8fafc;padding:.65rem;border-radius:12px;margin-bottom:1rem;border:1px solid #f1f5f9}
 .price-pill{background:#fff;border:1px solid #e2e8f0;border-radius:8px;padding:.5rem .35rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center}
 .price-pill .plan-name{font-size:.75rem;color:#64748b;font-weight:600;margin-bottom:.1rem}
@@ -607,7 +589,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .price-pill-best .plan-price{color:#1a56db;font-weight:900}
 .plan-tag{font-family:ui-monospace,monospace;font-size:.58rem;font-weight:800;color:#fff;background:#1a56db;padding:.1rem .38rem;border-radius:4px;letter-spacing:.03em;margin-bottom:.2rem;white-space:nowrap}
 
-/* Côté action & ticket (Single-line input ultra ergonomique) */
 .voucher-action-side{display:flex;flex-direction:column;gap:.75rem}
 .voucher-ticket{background:#f8fafc;border:1.5px dashed #93c5fd;border-radius:12px;padding:.75rem .9rem;text-align:center}
 .ticket-label{font-family:ui-monospace,monospace;font-size:.66rem;font-weight:800;color:#1e429f;letter-spacing:.05em;margin-bottom:.4rem}
@@ -618,7 +599,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .btn-ticket-copy.copied{background:#059669!important}
 .ticket-micro{display:block;font-size:.71rem;color:#64748b;margin-top:.38rem}
 
-/* Bouton Hero Primaire (Seul bouton bleu majeur pour éviter le conflit visuel) */
 .btn-hero-cta,.btn-inline-cta{display:flex;align-items:center;justify-content:center;gap:.5rem;background:linear-gradient(135deg,#2563eb 0%,#1a56db 100%)!important;color:#fff!important;font-size:1rem;font-weight:700;padding:.9rem 1.4rem;border-radius:10px;text-decoration:none!important;box-shadow:0 4px 15px rgba(26,86,219,.28);transition:all .15s ease;box-sizing:border-box}
 .btn-hero-cta:hover,.btn-inline-cta:hover{background:linear-gradient(135deg,#1d4ed8 0%,#1e429f 100%)!important;transform:translateY(-1px);box-shadow:0 6px 20px rgba(26,86,219,.35)}
 .cta-arrow{font-size:1.1rem;transition:transform .15s ease}
@@ -626,7 +606,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 .voucher-guarantees{display:flex;justify-content:center;align-items:center;font-size:.73rem;color:#64748b;font-weight:500;margin-top:.65rem;text-align:center}
 
-/* Sommaire */
 .toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:2rem;overflow:hidden}
 .toc-title{padding:.85rem 1.1rem;font-family:ui-monospace,SFMono-Regular,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
 .toc-title::-webkit-details-marker{display:none}
@@ -636,7 +615,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .toc-list li{margin-bottom:.35rem}
 .toc-list a{color:#1e293b;text-decoration:none;font-weight:500}.toc-list a:hover{color:#1a56db;text-decoration:underline}
 
-/* Tableaux */
 .table-scroll-hint{display:none;font-size:.74rem;color:#64748b;font-family:ui-monospace,monospace;margin-bottom:.35rem;text-align:right}
 .table-container{overflow-x:auto;margin:.5rem 0 .75rem;border:1px solid #e2e8f0;border-radius:10px;background:#fff;-webkit-overflow-scrolling:touch}
 .custom-table{width:100%;border-collapse:collapse;font-size:.88rem;text-align:left}
@@ -646,7 +624,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .highlight-row{background:#f0fdf4!important}
 .micro-disclaimer{font-size:.76rem;color:#64748b;line-height:1.45;margin:.5rem 0 1.5rem}
 
-/* Rappel code inline transformé en carte de conversion */
 .inline-promo-reminder{display:flex;align-items:center;justify-content:space-between;gap:1rem;background:linear-gradient(to right,#ffffff,#eff6ff);border:1.5px solid #93c5fd;border-radius:12px;padding:1.1rem 1.25rem;margin:1.75rem 0;box-shadow:0 4px 14px rgba(26,86,219,.06);flex-wrap:wrap}
 .inline-promo-top{display:flex;align-items:center;gap:.65rem;flex-wrap:wrap}
 .inline-promo-label{font-size:.88rem;font-weight:700;color:#0f172a}
@@ -656,11 +633,9 @@ document.addEventListener("DOMContentLoaded", function () {
 .btn-inline-copy.copied{background:#059669!important}
 .btn-inline-cta{font-size:.9rem;padding:.75rem 1.2rem;white-space:nowrap}
 
-/* Encart Astuce */
 .tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:1rem 1.15rem;font-size:.88rem;color:#475569;margin:1.5rem 0;line-height:1.55}
 .tip-box a{color:#1a56db;text-decoration:underline;font-weight:600}
 
-/* FAQ */
 .faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
 .faq-title{padding:.9rem 1.1rem;font-weight:700;font-size:.92rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
@@ -668,13 +643,9 @@ document.addEventListener("DOMContentLoaded", function () {
 .faq-title::after{content:"+";font-size:1.2rem;font-weight:400;color:#64748b;flex-shrink:0}
 .faq-card[open] .faq-title::after{content:"−";color:#1a56db}
 .faq-body{padding:0 1.1rem 1rem;color:#475569;font-size:.9rem;line-height:1.55}.faq-body p{margin:0}
-
-/* Disclaimer */
 .disclaimer-callout{background:#fafafc;border:1px solid #e2e8f0;border-left:3px solid #64748b;border-radius:6px;padding:.85rem 1.1rem;margin:2.5rem 0 1.5rem}
 .disclaimer-badge{font-family:ui-monospace,SFMono-Regular,monospace;font-size:.68rem;font-weight:700;text-transform:uppercase;color:#475569;letter-spacing:.05em;display:block;margin-bottom:.25rem}
 .disclaimer-callout p{margin:0;font-size:.84rem;color:#64748b;line-height:1.5}
-
-/* Rebond Guide (Bouton secondaire neutre pour ne pas concurrencer le CTA bleu Loora) */
 .next-step-card{background:#fff;border:1px solid #e2e4e9;border-radius:12px;padding:1.4rem;margin:2rem 0 1rem;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.03)}
 .next-label{font-family:ui-monospace,monospace;font-size:.72rem;font-weight:700;color:#1a56db;letter-spacing:.05em;display:block;margin-bottom:.35rem}
 .next-step-card h3{margin:0 0 .55rem;font-size:1.2rem;color:#0f172a}
@@ -682,16 +653,11 @@ document.addEventListener("DOMContentLoaded", function () {
 .btn-next,.btn-next:visited{display:inline-flex;align-items:center;justify-content:center;background:#0f172a!important;color:#fff!important;font-weight:600;font-size:.9rem;padding:.75rem 1.35rem;border-radius:8px;text-decoration:none!important;transition:background-color .15s ease;box-sizing:border-box}
 .btn-next:hover,.btn-next:focus{background:#1e293b!important;color:#fff!important}
 
-/* Toast centré sur mobile au-dessus de la barre sticky */
 .copy-toast{position:fixed;bottom:5.2rem;left:50%;transform:translate(-50%,12px);background:#0f172a;color:#fff;border:1px solid #334155;padding:.65rem 1.2rem;border-radius:99px;font-size:.84rem;font-weight:600;box-shadow:0 10px 25px rgba(0,0,0,.25);opacity:0;visibility:hidden;transition:opacity .2s ease,transform .2s ease,visibility .2s;z-index:10000;white-space:nowrap}
 .copy-toast.show{opacity:1;visibility:visible;transform:translate(-50%,0)}
 
-/* Sticky Mobile Bar (Cachée sur Desktop) */
 .mobile-sticky-cta{display:none}
 
-/* =========================================
-   OPTIMISATIONS MOBILE-FIRST & CRO (<768px)
-   ========================================= */
 @media (max-width:768px){
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
   .page-title{font-size:1.5rem;line-height:1.18;margin:.15rem 0 .45rem}

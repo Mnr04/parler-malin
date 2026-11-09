@@ -28,7 +28,6 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
   🛡️ Transparence : cet article contient des liens affiliés (<a href="/a-propos/">en savoir plus</a>).
 </p>
 
-<!-- CARTE EN BREF AÉRÉE (ZÉRO PAVÉ SUR MOBILE) -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ VERDICT EXPRESS</span>
@@ -63,7 +62,6 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
   </div>
 </div>
 
-<!-- SOMMAIRE PLACÉ ICI POUR AÉRER LA LECTURE MOBILE -->
 <details class="toc-card">
   <summary class="toc-title"><span>📋 Sommaire de mon test &amp; avis</span><span class="toc-toggle-icon">▾</span></summary>
   <ol class="toc-list">
@@ -80,7 +78,6 @@ heroImageAlt: "Avis et test complet de l'application Praktika AI : interface du 
   </ol>
 </details>
 
-<!-- BILAN POINTS FORTS / POINTS FAIBLES -->
 <div id="offre-exclusive" class="review-scorecard">
   <div class="scorecard-top">
     <div class="scorecard-brand">
@@ -342,7 +339,6 @@ Si ton objectif principal est de **pratiquer l'oral régulièrement** plutôt qu
   <a href="/prix-praktika/" class="btn-next">Voir le guide des prix Praktika &rarr;</a>
 </div>
 
-<!-- Sticky Mobile CTA Bar (Apparaît au scroll sur mobile) -->
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" aria-hidden="true">
   <div class="sticky-cta-info">
     <span class="sticky-cta-title">Praktika AI <span class="sticky-stars">★ 4.7</span></span>
