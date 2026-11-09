@@ -26,7 +26,6 @@ const posts = (await getCollection('blog'))
     })
     .slice(0, 3);
 
-// LE PROBLÈME 
 const problemes = [
     {
         icone: '01',
@@ -45,7 +44,6 @@ const problemes = [
     },
 ];
 
-// 2. LA SOLUTION 
 const beneficesSolution = [
     {
         titre: 'Zéro pression sociale',
@@ -61,77 +59,83 @@ const beneficesSolution = [
     },
 ];
 
-// LES TUTEURS IA 
 const tuteursComparatif = [
     {
+        rang: 'Offre -50 %',
         nom: 'Praktika AI',
-        categorie: 'Avatars interactifs & Programme sur-mesure',
+        categorie: 'Tuteur vocal IA (Anglais & Multilingue)',
         note: '4,7/5 App Store',
-        prix: 'Essai dispo • Abonnement accessible',
-        usage: 'Idéal si vous voulez être guidé pas à pas avec des avatars réalistes (accents US, UK, Australien) et des mises en situation concrètes.',
+        prix: 'Tarif accessible (-50 % via lien partenaire)',
+        usage: "Propose un service complet de tuteur vocal : conversations en direct, mises en situation sur mesure, parcours personnalisé et corrections instantanées, avec accès à plusieurs langues.",
         pointsForts: [
-            'Programme personnalisé selon votre niveau',
-            'Correction phonétique visuelle instantanée',
-            'Excellent rapport fonctionnalités / prix',
+            'Conversations libres, jeux de rôle et parcours adapté',
+            'Correction de la prononciation et de la grammaire en direct',
+            'Accès à plusieurs langues et tarif très avantageux',
         ],
         link: '/avis-praktika/',
+        priceLink: '/prix-praktika/',
+        priceLabel: 'Voir les tarifs (-50 %)',
         cta: 'Lire mon test de Praktika',
-        featured: true,
+        featured: false,
     },
     {
+        rang: 'Code -10 %',
         nom: 'Loora AI',
-        categorie: 'Coach conversationnel avec Avatar animé',
+        categorie: 'Tuteur vocal IA (Spécialisé Anglais)',
         note: '4,9/5 App Store',
-        prix: 'Positionnement premium (iOS / Android)',
-        usage: 'Conçu pour ceux qui veulent discuter librement en face-à-face avec un avatar visuel photoréaliste et un retour grammatical immédiat.',
+        prix: 'Essai dispo (-10 % avec code promo)',
+        usage: "Propose le même service complet de coaching vocal : discussions en direct, scénarios pratiques, parcours sur mesure et retours immédiats sur la prononciation et la grammaire.",
         pointsForts: [
-            'Fluidité vocale bluffante de réalisme',
-            'Corrections en temps réel très pertinentes',
-            'Interface mobile épurée et rapide',
+            'Conversations libres, mises en situation et suivi personnalisé',
+            'Correction phonétique et grammaticale en temps réel',
+            'Application dédiée à 100 % à la pratique de l’anglais',
         ],
         link: '/loora-app-avis/',
+        priceLink: '/prix-loora-ai/',
+        priceLabel: 'Voir les tarifs (-10 %)',
         cta: 'Lire mon test de Loora',
         featured: false,
     },
     {
-        rang: 'Option gratuite',
+        rang: 'Option à 0 €',
         nom: 'ChatGPT & Gemini',
-        categorie: 'IA généralistes (Mode Vocal)',
+        categorie: 'Assistants généralistes (Mode Vocal)',
         note: null,
-        prix: 'Gratuit (ou ~22€/mois en version Plus)',
-        usage: 'Pratique pour tester l’oral à 0€ avec ses propres consignes, mais demande de tout paramétrer soi-même sans programme ni suivi d’accent.',
+        prix: 'Gratuit (ou ~22 €/mois en version Plus)',
+        usage: "Pertinent pour s'entraîner gratuitement à voix haute. La seule limite est le temps nécessaire pour rédiger et ajuster ses prompts afin d'obtenir un bon cadre d'exercice.",
         pointsForts: [
-            '100% gratuit pour dépanner',
-            'Simulations de jeux de rôle libres',
-            'Aucun suivi pédagogique intégré',
+            'Accessible gratuitement sur smartphone',
+            'Pratique pour lancer des jeux de rôle ponctuels',
+            'Demande du temps de paramétrage à chaque session',
         ],
         link: '/meilleures-ia-anglais/',
+        priceLink: '/reussir-conversation-en-anglais-avec-ia/',
+        priceLabel: 'Voir les prompts gratuits',
         cta: 'Comparer avec les tuteurs dédiés',
         featured: false,
     },
 ];
 
-// FAQ sobre, factuelle et neutre
 const faq = [
     {
         q: "Quel tuteur IA choisir pour pratiquer l'anglais en 2026 ?",
-        a: "Les applications que je recommande actuellement, comme Loora AI (4,9/5) et Praktika AI (4,7/5), sont très bien notées par les utilisateurs sur l'App Store. Loora convient davantage aux discussions libres, tandis que Praktika propose un parcours plus guidé avec des avatars. Le secteur évoluant vite, je continue de tester régulièrement les nouveautés pour mettre à jour mes comparatifs.",
+        a: "Parmi les applications les mieux notées sur l'App Store que j'ai testées, Praktika AI (4,7/5) et Loora AI (4,9/5) proposent toutes les deux un service très proche et complet : conversations en direct, mises en situation, parcours personnalisé et corrections instantanées. Praktika AI se distingue par la possibilité d'apprendre plusieurs langues et un tarif légèrement plus accessible via mon offre partenaire, tandis que Loora AI se concentre uniquement sur l'anglais.",
     },
     {
         q: "Un tuteur IA peut-il remplacer un vrai professeur ou une certification ?",
-        a: "Non. Une application IA ne remplace ni l'accompagnement d'un professeur diplômé, ni une certification officielle (TOEIC, IELTS, Cambridge). C'est simplement un outil complémentaire pour pratiquer l'oral plus souvent entre vos cours ou en autonomie.",
+        a: "Non. Une application IA ne remplace ni l'accompagnement d'un professeur diplômé, ni une certification officielle (TOEIC, IELTS, Cambridge). C'est un outil d'entraînement complémentaire pour pratiquer l'oral au quotidien entre vos cours ou en autonomie.",
     },
     {
         q: "Peut-on utiliser ChatGPT ou Gemini gratuitement comme tuteur vocal ?",
-        a: "Oui, c'est tout à fait possible grâce à leur mode vocal gratuit. La principale différence est que cela demande une configuration préalable : vous devez donner des consignes précises (prompts) pour cadrer la discussion, et il n'y a pas de programme structuré ni de suivi d'erreurs d'une session à l'autre contrairement à une application dédiée.",
+        a: "Oui, leur mode vocal gratuit fonctionne très bien pour discuter en anglais. Le seul inconvénient par rapport à un tuteur dédié réside dans le temps de paramétrage : il faut copier-coller et ajuster ses consignes (prompts) à chaque séance pour cadrer l'IA, ce qui laisse moins de temps pour se concentrer directement sur la pratique.",
     },
     {
         q: "Qu'apporte une pratique régulière de 10 à 15 minutes par jour ?",
-        a: "Un tuteur IA ne permet pas de devenir bilingue sans effort. En revanche, pratiquer un peu chaque jour aide à prendre l'habitude de formuler ses phrases à voix haute, à mobiliser son vocabulaire plus facilement et à être plus à l'aise lors d'une conversation.",
+        a: "Un tuteur IA ne fait pas de miracle sans régularité. En revanche, parler à voix haute 10 à 15 minutes par jour aide concrètement à débloquer la prise de parole, à mobiliser son vocabulaire plus vite et à réduire l'appréhension lors d'une vraie conversation.",
     },
     {
         q: "Comment sont financés les tests présents sur ce site ?",
-        a: "L'accès aux articles et comparatifs est entièrement gratuit. Le site est financé par l'affiliation : si vous choisissez de tester une application en passant par certains liens présents sur le site, je peux recevoir une commission, sans aucun coût supplémentaire pour vous.",
+        a: "L'accès aux articles et comparatifs est entièrement gratuit. Le site est financé par l'affiliation : si vous choisissez de souscrire à une application en passant par mes liens partenaires (actuellement Loora AI et Praktika AI), je peux percevoir une commission, tout en vous faisant bénéficier de réductions négociées.",
     },
 ];
 
@@ -148,7 +152,7 @@ const structuredData = {
         },
         {
             '@type': 'ItemList',
-            name: 'Comparatif des meilleurs Tuteurs IA Anglais 2026',
+            name: 'Comparatif des Tuteurs IA Anglais 2026',
             itemListElement: tuteursComparatif.map((t, idx) => ({
                 '@type': 'ListItem',
                 position: idx + 1,
@@ -165,8 +169,8 @@ const structuredData = {
 <html lang="fr" class="scroll-smooth">
     <head>
         <BaseHead
-            title={`Meilleur Tuteur IA Anglais (2026) : Comparatif & Tests Réels | ${SITE_TITLE}`}
-            description="Peur de parler anglais à l'oral ? Découvrez mes tests indépendants des meilleurs tuteurs vocaux IA (Praktika, Loora, ChatGPT...) pour pratiquer sans jugement."
+            title={`Tuteur IA Anglais (2026) : Comparatif & Tests Réels | ${SITE_TITLE}`}
+            description="Peur de parler anglais à l'oral ? Découvrez mes tests en conditions réelles des tuteurs vocaux IA (Praktika, Loora, ChatGPT) pour pratiquer au quotidien."
         />
 
         <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
@@ -250,7 +254,6 @@ const structuredData = {
                 line-height: 1.65;
             }
 
-            /* 1. HERO : ESPACE & RESPIRATION PREMIUM */
             .hero {
                 display: grid;
                 grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
@@ -339,7 +342,6 @@ const structuredData = {
                 font-weight: 500;
             }
 
-            /* Widget Aperçu dans le Hero */
             .verdict-widget {
                 background: var(--surface);
                 border: 1px solid var(--border);
@@ -420,7 +422,6 @@ const structuredData = {
                 flex-shrink: 0;
             }
 
-            /* 2. LE PROBLÈME / EMPATHIE */
             .problem-section {
                 margin-bottom: 6.5rem;
             }
@@ -461,7 +462,6 @@ const structuredData = {
                 margin: 0;
             }
 
-            /* 3. LA SOLUTION / BÉNÉFICES */
             .solution-section {
                 background: var(--surface-dark);
                 color: #fff;
@@ -516,7 +516,6 @@ const structuredData = {
                 margin: 0;
             }
 
-            /* 4. COMPARATIF & PREUVE SOCIALE (GRILLE 3 COLONNES) */
             .tutors-section {
                 margin-bottom: 6.5rem;
                 scroll-margin-top: 2.5rem;
@@ -643,7 +642,7 @@ const structuredData = {
                 margin-top: auto;
                 display: flex;
                 flex-direction: column;
-                gap: 0.7rem;
+                gap: 0.65rem;
             }
             .tutor-price {
                 font-size: 0.78rem;
@@ -671,6 +670,17 @@ const structuredData = {
             .tutor-btn:hover {
                 background: var(--accent-hover);
             }
+            .tutor-sublink {
+                font-size: 0.8rem;
+                font-weight: 600;
+                color: var(--accent);
+                text-align: center;
+                text-decoration: underline;
+                text-underline-offset: 2px;
+            }
+            .tutor-sublink:hover {
+                color: var(--accent-hover);
+            }
             .compare-banner {
                 background: var(--surface-subtle);
                 border: 1px solid var(--border-strong);
@@ -694,7 +704,6 @@ const structuredData = {
                 color: var(--accent);
             }
 
-            /* 5. BARRE AUTEUR MINIMALISTE (JÉRÉMY) */
             .author-strip {
                 background: var(--surface);
                 border: 1px solid var(--border-strong);
@@ -740,7 +749,6 @@ const structuredData = {
                 margin: 0.15rem 0 0;
             }
 
-            /* 6. BLOG */
             .blog-section {
                 margin-bottom: 6.5rem;
             }
@@ -795,7 +803,6 @@ const structuredData = {
                 margin-top: auto;
             }
 
-            /* 7. FAQ */
             .faq-section {
                 margin-bottom: 6.5rem;
             }
@@ -844,7 +851,6 @@ const structuredData = {
                 max-width: 780px;
             }
 
-            /* 8. CTA FINAL */
             .final-cta {
                 background: var(--surface-dark);
                 color: #fff;
@@ -894,7 +900,6 @@ const structuredData = {
                 transform: translateY(-2px);
             }
 
-            /* RESPONSIVE TABLETTE & MOBILE AÉRÉ */
             @media (max-width: 980px) {
                 .problem-grid,
                 .solution-grid,
@@ -998,15 +1003,15 @@ const structuredData = {
                         Débloquez votre oral en anglais grâce aux <span>Tuteurs Vocaux IA</span>.
                     </h1>
                     <p class="hero-lead">
-                        Fini la peur du jugement ou le manque d'interlocuteur. Je teste en conditions réelles les applications de conversation IA pour vous aider à choisir celle qui vous fera vraiment parler au quotidien.
+                        Fini la peur du jugement ou le manque d'interlocuteur. Je teste en conditions réelles les applications de conversation IA pour vous aider à choisir celle qui vous fera pratiquer au quotidien.
                     </p>
                     <div class="hero-actions">
-                        <a href="#comparatif" class="btn-primary">
-                            <span>Découvrir les Tuteurs IA testés</span>
-                            <span aria-hidden="true">&darr;</span>
+                        <a href="/meilleures-ia-anglais/" class="btn-primary">
+                            <span>Comparer les Tuteurs IA testés</span>
+                            <span aria-hidden="true">&rarr;</span>
                         </a>
-                        <a href="/meilleures-ia-anglais/" class="btn-secondary">
-                            Voir le comparatif complet
+                        <a href="#comparatif" class="btn-secondary">
+                            Voir le résumé des tests &darr;
                         </a>
                     </div>
                     <div class="hero-meta">
@@ -1015,9 +1020,9 @@ const structuredData = {
                     </div>
                 </div>
 
-                <aside class="verdict-widget" aria-label="Aperçu des tuteurs IA les mieux notés">
+                <aside class="verdict-widget" aria-label="Aperçu des tuteurs IA parmi les mieux notés">
                     <div class="verdict-header">
-                        <span>APPLICATIONS LES MIEUX NOTÉES</span>
+                        <span>PARMI LES MIEUX NOTÉS DU MARCHÉ</span>
                         <span>App Store</span>
                     </div>
                     <div class="verdict-list">
@@ -1026,8 +1031,8 @@ const structuredData = {
                                 <div class="verdict-name">
                                     Praktika AI
                                     <span class="badge-score">★ 4,7/5</span>
-                                                                    </div>
-                                <div class="verdict-sub">Avatars immersifs & parcours guidé</div>
+                                </div>
+                                <div class="verdict-sub">Tuteur vocal complet • Anglais & multilingue (-50 %)</div>
                             </div>
                             <span class="verdict-action">Voir le test &rarr;</span>
                         </a>
@@ -1038,15 +1043,15 @@ const structuredData = {
                                     Loora AI
                                     <span class="badge-score">★ 4,9/5</span>
                                 </div>
-                                <div class="verdict-sub">Avatar animé & conversation libre</div>
+                                <div class="verdict-sub">Tuteur vocal complet • Spécialisé 100 % anglais (-10 %)</div>
                             </div>
                             <span class="verdict-action">Voir le test &rarr;</span>
                         </a>
 
                         <a href="/meilleures-ia-anglais/" class="verdict-row">
                             <div>
-                                <div class="verdict-name">ChatGPT, Gemini & autres</div>
-                                <div class="verdict-sub">Que valent les options gratuites à l'oral ?</div>
+                                <div class="verdict-name">Comparatif complet & options à 0 €</div>
+                                <div class="verdict-sub">Praktika, Loora, ChatGPT Vocal, Gemini...</div>
                             </div>
                             <span class="verdict-action">Comparer &rarr;</span>
                         </a>
@@ -1079,7 +1084,7 @@ const structuredData = {
                 <div class="solution-header">
                     <h2>Le Tuteur Vocal IA : le chaînon manquant pour oser parler</h2>
                     <p>
-                        Un tuteur IA ne remplace pas un professeur diplômé, mais il règle le problème numéro 1 en France : le manque de pratique orale quotidienne. Mon rôle sur ce site est de tester ces applications pour vous orienter vers les plus efficaces.
+                        Un tuteur IA ne remplace pas un professeur diplômé, mais il répond au problème principal en France : le manque de pratique orale régulière. Mon rôle sur ce site est de tester ces applications pour vous orienter vers les solutions les plus adaptées à votre profil.
                     </p>
                 </div>
 
@@ -1098,13 +1103,13 @@ const structuredData = {
             <section id="comparatif" class="tutors-section">
                 <div class="section-header-split">
                     <div>
-                        <h2>Les meilleurs Tuteurs IA testés selon votre profil</h2>
+                        <h2>Les Tuteurs Vocaux IA testés en conditions réelles</h2>
                     </div>
-                    <p>Basé sur mes tests en conditions réelles et sur les notes vérifiées de l'App Store.</p>
+                    <p>Des applications parmi les mieux notées sur l'App Store, comparées aux assistants gratuits.</p>
                 </div>
 
                 <div class="social-proof-bar">
-                    <span><strong>Preuve sociale :</strong> Sélection d'applications notées entre <strong>4,7/5 et 4,9/5</strong> par les utilisateurs mobiles.</span>
+                    <span><strong>Retours utilisateurs :</strong> Applications évaluées entre <strong>4,7/5 et 4,9/5</strong> sur l'App Store.</span>
                     <span>Mis à jour en 2026</span>
                 </div>
 
@@ -1131,6 +1136,11 @@ const structuredData = {
                                     <a href={tuteur.link} class="tutor-btn">
                                         {tuteur.cta} &rarr;
                                     </a>
+                                    {tuteur.priceLink && (
+                                        <a href={tuteur.priceLink} class="tutor-sublink">
+                                            {tuteur.priceLabel} &nearr;
+                                        </a>
+                                    )}
                                 </div>
                             </article>
                         ))
@@ -1138,7 +1148,7 @@ const structuredData = {
                 </div>
 
                 <div class="compare-banner">
-                    <span>Vous voulez comparer l'ensemble des applications (prix, essais gratuits, alternatives) ?</span>
+                    <span>Vous hésitez entre ces solutions ? Consultez le tableau comparatif détaillé (fonctionnalités, tarifs et essais) :</span>
                     <a href="/meilleures-ia-anglais/" class="link-strong">
                         Accéder au comparatif complet des Tuteurs IA &rarr;
                     </a>
@@ -1161,7 +1171,7 @@ const structuredData = {
             <section class="blog-section">
                 <div class="section-header-split">
                     <div>
-                        <h2>Derniers tests et questions fréquentes</h2>
+                        <h2>Derniers guides et astuces IA</h2>
                     </div>
                     <a href="/blog/" class="link-strong">Voir tous les articles &rarr;</a>
                 </div>
@@ -1217,7 +1227,7 @@ const structuredData = {
                 <div class="final-cta-text">
                     <h2>Trouvez le tuteur vocal adapté à votre niveau et votre budget</h2>
                     <p>
-                        Consultez mon tableau comparatif complet (fonctionnalités, tarifs, essais gratuits et nouvelles applications testées) pour choisir l'outil qui vous correspond.
+                        Consultez mon tableau comparatif complet (fonctionnalités, tarifs, réductions partenaires et options gratuites) pour choisir l'outil qui vous correspond.
                     </p>
                 </div>
                 <div class="final-cta-buttons">
