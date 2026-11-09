@@ -1,37 +1,33 @@
 ---
-title: "Meilleurs Tuteurs IA Anglais (2026) : Le Comparatif"
-description: "Quel tuteur vocal IA choisir pour pratiquer l'anglais à l'oral ? Comparatif indépendant entre Praktika, Loora, ChatGPT et Gemini selon votre profil et budget."
+title: "Tuteurs IA pour Parler Anglais (2026) : Comparatif Loora, Praktika & ChatGPT"
+description: "Quel tuteur vocal IA choisir pour pratiquer l'anglais à l'oral ? Comparatif indépendant entre Loora AI, Praktika AI et ChatGPT selon votre profil et votre budget."
 pubDate: 2026-09-30
-updatedDate: 2026-11-04
+updatedDate: 2026-11-09
 author: "Jérémy"
 categories:
   - "comparatif"
   - "avis"
 heroImage: "/uploads/2026/09/meilleures-ia-anglais-comparatif.avif"
-heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2026"
+heroImageAlt: "Comparatif des tuteurs IA pour apprendre l'anglais à l'oral en 2026"
 ---
 
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Comparatif Tuteurs IA</span>
 </nav>
 
-<h1 class="page-title">Meilleurs Tuteurs IA pour l'anglais en 2026 : comparatif selon votre profil</h1>
+<h1 class="page-title">Tuteurs IA pour parler anglais en 2026 : comparatif selon votre profil</h1>
 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-11-04">4 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-09">9 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>⏱️ 4 min</span>
+  <span>⏱️ 5 min</span>
 </div>
 
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
-</div>
-
-<div class="hook-box">
-  <p><strong>Pas le temps de tout lire ?</strong> Il n'existe pas un seul tuteur IA parfait pour tout le monde : votre choix dépend de votre budget et de votre besoin d'être guidé visuellement ou non. Voici les <strong>tuteurs vocaux que j'ai testés et validés</strong> à ce jour (cette sélection s'agrandira au fil de mes prochains tests) :</p>
+  <p>Cet article contient des liens affiliés. En savoir plus. <a href="/a-propos/">En savoir plus</a>.</p>
 </div>
 
 <div class="premium-table-wrapper">
@@ -47,7 +43,7 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
       <tr class="rank-budget-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-purple">🏆 PARCOURS GUIDÉ &amp; QUALITÉ/PRIX</span>
+            <span class="rank-badge badge-purple">PARCOURS GUIDÉ &amp; MULTI-LANGUES</span>
             <span class="tool-name">Praktika AI</span>
           </div>
           <a href="/avis-praktika/" class="tool-link-btn btn-purple-outline">Lire mon test complet &rarr;</a>
@@ -57,13 +53,13 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           <span class="store-rating">★ 4,7/5 App Store</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Idéal pour suivre un programme structuré pas à pas avec des avatars réalistes (accents US, UK, Australien) à un tarif très accessible.
+          Un programme structuré pas à pas, avec des avatars à différents accents, la possibilité de pratiquer plusieurs langues et un tarif légèrement plus accessible via mon offre partenaire.
         </td>
       </tr>
       <tr class="rank-premium-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-blue">🏆 DISCUSSION LIBRE &amp; FLUIDITÉ</span>
+            <span class="rank-badge badge-blue">DISCUSSION LIBRE &amp; CORRECTIONS</span>
             <span class="tool-name">Loora AI</span>
           </div>
           <a href="/loora-app-avis/" class="tool-link-btn btn-blue-outline">Lire mon test complet &rarr;</a>
@@ -73,22 +69,22 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           <span class="store-rating">★ 4,9/5 App Store</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Positionnement premium : vous discutez librement face à un avatar photoréaliste avec des corrections en temps réel.
+          Programme structuré ou conversations libre.
         </td>
       </tr>
       <tr>
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-neutral">OPTION GRATUITE (SYSTÈME D)</span>
+            <span class="rank-badge badge-neutral">OPTION GRATUITE</span>
             <span class="tool-name">ChatGPT &amp; Gemini</span>
           </div>
-          <a href="#gratuit" class="tool-link-btn btn-neutral-outline">Voir comment les configurer &darr;</a>
+          <a href="#gratuit" class="tool-link-btn btn-neutral-outline">Voir comment les utiliser &darr;</a>
         </td>
         <td data-label="Format">
           <span class="badge badge-general">⚙️ IA généralistes</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          <strong>Gratuit :</strong> Pratique pour dépanner à 0 € avec le mode vocal, mais demande une configuration préalable (prompts) et n'offre aucun suivi.
+          <strong>Gratuit :</strong> un bon point de départ avec le mode vocal. Le principal frein est le temps passé à paramétrer et ajuster les prompts avant de pratiquer.
         </td>
       </tr>
       <tr class="upcoming-row">
@@ -102,11 +98,15 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           <span class="badge badge-upcoming">Nouveaux tests à venir</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Je teste actuellement d'autres applications vocales du marché. Elles seront ajoutées à ce tableau dès que j'aurai assez de recul sur leur efficacité.
+          Je teste actuellement d'autres applications vocales. Elles seront ajoutées à ce tableau prochainement.
         </td>
       </tr>
     </tbody>
   </table>
+</div>
+
+<div class="hook-box">
+  <p><strong>Pas le temps de tout lire ?</strong> Un tuteur vocal IA permet de pratiquer l'anglais à voix haute, à tout moment, sans la pression du regard d'un interlocuteur. Loora AI et Praktika AI proposent un service comparable, et le bon choix dépend surtout de votre budget, de votre besoin de cadre et de vos objectifs. Voici les solutions que j'ai testées à ce jour (la sélection s'agrandira au fil de mes prochains tests) :</p>
 </div>
 
 <details class="toc-card">
@@ -115,10 +115,11 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
     <span class="toc-toggle-icon">▾</span>
   </summary>
   <ol class="toc-list">
-    <li><a href="#praktika">Praktika AI : le meilleur rapport qualité/prix avec parcours guidé</a></li>
-    <li><a href="#loora">Loora AI : la référence pour la conversation libre</a></li>
-    <li><a href="#gratuit">ChatGPT &amp; Gemini : l'option gratuite (avec configuration)</a></li>
-    <li><a href="#prochains-tests">Évolution du classement : les prochains tuteurs IA à l'essai</a></li>
+    <li><a href="#praktika">Praktika AI : parcours guidé, plusieurs langues et tarif accessible</a></li>
+    <li><a href="#loora">Loora AI : conversation libre et corrections en temps réel</a></li>
+    <li><a href="#duo">Loora ou Praktika : points communs et différences</a></li>
+    <li><a href="#gratuit">ChatGPT &amp; Gemini : l'option gratuite</a></li>
+    <li><a href="#prochains-tests">Un comparatif évolutif : les prochains tuteurs à l'essai</a></li>
     <li><a href="#choix-profil">En résumé : quel tuteur IA choisir selon votre profil ?</a></li>
     <li><a href="#faq">Questions fréquentes (FAQ)</a></li>
   </ol>
@@ -126,18 +127,15 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 ---
 
-<h2 id="praktika">1. Praktika AI : le meilleur rapport qualité/prix (Parcours structuré)</h2>
+<h2 id="praktika">1. Praktika AI : parcours guidé, plusieurs langues et tarif accessible</h2>
 
-<div class="tip-box border-purple">
-  <strong>💡 C'est pour vous si :</strong> Vous voulez un programme clé en main qui vous guide leçon après leçon, avec un support visuel rassurant et un tarif très accessible.
-</div>
-
-<p>Praktika AI (noté <strong>4,7/5 sur l'App Store</strong>) vous fait pratiquer l'oral face à des avatars interactifs dotés de différents accents (américain, britannique, australien, indien). Plutôt que de vous laisser face à une page blanche, l'application génère un plan d'étude adapté à votre niveau et à vos objectifs (voyage, entretien professionnel, anglais du quotidien).</p>
+<p>Praktika AI (noté <strong>4,7/5 sur l'App Store</strong>) vous fait pratiquer l'oral face à des avatars interactifs dotés de différents accents. Plutôt que de vous laisser face à une page blanche, l'application génère un plan d'étude adapté à votre niveau et à vos objectifs (voyage, entretien professionnel, anglais du quotidien).</p>
 
 <ul class="pros-list">
-  <li>✅ Parcours structuré : vous savez exactement quelle leçon faire chaque jour.</li>
-  <li>✅ Mises en situation concrètes et possibilité d'importer vos propres sujets.</li>
-  <li>✅ Tarif très compétitif (-50 % via notre lien partenaire).</li>
+  <li>✅ Parcours structuré : vous savez quelle leçon faire chaque jour.</li>
+  <li>✅ Possibilité de pratiquer plusieurs langues depuis la même application.</li>
+  <li>✅ Mises en situation concrètes, adaptées à votre objectif.</li>
+  <li>✅ Tarif légèrement plus accessible via mon lien partenaire (-50 %).</li>
 </ul>
 
 <div class="action-stack-card border-purple-light">
@@ -150,18 +148,14 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 ---
 
-<h2 id="loora">2. Loora AI : l'application la mieux notée pour la discussion libre</h2>
+<h2 id="loora">2. Loora AI : conversation libre et corrections en temps réel</h2>
 
-<div class="tip-box border-blue">
-  <strong>💡 C'est pour vous si :</strong> Vous avez déjà quelques bases et vous cherchez à discuter à voix haute avec un avatar visuel photoréaliste, avec une fluidité maximale.
-</div>
-
-<p>Avec une note de <strong>4,9/5 sur l'App Store</strong>, Loora AI mise sur le minimalisme et la qualité de la voix. L'interface va droit au but : vous lancez l'application et vous parlez de n'importe quel sujet (votre journée, l'actualité, une simulation de réunion). L'IA vous relance naturellement et affiche les corrections grammaticales ou de prononciation en temps réel sans couper votre élan.</p>
+<p>Avec une note de <strong>4,9/5 sur l'App Store</strong>, Loora AI mise sur une interface sobre et sur la qualité de la voix. Vous lancez l'application et vous parlez de ce que vous voulez : votre journée, l'actualité, une simulation de réunion. L'IA vous relance naturellement et affiche les corrections de grammaire ou de prononciation sans couper votre élan. Vous avez aussi accés à des mises en situations et des exercices. </p>
 
 <ul class="pros-list">
-  <li>✅ Voix et temps de réponse très proches d'un échange téléphonique réel.</li>
+  <li>✅ Conversation fluide, avec un temps de réponse adapté à l'échange oral.</li>
   <li>✅ Corrections immédiates pour reformuler vos phrases de façon plus naturelle.</li>
-  <li>✅ Interface sobre, rapide et sans distraction sur mobile.</li>
+  <li>✅ Interface sobre et rapide sur mobile.</li>
 </ul>
 
 <div class="action-stack-card border-blue-light">
@@ -177,14 +171,14 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 ---
 
-<h2 id="gratuit">3. ChatGPT et Gemini : l'alternative gratuite (mais à configurer)</h2>
+<h2 id="gratuit">3. ChatGPT et Gemini : l'option gratuite</h2>
 
-<p>Si vous ne souhaitez pas prendre d'abonnement tout de suite, le mode vocal gratuit de ChatGPT ou de Gemini sur smartphone permet tout à fait de s'entraîner à parler anglais à voix haute.</p>
+<p>ChatGPT et Gemini restent des outils pertinents pour s'entraîner à parler anglais. Leur mode vocal sur smartphone permet de pratiquer à voix haute sans abonnement dédié, ce qui en fait un très bon point de départ si vous voulez tester la méthode à 0 €.</p>
 
-<p>La différence majeure avec Praktika ou Loora réside dans la mise en place : ce sont des assistants généralistes. Pour qu'ils agissent comme un tuteur, vous devez <strong>les configurer au préalable</strong> à chaque session avec des consignes précises (prompts), sinon ils se contentent de répondre à vos questions sans corriger vos fautes ni adapter leur débit de parole.</p>
+<p>La différence tient à la mise en place : ce sont des assistants généralistes, que vous devez orienter avec des consignes (prompts) pour qu'ils jouent le rôle de tuteur, corrigent vos erreurs et adaptent leur débit. Le seul vrai bémol est donc la friction : du temps passé à configurer et à ajuster ces consignes plutôt qu'à pratiquer l'oral. Les applications dédiées proposent ce cadre déjà prêt.</p>
 
 <div class="tip-box">
-  <strong>⚙️ Nos ressources gratuites pour configurer ChatGPT vous-même :</strong>
+  <strong>⚙️ Mes ressources gratuites pour configurer ChatGPT vous-même :</strong>
   <div class="prompt-links">
     <a href="/prompt-chatgpt-tuteur-anglais/" class="btn-secondary btn-small">Le prompt pour transformer ChatGPT en tuteur vocal &rarr;</a>
     <a href="/test-niveau-anglais-chatgpt/" class="btn-secondary btn-small">Évaluer son niveau d'anglais gratuitement avec l'IA &rarr;</a>
@@ -193,53 +187,42 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
 ---
 
-<h2 id="prochains-tests">4. Un comparatif évolutif : d'autres tuteurs IA arrivent bientôt</h2>
+<h2 id="prochains-tests">4. Un comparatif évolutif : d'autres tuteurs IA arrivent</h2>
 
 <div class="upcoming-box">
-  <p><strong>Pourquoi n'y a-t-il que ces solutions dans le classement pour l'instant ?</strong></p>
-  <p>Plutôt que de lister 15 applications sans les avoir réellement ouvertes, je préfère tester chaque tuteur vocal en profondeur sur plusieurs semaines (qualité de la reconnaissance vocale, pertinence des corrections, vrais tarifs et conditions d'annulation).</p>
-  <p>D'autres tuteurs IA sont actuellement à l'essai et viendront enrichir cette page au fur et à mesure de mes tests.</p>
+  <p><strong>Pourquoi n'y a-t-il que ces solutions dans le comparatif pour l'instant ?</strong></p>
+  <p>D'autres tuteurs IA sont à l'essai et viendront enrichir cette page au fur et à mesure.</p>
 </div>
 
 ---
 
-<h2 id="choix-profil">5. En résumé : quel tuteur IA choisir aujourd'hui ?</h2>
-
-<ul class="pros-list">
-  <li><strong>Vous voulez un programme guidé, visuel et abordable →</strong> <a href="/avis-praktika/" class="inline-text-link">Praktika AI</a>.</li>
-  <li><strong>Vous voulez de la conversation pure, libre et ultra-fluide →</strong> <a href="/loora-app-avis/" class="inline-text-link">Loora AI</a>.</li>
-  <li><strong>Vous avez un budget de 0 € et acceptez de tout paramétrer →</strong> <a href="/prompt-chatgpt-tuteur-anglais/" class="inline-text-link">ChatGPT / Gemini</a>.</li>
-</ul>
-
----
-
-<h2 id="faq">Questions fréquentes sur les Tuteurs IA (FAQ)</h2>
+<h2 id="faq">Questions fréquentes sur les tuteurs IA (FAQ)</h2>
 
 <details class="faq-card">
   <summary class="faq-title">Un tuteur IA peut-il remplacer un vrai professeur d'anglais ?</summary>
   <div class="faq-body">
-    <p>Non. Un tuteur IA ne remplace ni la pédagogie humaine d'un professeur diplômé, ni une préparation officielle certifiante. C'est en revanche un très bon outil complémentaire pour pratiquer l'oral au quotidien, sans contrainte d'horaire et sans la peur du jugement.</p>
+    <p>Non. Un tuteur IA ne remplace ni la pédagogie d'un professeur diplômé, ni une préparation à un examen officiel. C'est en revanche un outil complémentaire pour pratiquer l'oral au quotidien, sans contrainte d'horaire et sans crainte du jugement.</p>
   </div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Quel est le tuteur IA le mieux noté par les utilisateurs ?</summary>
+  <summary class="faq-title">Quelles sont les notes de ces applications sur l'App Store ?</summary>
   <div class="faq-body">
-    <p>Sur l'App Store, <strong>Loora AI</strong> affiche une note moyenne de 4,9/5 et <strong>Praktika AI</strong> une note de 4,7/5. Les deux applications sont très appréciées, le choix se fait surtout entre l'approche conversationnelle libre avec avatar de Loora et l'approche par parcours structuré de Praktika.</p>
+    <p>Loora AI affiche une note moyenne de 4,9/5 et Praktika AI une note de 4,7/5 sur l'App Store. Ces notes évoluent avec le temps, il est donc utile de les vérifier directement sur la fiche de l'application.</p>
   </div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Pourquoi payer un tuteur IA alors que ChatGPT est gratuit ?</summary>
+  <summary class="faq-title">ChatGPT gratuit suffit-il pour pratiquer l'anglais à l'oral ?</summary>
   <div class="faq-body">
-    <p>ChatGPT gratuit dépanne très bien, mais demande de copier-coller des consignes avant chaque discussion et ne garde aucun suivi pédagogique structuré de vos erreurs de prononciation. Une application dédiée comme Praktika ou Loora offre un cadre prêt à l'emploi, conçu spécifiquement pour l'apprentissage oral.</p>
+    <p>Oui, pour démarrer, c'est un outil pertinent. Il demande simplement de donner des consignes précises avant chaque discussion pour obtenir des corrections et un rythme adapté. Une application dédiée comme Praktika ou Loora vous évite ce temps de paramétrage et vous permet de vous concentrer sur la pratique.</p>
   </div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Combien de temps faut-il pratiquer par jour ?</summary>
   <div class="faq-body">
-    <p>La régularité est plus utile que la durée. Pratiquer 10 à 15 minutes par jour sur son téléphone aide à s'habituer progressivement à formuler ses phrases à voix haute et à chercher ses mots moins longtemps.</p>
+    <p>La régularité compte plus que la durée. Pratiquer 10 à 15 minutes par jour sur son téléphone aide à s'habituer progressivement à formuler ses phrases à voix haute et à chercher ses mots moins longtemps.</p>
   </div>
 </details>
 
@@ -248,21 +231,16 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 <div class="next-step-card">
   <span class="next-label">COMPARATIF DÉTAILLÉ</span>
   <h3>Vous hésitez entre une IA gratuite et un tuteur dédié ?</h3>
-  <p>Faut-il se contenter du mode vocal gratuit de ChatGPT ou investir dans une application spécialisée comme Loora AI ? Découvrez notre comparatif point par point.</p>
+  <p>Faut-il se contenter du mode vocal gratuit de ChatGPT ou choisir une application spécialisée comme Loora AI ? Découvrez le comparatif point par point.</p>
   <a href="/chatgpt-ou-loora-ai-pour-apprendre-l-anglais/" class="btn-next">Lire le match : ChatGPT vs Loora AI &rarr;</a>
 </div>
 
 <div id="mobile-sticky-cta" class="mobile-sticky-cta" inert>
-  <div class="sticky-cta-info">
-    <span class="sticky-cta-badge" aria-hidden="true">-50%</span>
-    <span class="sticky-cta-text">
-      <span class="sticky-cta-title">Praktika AI</span>
-      <span class="sticky-cta-sub">Offre via le lien partenaire</span>
-    </span>
+  <span class="sticky-cta-label">Essayer un tuteur IA</span>
+  <div class="sticky-cta-actions">
+    <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-sticky-cta btn-sticky-purple">Praktika <span class="sticky-cta-offer">-50%</span></a>
+    <a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-sticky-cta btn-sticky-blue">Loora <span class="sticky-cta-offer">-10%</span></a>
   </div>
-  <a href="https://try.praktika.ai/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-sticky-cta">
-    Voir l'offre →
-  </a>
 </div>
 
 <script is:inline>
@@ -288,8 +266,8 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Meilleurs Tuteurs IA pour l'anglais en 2026 : comparatif selon votre profil",
-      "description": "Quel tuteur vocal IA choisir pour pratiquer l'anglais à l'oral ? Comparatif indépendant entre Praktika, Loora, ChatGPT et Gemini selon votre profil et budget.",
+      "headline": "Tuteurs IA pour parler anglais en 2026 : comparatif selon votre profil",
+      "description": "Quel tuteur vocal IA choisir pour pratiquer l'anglais à l'oral ? Comparatif indépendant entre Loora AI, Praktika AI et ChatGPT selon votre profil et votre budget.",
       "author": {
         "@type": "Person",
         "name": "Jérémy",
@@ -304,7 +282,7 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
         }
       },
       "datePublished": "2026-09-30",
-      "dateModified": "2026-11-04",
+      "dateModified": "2026-11-09",
       "image": "https://parlermalin.fr/uploads/2026/09/meilleures-ia-anglais-comparatif.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/meilleures-ia-anglais/"
@@ -325,23 +303,23 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
           "name": "Un tuteur IA peut-il remplacer un vrai professeur d'anglais ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non. Un tuteur IA ne remplace ni la pédagogie humaine d'un professeur diplômé, ni une préparation officielle certifiante. C'est un outil complémentaire pour pratiquer l'oral au quotidien sans la peur du jugement."
+            "text": "Non. Un tuteur IA ne remplace ni la pédagogie d'un professeur diplômé, ni une préparation à un examen officiel. C'est un outil complémentaire pour pratiquer l'oral au quotidien, sans contrainte d'horaire et sans crainte du jugement."
           }
         },
         {
           "@type": "Question",
-          "name": "Quel est le tuteur IA le mieux noté par les utilisateurs ?",
+          "name": "Quelles sont les notes de ces applications sur l'App Store ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sur l'App Store, Loora AI affiche une note moyenne de 4,9/5 et Praktika AI une note de 4,7/5. Loora privilégie la discussion libre tandis que Praktika propose un parcours guidé avec avatars."
+            "text": "Loora AI affiche une note moyenne de 4,9/5 et Praktika AI une note de 4,7/5 sur l'App Store. Ces notes évoluent avec le temps."
           }
         },
         {
           "@type": "Question",
-          "name": "Pourquoi payer un tuteur IA alors que ChatGPT est gratuit ?",
+          "name": "ChatGPT gratuit suffit-il pour pratiquer l'anglais à l'oral ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "ChatGPT gratuit demande une configuration préalable avec des prompts à chaque session et n'offre pas de suivi de prononciation, contrairement à des applications dédiées comme Praktika ou Loora."
+            "text": "Oui, pour démarrer, c'est un outil pertinent. Il demande de donner des consignes précises avant chaque discussion pour obtenir des corrections et un rythme adapté. Une application dédiée évite ce temps de paramétrage."
           }
         },
         {
@@ -418,6 +396,13 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 .badge-general{background-color:#f0fdf4;color:#15803d;border:1px solid #bbf7d0}
 .badge-upcoming{background-color:#f1f5f9;color:#64748b;border:1px dashed #cbd5e1}
 .store-rating{display:block;font-family:ui-monospace,monospace;font-size:.72rem;font-weight:700;color:#92400e;margin-top:.35rem}
+
+.duo-table-wrapper{background:#fff;border:1px solid #e2e8f0;border-radius:10px;margin:1.25rem 0 1.5rem;overflow-x:auto}
+.duo-table{width:100%;border-collapse:collapse;text-align:left;font-size:.88rem;min-width:480px}
+.duo-table th{background:#f8fafc;color:#475569;font-weight:700;padding:.75rem 1rem;border-bottom:1px solid #e2e8f0;font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
+.duo-table td{padding:.75rem 1rem;border-bottom:1px solid #f1f5f9;color:#334155;vertical-align:top}
+.duo-table td:first-child{font-weight:700;color:#0f172a}
+.duo-table tbody tr:last-child td{border-bottom:none}
 
 .action-stack-card{background:#fff;border-radius:10px;padding:1.15rem 1.25rem;margin:1.5rem 0 2rem;box-shadow:0 4px 15px rgba(0,0,0,.03)}
 .border-purple-light{border:1px solid #e9d5ff;border-left:3px solid #9333ea}
@@ -503,9 +488,8 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
 
   .mobile-sticky-cta{
     display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:.75rem;
+    flex-direction:column;
+    gap:.5rem;
     position:fixed;
     bottom:0;
     left:0;
@@ -514,31 +498,33 @@ heroImageAlt: "Comparatif des meilleurs tuteurs IA pour apprendre l'anglais en 2
     backdrop-filter:blur(10px);
     -webkit-backdrop-filter:blur(10px);
     border-top:1px solid #e2e8f0;
-    padding:.65rem 1rem calc(.65rem + env(safe-area-inset-bottom));
+    padding:.6rem 1rem calc(.6rem + env(safe-area-inset-bottom));
     box-shadow:0 -4px 20px rgba(15,23,42,.08);
     z-index:9990;
     transform:translateY(110%);
     transition:transform .25s cubic-bezier(.16,1,.3,1);
   }
   .mobile-sticky-cta.visible{transform:translateY(0)}
-  .sticky-cta-info{display:flex;align-items:center;gap:.6rem;min-width:0}
-  .sticky-cta-badge{flex-shrink:0;background:linear-gradient(135deg,#f97316 0%,#dc2626 100%);color:#fff;font-size:1.05rem;font-weight:900;letter-spacing:-.02em;padding:.4rem .6rem;border-radius:8px;transform:rotate(-4deg);box-shadow:0 3px 8px rgba(220,38,38,.3);line-height:1}
-  .sticky-cta-text{display:flex;flex-direction:column;line-height:1.25;min-width:0}
-  .sticky-cta-title{font-size:.88rem;font-weight:800;color:#0f172a}
-  .sticky-cta-sub{font-size:.7rem;color:#64748b}
-
+  .sticky-cta-label{font-size:.72rem;font-weight:700;color:#64748b;text-transform:uppercase;letter-spacing:.04em}
+  .sticky-cta-actions{display:flex;gap:.6rem}
   .btn-sticky-cta{
-    background:linear-gradient(135deg,#9333ea 0%,#7c3aed 100%)!important;
+    flex:1;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:.4rem;
     color:#fff!important;
     font-weight:700;
-    font-size:.86rem;
-    padding:.7rem 1.1rem;
+    font-size:.88rem;
+    padding:.7rem .5rem;
     border-radius:8px;
     text-decoration:none!important;
     white-space:nowrap;
-    box-shadow:0 3px 10px rgba(147,51,234,.25);
   }
+  .btn-sticky-purple{background:linear-gradient(135deg,#9333ea 0%,#7c3aed 100%)!important;box-shadow:0 3px 10px rgba(147,51,234,.25)}
+  .btn-sticky-blue{background:linear-gradient(135deg,#2563eb 0%,#1d4ed8 100%)!important;box-shadow:0 3px 10px rgba(37,99,235,.25)}
+  .sticky-cta-offer{background:rgba(255,255,255,.22);padding:.1rem .4rem;border-radius:4px;font-size:.75rem;font-weight:800}
 
-  .next-step-card{margin-bottom:4.5rem}
+  .next-step-card{margin-bottom:6rem}
 }
 </style>
