@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/09/creer-flashcards-anki-ia-768x429.avif"
 heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et ChatGPT"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a>
   <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
 
 <h1 class="page-title">Créer flashcards Anki IA : Prompts et Méthodologie (2026)</h1>
 
-<!-- Méta-barre E-E-A-T avec date de fraîcheur -->
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
   <span class="dot">•</span>
@@ -34,7 +32,6 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
 <span class="transparency-icon">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
-<!-- Bloc En Bref + Accès direct -->
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">EN BREF</span>
@@ -49,12 +46,10 @@ heroImageAlt: "Créer des flashcards Anki avec l'intelligence artificielle et Ch
   </div>
 </div>
 
-<!-- Encart lien méthode -->
 <div class="tip-box">
  Ce tutoriel couvre la manipulation technique. Pour choisir les bons mots et réviser en contexte, lis le guide complet : <a href="/apprendre-vocabulaire-anglais-chatgpt/">Comment apprendre le vocabulaire anglais avec ChatGPT &rarr;</a>
 </div>
 
-<!-- Sommaire interactif -->
 <details class="toc-card" open>
   <summary class="toc-title">
     <span>Sommaire du guide</span>
@@ -259,7 +254,6 @@ Contraintes STRICTES de formatage :
   <p>Accumuler des cartes sans les prononcer ne développe pas tes réflexes à l'oral. Lis systématiquement chaque carte à voix haute lors de tes révisions pour engager ta mémoire motrice.</p>
 </div>
 
-<!-- Rebond vers le pilier de la méthode -->
 <div class="next-step-card">
   <span class="next-label">RETOUR AU GUIDE MÉTHODE</span>
   <h3>Apprendre le vocabulaire et la grammaire avec ChatGPT</h3>
@@ -267,7 +261,6 @@ Contraintes STRICTES de formatage :
   <a href="/apprendre-vocabulaire-anglais-chatgpt/" class="btn-next">Lire le guide complet de l'Étape 03 &rarr;</a>
 </div>
 
-<!-- Toast dynamique -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Prompt copié dans le presse-papier !</div>
 
 <script is:inline>
@@ -359,7 +352,6 @@ function copyPrompt(id, btn) {
 </script>
 
 <style>
-  /* Fil d'Ariane & Titre */
   .breadcrumb {
     font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
     font-size: 0.78rem;
@@ -413,7 +405,6 @@ function copyPrompt(id, btn) {
     text-decoration: underline;
   }
 
-  /* Bloc GEO En Bref */
   .geo-box {
     background: #ffffff;
     border: 1px solid #e2e8f0;

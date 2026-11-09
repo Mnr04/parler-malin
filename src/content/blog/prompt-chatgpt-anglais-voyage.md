@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/07/prompt-chatgpt-voyage-anglais-scaled.avif"
 heroImageAlt: "Simuler des conversations en anglais en voyage avec un prompt ChatGPT"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Simuler des conversations en anglais en voyage avec un prompt Cha
 
 <h1 class="page-title">Prompt ChatGPT : Ton Simulateur d'Anglais en Voyage</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -30,7 +28,6 @@ heroImageAlt: "Simuler des conversations en anglais en voyage avec un prompt Cha
 <span class="dot">•</span>
 </div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -45,7 +42,6 @@ heroImageAlt: "Simuler des conversations en anglais en voyage avec un prompt Cha
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du guide</span>
@@ -196,14 +192,12 @@ Voici les 3 configurations prêtes à l'emploi à insérer dans les paramètres 
 
 ---
 
-<!-- 1. Bloc Vigilance IA -->
 <div class="transparency-banner">
 <span class="transparency-icon">⚠️</span>
 <p><strong>Rappel utile :</strong> Les réponses d'une IA restent des simulations et peuvent parfois comporter des erreurs ou des tournures bancales. Vérifie toujours les formulations critiques (santé, assurances, douane) auprès d'une source officielle avant ton départ.</p>
 </div>
 
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">ÉTAPE SUIVANTE</span>
 <h3>Pratiquer l'anglais avec des natifs : le crash-test de la vraie vie</h3>
@@ -211,7 +205,6 @@ Voici les 3 configurations prêtes à l'emploi à insérer dans les paramètres 
 <a href="/pratiquer-anglais-natifs/" class="btn-next">Pratiquer l'anglais avec des natifs sans stresser &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Prompt copié dans le presse-papier !</div>
 
 <script is:inline>

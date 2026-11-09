@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/09/loora-vs-preply-anglais-oral.avif"
 heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, illustrant le comparatif entre l'IA vocale Loora et les cours particuliers Preply pour apprendre l'anglais."
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 
 <h1 class="page-title">Loora vs Preply : Faut-il choisir une IA vocale ou un prof d'anglais pour parler à l'oral ?</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -29,12 +27,10 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <span>Temps de lecture : 7 min</span>
 </div>
 
-<!-- 1. Bandeau Transparence concis -->
 <div class="transparency-banner">
 <span class="transparency-icon">🛡️</span>
 <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
 
-<!-- 2. Bloc En Bref GEO (Moteurs génératifs et réponse rapide) -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF </span>
@@ -50,9 +46,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 </div>
 </div>
 
-<!-- ========================================== -->
-<!-- CARTE SYNTHÈSE                             -->
-<!-- ========================================== -->
 <div id="duel-methodes" class="review-scorecard">
 <div class="scorecard-top">
 <div class="scorecard-brand">
@@ -102,7 +95,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du guide</span>
@@ -147,9 +139,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <h3>Les limites à garder en tête</h3>
 <p>L'application reste un logiciel d'entraînement. Dès que la conversation touche à l'argot local, au second degré ou aux subtilités d'ambiance culturelle, l'IA montre ses limites. Ce n'est pas un substitut complet à une vraie discussion entre êtres humains, mais un formidable tremplin.</p>
 
-<!-- ========================================== -->
-<!-- Carte Code Promo Loora                     -->
-<!-- ========================================== -->
 <div class="voucher-hero-card">
 <div class="voucher-top-bar">
 <span class="voucher-badge">🔥 Valable en Septembre 2026</span>
@@ -209,7 +198,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <h3>Les contraintes à anticiper</h3>
 <p>Preply demande de bloquer des rendez-vous fixes. La règle d'annulation exige de prévenir au moins 12 heures à l'avance pour ne pas perdre son cours. De plus, les sensibilités pédagogiques étant variées, il faut parfois faire un ou deux essais pour tomber sur le profil idéal.</p>
 
-<!-- Carte Outil CRO Preply -->
 <div class="tool-callout-card">
 <div class="tool-callout-content">
 <div class="tool-tag-row">
@@ -357,13 +345,11 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 
 ---
 
-<!-- Disclaimer légal & tarifaire -->
 <div class="disclaimer-callout">
 <span class="disclaimer-badge">Avertissement de transparence</span>
 <p>Les informations tarifaires et conditions d'accès citées dans ce guide ont été relevées sur les sites officiels en septembre 2026. Elles peuvent évoluer selon les politiques de chaque plateforme.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">GUIDE PRATIQUE</span>
 <p class="next-step-title">Envie d'aller plus loin dans ta progression ?</p>
@@ -371,7 +357,6 @@ heroImageAlt: "Femme sur tablette face à un robot humanoïde sur ordinateur, il
 <a href="/" class="btn-next">Voir le guide complet &rarr;</a>
 </div>
 
-<!-- Balisage Schema.org structuré SEO & GEO -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

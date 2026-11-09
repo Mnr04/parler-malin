@@ -9,7 +9,6 @@ heroImage: "/uploads/2026/08/prompt-chatgpt-tuteur-anglais-scaled.avif"
 heroImageAlt: "Configurer ChatGPT en tuteur d'anglais personnel avec un prompt sur mesure"
 ---
 
-<!-- Fil d'Ariane SEO -->
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
 <a href="/">Accueil</a>
 <span class="sep">/</span>
@@ -20,7 +19,6 @@ heroImageAlt: "Configurer ChatGPT en tuteur d'anglais personnel avec un prompt s
 
 <h1 class="page-title">Prompt ChatGPT Tuteur Anglais : Ton Guide Pas-à-Pas</h1>
 
-<!-- Méta-barre E-E-A-T -->
 <div class="article-meta-bar">
 <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
 <span class="dot">•</span>
@@ -29,7 +27,6 @@ heroImageAlt: "Configurer ChatGPT en tuteur d'anglais personnel avec un prompt s
 <span>Temps de lecture : 5 min</span>
 </div>
 
-<!-- 2. Bloc En Bref GEO -->
 <div class="geo-box">
 <div class="geo-header">
 <span class="geo-tag">EN BREF</span>
@@ -44,7 +41,6 @@ heroImageAlt: "Configurer ChatGPT en tuteur d'anglais personnel avec un prompt s
 </div>
 </div>
 
-<!-- 3. Sommaire interactif rabattable -->
 <details class="toc-card" open>
 <summary class="toc-title">
 <span>Sommaire du guide</span>
@@ -171,13 +167,11 @@ Quand l'IA te corrige sur une préposition (*« depend on »* et non *« depend 
 
 ---
 
-<!-- Disclaimer IA -->
 <div class="disclaimer-callout">
 <span class="disclaimer-badge">Avertissement IA</span>
 <p>Bien que très performants, les modèles d'intelligence artificielle peuvent occasionnellement valider une phrase bancale ou suggérer une tournure peu naturelle. En cas de doute persistant sur une règle, vérifie toujours sur un dictionnaire de référence comme WordReference ou Cambridge Dictionary.</p>
 </div>
 
-<!-- Navigation CRO Rebond Guide -->
 <div class="next-step-card">
 <span class="next-label">ÉTAPE SUIVANTE</span>
 <h3>Comment créer ta routine d'anglais avec ChatGPT</h3>
@@ -185,7 +179,6 @@ Quand l'IA te corrige sur une préposition (*« depend on »* et non *« depend 
 <a href="/routine-anglais-chatgpt/" class="btn-next">Créer sa routine d'anglais avec ChatGPT (15 min/jour) &rarr;</a>
 </div>
 
-<!-- Toast flottant -->
 <div id="copy-toast" class="copy-toast" aria-live="polite">Prompt copié dans le presse-papier !</div>
 
 <script is:inline>
