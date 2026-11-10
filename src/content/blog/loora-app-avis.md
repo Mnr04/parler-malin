@@ -1,6 +1,6 @@
 ---
-title: "Avis Loora AI (Novembre 2026) : Mon Test Complet de l'Application (Fiable ou Arnaque ?)"
-description: "Que vaut vraiment l'application Loora AI pour parler anglais ? Mon avis après test : reconnaissance vocale, limites, retours clients, prix et comparatif."
+title: "Avis Loora AI (Novembre 2026) : Mon Avis Complet de l'Application (Fiable ou Arnaque ?)"
+description: "Que vaut vraiment l'application Loora AI pour parler anglais ? Mon avis: reconnaissance vocale, limites, retours clients, prix et comparatif."
 pubDate: 2026-07-26
 updatedDate: 2026-11-10
 author: "Jérémy"
