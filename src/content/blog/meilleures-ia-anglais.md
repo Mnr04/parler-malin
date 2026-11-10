@@ -89,15 +89,14 @@ heroImageAlt: "Comparatif des tuteurs IA pour apprendre l'anglais à l'oral en 2
       <tr class="upcoming-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-neutral">⏳ EN COURS DE TEST</span>
             <span class="tool-name">Autres Tuteurs IA</span>
           </div>
         </td>
         <td data-label="Format">
-          <span class="badge badge-upcoming">Nouveaux tests à venir</span>
+          <span class="badge badge-upcoming">À venir</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Je teste actuellement d'autres applications vocales. Elles seront ajoutées à ce tableau au fil de mes essais, qu'elles soient partenaires ou non.
+          D'autres applications vocales arrivent. Elles seront ajoutées à ce tableau au fil de mes essais, qu'elles soient partenaires ou non.
         </td>
       </tr>
     </tbody>
