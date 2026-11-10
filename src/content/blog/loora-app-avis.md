@@ -42,7 +42,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
       <span class="spec-val">Pratique quotidienne de l'anglais oral</span>
     </div>
     <div class="geo-spec-row">
-      <span class="spec-label">🎙️ Le + du test</span>
+      <span class="spec-label">🎙️ Le + </span>
       <span class="spec-val">Avatar 3D &amp; corrections en temps réel</span>
     </div>
     <div class="geo-spec-row">
