@@ -1,5 +1,5 @@
 ---
-title: "Avis Praktika AI (Novembre 2026) : Analyse et Test de l'Application"
+title: "Avis Praktika AI (Novembre 2026) : Analyse et Avis de l'Application"
 description: "Tarifs Praktika (novembre 2026) : découvre les prix et comment activer immédiatement -50 % sans code promo."
 pubDate: 2026-10-05
 updatedDate: 2026-11-10
@@ -7,7 +7,7 @@ author: "Jérémy"
 categories:
   - "avis"
 heroImage: "/uploads/10/avis-praktika-app-test-coach-ia.avif"
-heroImageAlt: "Avis et analyse complète de l'application Praktika AI : interface du coach vocal avec un avatar IA."
+heroImageAlt: "Analyse de l'application Praktika AI : interface du coach vocal avec un avatar IA."
 ---
 
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
