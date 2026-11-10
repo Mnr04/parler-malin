@@ -2,7 +2,7 @@
 title: "Avis Loora AI (Novembre 2026) : Mon Test Complet de l'Application (Fiable ou Arnaque ?)"
 description: "Que vaut vraiment l'application Loora AI pour parler anglais ? Mon avis après test : reconnaissance vocale, limites, retours clients, prix et comparatif."
 pubDate: 2026-07-26
-updatedDate: 2026-11-07
+updatedDate: 2026-11-10
 author: "Jérémy"
 categories:
   - "avis"
@@ -19,7 +19,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-11-07">07 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-10">10 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 8 min</span>
 </div>
@@ -34,20 +34,20 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
     <span class="geo-rating-pill">★ 4,9/5 App Store</span>
   </div>
   <p class="geo-verdict">
-    <strong>Loora AI</strong> (notée 4,9/5 sur l'App Store) s'impose comme une application de référence pour pratiquer l'anglais en conversation libre au téléphone, sans la peur du jugement.
+    <strong>Loora AI</strong> (notée 4,9/5 sur l'App Store et 4,8/5 sur Google Play) s'impose comme une application de référence 100 % spécialisée en anglais pour pratiquer la conversation sans la peur du jugement.
   </p>
   <div class="geo-specs">
     <div class="geo-spec-row">
       <span class="spec-label">🎯 Idéal pour</span>
-      <span class="spec-val">Parler librement 10 à 15 min/jour</span>
+      <span class="spec-val">Pratique quotidienne de l'anglais oral</span>
     </div>
     <div class="geo-spec-row">
       <span class="spec-label">🎙️ Le + du test</span>
-      <span class="spec-val">Voix ultra-naturelle &amp; correction d'accent</span>
+      <span class="spec-val">Avatar 3D &amp; corrections en temps réel</span>
     </div>
     <div class="geo-spec-row">
-      <span class="spec-label">💰 Tarif &amp; Essai</span>
-      <span class="spec-val">1re session gratuite, puis dès <strong>~8,30 €/mois</strong></span>
+      <span class="spec-label">💰 Tarif &amp; Offre</span>
+      <span class="spec-val">Dès 9,99 €/mois sur l'année </span>
     </div>
   </div>
   <div class="geo-cta-wrap">
@@ -75,9 +75,9 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
   <ol class="toc-list">
     <li><a href="#fonctionnement">Comment fonctionne l'application Loora AI ?</a></li>
     <li><a href="#test-terrain">Mon test en conditions réelles : ce qui marche et les limites</a></li>
-    <li><a href="#avis-utilisateurs">Avis clients Loora (App Store 4,9/5 et Trustpilot)</a></li>
+    <li><a href="#avis-utilisateurs">Avis clients Loora (App Store 4,9/5 et Play Store 4,8/5)</a></li>
     <li><a href="#arnaque">Loora est-il une arnaque ? Pourquoi certains avis sont négatifs ?</a></li>
-    <li><a href="#comparatif">Comparatif : Loora AI vs Praktika vs Speak vs ChatGPT</a></li>
+    <li><a href="#comparatif">Comparatif : où se situe Loora face aux alternatives ?</a></li>
     <li><a href="#tarifs">Quel budget prévoir pour Loora AI ? (Résumé des prix)</a></li>
     <li><a href="#verdict">Verdict final : faut-il installer l'application Loora ?</a></li>
     <li><a href="#faq">Foire aux questions (FAQ)</a></li>
@@ -87,7 +87,6 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 <div id="offre-exclusive" class="review-scorecard">
   <div class="scorecard-top">
     <div class="scorecard-brand">
-      <span class="brand-pill">BILAN DU TEST</span>
       <p class="scorecard-title">Points forts &amp; limites de Loora AI</p>
     </div>
     <div class="scorecard-rating">
@@ -95,7 +94,7 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
         <span class="rating-num">4,9<span class="rating-max">/5</span></span>
         <span class="rating-stars" aria-hidden="true">★★★★★</span>
       </div>
-      <span class="rating-count">Sur +38 000 avis App Store</span>
+      <span class="rating-count">Sur +41 000 avis App Store</span>
     </div>
   </div>
   <div class="pros-cons-grid">
@@ -103,17 +102,17 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
       <p class="pros-title">✅ Ce que j'aime :</p>
       <ul>
         <li>Zéro peur du jugement : tu oses parler à voix haute</li>
-        <li>Correction phonétique instantanée sur chaque syllabe</li>
-        <li>Format court très efficace (10 à 15 min par jour)</li>
-        <li>1re session d'évaluation gratuite sans carte bancaire</li>
+        <li>Correction phonétique instantanée et retours en temps réel</li>
+        <li>Avatar 3D et jeux de rôle concrets de la vie réelle</li>
+        <li>Spécialisé à 100 % sur l'apprentissage de l'anglais</li>
       </ul>
     </div>
     <div class="cons-col">
       <p class="cons-title">❌ Ce que j'aime moins :</p>
       <ul>
         <li>Pas de version gratuite illimitée (abonnement requis)</li>
-        <li>Uniquement disponible pour apprendre l'anglais</li>
-        <li>Facturation en dollars USD sur le site officiel</li>
+        <li>Uniquement disponible pour l'anglais (pas de multilingue)</li>
+        <li>Renouvellement automatique à anticiper</li>
       </ul>
     </div>
   </div>
@@ -123,39 +122,38 @@ heroImageAlt: "Avis et test complet de l'application et coach vocal d'anglais Lo
 
 <h2 id="fonctionnement">1. Comment fonctionne l'application Loora AI ?</h2>
 
-Contrairement aux applications d'apprentissage généralistes qui te font cliquer sur des quiz écrits, **l'application Loora AI est un tuteur d'anglais 100 % axé sur la conversation orale**.
+Contrairement aux applications d'apprentissage généralistes qui te font cocher des cases écrites, **l'application Loora AI est un tuteur vocal 100 % spécialisé en anglais**.
 
 Dès l'ouverture de l'appli sur ton téléphone (iOS ou Android) :
-1. **Tu appuies sur le micro et tu réponds de vive voix :** l'interface épurée fonctionne comme un appel téléphonique interactif avec ton coach virtuel.
-2. **L'IA analyse ton accent et ta grammaire en temps réel :** elle ne se contente pas de transcrire tes phrases, elle évalue la clarté de ton articulation.
-3. **Tu reçois un retour immédiat et bienveillant :** si tu butes sur la prononciation du son « TH », sur un verbe irrégulier ou sur un accent tonique, Loora isole le mot, te donne un score de prononciation en pourcentage et te fait répéter jusqu'à ce que le son soit maîtrisé.
+1. **Tu discutes directement avec un avatar 3D :** l'interface interactive simule un appel visuel en direct avec ton coach virtuel dédié à l'anglais.
+2. **Tu profites de leçons quotidiennes et d'une pratique illimitée :** l'application propose des exercices réguliers et des scénarios de la vie réelle (*real-life role plays*), comme commander au restaurant (*restaurant order*), passer un entretien d'embauche (*job interview*), mener une négociation commerciale (*business negotiation*) ou faire son enregistrement à l'hôtel (*hotel check-in*).
+3. **Tu reçois un retour en temps réel (*real-time feedback*) :** l'IA analyse instantanément ta prononciation et ta grammaire pour corriger tes tournures sans couper le fil de l'échange.
 
 <div class="tip-box">
-  <strong>💡 Pourquoi Loora AI est différent de ChatGPT ?</strong> Sur ChatGPT, le mode vocal cherche avant tout à deviner le sens de ta phrase et laisse passer tes erreurs de grammaire ou d'accent. Loora a été entraînée spécifiquement pour <strong>corriger tes tics de langage et reformuler tes phrases vers un anglais naturel</strong>.
+  <strong>💡 Pourquoi Loora AI est différent de ChatGPT ?</strong> Sur ChatGPT, le mode vocal cherche avant tout à deviner le sens de ta phrase et demande un travail de paramétrage (prompts) à chaque session. Loora propose une solution clé en main avec un avatar 3D, un suivi de progression et des corrections phonétiques ciblées pour progresser en anglais.
 </div>
 
 ---
 
-<h2 id="test-terrain">2. Mon test : ce qui marche et les limites</h2>
+<h2 id="test-terrain">2. Mon avis : ce qui marche et les limites</h2>
 
-Après plusieurs semaines d'entraînement quotidien sur l'application Loora au rythme de 10 à 15 minutes par jour, voici mon bilan sans filtre :
-
-### Les vrais points forts constatés pendant le test :
-- **Moins d'appréhension à l'oral :** face à un professeur humain ou en réunion, la peur de faire des fautes bloque souvent la parole. Avec Loora AI, tu peux chercher tes mots ou recommencer une phrase quatre fois sans jamais te sentir jugé.
-- **Un avatar photoréaliste immersif :** l'interaction visuelle avec l'avatar apporte un vrai plus pour simuler une conversation en face-à-face, tout en gardant une interface épurée.
-- **Des mises en situation professionnelles et concrètes :** simulations d'entretien d'embauche, négociation de salaire, préparation de voyage (aéroport, restaurant) ou débat libre (*Talk*) sur l'actualité.
-- **Une voix ultra fluide :** l'intonation de l'IA est naturelle, expressive et réglable en vitesse.
+### Les vrais points forts :
+- **Moins d'appréhension à l'oral :** face à un professeur humain ou en réunion, la peur de faire des fautes bloque souvent la parole. Avec Loora AI, tu peux chercher tes mots ou recommencer une phrase autant de fois que nécessaire sans te sentir jugé.
+- **Un avatar 3D photoréaliste immersif :** l'interaction visuelle avec l'avatar apporte un vrai plus pour simuler une conversation en face-à-face, tout en gardant une application fluide et rapide.
+- **Des mises en situation professionnelles et concrètes :** les jeux de rôle permettent de se préparer directement aux situations du quotidien ou du monde du travail.
+- **Une voix ultra fluide :** l'intonation de l'IA est naturelle, expressive et parfaitement adaptée à un entraînement oral régulier.
 
 ### Les limites à connaître avant d'installer l'appli :
-- **Pas de version gratuite permanente :** une fois la première session de découverte terminée, il faut obligatoirement souscrire un abonnement pour continuer.
-- **Exclusivement centrée sur l'anglais :** si tu cherches à apprendre l'espagnol ou l'allemand, Loora ne le propose pas.
+- **Pas de version gratuite permanente :** l'accès nécessite un abonnement Premium pour profiter de la pratique illimitée.
+- **Exclusivement centrée sur l'anglais :** l'application ne propose pas d'autres langues.
+
 ---
 
-<h2 id="avis-utilisateurs">3. Avis clients Loora (App Store 4,9/5 et Trustpilot)</h2>
+<h2 id="avis-utilisateurs">3. Avis clients Loora (App Store 4,9/5 et Play Store 4,8/5)</h2>
 
-Que disent les utilisateurs qui s'entraînent tous les jours avec l'application ? Sur l'App Store d'Apple, **Loora affiche une note de 4,9/5 sur plus de 38 000 avis**. Sur **Trustpilot**, la note est plus contrastée (autour de 3,5/5 sur un petit volume d'avis), principalement à cause de personnes surprises par le renouvellement automatique de l'abonnement (voir la section suivante).
+Que disent les utilisateurs qui s'entraînent tous les jours avec l'application ? Sur l'App Store d'Apple, **Loora affiche une note de 4,9/5 sur plus de 38 000 avis**, et **4,8/5 sur Google Play**, témoignant d'une excellente satisfaction globale.
 
-Voici trois retours d'utilisateurs représentatifs de l'expérience pédagogique :
+Voici trois retours d'utilisateurs depuis les plateformes :
 
 <div class="testimonials-grid">
   <div class="testimonial-card">
@@ -164,7 +162,6 @@ Voici trois retours d'utilisateurs représentatifs de l'expérience pédagogique
       <span class="review-author">Rubicon01</span>
     </div>
     <p class="review-text">« Je sens vraiment que j'ai fait le bon choix pour pratiquer mon anglais. Ça me met beaucoup plus à l'aise que de parler avec un prof. Les retours sont naturels et réalistes. »</p>
-    <span class="review-tag">Élève vérifié</span>
   </div>
   <div class="testimonial-card">
     <div class="testimonial-header">
@@ -172,7 +169,6 @@ Voici trois retours d'utilisateurs représentatifs de l'expérience pédagogique
       <span class="review-author">Adam_A7</span>
     </div>
     <p class="review-text">« Pratiquer avec Loora me fait prendre conscience des mots que je prononce mal d'habitude, et en même temps, ça m'aide à m'entraîner et à corriger ma prononciation. »</p>
-    <span class="review-tag">Élève vérifié</span>
   </div>
   <div class="testimonial-card">
     <div class="testimonial-header">
@@ -180,7 +176,6 @@ Voici trois retours d'utilisateurs représentatifs de l'expérience pédagogique
       <span class="review-author">Very demanding</span>
     </div>
     <p class="review-text">« Je suis vraiment impressionné par le style d'enseignement. Pouvoir ajuster le débit de la voix et la difficulté selon son humeur est une excellente fonctionnalité. »</p>
-    <span class="review-tag">Élève vérifié</span>
   </div>
 </div>
 
@@ -188,78 +183,32 @@ Voici trois retours d'utilisateurs représentatifs de l'expérience pédagogique
 
 <h2 id="arnaque">4. Loora est-il une arnaque ? Pourquoi certains avis sont négatifs ?</h2>
 
-Tu as peut-être tapé **« Loora arnaque »** ou *« est-ce un scam ? »* avant de télécharger l'application. Rassure-toi : **Loora AI n'est absolument pas une arnaque.** C'est une entreprise technologique sérieuse (fondée par Roy Mor et Yonti Levin) qui a levé plus de 12 millions de dollars et dont l'application officielle est validée par Apple et Google.
+Tu as peut-être tapé **« Loora arnaque »** ou *« est-ce un scam ? »* avant de télécharger l'application. Rassure-toi : **Loora AI n'est absolument pas une arnaque.** C'est une application reconnue, validée par les stores officiels et notée **4,9/5 sur l'App Store et 4,8/5 sur Google Play**.
 
-Alors, **pourquoi trouve-t-on quelques plaintes en ligne ?** Elles s'expliquent par trois malentendus fréquents :
-1. **La confusion sur la gratuité :** l'application se télécharge gratuitement et offre une première discussion de test, mais bloque ensuite l'accès derrière un abonnement payant (*paywall*). Certains utilisateurs pensent à tort que l'application est 100 % gratuite.
-2. **Le renouvellement automatique :** comme Netflix ou Spotify, les abonnements Loora (mensuels, trimestriels ou annuels) se renouvellent automatiquement à l'échéance. Si tu ne souhaites faire qu'un mois de test, pense simplement à désactiver le renouvellement dans tes réglages juste après ta souscription.
-3. **La facturation en dollars ($) :** sur le site web, les prix sont affichés en USD ($), ce qui peut surprendre sur le relevé bancaire si l'on n'a pas fait attention à la devise.
+Les rares avis négatifs ou interrogations proviennent généralement de trois points à garder en tête :
+1. **L'application est payante :** elle propose un service de pointe avec un abonnement Premium, ce qui surprend parfois ceux qui s'attendent à un outil 100 % gratuit.
+2. **Le renouvellement automatique :** comme la plupart des applications par abonnement (Netflix, Spotify), le renouvellement est tacite. Pense à noter ta date d'échéance si tu ne souhaites pas prolonger.
+3. **Les prix et taxes :** selon ton pays de résidence ou le store utilisé, le montant final peut varier légèrement.
 
 ---
 
-<h2 id="comparatif">5. Comparatif : Loora AI vs Praktika vs Speak vs ChatGPT</h2>
+<h2 id="comparatif">5. Comparatif : où se situe Loora face aux alternatives ?</h2>
 
-Tu cherches des **applications comme Loora** ou tu hésites avec ses concurrents directs ? Voici comment Loora se positionne face aux meilleures alternatives du marché en 2026 :
+Pour choisir l'application qui te correspond le mieux, tu peux consulter mon <a href="/meilleures-ia-anglais/">comparatif des meilleurs tuteurs vocaux IA</a>. 
 
-<span class="table-scroll-hint">↔ Glisse le tableau pour comparer les concurrents</span>
-<div class="table-container">
-  <table class="custom-table">
-    <thead>
-      <tr>
-        <th>Critère</th>
-        <th>Loora AI</th>
-        <th>Praktika AI</th>
-        <th>Speak</th>
-        <th>ChatGPT (Voix)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Interface</strong></td>
-        <td>Audio épurée + texte</td>
-        <td>Avatars animés 3D</td>
-        <td>Vidéos + exercices vocaux</td>
-        <td>Onde vocale neutre</td>
-      </tr>
-      <tr>
-        <td><strong>Correction d'accent</strong></td>
-        <td><strong>Excellente (syllabe par syllabe)</strong></td>
-        <td>Très bonne (3 niveaux)</td>
-        <td>Très bonne</td>
-        <td>Faible (à configurer soi-même)</td>
-      </tr>
-      <tr>
-        <td><strong>Langues disponibles</strong></td>
-        <td>Anglais uniquement</td>
-        <td>10+ langues (Anglais, Espagnol…)</td>
-        <td>Anglais, Espagnol…</td>
-        <td>Toutes les langues</td>
-      </tr>
-      <tr>
-        <td><strong>Tarif annuel (avec promo)</strong></td>
-        <td>107,99 $/an (~8,30 €/mois)</td>
-        <td><strong>59,99 €/an (~5,00 €/mois)</strong></td>
-        <td>~99 €/an</td>
-        <td>Gratuit (sans suivi) ou ~22 €/mois</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-- **Loora vs Praktika :** Si tu veux voir un visage animé en 3D, suivre un programme structuré, importer des documents (comme ton CV) et payer moins cher (~5 €/mois), lis mon <a href="/avis-praktika/">avis sur Praktika AI</a>. Si tu veux une interface sobre sans distraction visuelle et centrée à 100 % sur la discussion libre en anglais, choisis **Loora**.
-- **Loora vs Speak :** Speak est très structuré avec des mini-vidéos de cours, tandis que Loora plonge immédiatement dans la conversation interactive.
+Contrairement aux assistants généralistes comme ChatGPT (qui demandent du temps de paramétrage avec des prompts), des applications dédiées comme **Loora AI** proposent un service complet et clé en main. Loora se distingue par son positionnement premium centré à 100 % sur l'anglais (avec d'excellentes notes de 4,9/5 et 4,8/5).
 
 ---
 
 <h2 id="tarifs">6. Quel budget prévoir pour Loora AI ? (Résumé des prix)</h2>
 
-Après la première leçon d'essai gratuite, Loora propose trois formules d'abonnement (1 mois, 3 mois ou 1 an). En passant par le site officiel et en utilisant le code **PARLERMALIN10** dans le champ *« Add promo code »*, tu bénéficies de **10 % de réduction immédiate** :
+Les tarifs indicatifs depuis la France (susceptibles de varier selon le pays) s'articulent autour de trois formules, sur lesquelles tu peux appliquer une **remise de -10 %** avec le code **PARLERMALIN10** :
 
-- **Forfait 1 Mois :** **23,39 $** (~21,50 €) au lieu de 25,99 $.
-- **Forfait 3 Mois :** **53,99 $** (~49,70 €) au lieu de 59,99 $.
-- **Forfait Annuel (le plus populaire) :** **107,99 $ / an** (~99,50 € / an, soit **~8,30 € par mois**) au lieu de 119,99 $.
+- **Forfait 1 Mois :** 25,99 € (soit **23,39 €** avec le code).
+- **Forfait 3 Mois :** 59,99 € (soit **53,99 €** avec le code, soit ~19,99 €/mois).
+- **Forfait 1 An (le plus populaire) :** 119,99 € par an (soit **107,99 €**, soit **~9,99 € par mois** hors promo).
 
-Pour voir le détail complet des conversions en euros, les astuces pour éviter les frais bancaires et le tutoriel d'activation du coupon pas à pas, consulte mon guide dédié au <a href="/prix-loora-ai/">prix de Loora AI et code promo</a>.
+Pour découvrir le détail complet, les conversions et le tutoriel d'activation du coupon, consulte mon guide dédié au <a href="/prix-loora-ai/">prix de Loora AI et code promo</a>.
 
 <div class="tool-callout-card">
   <div class="tool-callout-content">
@@ -290,34 +239,32 @@ Pour voir le détail complet des conversions en euros, les astuces pour éviter 
 
 <h2 id="verdict">7. Verdict final : faut-il installer l'application Loora ?</h2>
 
-Si tu comprends l'anglais écrit mais que tu cherches tes mots dès qu'il faut parler en réunion ou en voyage, **Loora AI est l'un des meilleurs tuteurs vocaux disponibles en 2026**.
+Si tu cherches un tuteur vocal de pointe spécialisé à 100 % en anglais, avec des avatars 3D, une pratique illimitée et des retours en temps réel, **Loora AI est une excellente solution** (notée 4,9/5 sur l'App Store et 4,8/5 sur Google Play).
 
-Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, mais elle offre un terrain d'entraînement idéal pour pratiquer à voix haute sans pression. En parlant 10 à 15 minutes par jour depuis ton canapé, tu gagnes en fluidité pour un peu plus de 8 € par mois sur la formule annuelle.
-
-**Ma note finale : 4,8/5.**
+Elle offre un terrain d'entraînement idéal pour pratiquer à voix haute 10 à 15 minutes par jour depuis chez soi, sans pression ni jugement.
 
 ---
 
 <h2 id="faq">Foire aux questions</h2>
 
 <details class="faq-card">
-  <summary class="faq-title">Est-ce que Loora AI propose un essai gratuit ?</summary>
+  <summary class="faq-title">Quel est le prix de l'abonnement Loora AI ?</summary>
   <div class="faq-body">
-    <p>Oui, le téléchargement de l'application permet d'effectuer une première session d'évaluation orale complète gratuitement et sans carte bancaire. Pour débloquer l'entraînement quotidien illimité, il faut ensuite souscrire un abonnement.</p>
+    <p>Loora propose trois formules : 25,99 € pour 1 mois, 59,99 € pour 3 mois, ou 119,99 € pour 1 an (soit environ 9,99 €/mois sur l'année), avec une réduction de -10 % disponible grâce au code <strong>PARLERMALIN10</strong> (les prix peuvent varier légèrement selon le pays).</p>
   </div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Quel niveau d'anglais faut-il pour utiliser Loora App ?</summary>
   <div class="faq-body">
-    <p>L'application est idéale dès le niveau faux-débutant (A2) jusqu'au niveau avancé (C1). Comme les conversations se déroulent en anglais, il est préférable de connaître quelques bases simples pour profiter pleinement des dialogues (des boutons de traduction et d'indices sont toutefois présents à l'écran pour t'aider).</p>
+    <p>L'application est idéale pour tout les niveaux.</p>
   </div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Loora AI est-il fiable ou une arnaque ?</summary>
   <div class="faq-body">
-    <p>Loora AI est une application 100 % fiable, notée 4,9/5 par plus de 38 000 utilisateurs sur l'App Store. Pense simplement à vérifier la date de renouvellement automatique de ton abonnement si tu ne souhaites pas qu'il soit reconduit à l'échéance.</p>
+    <p>Loora AI est une application 100 % fiable, notée 4,9/5 sur l'App Store et 4,8/5 sur Google Play. Pense simplement à vérifier la date de renouvellement automatique de ton abonnement si tu ne souhaites pas qu'il soit reconduit.</p>
   </div>
 </details>
 
@@ -331,7 +278,7 @@ Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, 
 <details class="faq-card">
   <summary class="faq-title">Comment résilier son abonnement Loora AI ?</summary>
   <div class="faq-body">
-    <p>La résiliation se fait à tout moment depuis les réglages d'abonnements de ton iPhone (Apple ID), du Google Play Store sur Android, ou via le lien de gestion de compte reçu par e-mail si tu es passé par le site web officiel. Tu gardes l'accès Premium jusqu'à la fin de la période payée.</p>
+    <p>La résiliation se fait à tout moment depuis les réglages d'abonnements de ton iPhone (Apple ID), du Google Play Store sur Android, ou via le lien de gestion de compte reçu par e-mail si tu es passé par le site web officiel.</p>
   </div>
 </details>
 
@@ -344,7 +291,7 @@ Elle ne remplace pas un professeur diplômé pour préparer un examen officiel, 
 
 <div class="next-step-card">
   <span class="next-label">À LIRE AUSSI</span>
-  <p class="next-step-title">Combien coûte Loora AI en Euros ? Grille des tarifs 2026</p>
+  <p class="next-step-title">Combien coûte Loora AI ? Grille complète des tarifs 2026</p>
   <p>Consulte le détail des formules (1 mois, 3 mois, 1 an), la conversion en euros et le tutoriel pour appliquer les -10 % de réduction.</p>
   <a href="/prix-loora-ai/" class="btn-next">Voir le guide complet des prix Loora &rarr;</a>
 </div>
@@ -443,7 +390,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" }
       },
       "datePublished": "2026-07-26",
-      "dateModified": "2026-11-07",
+      "dateModified": "2026-11-10",
       "image": "https://parlermalin.fr/uploads/2026/07/loora-app-avis-test-2026-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/loora-app-avis/"
@@ -468,10 +415,10 @@ document.addEventListener("DOMContentLoaded", function () {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Est-ce que Loora AI propose un essai gratuit ?",
+          "name": "Quel est le prix de l'abonnement Loora AI ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui, le téléchargement de l'application permet d'effectuer une première session d'évaluation orale complète gratuitement et sans carte bancaire. Pour débloquer l'entraînement quotidien illimité, il faut ensuite souscrire un abonnement."
+            "text": "Loora propose trois formules : 25,99 € pour 1 mois, 59,99 € pour 3 mois, ou 119,99 € pour 1 an (soit environ 9,99 €/mois sur l'année), avec une réduction de -10 % disponible grâce au code PARLERMALIN10."
           }
         },
         {
@@ -479,7 +426,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Quel niveau d'anglais faut-il pour utiliser Loora App ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'application est idéale dès le niveau faux-débutant (A2) jusqu'au niveau avancé (C1). Comme les conversations se déroulent en anglais, il est préférable de connaître quelques bases simples pour démarrer."
+            "text": "L'application est idéale pour tout les niveaux."
           }
         },
         {
@@ -487,7 +434,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Loora AI est-il fiable ou une arnaque ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Loora AI est une application 100 % fiable, notée 4,9/5 par plus de 38 000 utilisateurs sur l'App Store. Pense simplement à vérifier la date de renouvellement automatique de ton abonnement si tu ne souhaites pas qu'il soit reconduit."
+            "text": "Loora AI est une application 100 % fiable, notée 4,9/5 sur l'App Store et 4,8/5 sur Google Play. Pense simplement à vérifier la date de renouvellement automatique de ton abonnement si tu ne souhaites pas qu'il soit reconduit."
           }
         },
         {
