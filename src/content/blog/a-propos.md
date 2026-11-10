@@ -13,33 +13,33 @@ date: 2026-07-07
 
   <header class="about-hero">
     <h1 class="page-title">À propos</h1>
-    <p class="hero-intro">Des tests réels et sans détour pour apprendre à parler anglais avec les outils d'aujourd'hui.</p>
+    <p class="hero-intro">Analyses et comparatifs pour apprendre à parler anglais avec les bons tuteurs vocaux IA.</p>
   </header>
 
   <section class="content-block bio-card">
     <div class="bio-avatar">J</div>
     <div class="bio-text">
       <h2>Qui suis-je ?</h2>
-      <p>Je m'appelle Jérémy. Je ne suis ni prof d'anglais, ni chercheur en IA. Je suis simplement un utilisateur qui teste les nouveaux outils pour voir ce qui aide à améliorer son anglais.</p>
+      <p>Je m'appelle Jérémy. Je ne suis ni professeur de langue ni chercheur en intelligence artificielle. Je suis simplement un utilisateur passionné par les outils numériques qui décortique les applications d'anglais pour voir ce qu'elles valent.</p>
     </div>
   </section>
 
   <section class="content-block">
     <h2>Pourquoi ce site ?</h2>
-    <p>Entre les promesses magiques et les applications gadgets, il est difficile de savoir ce qui fonctionne vraiment.</p>
-    <p>Mon but avec <strong>Parler Malin</strong> est simple : faire le tri. Je teste des prompts, des outils vocaux et des méthodes d'entraînement pour garder uniquement ce qui fait avancer.</p>
+    <p>Entre les promesses marketing des startups de l'IA et les abonnements aux tarifs parfois opaques, il est difficile de savoir quel outil choisir pour progresser réellement à l'oral.</p>
+    <p>Mon objectif avec <strong>Parler Malin</strong> est de structurer une information claire: j'analyse les fonctionnalités, les grilles tarifaires, les retours utilisateurs et les limites techniques des tuteurs vocaux pour vous aider à faire le bon choix.</p>
   </section>
 
   <section class="content-block">
     <h2>Transparence</h2>
     <div class="transparency-grid">
       <div class="transparency-item">
-        <h3>Avis directs</h3>
-        <p>Si un outil est mal fichu, trop cher ou survendu, je le dis. Aucun contenu n'est sponsorisé pour dire du bien d'une application.</p>
+        <h3>Indépendance éditoriale</h3>
+        <p>Si une application présente des failles, des tarifs cachés ou un intérêt limité, je le dis clairement. Aucun article n'est rédigé pour embellir la réalité d'un service.</p>
       </div>
       <div class="transparency-item">
-        <h3>Financement</h3>
-        <p>Certains liens sont des liens affiliés. Si tu t'abonnes à un outil via ces liens, je touche une commission sans que cela ne te coûte un centime de plus. C'est ce qui finance mes tests et permet au site de rester 100 % gratuit.</p>
+        <h3>Financement du site</h3>
+        <p>Certains liens présents sur le site sont des liens affiliés. Si vous souscrivez à un abonnement via ces liens, je touche une commission sans le moindre surcoût pour vous. C'est ce modèle qui finance mes recherches et permet à Parler Malin de rester entièrement gratuit.</p>
       </div>
     </div>
   </section>
@@ -47,7 +47,7 @@ date: 2026-07-07
   <section class="content-block contact-card">
     <div class="contact-inner">
       <h2>Contact</h2>
-      <p>Une question sur un outil ou une idée de test ? Tu peux m'écrire directement :</p>
+      <p>Une question sur un comparatif ou une suggestion d'outil à analyser ? Vous pouvez m'écrire directement :</p>
       <a href="mailto:contact@parlermalin.fr" class="contact-email">
         <span class="mail-icon">✉</span>
         contact@parlermalin.fr
