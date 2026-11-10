@@ -42,39 +42,37 @@ heroImageAlt: "Comparatif des tuteurs IA pour apprendre l'anglais à l'oral en 2
       <tr class="rank-budget-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-purple">LUDIQUE &amp; MULTILINGUE </span>
             <span class="tool-name">Praktika AI</span>
           </div>
-          <a href="/avis-praktika/" class="tool-link-btn btn-purple-outline">Lire mon test complet &rarr;</a>
+          <a href="/avis-praktika/" class="tool-link-btn btn-purple-outline">Lire mon avis complet &rarr;</a>
         </td>
         <td data-label="Format">
           <span class="badge badge-ai">🤖 Avatars 3D interactifs</span>
           <span class="store-rating">★ 4,7/5 App Store • 4,5/5 Google Play</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Un tuteur vocal complet et très ludique : plan d'étude personnalisé, avatars 3D avec retours en temps réel, une dizaine de langues possibles. Via mon offre partenaire (-50 %), l'abonnement annuel passe à <strong>59,99 €</strong> au lieu de 119,99 €.
+          Une solution flexible et ludique offrant un large choix de langues (plus de 10 langues disponibles) et un parcours guidé sur mesure. <strong>Offre partenaire (-50 %) :</strong> l'abonnement annuel à <strong>59,99 €</strong> (soit ~5 €/mois).
         </td>
       </tr>
       <tr class="rank-premium-row">
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-blue">100 % SPÉCIALISÉ ANGLAIS </span>
             <span class="tool-name">Loora AI</span>
           </div>
-          <a href="/loora-app-avis/" class="tool-link-btn btn-blue-outline">Lire mon test complet &rarr;</a>
+          <a href="/loora-app-avis/" class="tool-link-btn btn-blue-outline">Lire mon avis complet &rarr;</a>
         </td>
         <td data-label="Format">
           <span class="badge badge-ai">🎙️ Avatar 3D interactif</span>
           <span class="store-rating">★ 4,9/5 App Store • 4,8/5 Google Play</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          Sensiblement le même service complet, avec une approche centrée à 100 % sur l'anglais : leçons quotidiennes, pratique illimitée, role-plays concrets et suivi de progression. À partir de <strong>9,99 €/mois</strong> en abonnement annuel (119,99 €/an).
+          L'expérience 100 % dédiée à l'anglais, plébiscitée sur les stores : interface épurée, correction phonétique de pointe et immersion professionnelle. Dès <strong>9,99 €/mois</strong> avec le code <code>PARLERMALIN10</code>.
         </td>
       </tr>
       <tr>
         <td data-label="Tuteur IA">
           <div class="tool-name-wrap">
-            <span class="rank-badge badge-neutral">OPTION GRATUITE</span>
+            <span class="rank-badge badge-neutral">ALTERNATIVE GRATUITE</span>
             <span class="tool-name">ChatGPT &amp; Gemini</span>
           </div>
           <a href="#gratuit" class="tool-link-btn btn-neutral-outline">Voir comment les utiliser &darr;</a>
@@ -83,7 +81,7 @@ heroImageAlt: "Comparatif des tuteurs IA pour apprendre l'anglais à l'oral en 2
           <span class="badge badge-general">⚙️ IA généralistes</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          <strong>Gratuit :</strong> un outil pertinent avec le mode vocal. Le seul bémol est le temps qu'il faut consacrer au paramétrage des prompts à chaque session avant de pouvoir pratiquer.
+          <strong>Gratuit :</strong> une bonne alternative grâce au mode vocal. Principal frein : l'obligation de configurer soi-même les prompts à chaque session pour simuler un vrai suivi pédagogique.
         </td>
       </tr>
       <tr class="upcoming-row">
@@ -96,7 +94,7 @@ heroImageAlt: "Comparatif des tuteurs IA pour apprendre l'anglais à l'oral en 2
           <span class="badge badge-upcoming">À venir</span>
         </td>
         <td data-label="Objectif" class="tool-desc">
-          D'autres applications vocales arrivent. Elles seront ajoutées à ce tableau au fil de mes essais, qu'elles soient partenaires ou non.
+          D'autres solutions d'IA vocale sont actuellement en cours de test et seront intégrées à ce comparatif dès validation.
         </td>
       </tr>
     </tbody>
