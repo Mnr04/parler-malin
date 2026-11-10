@@ -1,8 +1,8 @@
 ---
 title: "Prix Praktika AI (Novembre 2026) : Tarifs, Abonnement & Code Promo -50%"
-description: "Praktika est-il gratuit ou payant ? Découvre combien coûte vraiment Praktika AI en novembre 2026 (abonnement mensuel, annuel) et comment activer -50% sans code promo."
+description: "Tarifs Praktika (novembre 2026) : découvre les prix et comment activer immédiatement -50 % sans code promo."
 pubDate: 2026-10-05
-updatedDate: 2026-11-06
+updatedDate: 2026-11-10
 author: "Jérémy"
 categories:
   - "avis"
@@ -19,7 +19,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en novembre 2026 : ill
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-11-06">6 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-10">10 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 6 min</span>
 </div>
@@ -70,7 +70,7 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en novembre 2026 : ill
 </div>
 
 <div class="quick-answer-box">
-  <p><strong>En bref — Combien coûte Praktika ?</strong> Praktika AI fonctionne sur un modèle freemium (téléchargement gratuit, mais abonnement <strong>Praktika Premium</strong> obligatoire pour pratiquer en illimité). Le tarif standard est de <strong>23,98 €/mois</strong> ou <strong>119,99 €/an</strong>. En activant la remise partenaire de -50 % ci-dessous, le prix descend à <strong>11,99 € pour 1 mois</strong> ou <strong>59,99 € pour 1 an</strong> (soit ~5 €/mois).</p>
+  <p><strong>En bref — Combien coûte Praktika ?</strong> Praktika AI nécessite un abonnement. Le tarif standard est de <strong>23,98 €/mois</strong> ou <strong>119,99 €/an</strong>. En activant la remise partenaire de -50 % ci-dessous, le prix descend à <strong>11,99 € pour 1 mois</strong> ou <strong>59,99 € pour 1 an</strong> (soit ~5 €/mois). Tu cherches un comparatif global ? Découvre mon dossier sur les <a href="/meilleures-ia-anglais/">meilleurs tuteurs vocaux IA pour l'anglais</a>.</p>
 </div>
 
 <details class="toc-card">
@@ -80,7 +80,6 @@ heroImageAlt: "Prix et tarifs de l'abonnement Praktika AI en novembre 2026 : ill
     <li><a href="#promo">Code promo Praktika : -50 % sans code</a></li>
     <li><a href="#ce-que-comprend">Ce que tu obtiens avec l'abonnement Premium</a></li>
     <li><a href="#version-gratuite">Praktika est-il gratuit ou payant ? (Essai et limites)</a></li>
-    <li><a href="#praktika-vs-loora">Praktika vs Loora : quel prix ?</a></li>
     <li><a href="#resilier">Comment résilier ton abonnement Praktika</a></li>
     <li><a href="#faq">Foire aux questions</a></li>
   </ol>
@@ -139,49 +138,20 @@ Tu cherches un **code promo Praktika** (`praktika promo code`), un coupon ou une
 
 Quelle que soit la durée choisie (mensuelle, trimestrielle ou annuelle), l'abonnement **Praktika Premium** débloque l'accès complet aux fonctionnalités de l'application :
 
-- **Conversations orales illimitées** avec tous les avatars et tuteurs IA animés (Skye, Tama, Raven…), chacun ayant sa personnalité et son accent (américain, britannique, etc.).
-- **Corrections de grammaire et de prononciation** en temps réel, avec trois niveaux d'exigence réglables (doux, équilibré, strict).
-- **Multimodalité :** possibilité d'importer des photos ou des documents (CV, menu de restaurant, support de présentation) pour lancer des jeux de rôle sur mesure.
-- **Suivi de progression et gamification :** programme personnalisé selon ton niveau, séries quotidiennes et défis.
+- **Conversations orales illimitées** avec tous les avatars et tuteurs IA animés en 3D (Skye, Tama, Raven…), chacun ayant sa personnalité et son accent (américain, britannique, australien, etc.).
+- **Plan d'étude personnalisé** et parcours structuré adaptés à ton niveau et à tes objectifs (voyage, professionnel, quotidien).
+- **Corrections en temps réel** (prononciation et grammaire) pour ancrer de bons réflexes à l'oral.
+- **Accès à une dizaine de langues** si tu souhaites t'initier à d'autres idiomes en plus de l'anglais.
 
-Pour voir ces fonctionnalités en conditions réelles : <a href="/avis-praktika/">lire mon test et avis sur Praktika</a>.
+Pour voir ces fonctionnalités en conditions réelles : <a href="/avis-praktika/">lire mon test et avis sur Praktika</a>, ou comparer ses forces avec d'autres solutions sur mon <a href="/meilleures-ia-anglais/">comparatif des meilleurs tuteurs vocaux IA</a>.
 
 <h2 id="version-gratuite">4. Praktika est-il gratuit ou payant ? (Essai et limites)</h2>
 
-**Est-ce que Praktika est gratuit ? Non, Praktika AI est une application payante qui fonctionne sur un modèle *freemium* :**
+**Est-ce que Praktika est gratuit ? Non, Praktika AI est une application payante.** 
 
-- **Ce qui est gratuit :** Le téléchargement sur l'App Store ou Google Play, la création de ton compte, le questionnaire d'évaluation initial et un premier aperçu de l'interface avec un avatar pour tester la reconnaissance vocale.
-- **Ce qui est payant (Praktika Premium) :** Dès que tu souhaites discuter librement sans limite de temps, suivre ton plan d'étude complet ou utiliser les mises en situation personnalisées, l'abonnement payant devient indispensable.
+Le téléchargement et l'inscription permettent de découvrir l'interface, mais un abonnement Premium est requis pour profiter d'échanges vocaux illimités et suivre l'intégralité du cursus pédagogique. 
 
-Concernant l'**essai gratuit**, Praktika privilégie une réduction immédiate de -50 % dès le premier mois (soit 11,99 € pour tester un mois complet sans engagement annuel) plutôt qu'une période d'essai gratuite illimitée.
-
-<p class="micro-disclaimer"><em>Les conditions d'accès gratuit sont fixées par Praktika et peuvent évoluer selon les mises à jour : vérifie-les directement dans l'application lors de l'inscription.</em></p>
-
-<h2 id="praktika-vs-loora">5. Praktika vs Loora : quel prix est le plus intéressant ?</h2>
-
-Praktika AI et Loora AI sont les deux applications de coachs vocaux les plus populaires pour pratiquer l'anglais à l'oral. Côté tarifs, voici comment leurs abonnements se comparent en novembre 2026 :
-
-<span class="table-scroll-hint">↔ Glisse le tableau pour comparer</span>
-<div class="table-container">
-  <table class="custom-table">
-    <thead>
-      <tr><th>Critère</th><th>Praktika AI</th><th>Loora AI</th></tr>
-    </thead>
-    <tbody>
-      <tr><td><strong>Annuel (standard)</strong></td><td>119,99 €</td><td>119,99 $</td></tr>
-      <tr class="highlight-row"><td><strong>Annuel (avec promo)</strong></td><td><strong>59,99 €</strong> (-50 %, sans code)</td><td><strong>107,99 $</strong> (-10 % avec le code PARLERMALIN10)</td></tr>
-      <tr><td><strong>Coût mensuel (annuel + promo)</strong></td><td>~5 € / mois</td><td>~9 $ / mois</td></tr>
-      <tr><td><strong>Mensuel (avec promo)</strong></td><td>11,99 €</td><td>23,39 $</td></tr>
-      <tr><td><strong>Gratuit ou payant ?</strong></td><td>Téléchargement gratuit, abonnement pour pratiquer</td><td>1 leçon d'essai, puis abonnement</td></tr>
-      <tr><td><strong>Style</strong></td><td>Avatars animés 3D, jeux de rôle, photos et documents</td><td>Avatar photoréaliste, focus anglais et phonétique</td></tr>
-    </tbody>
-  </table>
-</div>
-<p class="micro-disclaimer"><em>Prix relevés en novembre 2026. Loora facture en dollars américains ($) : le montant final en euros dépend du taux de change. Vérifie toujours le prix affiché avant de valider.</em></p>
-
-Au tarif annuel avec réduction, **Praktika revient presque deux fois moins cher par mois que Loora**. Pour comparer avec l'autre application, consulte mon guide du <a href="/prix-loora-ai/">prix de Loora AI</a> ainsi que mon <a href="/loora-app-avis/">avis complet sur Loora</a>.
-
-<h2 id="resilier">6. Comment résilier ton abonnement Praktika</h2>
+<h2 id="resilier">5. Comment résilier ton abonnement Praktika</h2>
 
 Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement automatique, mais tu peux les annuler à tout moment pour éviter la reconduction à l'échéance suivante. La résiliation s'effectue selon la plateforme utilisée lors de ton paiement :
 
@@ -200,7 +170,7 @@ Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement au
 
 <details class="faq-card">
   <summary class="faq-title">Est-ce que Praktika est gratuit ou payant ?</summary>
-  <div class="faq-body"><p>Le téléchargement et l'inscription sont gratuits pour découvrir l'interface, mais Praktika est une application payante : un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et suivre le parcours complet.</p></div>
+  <div class="faq-body"><p>Praktika est une application payante : un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et suivre le parcours complet.</p></div>
 </details>
 
 <details class="faq-card">
@@ -214,23 +184,8 @@ Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement au
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Praktika vs Loora : lequel est le moins cher ?</summary>
-  <div class="faq-body"><p>Au tarif annuel avec réduction, Praktika revient à environ 5 € par mois (59,99 €/an) contre environ 9 $ par mois pour Loora (107,99 $/an avec le code PARLERMALIN10). Praktika est donc nettement plus abordable et propose des avatars animés, tandis que Loora se concentre sur l'anglais avec une interface purement vocale.</p></div>
-</details>
-
-<details class="faq-card">
   <summary class="faq-title">Comment résilier mon abonnement Praktika ?</summary>
   <div class="faq-body"><p>Rends-toi dans la section « Abonnements » des réglages de ton compte App Store (iOS) ou Google Play Store (Android), ou passe par le lien de gestion reçu par e-mail si tu as souscrit sur le web. Résilie au moins 24h avant la date d'échéance pour stopper le renouvellement automatique.</p></div>
-</details>
-
-<details class="faq-card">
-  <summary class="faq-title">Praktika est-il moins cher qu'un professeur particulier ?</summary>
-  <div class="faq-body"><p>Oui, une année complète de Praktika avec -50 % (59,99 €) coûte l'équivalent de deux ou trois heures de cours particuliers. Les deux approches restent complémentaires : Praktika permet de pratiquer l'oral tous les jours sans contrainte, tandis qu'un professeur humain apporte un suivi pédagogique certifié.</p></div>
-</details>
-
-<details class="faq-card">
-  <summary class="faq-title">Y a-t-il des frais cachés sur Praktika ?</summary>
-  <div class="faq-body"><p>Je n'ai constaté aucun frais caché lors de mon test : les prix sont affichés en euros (€) avant la validation. Vérifie simplement le montant total et la périodicité de renouvellement sur ton écran de confirmation.</p></div>
 </details>
 
 <div class="disclaimer-callout">
@@ -240,7 +195,7 @@ Tous les abonnements Praktika (1 mois, 3 mois ou 1 an) sont à renouvellement au
 
 <div class="next-step-card">
   <span class="next-label">À LIRE AUSSI</span>
-  <h3>Praktika AI vaut-il son prix ? Mon test complet</h3>
+  <h3>Praktika AI vaut-il son prix ? Mon avis complet</h3>
   <p>Fonctionnement, avatars (Skye, Tama), qualité des corrections et limites : tout ce qu'il faut savoir avant de t'abonner.</p>
   <a href="/avis-praktika/" class="btn-next">Lire mon avis complet sur Praktika →</a>
 </div>
@@ -282,7 +237,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "author": { "@type": "Person", "name": "Jérémy", "url": "https://parlermalin.fr/a-propos/" },
       "publisher": { "@type": "Organization", "name": "Parler Malin", "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" } },
       "datePublished": "2026-10-05",
-      "dateModified": "2026-11-06",
+      "dateModified": "2026-11-10",
       "image": "https://parlermalin.fr/uploads/10/prix-abonnement-praktika-code-promo.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/prix-praktika/"
@@ -312,10 +267,10 @@ document.addEventListener("DOMContentLoaded", function () {
       "@type": "FAQPage",
       "mainEntity": [
         { "@type": "Question", "name": "Combien coûte Praktika par mois ?", "acceptedAnswer": { "@type": "Answer", "text": "Le tarif standard est de 23,98 € pour un abonnement d'un mois, ou d'environ 10 € par mois sur la formule annuelle (119,99 €). En activant la réduction de -50 %, le forfait 1 mois passe à 11,99 € et le forfait annuel descend à 59,99 € par an, soit environ 5 € par mois." } },
-        { "@type": "Question", "name": "Est-ce que Praktika est gratuit ou payant ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et l'inscription sont gratuits pour découvrir l'application, mais Praktika est payant : un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et débloquer le parcours complet." } },
+        { "@type": "Question", "name": "Est-ce que Praktika est gratuit ou payant ?", "acceptedAnswer": { "@type": "Answer", "text": "Le téléchargement et l'inscription sont gratuits pour découvrir l'interface, mais Praktika est payant : un abonnement Premium est obligatoire pour discuter en illimité avec les tuteurs IA et débloquer le parcours complet." } },
         { "@type": "Question", "name": "Faut-il un code promo Praktika pour obtenir -50 % ?", "acceptedAnswer": { "@type": "Answer", "text": "Non, aucun code promo n'est nécessaire : la réduction de 50 % s'applique automatiquement quand tu passes par le lien partenaire. Vérifie toujours le prix final affiché avant de valider." } },
         { "@type": "Question", "name": "Quelle est la formule d'abonnement la moins chère ?", "acceptedAnswer": { "@type": "Answer", "text": "Pour débourser le moins possible immédiatement, la formule 1 mois avec promo est la plus accessible (11,99 €). Pour payer le moins cher au mois sur la durée, c'est l'abonnement annuel à -50 % qui est le plus économique (~5 € par mois)." } },
-        { "@type": "Question", "name": "Praktika vs Loora : lequel est le moins cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Au tarif annuel avec réduction, Praktika revient à environ 5 € par mois (59,99 €/an) contre environ 9 $ par mois pour Loora (107,99 $/an avec le code PARLERMALIN10)." } },
+        { "@type": "Question", "name": "Praktika vs Loora : lequel est le moins cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Au tarif annuel avec réduction, Praktika revient à environ 5 € par mois (59,99 €/an) contre environ 9,99 € par mois pour Loora (119,99 €/an avec le code PARLERMALIN10)." } },
         { "@type": "Question", "name": "Comment résilier mon abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Rends-toi dans la section Abonnements des réglages de ton compte App Store (iOS) ou Google Play Store (Android), ou passe par le lien de gestion reçu par e-mail si tu as souscrit sur le web." } },
         { "@type": "Question", "name": "Praktika est-il moins cher qu'un professeur particulier ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, largement : une année complète de Praktika avec -50 % (59,99 €) coûte l'équivalent de deux ou trois heures de cours particuliers avec un professeur humain." } },
         { "@type": "Question", "name": "Y a-t-il des frais cachés sur Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Aucun frais caché constaté lors du test : les prix sont affichés en euros avant la validation. Vérifie simplement le montant total et la périodicité de renouvellement sur ton écran de confirmation." } }
@@ -338,12 +293,11 @@ document.addEventListener("DOMContentLoaded", function () {
 .transparency-banner{display:flex;align-items:center;gap:.5rem;background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #8b5cf6;border-radius:6px;padding:.45rem .75rem;margin-bottom:1rem;font-size:.76rem;color:#475569}
 .transparency-banner p{margin:0;line-height:1.35}.transparency-banner a{color:#6d28d9;text-decoration:underline;text-underline-offset:2px}
 
-/* Boîte Réponse Directe GEO */
 .quick-answer-box{background:#faf5ff;border:1px solid #e9d5ff;border-left:4px solid #7c3aed;border-radius:8px;padding:.9rem 1.15rem;margin-bottom:1.25rem;font-size:.92rem;color:#334155;line-height:1.55}
 .quick-answer-box p{margin:0}
 .quick-answer-box strong{color:#0f172a}
+.quick-answer-box a{color:#6d28d9;text-decoration:underline;text-underline-offset:2px;font-weight:600}
 
-/* Voucher Hero Card orientée Conversion Above The Fold */
 .voucher-hero-card{background:#fff;border:2px solid #8b5cf6;border-radius:16px;padding:1.35rem 1.45rem;margin-bottom:1.75rem;box-shadow:0 10px 30px rgba(139,92,246,.08)}
 .voucher-top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:.85rem;flex-wrap:wrap;gap:.5rem}
 .voucher-badge{background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-family:ui-monospace,monospace;font-size:.72rem;font-weight:800;padding:.2rem .6rem;border-radius:99px;letter-spacing:.03em}
@@ -352,7 +306,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .voucher-headline{font-size:clamp(1.3rem,2.5vw,1.65rem);font-weight:800;color:#0f172a;line-height:1.22;margin:0 0 .4rem;letter-spacing:-.02em}
 .voucher-sub{font-size:.9rem;color:#475569;line-height:1.48;margin:0}
 
-/* Grille des 3 prix visible d'un seul coup d'œil */
 .voucher-pricing-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:.65rem;background:#f8fafc;padding:.7rem;border-radius:12px;margin-bottom:1rem;border:1px solid #f1f5f9}
 .price-pill{background:#fff;border:1px solid #e2e8f0;border-radius:8px;padding:.55rem .4rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative}
 .price-pill .plan-name{font-size:.76rem;color:#64748b;font-weight:600;margin-bottom:.1rem}
@@ -369,7 +322,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .btn-hero-cta:active,.btn-inline-cta:active{transform:scale(.99)}
 .voucher-guarantees{display:flex;justify-content:center;align-items:center;text-align:center;font-size:.74rem;color:#64748b}
 
-/* Sommaire */
 .toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:2rem;overflow:hidden}
 .toc-title{padding:.85rem 1.1rem;font-family:ui-monospace,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
 .toc-title::-webkit-details-marker{display:none}
@@ -378,7 +330,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .toc-list{margin:0;padding:.6rem 1.1rem 1rem 2.2rem;border-top:1px solid #e2e8f0;font-size:.88rem;color:#475569;line-height:1.7}
 .toc-list li{margin-bottom:.35rem}.toc-list a{color:#1e293b;text-decoration:none;font-weight:500}.toc-list a:hover{color:#6d28d9;text-decoration:underline}
 
-/* Tableaux */
 .table-scroll-hint{display:none;font-size:.74rem;color:#64748b;font-family:ui-monospace,monospace;margin-bottom:.35rem;text-align:right}
 .table-container{overflow-x:auto;margin:.5rem 0 .5rem;border:1px solid #e2e8f0;border-radius:10px;background:#fff;-webkit-overflow-scrolling:touch}
 .custom-table{width:100%;border-collapse:collapse;font-size:.88rem;text-align:left}
@@ -387,14 +338,12 @@ document.addEventListener("DOMContentLoaded", function () {
 .custom-table tr:last-child td{border-bottom:none}.highlight-row{background:#f0fdf4!important}
 .micro-disclaimer{font-size:.76rem;color:#64748b;line-height:1.45;margin:.5rem 0 1.5rem}
 
-/* Captures d'écran blindées contre le débordement mobile */
 .shot{margin:1.5rem auto;text-align:center;width:100%;max-width:100%;box-sizing:border-box;overflow:hidden}
 .shot img{display:block;margin:0 auto;width:100%!important;max-width:100%!important;height:auto!important;border:1px solid #e2e8f0;border-radius:12px;box-shadow:0 4px 16px rgba(15,23,42,.08);box-sizing:border-box}
 .shot-phone{max-width:290px}
 .shot-wide{max-width:640px}
 .shot figcaption{margin-top:.5rem;font-size:.78rem;color:#64748b;padding:0 .5rem}
 
-/* Rappel Promo Milieu de page */
 .inline-promo-reminder{display:flex;align-items:center;justify-content:space-between;gap:1.15rem;background:linear-gradient(to right,#ffffff,#faf5ff);border:1.5px solid #d8b4fe;border-radius:12px;padding:1.15rem 1.25rem;margin:1.75rem 0;box-shadow:0 4px 14px rgba(109,40,217,.06)}
 .inline-promo-badge{display:inline-block;font-family:ui-monospace,monospace;font-size:.68rem;font-weight:800;color:#6d28d9;background:#f3e8ff;padding:.15rem .5rem;border-radius:4px;margin-bottom:.3rem}
 .inline-promo-text p{margin:0;font-size:.88rem;color:#334155;line-height:1.45;font-weight:500}
@@ -403,7 +352,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #6d28d9;border-radius:8px;padding:1rem 1.15rem;font-size:.88rem;color:#475569;margin:1.5rem 0;line-height:1.55}
 .tip-box a{color:#6d28d9;text-decoration:underline;font-weight:600}
 
-/* FAQ */
 .faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
 .faq-title{padding:.9rem 1.1rem;font-weight:700;font-size:.92rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
@@ -423,12 +371,8 @@ document.addEventListener("DOMContentLoaded", function () {
 .btn-next,.btn-next:visited{display:inline-flex;align-items:center;justify-content:center;background:#0f172a!important;color:#fff!important;font-weight:600;font-size:.9rem;padding:.75rem 1.35rem;border-radius:8px;text-decoration:none!important;transition:background-color .15s ease;box-sizing:border-box}
 .btn-next:hover,.btn-next:focus{background:#1e293b!important;color:#fff!important}
 
-/* Sticky Mobile Bar (Cachée sur Desktop) */
 .mobile-sticky-cta{display:none}
 
-/* =========================================
-   OPTIMISATIONS MOBILE-FIRST & CRO (<768px)
-   ========================================= */
 @media (max-width:768px){
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
   .page-title{font-size:1.52rem;line-height:1.18;margin:.15rem 0 .45rem}

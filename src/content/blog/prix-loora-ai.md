@@ -1,6 +1,6 @@
 ---
 title: "Prix Loora AI (Novrembre 2026) : Tarifs + Code Promo -10 %"
-description: "Loora AI dès 8,30 €/mois : tarifs 1 mois, 3 mois et 1 an, essai gratuit et code promo PARLERMALIN10 (-10 %) à copier. Vérifié en novembre 2026."
+description: "Prix Loora AI (novembre 2026) : abonnements 1, 3 et 12 mois, test des avatars 3D et code promo PARLERMALIN10 (-10 %) vérifié."
 pubDate: 2026-09-16
 updatedDate: 2026-11-01
 author: "Jérémy de Parler Malin"
@@ -72,7 +72,9 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
     </a>
   </div>
 </div>
-
+<div class="quick-answer-box">
+  <p><strong>En bref — Combien coûte Loora ?</strong>  <strong>Loora Premium</strong> obligatoire pour pratiquer en illimité. Le tarif standard est de <strong>25,99 €/mois</strong> ou <strong>59,99 €/trimestre</strong> ou <strong>119,99 €/an</strong>.</p>
+</div>
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire du guide des tarifs</span>
@@ -84,7 +86,6 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
     <li><a href="#fonctionnalites-premium">Ce que comprend l'abonnement Loora Premium</a></li>
     <li><a href="#version-gratuite">Loora est-il gratuit ?</a></li>
     <li><a href="#arnaque">Loora, arnaque ou service fiable ?</a></li>
-    <li><a href="#comparaison-concurrents">Loora vs Praktika vs italki : comparatif des prix</a></li>
     <li><a href="#faq">Foire aux questions (FAQ)</a></li>
   </ol>
 </details>
@@ -555,6 +556,9 @@ document.addEventListener("DOMContentLoaded", function () {
 .copy-toast.show{opacity:1;visibility:visible;transform:translate(-50%,0)}
 
 .mobile-sticky-cta{display:none}
+.quick-answer-box{background:#faf5ff;border:1px solid #e9d5ff;border-left:4px solid #7c3aed;border-radius:8px;padding:.9rem 1.15rem;margin-bottom:1.25rem;font-size:.92rem;color:#334155;line-height:1.55}
+.quick-answer-box p{margin:0}
+.quick-answer-box strong{color:#0f172a}
 
 @media (max-width:768px){
   .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
@@ -640,6 +644,7 @@ document.addEventListener("DOMContentLoaded", function () {
     white-space:nowrap;
     box-shadow:0 3px 10px rgba(26,86,219,.25);
   }
+  .quick-answer-box{padding:.75rem .9rem;font-size:.85rem;margin-bottom:1rem}
 
   .next-step-card{margin-bottom:4.5rem}
 }
