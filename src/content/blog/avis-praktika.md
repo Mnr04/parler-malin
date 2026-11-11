@@ -68,10 +68,8 @@ heroImageAlt: "Analyse de l'application Praktika AI : interface du coach vocal a
     <li><a href="#fonctionnement">Comment fonctionne l'application Praktika AI ?</a></li>
     <li><a href="#analyse">Analyse des fonctionnalités : avatars, parcours et gamification</a></li>
     <li><a href="#limites">Les limites de l'application Praktika</a></li>
-    <li><a href="#pour-qui">Pour qui (et pour qui pas) ?</a></li>
     <li><a href="#avis-utilisateurs">Avis sur Praktika : que pensent les utilisateurs ?</a></li>
     <li><a href="#arnaque">Praktika est-il une arnaque ? Est-il fiable ?</a></li>
-    <li><a href="#comparatif">Praktika vs Loora vs ChatGPT</a></li>
     <li><a href="#tarifs">Prix Praktika : est-ce gratuit ou payant ?</a></li>
     <li><a href="#verdict">Verdict final : mon avis sur Praktika AI</a></li>
     <li><a href="#faq">FAQ</a></li>
@@ -137,6 +135,7 @@ Dès l'ouverture de l'application sur ton téléphone (iOS ou Android), tu chois
 L'application mise sur des avatars 3D interactifs et une approche très visuelle pour rendre la pratique quotidienne attrayante. Le temps de latence entre la fin de la phrase et la réponse vocale de l'IA est particulièrement court, ce qui rend l'échange fluide.
 
 ### Les vrais points forts :
+
 - **Apprendre dès le premier niveau sans peur :** si tu débutes de zéro, ton tuteur peut communiquer dans ta langue maternelle pour t'aider à te lancer en toute sérénité.
 - **Un plan d'étude 100 % personnalisé :** l'application élabore un programme sur mesure qui s'adapte précisément à tes objectifs, tes centres d'intérêt et ta vitesse de progression.
 - **Des suggestions de phrases en direct :** si tu cherches tes mots, l'interface t'affiche des tournures naturelles et des suggestions adaptées pour garder confiant le fil de la discussion.
@@ -147,6 +146,7 @@ L'application mise sur des avatars 3D interactifs et une approche très visuelle
   <img src="/uploads/10/praktika-conversation-skye.avif" alt="Capture d'écran de l'application Praktika montrant une conversation en direct avec le tuteur et avatar IA" width="390" height="844" loading="lazy" decoding="async">
   <figcaption>Échange en direct avec un avatar IA pour préparer une discussion.</figcaption>
 </figure>
+
 ---
 
 <h2 id="limites">3. Les limites de l'application Praktika</h2>
@@ -156,7 +156,8 @@ L'application Praktika possède de vrais atouts, mais voici les points faibles �
 - **L'abonnement est nécessaire :** le téléchargement est gratuit, mais l'usage régulier demande un compte Premium (voir la <a href="/prix-praktika/">grille complète des tarifs et codes promo Praktika</a>).
 - **Il faut pouvoir parler à voix haute :** l'application est pensée pour la voix : dans les transports en commun ou au bureau, son utilisation est limitée.
 - **Moins structuré qu'un cours de grammaire :** Praktika excelle dans la pratique orale et les jeux de rôle, mais ne remplace pas un manuel qui explique les règles grammaticales de A à Z.
-<h2 id="avis-utilisateurs">5. Avis sur Praktika : que pensent les utilisateurs ? (App Store 4,7/5)</h2>
+
+<h2 id="avis-utilisateurs">4. Avis sur Praktika : que pensent les utilisateurs ? (App Store 4,7/5)</h2>
 
 Du côté des **avis sur l'application Praktika** (*Praktika app avis*), la plateforme affiche une note moyenne de **4,7/5 sur l'App Store**, basée sur plus de 168 000 évaluations. Tu peux consulter tous les retours clients ou télécharger l'application directement via ce lien : <a href="https://apps.apple.com/us/app/praktika-ai-language-tutor/id1624701477" target="_blank" rel="noopener noreferrer"><strong>Voir Praktika sur l'App Store</strong></a>.
 
@@ -180,7 +181,7 @@ Voici des extraits d'avis authentiques laissés par des utilisateurs sur les pla
   </div>
 </div>
 
-<h2 id="arnaque">6. Praktika est-il une arnaque ? Est-il fiable ?</h2>
+<h2 id="arnaque">5. Praktika est-il une arnaque ? Est-il fiable ?</h2>
 
 **Non, Praktika AI n'est pas une arnaque.** L'application (parfois recherchée par erreur sous l'orthographe **Pratika** ou **Practika**) est une solution officielle publiée sur l'App Store d'Apple et le Google Play Store, plébiscitée par plus de 168 000 utilisateurs. Voici toutefois les points de vigilance à connaître avant de t'abonner :
 
@@ -188,7 +189,7 @@ Voici des extraits d'avis authentiques laissés par des utilisateurs sur les pla
 - **Renouvellement automatique :** comme sur toutes les applications mobiles, l'abonnement se reconduit automatiquement à l'échéance. Pense à l'annuler dans les réglages de ton téléphone si tu ne souhaites pas poursuivre (j'explique toute la procédure dans mon guide sur le <a href="/prix-praktika/">prix et l'abonnement Praktika</a>).
 - **Vérifie le tarif affiché avant validation :** les promotions peuvent évoluer selon la période.
 
-<h2 id="tarifs">8. Prix Praktika : est-ce gratuit ou payant ?</h2>
+<h2 id="tarifs">6. Prix Praktika : est-ce gratuit ou payant ?</h2>
 
 L'application se télécharge gratuitement pour une première prise en main, mais elle est **payante** dès que tu veux pratiquer au quotidien avec les avatars. Trois formules d'abonnement **Praktika Premium** existent (1 mois, 3 mois ou 1 an). En passant par mon lien partenaire, une réduction de 50 % s'applique directement sur la page de paiement (ce qui ramène l'abonnement annuel à environ 5 € par mois). Pour consulter le coût par jour, les limites exactes de la version gratuite et la méthode de résiliation, rendez-vous sur mon guide dédié au <a href="/prix-praktika/">prix Praktika et code promo</a>.
 
@@ -228,7 +229,7 @@ L'application se télécharge gratuitement pour une première prise en main, mai
   </div>
 </div>
 
-<h2 id="verdict">9. Verdict final : mon avis sur Praktika AI</h2>
+<h2 id="verdict">7. Verdict final : mon avis sur Praktika AI</h2>
 
 Si tu cherches un outil pour t'entraîner à parler régulièrement et gagner en aisance sans la pression d'un interlocuteur humain, Praktika AI constitue une alternative intéressante. Grâce aux avatars interactifs et aux corrections en temps réel, l'application permet de structurer sa pratique au quotidien.
 
@@ -323,7 +324,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       "@type": "Article",
-      "headline": "Avis Praktika AI (Novembre 2026) : Test et Analyse de l'Application",
+      "headline": "Avis Praktika AI (Novembre 2026) : Analyse et Avis de l'Application",
       "description": "Tarifs Praktika (novembre 2026) : découvre les prix et comment activer immédiatement -50 % sans code promo.",
       "author": { "@type": "Person", "name": "Jérémy", "url": "https://parlermalin.fr/a-propos/" },
       "publisher": { "@type": "Organization", "name": "Parler Malin", "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" } },
@@ -340,14 +341,21 @@ document.addEventListener("DOMContentLoaded", function () {
       "operatingSystem": "iOS, Android",
       "image": "https://parlermalin.fr/uploads/10/avis-praktika-app-test-coach-ia.avif",
       "description": "Application d'apprentissage des langues basée sur des conversations orales avec des tuteurs et avatars IA animés.",
+      "offers": {
+        "@type": "Offer",
+        "price": 0,
+        "priceCurrency": "EUR"
+      },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.7",
-        "reviewCount": "168000"
+        "ratingValue": 4.7,
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingCount": 168000
       },
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "4.7", "bestRating": "5" },
+        "reviewRating": { "@type": "Rating", "ratingValue": 4.7, "bestRating": 5 },
         "author": { "@type": "Person", "name": "Jérémy" }
       }
     },
@@ -360,7 +368,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { "@type": "Question", "name": "Combien coûte l'abonnement Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Les tarifs standards vont de 23,98 € pour 1 mois à 119,99 € pour 1 an. En passant par le lien partenaire à -50 %, le mois passe à 11,99 € et l'abonnement annuel revient à 59,99 € (soit environ 5 € par mois)." } },
         { "@type": "Question", "name": "Comment résilier Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "La résiliation s'effectue directement depuis la rubrique Abonnements des réglages de ton iPhone (App Store) ou du Google Play Store (Android), au moins 24 heures avant la date de renouvellement." } },
         { "@type": "Question", "name": "Quelles langues peut-on apprendre avec Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Praktika permet d'apprendre et de pratiquer l'anglais, l'espagnol, le français, l'allemand, l'italien, le portugais, le japonais, le coréen, le chinois, le russe et l'arabe." } },
-        { "@type": "Question", "name": "Peut-on débuter de zéro sur Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, tu peux sélectionner le niveau débutant (A1) lors du questionnaire initial : l'avatar adaptera son débit de parole et pourra t'aider dans ta langue maternelle." } },
+        { "@type": "Question", "name": "Peut-on débuter de zéro sur Praktika ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, tu peux sélectionner le niveau débutant (A1) lors du questionnaire initial : l'avatar adaptera son débit de parole et pourra t'aider dans ta langue maternelle." } }
       ]
     }
   ]

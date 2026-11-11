@@ -135,10 +135,6 @@ Sur <a href="https://www.italki.com" target="_blank" rel="noopener noreferrer">i
 ### 2. Preply (Suivi régulier)
 Sur <a href="https://preply.com/fr/" target="_blank" rel="noopener noreferrer">preply.com</a>, le fonctionnement est similaire avec un très large choix de professeurs anglophones filtrables par accent, tarif et spécialité (anglais professionnel, préparation d'entretien, conversation), avec un système de forfait hebdomadaire pour maintenir un rythme régulier.
 
-<div class="tip-box">
-  <strong>💡 L'astuce budget :</strong> Payer 3 ou 4 heures de cours particuliers chaque semaine revient vite cher. En utilisant un <a href="/meilleures-ia-anglais/"><strong>tuteur vocal IA</strong></a> tous les jours pour ta pratique courante, une seule séance humaine tous les 15 jours (ou par semaine) peut te permettre de progresser.
-</div>
-
 ---
 
 <h2 id="peur-du-natif">3. Trois conseils pour surmonter l'appréhension du premier appel</h2>
@@ -164,7 +160,7 @@ Changer de tuteur à chaque cours oblige à refaire les mêmes présentations de
 <details class="faq-card">
   <summary class="faq-title">Vaut-il mieux commencer par un tuteur IA ou par un professeur natif ?</summary>
   <div class="faq-body">
-    <p>Si tu souffres d'un fort blocage à l'oral ou que tu manques de vocabulaire actif, commencer par un tuteur vocal IA pendant quelques semaines permet de prendre confiance à voix haute sans aucune gêne. Si tu prépares un examen officiel à court terme, l'accompagnement d'un professeur diplômé est recommandé en parallèle.</p>
+    <p>Si tu souffres d'un blocage à l'oral ou que tu manques de vocabulaire actif, commencer par un tuteur vocal IA pendant quelques semaines permet de prendre confiance à voix haute sans aucune gêne. Si tu prépares un examen officiel à court terme, l'accompagnement d'un professeur diplômé est recommandé en parallèle.</p>
   </div>
 </details>
 

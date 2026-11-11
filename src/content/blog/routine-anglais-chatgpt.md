@@ -180,7 +180,7 @@ Le tableau généré par ChatGPT est très utile pour poser un cadre gratuit. To
 Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préférences :
 
 - **L'approche 100 % gratuite (avec ChatGPT ou Gemini) :** idéale si tu as un budget de 0 € et que cela ne te dérange pas de paramétrer toi-même tes sessions d'entraînement à l'aide de prompts.
-- **L'approche guidée (avec une application de Tuteur Vocal IA) :** des applications mobiles spécialisées comme <a href="/avis-praktika/"><strong>Praktika AI</strong></a> (parcours structuré avec avatars) ou <a href="/loora-app-avis/"><strong>Loora AI</strong></a> (conversations vocales libres avec corrections en temps réel) intègrent directement un programme quotidien prêt à l'emploi et un suivi de prononciation, sans avoir à configurer de prompt.
+- **L'approche guidée (avec une application de Tuteur Vocal IA) :** des applications mobiles spécialisées comme <a href="/avis-praktika/"><strong>Praktika AI</strong></a> ou <a href="/loora-app-avis/"><strong>Loora AI</strong></a> intègrent directement un programme quotidien prêt à l'emploi et un suivi de prononciation, sans avoir à configurer de prompt.
 
 <div class="tool-callout-card">
   <div class="tool-callout-content">
@@ -189,7 +189,7 @@ Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préféren
       <span class="tool-feature">Applications vocales &amp; Options gratuites</span>
     </div>
     <h4>Quel tuteur IA correspond le mieux à ta routine quotidienne ?</h4>
-    <p>Compare les avantages, les limites et les tarifs des applications dédiées (Praktika, Loora) face aux assistants gratuits (ChatGPT, Gemini) pour trouver le format qui te fera pratiquer régulièrement.</p>
+    <p>Compare les avantages, les limites et les tarifs des applications dédiées pour trouver le format qui te fera pratiquer régulièrement.</p>
   </div>
   <div class="tool-callout-action">
     <a href="/meilleures-ia-anglais/" class="btn-tool-cta">Voir le comparatif des Tuteurs IA &rarr;</a>
@@ -213,14 +213,6 @@ Tu as donc deux façons d'appliquer ta routine au quotidien selon tes préféren
     <p>Inutile de doubler la durée de la séance suivante pour rattraper le temps perdu, au risque de te décourager. Reprends simplement ta séance habituelle de 15 minutes le lendemain.</p>
   </div>
 </details>
-
-<details class="faq-card">
-  <summary class="faq-title">Je ne connais pas mon niveau actuel (A1 à C2) pour remplir le prompt, comment faire ?</summary>
-  <div class="faq-body">
-    <p>Tu peux faire une estimation rapide et gratuite en 10 minutes grâce à mes <a href="/test-niveau-anglais-chatgpt/">prompts de test de niveau d'anglais sur ChatGPT</a> avant de générer ton planning.</p>
-  </div>
-</details>
-
 ---
 
 <div class="disclaimer-callout">
@@ -322,14 +314,6 @@ function copyPrompt(id, btn) {
             "text": "Inutile de doubler la durée de la séance suivante pour compenser. Reprends simplement ta séance habituelle de 15 minutes le lendemain."
           }
         },
-        {
-          "@type": "Question",
-          "name": "Je ne connais pas mon niveau actuel (A1 à C2) pour remplir le prompt, comment faire ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tu peux réaliser une estimation gratuite en 10 minutes à l'aide d'un prompt d'évaluation CECRL sur ChatGPT avant de générer ton planning."
-          }
-        }
       ]
     }
   ]

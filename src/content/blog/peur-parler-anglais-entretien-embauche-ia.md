@@ -2,7 +2,7 @@
 title: "Entretien d'Embauche en Anglais (2026) : Simuler et Pratiquer avec l'IA"
 description: "Peur de parler anglais en entretien d'embauche ? Entraîne-toi en direct avec nos 2 prompts de simulation sur ChatGPT et découvre les meilleurs tuteurs vocaux IA."
 pubDate: 2026-07-24
-updatedDate: 2026-11-09
+updatedDate: 2026-11-11
 author: "Jérémy"
 categories:
   - "astuces"
@@ -19,7 +19,7 @@ heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et un t
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-11-09">09 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-11">11 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 6 min</span>
 </div>
@@ -30,11 +30,9 @@ heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et un t
 
 <div class="geo-box">
   <div class="geo-header">
-    <span class="geo-tag">⚡ PRÉPARATION ENTRETIEN</span>
-    <span class="geo-meta">Simulation Vocale • 2 Prompts</span>
   </div>
   <p class="geo-verdict">
-    En entretien d'embauche, réciter un texte appris par cœur fonctionne rarement face aux relances du recruteur. Voici <strong>2 prompts ChatGPT</strong> pour simuler un entretien vocal adapté à ton métier et obtenir un débriefing détaillé, avant de pratiquer régulièrement sur un <strong>tuteur vocal IA</strong>.
+    En entretien d'embauche, réciter un texte appris par cœur fonctionne rarement face aux relances du recruteur. Voici <strong>2 prompts ChatGPT</strong> pour simuler un entretien vocal adapté à ton métier et obtenir un débriefing, avant de pratiquer de manière illimitée via les <strong>jeux de rôle des tuteurs IA</strong>.
   </p>
   <div class="geo-specs">
     <div class="geo-spec-row">
@@ -61,12 +59,10 @@ heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et un t
     <li><a href="#limites">Pourquoi réciter son CV par cœur ne suffit pas le jour J</a></li>
     <li><a href="#systeme-ia">Prompt 1 : Simuler un entretien réaliste avec le mode vocal de ChatGPT</a></li>
     <li><a href="#debrief">Prompt 2 : Obtenir un débriefing complet et extraire le vocabulaire métier</a></li>
-    <li><a href="#tuteurs-ia-entretien">S'entraîner au quotidien avant le jour J : l'intérêt d'un Tuteur Vocal IA</a></li>
+    <li><a href="#tuteurs-ia-entretien">S'entraîner au quotidien : l'avantage des jeux de rôle (Role-Play) IA</a></li>
     <li><a href="#faq">Foire aux questions (FAQ)</a></li>
   </ol>
 </details>
-
----
 
 <h2 id="peur">1. Pourquoi l'entretien d'embauche en anglais est un exercice à part</h2>
 
@@ -80,8 +76,6 @@ heroImageAlt: "Simulation d'entretien d'embauche en anglais avec ChatGPT et un t
   <strong>Le point d'attention :</strong> Même avec un bon niveau de compréhension écrite, le manque d'habitude de parler à voix haute de son propre métier entraîne souvent des hésitations sur des mots techniques pourtant simples.
 </div>
 
----
-
 <h2 id="limites">2. Pourquoi réciter son CV par cœur ne suffit pas le jour J</h2>
 
 Le réflexe le plus courant avant un entretien en anglais consiste à rédiger une présentation écrite et à l'apprendre par cœur devant son miroir. Cette approche montre vite ses limites en conditions réelles :
@@ -90,8 +84,6 @@ Le réflexe le plus courant avant un entretien en anglais consiste à rédiger u
 - **Le manque d'interaction :** s'entraîner seul à l'écrit n'habitue pas l'oreille au rythme d'une discussion professionnelle ni à la reformulation spontanée.
 
 Pour arriver serein le jour de l'entretien, le meilleur entraînement consiste à **pratiquer le jeu des questions-réponses à voix haute** afin d'automatiser tes tournures de phrases.
-
----
 
 <h2 id="systeme-ia">3. Prompt 1 : Simuler un entretien réaliste avec le mode vocal de ChatGPT</h2>
 
@@ -123,12 +115,10 @@ DÉROULEMENT DE L'ENTRETIEN :
 Commence l'entretien maintenant en anglais avec ta première question.</code></pre>
 </div>
 
-<figure class="article-figure figure-compact">
-  <img src="/uploads/2026/07/prompt-ia-simulation-entretien-embauche-anglais-developpeur.avif" alt="Simulation d'entretien d'embauche en anglais avec ChatGPT" width="580" height="340" loading="lazy" />
+<figure class="article-figure">
+  <img src="/uploads/2026/07/prompt-ia-simulation-entretien-embauche-anglais-developpeur.avif" alt="Simulation d'entretien d'embauche en anglais avec ChatGPT" width="580" height="340" loading="lazy" decoding="async">
   <figcaption>Simulation d'un entretien professionnel mené avec le mode vocal de ChatGPT.</figcaption>
 </figure>
-
----
 
 <h2 id="debrief">4. Prompt 2 : Obtenir un débriefing complet et extraire le vocabulaire métier</h2>
 
@@ -143,46 +133,49 @@ Une fois les questions terminées, **reste dans la même conversation** et colle
 Rédige ton retour en français selon cette structure :
 1. BILAN GÉNÉRAL : Résume en 2 phrases mes points forts et mon axe principal d'amélioration.
 2. CORRECTIONS ET REFORMULATIONS :
-   - Relève mes 3 principales erreurs de grammaire, de temps ou de vocabulaire en indiquant : [Ma phrase d'origine] -> [Reformulation naturelle en anglais professionnel].
-   - Signale mes éventuelles répétitions.
+- Relève mes 3 principales erreurs de grammaire, de temps ou de vocabulaire en indiquant : [Ma phrase d'origine] -> [Reformulation naturelle en anglais professionnel].
+- Signale mes éventuelles répétitions.
 3. VOCABULAIRE MÉTIER UTILE :
-   - Propose 5 termes ou verbes d'action professionnels adaptés au poste de [Intitulé du poste] que j'aurais pu placer pour enrichir mes réponses, avec leur traduction et une phrase d'exemple.
+- Propose 5 termes ou verbes d'action professionnels adaptés au poste de [Intitulé du poste] que j'aurais pu placer pour enrichir mes réponses, avec leur traduction et une phrase d'exemple.
 4. STRUCTURE DES RÉPONSES (MÉTHODE STAR) :
-   - Indique si mes exemples étaient suffisamment structurés (Situation, Tâche, Action, Résultat) et montre-moi comment améliorer la réponse où j'ai le plus hésité.</code></pre>
+- Indique si mes exemples étaient suffisamment structurés (Situation, Tâche, Action, Résultat) et montre-moi comment améliorer la réponse où j'ai le plus hésité.
+</code></pre>
 </div>
 
 <div class="tip-box">
-  <strong>💡 Astuce de révision :</strong> Note les 5 expressions professionnelles proposées par l'IA au point 3 et refais une courte simulation le lendemain en essayant de les placer naturellement à voix haute. Pour enrichir ton lexique par secteur, tu peux aussi consulter mes <a href="/prompts-chatgpt-vocabulaire-anglais/">7 prompts de vocabulaire anglais</a>.
+  <strong>💡 Astuce de révision :</strong> Note les 5 expressions professionnelles proposées par l'IA au point 3 et refais une courte simulation le lendemain en essayant de les placer naturellement à voix haute.
 </div>
 
----
+<h2 id="tuteurs-ia-entretien">5. S'entraîner au quotidien : l'avantage des jeux de rôle (Role-Play) IA</h2>
 
-<h2 id="tuteurs-ia-entretien">5. S'entraîner au quotidien avant le jour J : l'intérêt d'un Tuteur Vocal IA</h2>
+Les prompts sur ChatGPT sont parfaits pour une simulation gratuite et ponctuelle. Cependant, si ton entretien approche et que tu as besoin de pratiquer tous les jours, devoir paramétrer et recadrer l'IA à chaque session devient vite fastidieux.
 
-Les prompts sur ChatGPT sont très utiles pour faire une simulation ponctuelle à 0 €. En revanche, si ton entretien a lieu dans quelques semaines et que tu souhaites pratiquer tous les jours sans avoir à reconfigurer des consignes, ni risquer que l'IA oublie son rôle en cours de route, les applications de **tuteurs vocaux IA** offrent un cadre beaucoup plus complet.
+C'est ici que les applications dédiées de **tuteurs vocaux IA** font toute la différence. Conçues spécialement pour l'apprentissage linguistique et la pratique orale, elles intègrent des modules de **jeux de rôle (Role-Play)** natifs, ultra-réalistes et sans aucune configuration technique :
 
-Pour passer de la théorie à une vraie pratique orale quotidienne sans avoir à copier-coller des prompts, les deux applications de **tuteurs vocaux IA** parmis les mieux notées proposent une approche très proche (simulations de conversations, conversations en direct, parcours personnalisé et corrections instantanées de la grammaire et de la prononciation) :
+- **Scénarios professionnels prêts à l'emploi :** d'un simple clic, tu lances un module « Entretien d'embauche » (Job Interview), « Négociation salariale » ou « Réunion d'équipe ».
+- **Immersion et fluidité :** tu échanges de vive voix avec un avatar interactif qui joue parfaitement le rôle du recruteur, avec des accents authentiques (américain, britannique, australien).
+- **Correction en temps réel :** Le tuteur vocal spécialisé corrige ta prononciation et ta grammaire professionnelle à la volée, en t'affichant des suggestions de phrases sans jamais sortir de son personnage.
 
-- **Praktika AI :** tuteur vocal complet avec des avatars interactifs en 3D, différents accents (US, UK, Australien). Découvre mon <a href="/avis-praktika/"><strong>test et avis sur Praktika AI</strong></a> ainsi que le détail des <a href="/prix-praktika/"><strong>tarifs et l'offre à -50 %</strong></a>.
-- **Loora AI :** tuteur vocal complet avec une interface épurée dédiée à la pratique de l'anglais. Consulte mon <a href="/loora-app-avis/"><strong>test et avis sur Loora AI</strong></a> ainsi que le guide des <a href="/prix-loora-ai/"><strong>prix et le code promo -10 %</strong></a>.
+Que ce soit pour préparer des questions techniques inattendues ou simplement t'habituer à justifier ton parcours à voix haute sans bafouiller, ces tuteurs t'offrent un espace d'entraînement illimité.
 
 <div class="tool-callout-card">
   <div class="tool-callout-content">
     <div class="tool-tag-row">
-      <span class="tool-pill">PRÉPARER SON ORAL PRO</span>
+      <span class="tool-pill">SIMULATIONS D'ENTRETIEN</span>
       <span class="tool-feature">Comparatif 2026</span>
     </div>
-    <h4>Quel tuteur vocal IA choisir pour gagner en fluidité avant ton entretien ?</h4>
-    <p>Compare les fonctionnalités, les notes App Store et les tarifs des applications dédiées (Praktika AI, Loora AI) face aux assistants gratuits (ChatGPT, Gemini) dans mon dossier complet.</p>
+    <p class="tool-callout-title">Quel tuteur vocal IA choisir pour préparer ton entretien ?</p>
+    <p>Découvre notre sélection des meilleures applications dotées de fonctions « Role-Play » pour simuler tes entretiens professionnels et gagner en aisance avant le jour J.</p>
   </div>
   <div class="tool-callout-action">
-    <a href="/meilleures-ia-anglais/" class="btn-tool-cta">Voir le comparatif des Tuteurs IA &rarr;</a>
+    <a href="/meilleures-ia-anglais/" class="btn-tool-cta">
+      <span>Voir le comparatif des Tuteurs IA</span>
+      <span aria-hidden="true">&rarr;</span>
+    </a>
   </div>
 </div>
 
----
-
-<h2 id="faq">Foire aux questions (FAQ)</h2>
+<h2 id="faq">6. Foire aux questions (FAQ)</h2>
 
 <details class="faq-card">
   <summary class="faq-title">Comment structurer la réponse à « Tell me about yourself » en anglais ?</summary>
@@ -205,17 +198,15 @@ Pour passer de la théorie à une vraie pratique orale quotidienne sans avoir à
   </div>
 </details>
 
----
-
 <div class="disclaimer-callout">
   <span class="disclaimer-badge">Note pratique</span>
-  <p>S'entraîner avec un simulateur ou un tuteur vocal IA permet de préparer ses arguments et de gagner en aisance à voix haute sans stress, en complément de ses recherches sur l'entreprise visée.</p>
+  <p>S'entraîner avec un simulateur ou un tuteur vocal IA permet de préparer ses arguments et de gagner en aisance à voix haute sans stress, mais cela doit toujours venir en complément de tes recherches de fond sur l'entreprise visée.</p>
 </div>
 
 <div class="next-step-card">
   <span class="next-label">COMPARATIF COMPLET 2026</span>
   <h3>Trouve le Tuteur Vocal IA idéal pour débloquer ton anglais professionnel</h3>
-  <p>Tu veux pratiquer l'oral 10 à 15 minutes par jour pour être plus à l'aise en entretien et en réunion ? Découvre mon comparatif complet entre Praktika AI, Loora AI et ChatGPT Vocal.</p>
+  <p>Tu veux pratiquer l'oral 10 à 15 minutes par jour pour être plus à l'aise en entretien et en réunion ? Découvre mon comparatif complet pour choisir l'application IA qui correspond à tes besoins.</p>
   <a href="/meilleures-ia-anglais/" class="btn-next">Accéder au comparatif des meilleurs Tuteurs IA &rarr;</a>
 </div>
 
@@ -232,7 +223,6 @@ function copyPrompt(id, btn) {
     btn.classList.add("copied");
     var toast = document.getElementById("copy-toast");
     if (toast) {
-      toast.innerText = "✓ Prompt copié dans le presse-papier !";
       toast.classList.add("show");
       setTimeout(function () {
         toast.classList.remove("show");
@@ -283,7 +273,7 @@ function copyPrompt(id, btn) {
         "logo": { "@type": "ImageObject", "url": "https://parlermalin.fr/logo.png" }
       },
       "datePublished": "2026-07-24",
-      "dateModified": "2026-11-09",
+      "dateModified": "2026-11-11",
       "image": "https://parlermalin.fr/uploads/2026/07/peur-parler-anglais-entretien-embauche-chatgpt-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/peur-parler-anglais-entretien-embauche-ia/"
@@ -325,12 +315,16 @@ function copyPrompt(id, btn) {
 .breadcrumb{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.76rem;color:#64748b;margin-bottom:.5rem}
 .breadcrumb a{color:#475569;text-decoration:none}.breadcrumb a:hover{color:#1a56db}
 .breadcrumb .sep{margin:0 .35rem;color:#cbd5e1}.breadcrumb .current{color:#0f172a;font-weight:600}
+
 .page-title{font-size:clamp(1.65rem,4vw,2.35rem);font-weight:800;line-height:1.18;letter-spacing:-.03em;color:#0f172a;margin:.25rem 0 .6rem}
+
 .article-meta-bar{display:flex;align-items:center;gap:.45rem;font-size:.78rem;color:#64748b;margin-bottom:.45rem;flex-wrap:wrap}
 .article-meta-bar a{color:#0f172a;text-decoration:none}.article-meta-bar .dot{color:#cbd5e1}
+
 .transparency-inline{font-size:.74rem;color:#64748b;margin:0 0 1.15rem;line-height:1.4}
 .transparency-inline a{color:#1a56db;text-decoration:underline;text-underline-offset:2px}
-.geo-box{background:#fff;border:1.5px solid #bfdbfe;border-radius:16px;padding:1.35rem;margin-bottom:1.35rem;box-shadow:0 10px 25px -5px rgba(26,86,219,.06)}
+
+.geo-box{background:#fff;border:1.5px solid #93c5fd;border-radius:16px;padding:1.35rem;margin-bottom:1.35rem;box-shadow:0 10px 25px -5px rgba(26,86,219,.06)}
 .geo-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.85rem;padding-bottom:.65rem;border-bottom:1px solid #f1f5f9;font-family:ui-monospace,monospace;font-size:.74rem}
 .geo-tag{font-weight:800;color:#1a56db;letter-spacing:.04em;background:#eff6ff;padding:.2rem .55rem;border-radius:6px}
 .geo-meta{color:#475569;font-weight:700;font-size:.73rem}
@@ -341,8 +335,12 @@ function copyPrompt(id, btn) {
 .spec-label{font-weight:700;color:#475569;white-space:nowrap;flex-shrink:0}
 .spec-val{color:#0f172a;text-align:right;font-weight:500}
 .geo-cta-wrap{display:flex;flex-direction:column}
-.btn-atf-action{display:inline-flex;align-items:center;justify-content:center;background:#1a56db!important;color:#fff!important;font-weight:700;font-size:.94rem;padding:.85rem 1.25rem;border-radius:10px;text-decoration:none!important;transition:background-color .15s ease;width:100%;box-sizing:border-box}
-.btn-atf-action:hover{background:#1e429f!important}
+
+.btn-atf-action,.btn-tool-cta{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;background:linear-gradient(135deg,#2563eb 0%,#1a56db 100%)!important;color:#fff!important;font-weight:700;border-radius:10px;text-decoration:none!important;box-shadow:0 4px 14px rgba(26,86,219,.28);transition:transform .15s ease,box-shadow .15s ease;box-sizing:border-box}
+.btn-atf-action{font-size:.94rem;padding:.85rem 1.25rem;width:100%}
+.btn-tool-cta{font-size:.9rem;padding:.8rem 1.3rem;white-space:nowrap}
+.btn-atf-action:hover,.btn-tool-cta:hover{background:linear-gradient(135deg,#1d4ed8 0%,#1e429f 100%)!important;transform:translateY(-1px);box-shadow:0 6px 20px rgba(26,86,219,.35)}
+
 .toc-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;margin-bottom:2rem;overflow:hidden}
 .toc-title{padding:.9rem 1.1rem;font-family:ui-monospace,SFMono-Regular,monospace;font-size:.8rem;font-weight:700;color:#0f172a;letter-spacing:.02em;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center}
 .toc-title::-webkit-details-marker{display:none}
@@ -351,61 +349,69 @@ function copyPrompt(id, btn) {
 .toc-list{margin:0;padding:.6rem 1.1rem 1rem 2.2rem;border-top:1px solid #e2e8f0;font-size:.88rem;color:#475569;line-height:1.7}
 .toc-list li{margin-bottom:.35rem}
 .toc-list a{color:#1e293b;text-decoration:none;font-weight:500}.toc-list a:hover{color:#1a56db;text-decoration:underline}
-.article-figure{margin:1.5rem 0 1.75rem;text-align:center}
-.figure-compact img{max-width:580px;width:100%;height:auto;border-radius:10px;border:1px solid #e2e8f0;box-shadow:0 4px 15px rgba(15,23,42,.05);margin:0 auto;display:block}
-.article-figure figcaption{font-size:.8rem;color:#64748b;text-align:center;margin-top:.55rem}
+
+.article-figure{margin:1.5rem auto;text-align:center;width:100%;max-width:100%;box-sizing:border-box;overflow:hidden}
+.article-figure img{display:block;margin:0 auto;width:100%!important;max-width:600px!important;height:auto!important;border-radius:12px;border:1px solid #e2e8f0;box-shadow:0 4px 15px rgba(15,23,42,.06);box-sizing:border-box}
+.article-figure figcaption{font-size:.78rem;color:#64748b;text-align:center;margin-top:.55rem;padding:0 .5rem}
+
 .prompt-container{background:#0d1117!important;border:1px solid #30363d!important;border-radius:10px;margin:1.5rem 0 2rem;overflow:hidden}
 .prompt-bar{display:flex;justify-content:space-between;align-items:center;background:#161b22;padding:.65rem 1rem;border-bottom:1px solid #30363d;gap:.5rem;flex-wrap:wrap}
 .prompt-title{font-family:ui-monospace,monospace;font-size:.74rem;font-weight:700;letter-spacing:.04em;color:#8b949e}
-.btn-copy{background:#2563eb;border:1px solid #3b82f6;border-radius:6px;padding:.35rem .85rem;font-size:.76rem;font-weight:700;color:#fff;cursor:pointer;transition:all .15s ease}
-.btn-copy:hover{background:#1d4ed8}
-.btn-copy.copied{background:#059669;border-color:#10b981;color:#fff}
+.btn-copy{background:#21262d;border:1px solid #363b42;border-radius:6px;padding:.4rem .8rem;font-size:.75rem;font-weight:700;color:#e6edf3;cursor:pointer;transition:all .15s ease}
+.btn-copy:hover{background:#30363d;border-color:#8b949e}
+.btn-copy.copied{background:#059669!important;border-color:#059669!important;color:#fff!important}
 .prompt-container pre{margin:0!important;padding:1.15rem!important;background:transparent!important;overflow-x:auto}
-.prompt-container pre,.prompt-container code,.prompt-container .prompt-code{color:#f0f6fc!important;font-family:ui-monospace,SFMono-Regular,Menlo,monospace!important;font-size:.86rem!important;line-height:1.65!important;white-space:pre-wrap!important;word-break:break-word!important}
-.tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:1rem 1.25rem;font-size:.9rem;color:#475569;margin:1.5rem 0;line-height:1.55}
+.prompt-container pre,.prompt-container pre *,.prompt-container code,.prompt-container code *,.prompt-container .prompt-code,.prompt-container .prompt-code *{color:#f0f6fc!important;opacity:1!important;font-family:ui-monospace,SFMono-Regular,Menlo,monospace!important;font-size:.86rem!important;line-height:1.6!important;white-space:pre-wrap!important;word-break:break-word!important}
+
+.tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:.95rem 1.15rem;font-size:.88rem;color:#475569;margin:1.25rem 0;line-height:1.55}
+.tip-box strong{color:#0f172a}
 .tip-box a{color:#1a56db;text-decoration:underline;font-weight:600}
-.warning-callout{background:#fffbeb;border:1px solid #fef3c7;border-left:3px solid #f59e0b;border-radius:8px;padding:1rem 1.25rem;font-size:.9rem;color:#92400e;margin:1.5rem 0;line-height:1.55}
-.tool-callout-card{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;background:linear-gradient(to right,#ffffff,#eff6ff);border:1.5px solid #93c5fd;border-radius:14px;padding:1.35rem 1.4rem;margin:1.75rem 0 2rem;box-shadow:0 4px 15px rgba(26,86,219,.06)}
+
+.warning-callout{background:#fffbeb;border:1px solid #fef3c7;border-left:3px solid #f59e0b;border-radius:8px;padding:.95rem 1.15rem;font-size:.88rem;color:#92400e;margin:1.25rem 0;line-height:1.55}
+
+.tool-callout-card{display:flex;align-items:center;justify-content:space-between;gap:1.25rem;background:linear-gradient(to right,#ffffff,#eff6ff);border:1.5px solid #93c5fd;border-radius:14px;padding:1.35rem;margin:1.75rem 0 2rem;box-shadow:0 4px 15px rgba(26,86,219,.06)}
 .tool-tag-row{display:flex;align-items:center;gap:.6rem;margin-bottom:.5rem;flex-wrap:wrap}
-.tool-pill{font-family:ui-monospace,monospace;font-size:.68rem;font-weight:800;color:#1a56db;background:#dbeafe;padding:.2rem .55rem;border-radius:4px;letter-spacing:.04em}
+.tool-pill{font-family:ui-monospace,monospace;font-size:.68rem;font-weight:800;color:#1a56db;background:#dbeafe;padding:.2rem .5rem;border-radius:4px;letter-spacing:.04em}
 .tool-feature{font-family:ui-monospace,monospace;font-size:.72rem;color:#475569;font-weight:600}
-.tool-callout-content h4{margin:0 0 .4rem;font-size:1.05rem;font-weight:800;color:#0f172a}
-.tool-callout-content p{margin:0;font-size:.88rem;color:#475569;line-height:1.55}
-.btn-tool-cta{display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;background:linear-gradient(135deg,#2563eb 0%,#1a56db 100%)!important;color:#fff!important;font-weight:700;font-size:.9rem;padding:.8rem 1.25rem;border-radius:8px;text-decoration:none!important;box-shadow:0 4px 12px rgba(26,86,219,.25);transition:transform .15s ease}
-.btn-tool-cta:hover{transform:translateY(-1px)}
-.faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.65rem;overflow:hidden}
+.tool-callout-title{margin:0 0 .35rem;font-size:1.05rem;font-weight:800;color:#0f172a}
+.tool-callout-content p{margin:0;font-size:.88rem;color:#475569;line-height:1.5}
+.tool-callout-action{display:flex;flex-direction:column;align-items:center;gap:.4rem;flex-shrink:0}
+
+.faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
-.faq-title{padding:.9rem 1.15rem;font-weight:700;font-size:.93rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
+.faq-title{padding:.9rem 1.1rem;font-weight:700;font-size:.92rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}
 .faq-title::-webkit-details-marker{display:none}
 .faq-title::after{content:"+";font-size:1.2rem;font-weight:400;color:#64748b;flex-shrink:0}
 .faq-card[open] .faq-title::after{content:"−";color:#1a56db}
-.faq-body{padding:0 1.15rem 1.1rem;color:#475569;font-size:.9rem;line-height:1.6}
-.faq-body p{margin:0}
+.faq-body{padding:0 1.1rem 1rem;color:#475569;font-size:.9rem;line-height:1.55}
+.faq-body p{margin:0 0 .75rem}.faq-body p:last-child{margin-bottom:0}
+
 .disclaimer-callout{background:#fafafc;border:1px solid #e2e8f0;border-left:3px solid #64748b;border-radius:6px;padding:.85rem 1.1rem;margin:2.5rem 0 1.5rem}
 .disclaimer-badge{font-family:ui-monospace,SFMono-Regular,monospace;font-size:.68rem;font-weight:700;text-transform:uppercase;color:#475569;letter-spacing:.05em;display:block;margin-bottom:.25rem}
 .disclaimer-callout p{margin:0;font-size:.84rem;color:#64748b;line-height:1.5}
-.next-step-card{background:#0f172a;color:#fff;border-radius:16px;padding:2rem 1.75rem;margin:2rem 0 1rem;text-align:center;box-shadow:0 15px 30px -10px rgba(15,23,42,.25)}
-.next-label{font-family:ui-monospace,monospace;font-size:.72rem;font-weight:800;color:#60a5fa;letter-spacing:.06em;display:block;margin-bottom:.45rem}
-.next-step-card h3{margin:0 0 .65rem;font-size:1.35rem;color:#fff;font-weight:800}
-.next-step-card p{color:#cbd5e1;font-size:.92rem;margin:0 auto 1.35rem;max-width:560px;line-height:1.6}
-.btn-next,.btn-next:visited{display:inline-flex;align-items:center;justify-content:center;background:#2563eb!important;color:#fff!important;font-weight:700;font-size:.95rem;padding:.9rem 1.5rem;border-radius:10px;text-decoration:none!important;box-shadow:0 4px 14px rgba(37,99,235,.35);transition:transform .15s ease,background-color .15s ease;box-sizing:border-box}
-.btn-next:hover{background:#1d4ed8!important;transform:translateY(-1px)}
-.copy-toast{position:fixed;bottom:2rem;left:50%;transform:translate(-50%,12px);background:#0f172a;color:#fff;border:1px solid #334155;padding:.65rem 1.2rem;border-radius:99px;font-size:.84rem;font-weight:600;box-shadow:0 10px 25px rgba(0,0,0,.25);opacity:0;visibility:hidden;transition:opacity .2s ease,transform .2s ease,visibility .2s;z-index:9999;white-space:nowrap}
+
+.next-step-card{background:#fff;border:1px solid #e2e4e9;border-radius:12px;padding:1.4rem;margin:2rem 0 1rem;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,.03)}
+.next-label{font-family:ui-monospace,monospace;font-size:.72rem;font-weight:700;color:#1a56db;letter-spacing:.05em;display:block;margin-bottom:.35rem}
+.next-step-card h3{margin:0 0 .55rem;font-size:1.2rem;font-weight:800;color:#0f172a}
+.next-step-card p{color:#475569;font-size:.9rem;margin:0 auto 1.15rem;max-width:540px;line-height:1.5}
+.btn-next,.btn-next:visited{display:inline-flex;align-items:center;justify-content:center;background:#0f172a!important;color:#fff!important;font-weight:600;font-size:.9rem;padding:.75rem 1.35rem;border-radius:8px;text-decoration:none!important;transition:background-color .15s ease,transform .15s ease;box-sizing:border-box}
+.btn-next:hover,.btn-next:focus{background:#1e293b!important;color:#fff!important;transform:translateY(-1px)}
+
+.copy-toast{position:fixed;bottom:2rem;left:50%;transform:translate(-50%,12px);background:#0f172a;color:#fff;border:1px solid #334155;padding:.65rem 1.2rem;border-radius:99px;font-size:.84rem;font-weight:600;box-shadow:0 10px 25px rgba(0,0,0,.25);opacity:0;visibility:hidden;transition:opacity .2s ease,transform .2s ease,visibility .2s;z-index:10000;white-space:nowrap}
 .copy-toast.show{opacity:1;visibility:visible;transform:translate(-50%,0)}
+
 @media (max-width:768px){
-  .breadcrumb{font-size:.7rem;margin-bottom:.35rem}
-  .page-title{font-size:1.5rem;line-height:1.2;margin:.15rem 0 .5rem}
-  .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.35rem}
+  .breadcrumb{font-size:.7rem;margin-bottom:.3rem}
+  .page-title{font-size:1.5rem;line-height:1.18;margin:.15rem 0 .45rem}
+  .article-meta-bar{font-size:.73rem;gap:.35rem;margin-bottom:.6rem}
   .transparency-inline{font-size:.71rem;margin-bottom:1rem}
-  .geo-box{padding:1.1rem;margin-bottom:1.15rem;border-radius:14px}
-  .geo-header{margin-bottom:.65rem;padding-bottom:.5rem}
+  .geo-box{padding:.9rem 1rem;margin-bottom:1.2rem}
+  .geo-header{margin-bottom:.55rem;padding-bottom:.35rem}
   .geo-verdict{font-size:.88rem;line-height:1.5;margin-bottom:.85rem}
   .geo-specs{padding:.75rem .85rem;gap:.55rem;margin-bottom:.95rem}
   .geo-spec-row{flex-direction:column;gap:.1rem;font-size:.83rem}
   .spec-val{text-align:left}
-  .tool-callout-card{flex-direction:column;align-items:stretch;padding:1.15rem;gap:1rem}
-  .btn-tool-cta,.btn-next,.btn-atf-action{width:100%;min-height:50px}
-  .next-step-card{padding:1.5rem 1.2rem}
-  .next-step-card h3{font-size:1.2rem}
+  .tool-callout-card{flex-direction:column;align-items:stretch;padding:1.1rem;gap:.9rem}
+  .btn-tool-cta,.btn-next,.btn-atf-action{width:100%;min-height:48px;justify-content:center}
 }
 </style>

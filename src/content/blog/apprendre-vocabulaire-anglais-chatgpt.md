@@ -31,7 +31,6 @@ heroImageAlt: "Apprendre le vocabulaire anglais en contexte avec ChatGPT et un t
 <div class="geo-box">
   <div class="geo-header">
     <span class="geo-tag">⚡ VOCABULAIRE EN CONTEXTE</span>
-    <span class="geo-meta">2 Prompts + Pratique Orale</span>
   </div>
   <p class="geo-verdict">
     Apprendre des listes de mots isolés par cœur sert rarement au moment de parler. Voici <strong>2 prompts ChatGPT</strong> pour générer uniquement le vocabulaire utile à tes projets avec des phrases d'exemple concrètes, avant de l'activer à voix haute.
@@ -181,14 +180,6 @@ Règles de notre échange :
 ---
 
 <h2 id="faq">Foire aux questions (FAQ)</h2>
-
-<details class="faq-card">
-  <summary class="faq-title">Quel prompt utiliser pour apprendre du vocabulaire utile avec ChatGPT ?</summary>
-  <div class="faq-body">
-    <p>Le plus efficace est de préciser ton niveau (de A1 à C2), de choisir une situation concrète (réunion, voyage, restaurant) et de demander pour chaque mot une phrase d'exemple complète en anglais accompagnée de sa traduction française.</p>
-  </div>
-</details>
-
 <details class="faq-card">
   <summary class="faq-title">Comment ne pas oublier les mots générés par ChatGPT ?</summary>
   <div class="faq-body">
@@ -295,14 +286,6 @@ function copyPrompt(id, btn) {
     {
       "@type": "FAQPage",
       "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Quel prompt utiliser pour apprendre du vocabulaire utile avec ChatGPT ?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Il est recommandé de préciser son niveau CECRL (A1 à C2), de cibler un thème précis du quotidien et de demander pour chaque mot une phrase d'exemple bilingue."
-          }
-        },
         {
           "@type": "Question",
           "name": "Comment ne pas oublier les mots générés par ChatGPT ?",
