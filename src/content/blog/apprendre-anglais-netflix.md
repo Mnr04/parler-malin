@@ -4,7 +4,7 @@ description: "Vous regardez Netflix en VO sans progresser ? Notre plan en 4 sema
 pubDate: 2026-10-17
 updatedDate: 2026-11-11
 author: "Jérémy"
-canonical: "https://parlermalin.fr/apprendre-anglais-avec-netflix/"
+canonical: "https://parlermalin.fr/apprendre-anglais-netflix/"
 category: "Méthode"
 tags: ["anglais", "Netflix", "compréhension orale", "sous-titres", "shadowing", "vocabulaire"]
 readingTime: 15
@@ -312,7 +312,7 @@ function copyPrompt(id, btn) {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://parlermalin.fr/" },
         { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://parlermalin.fr/blog/" },
-        { "@type": "ListItem", "position": 3, "name": "Apprendre l'anglais avec Netflix", "item": "https://parlermalin.fr/apprendre-anglais-avec-netflix/" }
+        { "@type": "ListItem", "position": 3, "name": "Apprendre l'anglais avec Netflix", "item": "https://parlermalin.fr/apprendre-anglais-netflix/" }
       ]
     },
     {
@@ -336,7 +336,7 @@ function copyPrompt(id, btn) {
       "dateModified": "2026-11-11",
       "image": "https://parlermalin.fr/uploads/10/apprendre-anglais-netflix.avif",
       "inLanguage": "fr-FR",
-      "mainEntityOfPage": "https://parlermalin.fr/apprendre-anglais-avec-netflix/"
+      "mainEntityOfPage": "https://parlermalin.fr/apprendre-anglais-netflix/"
     },
     {
       "@type": "FAQPage",

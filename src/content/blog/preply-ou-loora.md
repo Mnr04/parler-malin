@@ -332,7 +332,7 @@ function copyPromoHero(btn, targetId) {
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://parlermalin.fr/" },
         { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://parlermalin.fr/blog/" },
-        { "@type": "ListItem", "position": 3, "name": "Loora vs Preply", "item": "https://parlermalin.fr/loora-vs-preply/" }
+        { "@type": "ListItem", "position": 3, "name": "Loora vs Preply", "item": "https://parlermalin.fr/preply-ou-loora/" }
       ]
     },
     {
@@ -356,7 +356,7 @@ function copyPromoHero(btn, targetId) {
       "dateModified": "2026-11-11",
       "image": "https://parlermalin.fr/uploads/2026/09/loora-vs-preply-anglais-oral.avif",
       "inLanguage": "fr-FR",
-      "mainEntityOfPage": "https://parlermalin.fr/loora-vs-preply/"
+      "mainEntityOfPage": "https://parlermalin.fr/preply-ou-loora/"
     },
     {
       "@type": "FAQPage",

@@ -124,7 +124,7 @@ date: 2026-11-11
     <h4>ChatGPT ou Loora AI pour apprendre l'anglais : Le Duel</h4>
     <span>Consulter &rarr;</span>
   </a>
-  <a href="/loora-vs-preply/" class="blog-article-card">
+  <a href="/preply-ou-loora/" class="blog-article-card">
     <h4>Loora vs Preply : IA vocale ou prof humain ?</h4>
     <span>Consulter &rarr;</span>
   </a>
@@ -140,7 +140,7 @@ date: 2026-11-11
     <h4>10 chaînes YouTube pour améliorer son anglais (Niveaux &amp; Méthode)</h4>
     <span>Consulter &rarr;</span>
   </a>
-  <a href="/apprendre-anglais-avec-netflix/" class="blog-article-card">
+  <a href="/apprendre-anglais-netflix/" class="blog-article-card">
     <h4>Apprendre l’anglais avec Netflix : Le plan en 4 semaines</h4>
     <span>Consulter &rarr;</span>
   </a>
