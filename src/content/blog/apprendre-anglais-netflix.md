@@ -1,5 +1,5 @@
 ---
-title: "Apprendre l’anglais avec Netflix : plan en 4 semaines (2026)"
+title: "Progresser en anglais avec Netflix : Méthodes (2026)"
 description: "Vous regardez Netflix en VO sans progresser ? Notre plan en 4 semaines + la méthode, les erreurs à éviter et des séries choisies selon vos goûts."
 pubDate: 2026-10-17
 updatedDate: 2026-11-11
@@ -16,7 +16,7 @@ heroImageAlt: "Une personne qui regarde une série en VO sur un écran avec un c
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Apprendre l'anglais avec Netflix</span>
 </nav>
 
-<h1 class="page-title">Apprendre l’anglais avec Netflix : Le plan en 4 semaines (2026)</h1>
+<h1 class="page-title">Progresser en anglais avec Netflix : Méthodes (2026)</h1>
 
 <div class="article-meta-bar">
   <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
@@ -241,7 +241,7 @@ Bien que les sous-titres natifs de Netflix suffisent, deux outils gratuits peuve
 <h2 id="faq">8. Foire aux questions (FAQ)</h2>
 
 <details class="faq-card">
-  <summary class="faq-title">Peut-on vraiment apprendre l’anglais en regardant Netflix ?</summary>
+  <summary class="faq-title">Peut-on vraiment progresser en anglais en regardant Netflix ?</summary>
   <div class="faq-body">
     <p>Oui, à condition d’alterner visionnage plaisir et travail ciblé (Narrow Viewing). Le visionnage passif améliore la compréhension orale et le vocabulaire, mais pour progresser à l'oral, il faut compléter avec de la conversation active (humain ou IA).</p>
   </div>
@@ -343,7 +343,7 @@ function copyPrompt(id, btn) {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Peut-on vraiment apprendre l’anglais en regardant Netflix ?",
+          "name": "Peut-on vraiment progresser en anglais en regardant Netflix ?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Oui, on peut progresser en anglais à condition d’alterner visionnage plaisir et travail ciblé (Narrow Viewing). Le visionnage passif améliore la compréhension orale et le vocabulaire, mais pour progresser à l'oral, il faut compléter avec de la conversation active (humain ou IA)."
