@@ -1,5 +1,5 @@
 ---
-title: "Progresser en anglais avec Netflix : Méthodes (2026)"
+title: "Progresser en anglais avec Netflix (2026)"
 description: "Vous regardez Netflix en VO sans progresser ? Notre plan en 4 semaines + la méthode, les erreurs à éviter et des séries choisies selon vos goûts."
 pubDate: 2026-10-17
 updatedDate: 2026-11-11
