@@ -139,7 +139,7 @@ Dès l'ouverture de l'appli sur ton téléphone (iOS ou Android) :
       referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen></iframe>
   </div>
-  <p class="short-embed-caption">🎥 Aperçu de Loora AI en vidéo</p>
+  <p class="short-embed-caption">🎥 Aperçu de Loora AI en vidéo. Avant de te lancer, l'application te pose quelques questions pour personnaliser ton expérience au maximum. Tu vois ici toutes ces étapes.</p>
 </div>
 
 <div class="tip-box">

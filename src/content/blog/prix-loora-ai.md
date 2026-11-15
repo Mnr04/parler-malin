@@ -190,7 +190,9 @@ La recherche « Loora arnaque » revient régulièrement, et c'est tout à fait 
 
 Pour savoir si l'application vaut son prix côté pédagogie (reconnaissance vocale, points faibles, retours d'utilisateurs), je détaille tout dans mon [test complet de Loora AI](/loora-app-avis/).
 
-**Pas encore convaincu ? Voici Loora en action :**
+**Pas encore convaincu ? Voici une vidéo qui montre la prise en main de Loora.**
+
+Avant de te lancer, l'application te pose quelques questions pour personnaliser ton expérience au maximum. Tu vois ici toutes ces étapes.
 
 <div class="short-embed">
   <div class="short-embed-frame">
