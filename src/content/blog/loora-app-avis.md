@@ -129,6 +129,19 @@ Dès l'ouverture de l'appli sur ton téléphone (iOS ou Android) :
 2. **Tu profites de leçons quotidiennes et d'une pratique illimitée :** l'application propose des exercices réguliers et des scénarios de la vie réelle (*real-life role plays*), comme commander au restaurant (*restaurant order*), passer un entretien d'embauche (*job interview*), mener une négociation commerciale (*business negotiation*) ou faire son enregistrement à l'hôtel (*hotel check-in*).
 3. **Tu reçois un retour en temps réel (*real-time feedback*) :** l'IA analyse instantanément ta prononciation et ta grammaire pour corriger tes tournures sans couper le fil de l'échange.
 
+<div class="short-embed">
+  <div class="short-embed-frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/DrglQXXsOMw"
+      title="Démo de l'application Loora AI en vidéo"
+      loading="lazy"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
+  </div>
+  <p class="short-embed-caption">🎥 Aperçu de Loora AI en vidéo</p>
+</div>
+
 <div class="tip-box">
   <strong>💡 Pourquoi Loora AI est différent de ChatGPT ?</strong> Sur ChatGPT, le mode vocal cherche avant tout à deviner le sens de ta phrase et demande un travail de paramétrage (prompts) à chaque session. Loora propose une solution clé en main avec un avatar 3D, un suivi de progression et des corrections phonétiques ciblées pour progresser en anglais.
 </div>
@@ -257,7 +270,7 @@ Elle offre un terrain d'entraînement idéal pour pratiquer à voix haute 10 à 
 <details class="faq-card">
   <summary class="faq-title">Quel niveau d'anglais faut-il pour utiliser Loora App ?</summary>
   <div class="faq-body">
-    <p>L'application est idéale pour tout les niveaux.</p>
+    <p>L'application est idéale pour tous les niveaux.</p>
   </div>
 </details>
 
@@ -426,7 +439,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Quel niveau d'anglais faut-il pour utiliser Loora App ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "L'application est idéale pour tout les niveaux."
+            "text": "L'application est idéale pour tous les niveaux."
           }
         },
         {
@@ -541,6 +554,10 @@ document.addEventListener("DOMContentLoaded", function () {
 .tool-sublink{font-size:.76rem;color:#475569;text-decoration:underline;text-underline-offset:2px;font-weight:500}
 .tool-sublink:hover{color:#0f172a}
 .tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:1rem 1.15rem;font-size:.88rem;color:#475569;margin:1.5rem 0;line-height:1.55}
+.short-embed{max-width:300px;margin:1.75rem auto;text-align:center}
+.short-embed-frame{position:relative;aspect-ratio:9/16;border-radius:14px;overflow:hidden;border:1px solid #e2e8f0;background:#0f172a;box-shadow:0 10px 25px -5px rgba(15,23,42,.12)}
+.short-embed-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.short-embed-caption{margin:.6rem 0 0;font-size:.78rem;color:#64748b;font-family:ui-monospace,monospace}
 .faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
 .faq-title{padding:.9rem 1.1rem;font-weight:700;font-size:.92rem;color:#0f172a;cursor:pointer;user-select:none;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:.5rem}

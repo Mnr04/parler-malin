@@ -1,5 +1,5 @@
 ---
-title: "Prix Loora AI (Novrembre 2026) : Tarifs + Code Promo -10 %"
+title: "Prix Loora AI (Novembre 2026) : Tarifs + Code Promo -10 %"
 description: "Prix Loora AI (novembre 2026) : abonnements 1, 3 et 12 mois, test des avatars 3D et code promo PARLERMALIN10 (-10 %) vérifié."
 pubDate: 2026-09-16
 updatedDate: 2026-11-01
@@ -190,6 +190,21 @@ La recherche « Loora arnaque » revient régulièrement, et c'est tout à fait 
 
 Pour savoir si l'application vaut son prix côté pédagogie (reconnaissance vocale, points faibles, retours d'utilisateurs), je détaille tout dans mon [test complet de Loora AI](/loora-app-avis/).
 
+**Pas encore convaincu ? Voici Loora en action :**
+
+<div class="short-embed">
+  <div class="short-embed-frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/DrglQXXsOMw"
+      title="Démo de l'application Loora AI en vidéo"
+      loading="lazy"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen></iframe>
+  </div>
+  <p class="short-embed-caption">🎥 Aperçu de Loora AI en vidéo</p>
+</div>
+
 ---
 
 <h2 id="faq">Foire aux questions</h2>
@@ -197,7 +212,7 @@ Pour savoir si l'application vaut son prix côté pédagogie (reconnaissance voc
 <details class="faq-card">
   <summary class="faq-title">Quel est le prix exact de Loora AI en euros (€) ?</summary>
   <div class="faq-body">
-    <p>Avec le code promo <strong>PARLERMALIN10</strong> , l'abonnement mensuel passe à 23,39 €  et l'abonnement annuel revient à 107,99 € par an </strong>, soit <strong>~8,30 € par mois</strong> . Attention les prix peuvent varier d'un pays à l'autre </p>
+    <p>Avec le code promo <strong>PARLERMALIN10</strong> , l'abonnement mensuel passe à 23,39 €  et l'abonnement annuel revient à 107,99 € par an, soit <strong>~9 € par mois</strong> . Attention les prix peuvent varier d'un pays à l'autre </p>
   </div>
 </details>
 
@@ -318,7 +333,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       "@type": "Article",
       "headline": "Prix Loora AI 2026 : Tarifs + Code Promo -10 %",
-      "description": "Loora AI dès 8,30 €/mois : tarifs 1 mois, 3 mois et 1 an, essai gratuit et code promo PARLERMALIN10 (-10 %) à copier. Vérifié en novembre 2026.",
+      "description": "Loora AI dès 9 €/mois : tarifs 1 mois, 3 mois et 1 an, essai gratuit et code promo PARLERMALIN10 (-10 %) à copier. Vérifié en novembre 2026.",
       "author": {
         "@type": "Person",
         "name": "Jérémy de Parler Malin",
@@ -410,7 +425,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Quel est le prix exact de Loora AI en euros (€) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Avec le code promo PARLERMALIN10 (-10 %), l'abonnement mensuel passe à 23,39 € et l'abonnement annuel revient à 107,99 € par an, soit ~8,30 € par mois (attention les prix peuvent varier d'un pays à l'autre)."
+            "text": "Avec le code promo PARLERMALIN10 (-10 %), l'abonnement mensuel passe à 23,39 € et l'abonnement annuel revient à 107,99 € par an, soit ~9 € par mois (attention les prix peuvent varier d'un pays à l'autre)."
           }
         },
         {
@@ -534,6 +549,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
 .tip-box{background:#f8fafc;border:1px solid #e2e8f0;border-left:3px solid #1a56db;border-radius:8px;padding:1rem 1.15rem;font-size:.88rem;color:#475569;margin:1.5rem 0;line-height:1.55}
 .tip-box a{color:#1a56db;text-decoration:underline;font-weight:600}
+
+.short-embed{max-width:300px;margin:1.75rem auto;text-align:center}
+.short-embed-frame{position:relative;aspect-ratio:9/16;border-radius:14px;overflow:hidden;border:1px solid #e2e8f0;background:#0f172a;box-shadow:0 10px 25px -5px rgba(15,23,42,.12)}
+.short-embed-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.short-embed-caption{margin:.6rem 0 0;font-size:.78rem;color:#64748b;font-family:ui-monospace,monospace}
 
 .faq-card{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:.6rem;overflow:hidden}
 .faq-card[open]{border-color:#cbd5e1}
