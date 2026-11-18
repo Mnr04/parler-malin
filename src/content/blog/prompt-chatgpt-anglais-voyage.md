@@ -2,7 +2,7 @@
 title: "Prompt ChatGPT : Ton Simulateur d'Anglais en Voyage"
 description: "Peur de parler anglais à l'étranger ? Oublie le par cœur. Utilise notre prompt ChatGPT pour simuler tes échanges en voyage (douane, hôtel, resto) sans stress !"
 pubDate: 2026-08-03
-author: "Jérémy de Parler Malin"
+author: "Jérémy"
 categories: 
   - "apprendre-langlais"
 heroImage: "/uploads/2026/07/prompt-chatgpt-voyage-anglais-scaled.avif"
@@ -20,7 +20,7 @@ heroImageAlt: "Simuler des conversations en anglais en voyage avec un prompt Cha
 <h1 class="page-title">Prompt ChatGPT : Ton Simulateur d'Anglais en Voyage</h1>
 
 <div class="article-meta-bar">
-<span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+<span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
 <span class="dot">•</span>
 <span><time datetime="2026-08-03">3 août 2026</time></span>
 <span class="dot">•</span>
@@ -245,7 +245,7 @@ function copyPrompt(id, btn) {
       "description": "Peur de parler anglais à l'étranger ? Oublie le par cœur. Utilise notre prompt ChatGPT pour simuler tes échanges en voyage (douane, hôtel, resto) sans stress !",
       "author": {
         "@type": "Person",
-        "name": "Jérémy de Parler Malin",
+        "name": "Jérémy",
         "url": "https://parlermalin.fr/a-propos/"
       },
       "datePublished": "2026-08-03",

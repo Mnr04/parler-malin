@@ -1,40 +1,44 @@
 ---
-title: "Prix Loora AI (Novembre 2026) : Tarifs + Code Promo -10 %"
-description: "Prix Loora AI (novembre 2026) : abonnements 1, 3 et 12 mois, test des avatars 3D et code promo PARLERMALIN10 (-10 %) vérifié."
+title: "Prix Loora AI (Novembre 2026) : Tarifs en Euros, Abonnements & Code -10 %"
+description: "Combien coûte vraiment Loora AI en 2026 ? Découvre la grille des tarifs (1, 3 et 12 mois), quelle formule choisir et le code promo PARLERMALIN10 (-10 %) pour descendre à ~9 €/mois."
 pubDate: 2026-09-16
-updatedDate: 2026-11-01
-author: "Jérémy de Parler Malin"
+updatedDate: 2026-11-18
+author: "Jérémy"
 categories:
 - "avis"
 heroImage: "/uploads/2026/09/loora-ai-tarif-scaled.avif"
-heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo et coupon de réduction de -10 %"
+heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo de -10 %"
 ---
 
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <a href="/">Accueil</a><span class="sep">/</span><a href="/blog/">Blog</a><span class="sep">/</span><span class="current">Prix Loora AI</span>
 </nav>
 
-<h1 class="page-title">Prix Loora AI 2026 : Tarifs, Abonnement et Code Promo (-10 %)</h1>
+<h1 class="page-title">Prix Loora AI 2026 : Grille des Tarifs, Abonnement et Code Promo (-10 %)</h1>
 
 <div class="article-meta-bar">
-  <span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+  <span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
   <span class="dot" aria-hidden="true">•</span>
-  <span>Mis à jour le <time datetime="2026-11-01">1 nov. 2026</time></span>
+  <span>Mis à jour le <time datetime="2026-11-18">18 nov. 2026</time></span>
   <span class="dot" aria-hidden="true">•</span>
   <span>⏱️ 6 min</span>
 </div>
 
 <div class="transparency-banner">
   <span class="transparency-icon" aria-hidden="true">🛡️</span>
-<p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p></div>
+  <p>Cet article contient des liens affiliés. <a href="/a-propos/">En savoir plus</a>.</p>
+</div>
 
+<div class="quick-answer-box">
+  <p><strong>En bref — Combien coûte Loora AI ?</strong> L'abonnement <strong>Loora Premium</strong> est indispensable pour pratiquer l'anglais à l'oral en illimité. Son coût mensuel varie <strong>du simple au triple (jusqu'à ~9 €/mois)</strong> selon la formule choisie (mensuelle, trimestrielle ou annuelle) et l'activation du code promo <strong>PARLERMALIN10</strong> (-10 % immédiats).</p>
+</div>
 
 <div class="voucher-hero-card">
   <div class="voucher-top-bar">
     <span class="voucher-badge">🔥 Offre vérifiée en novembre 2026</span>
   </div>
   <div class="voucher-header-text">
-    <h2 class="voucher-headline">Code promo Loora : -10 % sur tous les abonnements</h2>
+    <div class="voucher-headline">Code promo Loora : -10 % sur tous les abonnements</div>
   </div>
   <div class="voucher-pricing-strip">
     <div class="price-pill">
@@ -48,7 +52,7 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
       <del>59,99 €</del>
     </div>
     <div class="price-pill price-pill-best">
-      <span class="plan-tag">★ ~9 €/MOIS</span>
+      <span class="plan-tag">★ ~9 €/MOIS (-65 %)</span>
       <span class="plan-name">1 an</span>
       <strong class="plan-price">107,99 €</strong>
       <del>119,99 €</del>
@@ -56,7 +60,7 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
   </div>
   <div class="voucher-action-side">
     <div class="voucher-ticket">
-      <div class="ticket-label">ÉTAPE 1 : COPIE TON CODE PROMO / COUPON DE RÉDUCTION</div>
+      <div class="ticket-label">ÉTAPE 1 : COPIE TON CODE PROMO (-10 %)</div>
       <div class="ticket-code-row">
         <code id="hero-promo-code" class="ticket-code">PARLERMALIN10</code>
         <button type="button" class="btn-ticket-copy" onclick="copyPromoHero(this, 'hero-promo-code')">
@@ -72,17 +76,16 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
     </a>
   </div>
 </div>
-<div class="quick-answer-box">
-  <p><strong>En bref — Combien coûte Loora ?</strong>  <strong>Loora Premium</strong> obligatoire pour pratiquer en illimité. Le tarif standard est de <strong>25,99 €/mois</strong> ou <strong>59,99 €/trimestre</strong> ou <strong>119,99 €/an</strong>.</p>
-</div>
+
 <details class="toc-card">
   <summary class="toc-title">
     <span>📋 Sommaire du guide des tarifs</span>
     <span class="toc-toggle-icon">▾</span>
   </summary>
   <ol class="toc-list">
-    <li><a href="#grille-tarifs">Combien coûte Loora AI ?</a></li>
-    <li><a href="#code-promo">Code promo, coupon et code de réduction Loora</a></li>
+    <li><a href="#grille-tarifs">Combien coûte Loora AI ? (Grille des tarifs 2026)</a></li>
+    <li><a href="#code-promo">Comment activer le code promo Loora (-10 %)</a></li>
+    <li><a href="#rentabilite">Loora AI vaut-il son prix ? (Comparatif & Alternatives)</a></li>
     <li><a href="#fonctionnalites-premium">Ce que comprend l'abonnement Loora Premium</a></li>
     <li><a href="#version-gratuite">Loora est-il gratuit ?</a></li>
     <li><a href="#arnaque">Loora, arnaque ou service fiable ?</a></li>
@@ -92,10 +95,13 @@ heroImageAlt: "Tarifs et prix de l'abonnement Loora AI en 2026 avec code promo e
 
 ---
 
-<h2 id="grille-tarifs">1. Combien coûte Loora AI ?</h2>
+<h2 id="grille-tarifs">1. Combien coûte Loora AI en 2026 ? (Grille des tarifs)</h2>
 
-Voici la grille des **tarifs Loora AI en novembre 2026**, avec le prix officiel, le tarif remisé grâce au code promo de -10 % et l'estimation en euros :
+Loora AI propose trois durées d'abonnement qui débloquent toutes exactement le même accès illimité à l'application. Plus tu choisis une durée longue, plus le tarif mensuel chute (jusqu'à **-65 % sur le prix au mois** avec la formule annuelle).
 
+Voici la grille des **tarifs Loora AI en novembre 2026**, avec le prix officiel, le tarif remisé grâce au code promo de -10 % et le coût réel ramené au mois :
+
+<div class="table-scroll-hint">↔ Fais défiler le tableau</div>
 <div class="table-container">
   <table class="custom-table">
     <thead>
@@ -103,6 +109,7 @@ Voici la grille des **tarifs Loora AI en novembre 2026**, avec le prix officiel,
         <th>Formule d'abonnement</th>
         <th>Tarif standard</th>
         <th>Prix avec code (-10 %)</th>
+        <th>Coût réel / mois</th>
       </tr>
     </thead>
     <tbody>
@@ -110,38 +117,42 @@ Voici la grille des **tarifs Loora AI en novembre 2026**, avec le prix officiel,
         <td><strong>1 Mois</strong> (sans engagement)</td>
         <td>25,99 €</td>
         <td><strong>23,39 €</strong></td>
+        <td>23,39 € / mois</td>
       </tr>
       <tr>
         <td><strong>3 Mois</strong> (trimestriel)</td>
         <td>59,99 €</td>
         <td><strong>53,99 €</strong></td>
+        <td>~18,00 € / mois</td>
       </tr>
       <tr class="highlight-row">
         <td><strong>1 An</strong> 🏆 (le plus rentable)</td>
         <td>119,99 €</td>
         <td><strong>107,99 €</strong></td>
+        <td><strong>~9,00 € / mois</strong></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p> Attention les prix peuvent varier d'un pays à l'autre </p>
+<p class="micro-disclaimer">* Attention : les prix affichés sont en euros et peuvent légèrement varier d'un pays à l'autre.</p>
+
 ---
 
-<h2 id="code-promo">2. Code promo, coupon et code de réduction Loora (-10 %)</h2>
+<h2 id="code-promo">2. Comment payer Loora moins cher avec le code promo (-10 %) ?</h2>
 
-Que tu cherches un **code promo Loora**, un **coupon**, un **code de réduction** ou un **Loora promo code / discount code**, voici comment activer la remise de -10 %. Le paiement sécurisé sur le web est géré par Paddle, le prestataire de paiement de Loora.
+Voici les étapes rapides pour appliquer le code **PARLERMALIN10** et obtenir 10 % de réduction immédiate sur ton abonnement Loora (mensuel, trimestriel ou annuel) :
 
 1. Clique sur mon [lien partenaire vers l'offre officielle Loora](https://www.loora.com/lp/ai-english-tutor/?via=jeremy).
 2. Réponds au court questionnaire pour définir ton profil et ton objectif d'anglais.
 3. Choisis ta formule d'abonnement (1 mois, 3 mois ou 1 an).
-4. Dans la fenêtre de paiement, clique sur **« Add promo code »** (Ajouter un code promotionnel).
-5. Entre le coupon **PARLERMALIN10** et valide : la réduction de 10 % est déduite du total.
+4. Dans la fenêtre de paiement sécurisé (Paddle), clique sur **« Add promo code »** (Ajouter un code promotionnel).
+5. Entre le code **PARLERMALIN10** et valide : la remise de -10 % s'applique immédiatement sur le total (plus de détails dans notre guide dédié au [code promo Loora](/code-promo-loora/)).
 6. Finalise ton inscription, puis télécharge l'application mobile en te connectant avec la même adresse e-mail.
 
 <div class="inline-promo-reminder">
   <div class="inline-promo-top">
-    <span class="inline-promo-label">Coupon de réduction (-10 %) :</span>
+    <span class="inline-promo-label">Code promo Loora (-10 %) :</span>
     <div class="inline-copy-group">
       <code id="inline-promo-code" class="inline-code">PARLERMALIN10</code>
       <button type="button" class="btn-inline-copy" onclick="copyPromoHero(this, 'inline-promo-code')">
@@ -150,14 +161,53 @@ Que tu cherches un **code promo Loora**, un **coupon**, un **code de réduction*
     </div>
   </div>
   <a href="https://www.loora.com/lp/ai-english-tutor/?via=jeremy" target="_blank" rel="sponsored noopener noreferrer" class="btn-inline-cta">
-    <span>Activer l'offre sur Loora</span>
+    <span>Activer l'offre -10 % sur Loora</span>
     <span aria-hidden="true">&rarr;</span>
   </a>
 </div>
 
 ---
 
-<h2 id="fonctionnalites-premium">3. Ce que comprend l'abonnement Loora Premium</h2>
+<h2 id="rentabilite">3. Loora AI vaut-il son prix ? (Comparatif & Alternatives)</h2>
+
+À **23,39 € pour un mois sans engagement**, Loora AI est idéal pour tester l'outil de manière intensive pendant 30 jours. Mais c'est sur l'abonnement annuel à **~9 €/mois** (soit 0,30 € par jour avec le code **PARLERMALIN10**) que l'application devient imbattable face aux cours particuliers classiques :
+
+<div class="table-container">
+  <table class="custom-table">
+    <thead>
+      <tr>
+        <th>Solution d'anglais</th>
+        <th>Tarif moyen</th>
+        <th>Temps de pratique</th>
+        <th>Pour quel profil ?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="highlight-row">
+        <td><strong>Loora AI (avec code -10 %)</strong></td>
+        <td><strong>~9,00 € / mois</strong> (annuel)</td>
+        <td>Illimité 24h/24</td>
+        <td>Idéal pour débloquer l'oral tous les jours sans stress</td>
+      </tr>
+      <tr>
+        <td><strong>Prof particulier (Preply / Italki)</strong></td>
+        <td>80 € à 120 € / mois</td>
+        <td>1h par semaine</td>
+        <td>Utile pour préparer un examen officiel avec un professeur</td>
+      </tr>
+      <tr>
+        <td><strong>Praktika AI</strong> (Alternative)</td>
+        <td>~7,50 € / mois</td>
+        <td>Illimité 24h/24</td>
+        <td>Alternative plus économique avec parcours structuré</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<h2 id="fonctionnalites-premium">4. Ce que comprend l'abonnement Loora Premium</h2>
 
 Quelle que soit la durée choisie (mensuel, trimestriel ou annuel), le compte **Loora Premium** débloque l'intégralité des fonctionnalités pour pratiquer sans limite quotidienne :
 
@@ -169,7 +219,7 @@ Quelle que soit la durée choisie (mensuel, trimestriel ou annuel), le compte **
 
 ---
 
-<h2 id="version-gratuite">4. Loora est-il gratuit ?</h2>
+<h2 id="version-gratuite">5. Loora est-il gratuit ?</h2>
 
 C'est l'une des questions les plus fréquentes : **l'application Loora AI est-elle gratuite ?**
 
@@ -179,14 +229,14 @@ En revanche, **un essai gratuit sous forme de première session de découverte**
 
 ---
 
-<h2 id="arnaque">5. Loora, arnaque ou service fiable ?</h2>
+<h2 id="arnaque">6. Loora, arnaque ou service fiable ?</h2>
 
 La recherche « Loora arnaque » revient régulièrement, et c'est tout à fait normal : l'application propose un service payant avec un renouvellement automatique. Ce ne sont pas des pratiques frauduleuses, mais ce sont des points importants à garder en tête avant de souscrire :
 
 - **Excellentes notes sur les stores :** Avec une note de **4,9/5 sur l'App Store** et **4,8/5 sur Google Play**, l'application bénéficie de retours utilisateurs extrêmement positifs, confirmant sa fiabilité technique et pédagogique.
-- **Le paiement est sécurisé :** Il s'effectue soit via la plateforme de paiement de l'application (ou ses partenaires officiels), soit directement via l'App Store ou Google Play sur mobile.
+- **Le paiement est sécurisé :** Il s'effectue via la plateforme de paiement officielle de Loora (Paddle) ou via les stores mobiles (App Store et Google Play).
 - **Le renouvellement est automatique :** Pense à noter la date d'échéance de ton abonnement (notamment sur l'offre annuelle) si tu ne souhaites pas qu'il se reconduise tacitement.
-- **Les devises et taxes :** Vérifie toujours le montant total affiché dans ton panier avant de valider le paiement, le tarif pouvant varier selon ton pays de résidence ou le store utilisé.
+- **Les devises et taxes :** Vérifie toujours le montant total affiché dans ton panier avant de valider le paiement, le tarif pouvant varier selon ton pays de résidence.
 
 Pour savoir si l'application vaut son prix côté pédagogie (reconnaissance vocale, points faibles, retours d'utilisateurs), je détaille tout dans mon [test complet de Loora AI](/loora-app-avis/).
 
@@ -209,19 +259,19 @@ Avant de te lancer, l'application te pose quelques questions pour personnaliser 
 
 ---
 
-<h2 id="faq">Foire aux questions</h2>
+<h2 id="faq">7. Foire aux questions</h2>
 
 <details class="faq-card">
   <summary class="faq-title">Quel est le prix exact de Loora AI en euros (€) ?</summary>
   <div class="faq-body">
-    <p>Avec le code promo <strong>PARLERMALIN10</strong> , l'abonnement mensuel passe à 23,39 €  et l'abonnement annuel revient à 107,99 € par an, soit <strong>~9 € par mois</strong> . Attention les prix peuvent varier d'un pays à l'autre </p>
+    <p>Avec le code promo <strong>PARLERMALIN10</strong> (-10 %), l'abonnement mensuel passe à <strong>23,39 €</strong> (au lieu de 25,99 €), le trimestriel à <strong>53,99 €</strong> (au lieu de 59,99 €) et l'abonnement annuel revient à <strong>107,99 € par an</strong> (au lieu de 119,99 €), soit <strong>~9 € par mois</strong>. Attention, les prix peuvent varier d'un pays à l'autre.</p>
   </div>
 </details>
 
 <details class="faq-card">
-  <summary class="faq-title">Le code promo PARLERMALIN10 fonctionne-t-il comme coupon / discount code ?</summary>
+  <summary class="faq-title">Comment utiliser le code promo PARLERMALIN10 pour avoir -10 % ?</summary>
   <div class="faq-body">
-    <p>Oui. Le code <strong>PARLERMALIN10</strong> est valable en France comme à l'international. Colle-le dans l'encart « Add promo code » lors du paiement sur le site de Loora pour obtenir 10 % de réduction immédiate.</p>
+    <p>Le code <strong>PARLERMALIN10</strong> est valable en France comme à l'international sur toutes les formules (1 mois, 3 mois et 1 an). Colle-le dans le champ « Add promo code » au moment du paiement pour déduire 10 % immédiatement.</p>
   </div>
 </details>
 
@@ -235,14 +285,14 @@ Avant de te lancer, l'application te pose quelques questions pour personnaliser 
 <details class="faq-card">
   <summary class="faq-title">Loora est-il une arnaque ?</summary>
   <div class="faq-body">
-    <p>Non, c'est une application payante avec un renouvellement automatique, comme beaucoup d'abonnements. Vérifie le total dans ton panier, note ta date de renouvellement et teste la session gratuite avant de payer.</p>
+    <p>Non, c'est une application payante fiable (notée 4,9/5) avec un renouvellement automatique, comme la majorité des abonnements. Vérifie le total dans ton panier, note ta date de renouvellement et teste la session gratuite avant de payer.</p>
   </div>
 </details>
 
 <details class="faq-card">
   <summary class="faq-title">Comment résilier son abonnement Loora AI ?</summary>
   <div class="faq-body">
-    <p>Si tu as souscrit depuis le site web , tu peux annuler le renouvellement automatique depuis le lien reçu dans ton e-mail de confirmation ou via le support dans l'application. Si tu as souscrit via l'App Store (iPhone) ou Google Play (Android), rends-toi dans la rubrique « Abonnements » des réglages de ton téléphone au moins 24h avant l'échéance.</p>
+    <p>Si tu as souscrit depuis le site web, tu peux annuler le renouvellement automatique depuis le lien reçu dans ton e-mail de confirmation ou via le support dans l'application. Si tu as souscrit via l'App Store (iPhone) ou Google Play (Android), rends-toi dans la rubrique « Abonnements » des réglages de ton téléphone au moins 24h avant l'échéance.</p>
   </div>
 </details>
 
@@ -334,11 +384,11 @@ document.addEventListener("DOMContentLoaded", function () {
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Prix Loora AI 2026 : Tarifs + Code Promo -10 %",
-      "description": "Loora AI dès 9 €/mois : tarifs 1 mois, 3 mois et 1 an, essai gratuit et code promo PARLERMALIN10 (-10 %) à copier. Vérifié en novembre 2026.",
+      "headline": "Prix Loora AI (Novembre 2026) : Tarifs en Euros, Abonnements & Code -10 %",
+      "description": "Combien coûte vraiment Loora AI en 2026 ? Découvre la grille des tarifs (1, 3 et 12 mois), quelle formule choisir et le code promo PARLERMALIN10 (-10 %) pour descendre à ~9 €/mois.",
       "author": {
         "@type": "Person",
-        "name": "Jérémy de Parler Malin",
+        "name": "Jérémy",
         "url": "https://parlermalin.fr/a-propos/"
       },
       "publisher": {
@@ -350,7 +400,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "datePublished": "2026-09-16",
-      "dateModified": "2026-11-01",
+      "dateModified": "2026-11-18",
       "image": "https://parlermalin.fr/uploads/2026/09/loora-ai-tarif-scaled.avif",
       "inLanguage": "fr-FR",
       "mainEntityOfPage": "https://parlermalin.fr/prix-loora-ai/"
@@ -393,7 +443,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
           "@type": "Offer",
           "name": "Abonnement Loora AI 1 mois avec code promo -10%",
-          "priceCurrency": "USD",
+          "priceCurrency": "EUR",
           "price": "23.39",
           "priceValidUntil": "2026-12-31",
           "url": "https://www.loora.com/lp/ai-english-tutor/?via=jeremy",
@@ -402,7 +452,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
           "@type": "Offer",
           "name": "Abonnement Loora AI 3 mois avec code promo -10%",
-          "priceCurrency": "USD",
+          "priceCurrency": "EUR",
           "price": "53.99",
           "priceValidUntil": "2026-12-31",
           "url": "https://www.loora.com/lp/ai-english-tutor/?via=jeremy",
@@ -411,7 +461,7 @@ document.addEventListener("DOMContentLoaded", function () {
         {
           "@type": "Offer",
           "name": "Abonnement Loora AI Annuel avec code promo -10%",
-          "priceCurrency": "USD",
+          "priceCurrency": "EUR",
           "price": "107.99",
           "priceValidUntil": "2026-12-31",
           "url": "https://www.loora.com/lp/ai-english-tutor/?via=jeremy",
@@ -427,15 +477,15 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Quel est le prix exact de Loora AI en euros (€) ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Avec le code promo PARLERMALIN10 (-10 %), l'abonnement mensuel passe à 23,39 € et l'abonnement annuel revient à 107,99 € par an, soit ~9 € par mois (attention les prix peuvent varier d'un pays à l'autre)."
+            "text": "Avec le code promo PARLERMALIN10 (-10 %), l'abonnement mensuel passe à 23,39 € (au lieu de 25,99 €), le trimestriel à 53,99 € (au lieu de 59,99 €) et l'abonnement annuel revient à 107,99 € par an (au lieu de 119,99 €), soit ~9 € par mois. Attention, les prix peuvent varier d'un pays à l'autre."
           }
         },
         {
           "@type": "Question",
-          "name": "Le code promo PARLERMALIN10 fonctionne-t-il comme coupon / discount code ?",
+          "name": "Comment utiliser le code promo PARLERMALIN10 pour avoir -10 % ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui. Le code PARLERMALIN10 est valable en France comme à l'international. Colle-le dans l'encart Add promo code lors du paiement sur le site de Loora pour obtenir 10 % de réduction immédiate."
+            "text": "Le code PARLERMALIN10 est valable en France comme à l'international sur toutes les formules (1 mois, 3 mois et 1 an). Colle-le dans le champ Add promo code au moment du paiement pour déduire 10 % immédiatement."
           }
         },
         {
@@ -451,7 +501,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "name": "Loora est-il une arnaque ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Non, c'est une application payante avec un renouvellement automatique, comme beaucoup d'abonnements. Vérifie le total dans ton panier, note ta date de renouvellement et teste la session gratuite avant de payer."
+            "text": "Non, c'est une application payante fiable (notée 4,9/5) avec un renouvellement automatique, comme la majorité des abonnements. Vérifie le total dans ton panier, note ta date de renouvellement et teste la session gratuite avant de payer."
           }
         },
         {

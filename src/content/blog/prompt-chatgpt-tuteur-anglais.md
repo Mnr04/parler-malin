@@ -2,7 +2,7 @@
 title: "Prompt ChatGPT Tuteur Anglais : Ton Guide Pas-à-Pas"
 description: "Marre de stagner ? Utilise ce prompt ChatGPT tuteur anglais pour progresser à ton rythme. Copie notre méthode exacte et passe à l'action dès aujourd'hui !"
 pubDate: 2026-08-10
-author: "Jérémy de Parler Malin"
+author: "Jérémy"
 categories: 
   - "apprendre-langlais"
 heroImage: "/uploads/2026/08/prompt-chatgpt-tuteur-anglais-scaled.avif"
@@ -20,7 +20,7 @@ heroImageAlt: "Configurer ChatGPT en tuteur d'anglais personnel avec un prompt s
 <h1 class="page-title">Prompt ChatGPT Tuteur Anglais : Ton Guide Pas-à-Pas</h1>
 
 <div class="article-meta-bar">
-<span>Par <a href="/a-propos/"><strong>Jérémy de Parler Malin</strong></a></span>
+<span>Par <a href="/a-propos/"><strong>Jérémy</strong></a></span>
 <span class="dot">•</span>
 <span><time datetime="2026-08-10">10 août 2026</time></span>
 <span class="dot">•</span>
@@ -218,7 +218,7 @@ function copyPrompt(id, btn) {
       "description": "Marre de stagner ? Utilise ce prompt ChatGPT tuteur anglais pour progresser à ton rythme. Copie notre méthode exacte et passe à l'action dès aujourd'hui !",
       "author": {
         "@type": "Person",
-        "name": "Jérémy de Parler Malin",
+        "name": "Jérémy",
         "url": "https://parlermalin.fr/a-propos/"
       },
       "datePublished": "2026-08-10",
